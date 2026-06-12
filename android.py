@@ -1,9 +1,5 @@
 from google_play_scraper import reviews_all, Sort
-import pandas as pd
-
-# --------------------------------------------------
-# APPS
-# --------------------------------------------------
+import json
 
 APPS = [
     ("mywingo", "wingo", "com.swisscom.mywingo"),
@@ -32,29 +28,18 @@ APPS = [
 
 LANGUAGES = ["de", "fr", "it"]
 
-OUTPUT_FILE = r"C:\Users\taarabe2\swiss_telco_reviews.xlsx"
-
-# --------------------------------------------------
-# DOWNLOAD
-# --------------------------------------------------
-
 all_rows = []
 
 for app_name, provider, app_id in APPS:
 
-    print("\n" + "=" * 60)
-    print(f"App: {app_name}")
-    print(f"Provider: {provider}")
-    print(f"ID: {app_id}")
-    print("=" * 60)
+    print(f"Lade {app_name}")
 
-    app_reviews = []
+    reviews = []
 
     for lang in LANGUAGES:
 
-        print(f"Lade Reviews für Sprache: {lang}")
-
         try:
+
             result = reviews_all(
                 app_id,
                 lang=lang,
@@ -63,67 +48,60 @@ for app_name, provider, app_id in APPS:
                 sleep_milliseconds=0
             )
 
-            print(f"  -> {len(result)} Reviews gefunden")
+            for r in result:
+                r["language"] = lang
 
-            for review in result:
-                review["language"] = lang
-
-            app_reviews.extend(result)
+            reviews.extend(result)
 
         except Exception as e:
-            print(f"Fehler bei {lang}: {e}")
 
-    # Duplikate entfernen
-    unique_reviews = []
+            print(
+                f"Fehler {app_id} {lang}: {e}"
+            )
+
     seen = set()
 
-    for review in app_reviews:
+    for review in reviews:
 
         review_id = review.get("reviewId")
 
-        if review_id not in seen:
-            seen.add(review_id)
-            unique_reviews.append(review)
+        if review_id in seen:
+            continue
 
-    print(f"Eindeutige Reviews: {len(unique_reviews)}")
-
-    # Daten für Excel vorbereiten
-    for review in unique_reviews:
+        seen.add(review_id)
 
         all_rows.append({
-            "AppName": app_name,
-            "Provider": provider,
-            "AppID": app_id,
-            "Language": review.get("language"),
-            "ReviewID": review.get("reviewId"),
-            "UserName": review.get("userName"),
-            "Score": review.get("score"),
-            "Date": review.get("at"),
-            "Content": review.get("content"),
-            "ThumbsUpCount": review.get("thumbsUpCount"),
-            "AppVersion": review.get("reviewCreatedVersion"),
-            "ReplyContent": review.get("replyContent"),
-            "RepliedAt": review.get("repliedAt"),
+            "app_name": app_name,
+            "provider": provider,
+            "app_id": app_id,
+            "language": review.get("language"),
+            "review_id": review.get("reviewId"),
+            "user": review.get("userName"),
+            "score": review.get("score"),
+            "date": str(review.get("at")),
+            "content": review.get("content"),
+            "thumbs_up": review.get("thumbsUpCount"),
+            "app_version": review.get(
+                "reviewCreatedVersion"
+            ),
+            "reply": review.get(
+                "replyContent"
+            )
         })
 
-# --------------------------------------------------
-# EXPORT
-# --------------------------------------------------
+with open(
+    "reviews.json",
+    "w",
+    encoding="utf-8"
+) as f:
 
-df = pd.DataFrame(all_rows)
+    json.dump(
+        all_rows,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
 
-if len(df) > 0 and "Date" in df.columns:
-    df = df.sort_values(by="Date", ascending=False)
-
-df.to_excel(
-    OUTPUT_FILE,
-    index=False,
-    engine="openpyxl"
+print(
+    f"reviews.json erstellt ({len(all_rows)} Reviews)"
 )
-
-print("\n" + "=" * 60)
-print("FERTIG")
-print(f"Anzahl Reviews: {len(df)}")
-print(f"Datei gespeichert unter:")
-print(OUTPUT_FILE)
-print("=" * 60)
