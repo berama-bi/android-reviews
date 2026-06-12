@@ -2,6 +2,8 @@ name: Android Reviews
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 5 * * *'
 
 permissions:
   contents: write
@@ -41,3 +43,5 @@ jobs:
           git commit -m "update reviews" || exit 0
 
           git push
+
+          
