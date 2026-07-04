@@ -4,6 +4,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "e5a53531-cc46-453c-adb9-343836cf8c4a",
+    "user": "Ursi Ming",
+    "score": 5,
+    "date": "2026-07-02 12:10:54",
+    "content": "Super.",
+    "thumbs_up": 0,
+    "app_version": "10.0.1",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "d17b9973-4a06-4c4a-b3d1-dc7f028dd742",
     "user": "Ivo Tavaldez",
     "score": 5,
@@ -7205,7 +7219,7 @@
     "score": 1,
     "date": "2026-06-25 14:53:15",
     "content": "Trotz neustem Händy einloggen nicht möglich kommt immer das selbe \" Es ist ein Fehler aufgetreten versuchen sie es später nochmal\" dazu nich Downlod schwächer Trotz 1gb leitung nur 90 MBit möglich Vekabelt. Bekommt es mal in den griff wofür bezahlen wir so viel wenn nichts richtig läuft.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.30.1",
     "reply": "Hallo Juan, besten Dank für deine Bewertung und dein Feedback. Ich hoffe die App deinstallieren und neu installieren hilft, dein ungelöstes Problem zu lösen. Nimm am Besten direkt mit unseren Kundendienst Kontakt auf oder über diesen Link: www.swisscom.ch/de/privatkunden/hilfe. kannst du dein Anliegen melden. LG, Corin Online Care Team 💙"
   },
@@ -7247,7 +7261,7 @@
     "score": 1,
     "date": "2026-06-19 07:16:03",
     "content": "Grüessech zäme Seit Tagen lassen sich in der App die Mails nicht mehr laden. Sehr ärgerlich und für mich diese App somit quasi unbrauchbar!!!",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.30.1",
     "reply": "Guten Tag Renato, vielen Dank für deine Bewertung und dein Feedback. Ich hoffe die App deinstallieren und neu installieren hilft, dein ungelöstes Problem zu lösen. Nimm am Besten direkt mit unseren Kundendienst Kontakt auf oder über diesen Link: ww.swisscom.ch/de/about/kontakt kannst du dein Anliegen melden. LG, Corin Online Care Team 💙"
   },
@@ -7443,7 +7457,7 @@
     "score": 2,
     "date": "2026-05-27 08:05:03",
     "content": "Leider funktioniert Swisscom Sign nur in der App. Am Laptop kan man den Button, Meine Signatur, nicht anwählen. Habe es mit 3 verschiedenen Browsern versucht. Das gemeinsame unterschreiben geht auch nicht, der Link der, der andere erhält, funktioniert nicht. Bitte die Fehler korrigieren. Danke",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "11.29.2",
     "reply": "Hallo Philippe. Vielen Dank für deine Bewertung und dein Feedback. Es tut mir leid zu lesen, dass du Swisscom Sign nicht wie gewünscht nutzen kannst. Wir optimieren und verbessern unsere Apps laufend. Sehr gerne gebe ich deinen Input intern weiter. Ich wünsche dir einen schönen Tag. Liebe Grüsse Janine, Online Care Team."
   },
@@ -8241,7 +8255,7 @@
     "score": 1,
     "date": "2026-01-26 23:23:30",
     "content": "Ich habe ein altes Galaxy A6 und da wird das Update nicht unterstützt für die App. Auch Name und Passwort werden nicht akzeptiert. Es geht nur noch über den Browser, wo die Anmeldung funktioniert. Was soll das? Zudem ist noch mein altes Natel als Standardgerät angezeigt, obwohl ich extra eine SIM KARTE für ein 4g Smartphone gekauft habe im Shop (man hätte die alte Karte stanzen können). Nerv!!!",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "11.26.7",
     "reply": "Guten Morgen Chris. Danke für deine Bewertung und dein Feedback. Es tut mir leid, dass du mit der App und dem Besuch im Shop nicht zufrieden bist. Ältere Geräte können ein Sicherheitsrisiko sein, daher ist die Aktualisierung oft nicht mehr möglich, es tut mir leid dir keinen besseren Bescheid geben zu können. Liebe Grüsse, Janine Online Care Team."
   },
@@ -8871,7 +8885,7 @@
     "score": 1,
     "date": "2025-12-05 16:57:34",
     "content": "Jedes Mal muss ich ein Update machen und warte seit 5min bis die App aktualisiert. Nun sind wir mal bei 98% gelandet. Danach kann ich mich nicht einloggen und muss jedes Mal anrufen. Kundendienst ist immer sehr lieb, aber das bringt mir nichts, wenn ich doppelt so viel bezahle monatlich, als bei Salt. Zwar spart man an Papier, aber mein Zeitaufwand ist dafür maximal. Das war vor paar Monaten viel besser bei Salt. Schade!",
-    "thumbs_up": 12,
+    "thumbs_up": 13,
     "app_version": "11.26.6",
     "reply": "Hallo Emine, danke für deine Rückmeldung. Es tut mir leid, dass du Probleme hast. Die Anmeldung inklusive Verifizierung dauert normalerweise nicht länger als 20 Sekunden – dabei kann auch dein Fingerabdruck verwendet werden. Gerne helfen wir dir auch in einem Swisscom Shop weiter. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -8997,7 +9011,7 @@
     "score": 1,
     "date": "2025-11-27 19:23:35",
     "content": "Guten Tag Mehrere Nutzer – mich eingeschlossen – haben das Problem, dass die Login-Funktion in der App nicht mehr funktioniert. Wie kann es sein, dass kommuniziert wird, es sei „nichts bekannt“, obwohl dieses Problem offensichtlich mehrere Kunden betrifft? Es wäre wünschenswert, wenn die IT-Abteilung diese Störung zeitnah prüft, anstatt die Kunden einfach abzufertigen. Bei den Preisen, die Sie verlangen, erwarte ich ehrlich gesagt etwas mehr Transparenz und Kundenorientierung.",
-    "thumbs_up": 95,
+    "thumbs_up": 96,
     "app_version": "11.25.3",
     "reply": "Hallo DieVisum HD, vielen Dank für deine Bewertung mit 1⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App nicht einloggen kannst. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dich unterstützen können. Liebe Grüsse Juan"
   },
@@ -9137,7 +9151,7 @@
     "score": 1,
     "date": "2025-11-19 11:29:41",
     "content": "Katastrophe Seit dem letzten Update gibt es nur noch probleme: ich kann meine Rechnungen nicht ansehen, erst nach dem 2.-3. mal einloggen scheinen sie auf. Und 2: ich muss mich bei fast allem was ich klicke neu einloggen, so, ohne Grund. Als ich das bei der Service Hotline gemeldet habe, wurde OHNE MEINE ANFRAGE! einfach mein Passwort zurückgesetzt und es lässt mich auch nicht kein Altes wieder verwenden, und jetzt muss ich mir extra für diese App ein neues merken. 11/2025 ist schon wieder so...",
-    "thumbs_up": 27,
+    "thumbs_up": 28,
     "app_version": "11.25.1",
     "reply": "Hallo OLL13_85. Vielen Dank für deine Bewertung und dein Feedback. Es tut mir sehr leid zu lesen, dass die App nicht wie gewünscht nutzbar ist und das Passwort zurück gesetzt wurde. Dies ist nicht in Ordnung und ich entschuldige mich dafür. Gerne gebe ich deine Rückmeldung intern weiter. Liebe Grüsse Janine, Online Care Team."
   },
@@ -12091,7 +12105,7 @@
     "score": 1,
     "date": "2025-06-03 09:06:37",
     "content": "Hallo Liebe Swisscom, ich kann mich nicht mehr anmelden! Login funktioniert nicht und wird mit einer Fehlermeldung \"Versuchen Sie es später nochmals\" quittiert!! Die Abo Daten bzw Profildaten koennen so nicht angezeigt fehler. Da kommt leider ein Systemfehler. Da ist aktuell ein Problem. Koennen Sie das bitte fixen? So ist die App unbrauchbar und jaa liebe SC App x-mal de-installiert und installiert. Danke für eine schnelle Lösung.",
-    "thumbs_up": 44,
+    "thumbs_up": 45,
     "app_version": "11.22.1",
     "reply": "Hallo Roberto, vielen Dank für deine Bewertung und das Feedback. Es tut mir leid zu lesen, dass Probleme mit der App bestehen. Dieses Problem ist bei unseren Spezialisten bekannt und wird schnellstmöglich behoben. Bitte habe noch etwas Geduld und Verständnis. Wünsche dir einen wunderschönen Tag und sende liebe Grüsse, Dorothea Online Care Team 🌷"
   },
@@ -13841,7 +13855,7 @@
     "score": 1,
     "date": "2024-03-08 17:22:38",
     "content": "Katastrophe was sich SC mit ihren Apps leistet! Seit Wochen sehe ich vorwiegend den Drehkreis und nichts passiert. Auch auf der viel besseren alten App, welche ja bis zum 01.03.23 hätte laufen sollen. Wie kann man nur etwas gut funktionierendes laufend verschlechtern - unerklärlich! 1 Jahr später: nichts hat sich geändert. Dauernd Drehkreis \"das dauert länger als erwartet\", Geräteliste kann nicht angezeigt werden und keine Technische Hilfe für solche allgemeine Probleme. SEHR SCHWACH!",
-    "thumbs_up": 74,
+    "thumbs_up": 75,
     "app_version": "11.12.3",
     "reply": "Hallo Thomas, vielen Dank für deine Rückmeldung. Versuche mal die APP mit einem neuerem Gerät zu starten. Das S10 ist langsam aber sicher nicht mehr für alle Applikationen tragbar. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -30557,7 +30571,7 @@
     "score": 5,
     "date": "2016-07-16 11:38:20",
     "content": "Gutes design übersichtlich sehr gut!",
-    "thumbs_up": 43,
+    "thumbs_up": 42,
     "app_version": "8.8.0",
     "reply": null
   },
@@ -44084,6 +44098,34 @@
     "thumbs_up": 2,
     "app_version": "1.2.8",
     "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "fr",
+    "review_id": "3d6a6ba4-7eb2-4a17-8719-d10447fb77f1",
+    "user": "Dylan Germond",
+    "score": 4,
+    "date": "2026-07-02 12:16:19",
+    "content": "Je rectifie mon avis. Après avoir vidé 3 fois le cache + les données de l'application, je peux de nouveau accéder à mon compte. Merci l'assistance !",
+    "thumbs_up": 0,
+    "app_version": "11.31.1",
+    "reply": "Hello Dylan ! Merci pour ce retour positif 😀. Nous sommes ravis que ton application My Swisscom fonctionne à nouveau correctement. Meilleurs messages, Stéphanie Online Care Team"
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "fr",
+    "review_id": "d2dd4580-8484-483a-98ac-295112d69651",
+    "user": "Mehdi Broillet",
+    "score": 1,
+    "date": "2026-07-02 12:06:10",
+    "content": "nouvelle version plus compatible avec un téléphone mis sur le marché il y a moins de 6 mois...je comprends la problématique de l'obsolescence mais là c'est de l'abus",
+    "thumbs_up": 0,
+    "app_version": "11.29.0",
+    "reply": "Bonjour Mehdi ! Merci d’avoir pris le temps de partager ton ressenti. Si tu souhaites en discuter plus en détail ou si certaines questions restent sans réponse, nous restons volontiers à ta disposition via nos différents canaux : https://www.swisscom.ch/fr/clients-prives/aide/contact.html Meilleurs messages, Stéphanie Online Care Team"
   },
   {
     "app_name": "myswisscom",
@@ -59999,7 +60041,7 @@
     "score": 3,
     "date": "2026-06-26 14:37:18",
     "content": "Version 7.9.2: Filter für Aufnahmen entspricht fälschlicherweise den geplanten Aufnahmen. Dies bereits seit mehreren Versionen.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.9.2",
     "reply": null
   },
@@ -119690,6 +119732,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "fr",
+    "review_id": "5abc3798-d51d-4cfd-b36a-37f13fbecc3f",
+    "user": "Martine Bifrare",
+    "score": 5,
+    "date": "2026-07-03 04:39:09",
+    "content": "beau design, pratique, facile d acces",
+    "thumbs_up": 0,
+    "app_version": "7.9.1",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
     "review_id": "f170a435-a701-46c5-b6b9-8ac0af65e30b",
     "user": "Sol golden Nsimba",
     "score": 5,
@@ -147831,7 +147887,7 @@
     "app_id": "com.swisscom.tv2",
     "language": "it",
     "review_id": "aa077ab6-127a-456e-bed6-a00aa4385c90",
-    "user": "Rolf Kinder",
+    "user": "Alessio Agustoni",
     "score": 1,
     "date": "2021-09-13 18:09:18",
     "content": "Inutilizzabile su tablel huawei",
@@ -183600,6 +183656,34 @@
     "provider": "yallo",
     "app_id": "com.smith.production",
     "language": "it",
+    "review_id": "26df3ec9-cb11-4a41-af53-9fbdc00868bb",
+    "user": "Giancarlo Baffa",
+    "score": 1,
+    "date": "2026-07-03 05:09:42",
+    "content": "Non funziona il login, è un loop infinito. Pessimo",
+    "thumbs_up": 0,
+    "app_version": "2.0.13",
+    "reply": null
+  },
+  {
+    "app_name": "yallo tv",
+    "provider": "yallo",
+    "app_id": "com.smith.production",
+    "language": "it",
+    "review_id": "e33a79ba-670f-45ab-b222-eed052cf7083",
+    "user": "loredana laverde",
+    "score": 2,
+    "date": "2026-07-02 11:13:23",
+    "content": "Vero il prezzo basso. ma connessione internet che và e viene, registrazioni che non puoi cancellare perché in realtà sono replay, e altri problemi. Non ne vale assolutamente la pena.",
+    "thumbs_up": 0,
+    "app_version": "2.0.13",
+    "reply": null
+  },
+  {
+    "app_name": "yallo tv",
+    "provider": "yallo",
+    "app_id": "com.smith.production",
+    "language": "it",
     "review_id": "6ec4b837-ecdd-4e40-8788-32df7def96a0",
     "user": "Ndo Nio",
     "score": 1,
@@ -184447,7 +184531,7 @@
     "content": "immer wieder probleme mit roamaning obwohl daten inkl. und die richtigeb einstellungen. einfach zu teuer, dass mam nie alle dienszleistungen bekommt",
     "thumbs_up": 0,
     "app_version": "7.6.50",
-    "reply": null
+    "reply": "Vielen Dank für Ihr Feedback. Es tut uns leid zu hören, dass Sie wiederholt Probleme mit dem Roaming haben und mit unserem Service unzufrieden sind. Bitte wenden Sie sich an unsere Hotline unter 0800 707 707 oder an unsere Community, damit wir die Ursache gemeinsam prüfen und Ihnen weiterhelfen können."
   },
   {
     "app_name": "mysunrise",
@@ -184461,7 +184545,7 @@
     "content": "Viel zu teuer",
     "thumbs_up": 0,
     "app_version": "7.6.50",
-    "reply": null
+    "reply": "Vielen Dank für Ihr Feedback. Es tut uns leid, dass Sie unsere Preise als zu hoch empfinden. Wir nehmen Ihre Rückmeldung ernst und geben sie gerne intern weiter. Wenn Sie Fragen zu Ihrem Abo oder möglichen Alternativen haben, wenden Sie sich bitte an unsere Hotline unter 0800 707 707."
   },
   {
     "app_name": "mysunrise",
