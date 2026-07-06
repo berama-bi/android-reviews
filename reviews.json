@@ -7079,7 +7079,7 @@
     "score": 2,
     "date": "2026-07-03 14:22:27",
     "content": "Dauernd Anmeldeschwierigkeiten \"es ist ein Fehler aufgetreten, versuchen Sie es später erneut\", (seit Tagen) man weiss nie so genau was einen erwartet.... Und die Hotline ist gegenüber der von Sunrise in jeder Hinsicht 10 Jahre hintendran. Und SAM (KI) bringt dich vollommen an den Rand der Verzweiflung.... Aber gut, man gibt sich Mühe Und dieses \"aktualisieren\", Handy neu starten\", \"App deinstallieren und wieder installieren\" bringt absolut gar nichts.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.31.1",
     "reply": "Hallo SwizMuayThai #. Vielen Dank für deine Bewertung und dein Feedback. Es tut mir leid zu lesen, dass du unsere App aktuell nicht wie gewünscht nutzen kannst. Oft kann eine Neuinstallation der App helfen. Sollte dies keine Besserung bringen, melde dich gerne direkt bei uns unter www.swisscom.ch/support. Liebe Grüsse Janine, Online Care Team."
   },
@@ -9025,7 +9025,7 @@
     "score": 1,
     "date": "2025-11-27 19:23:35",
     "content": "Guten Tag Mehrere Nutzer – mich eingeschlossen – haben das Problem, dass die Login-Funktion in der App nicht mehr funktioniert. Wie kann es sein, dass kommuniziert wird, es sei „nichts bekannt“, obwohl dieses Problem offensichtlich mehrere Kunden betrifft? Es wäre wünschenswert, wenn die IT-Abteilung diese Störung zeitnah prüft, anstatt die Kunden einfach abzufertigen. Bei den Preisen, die Sie verlangen, erwarte ich ehrlich gesagt etwas mehr Transparenz und Kundenorientierung.",
-    "thumbs_up": 96,
+    "thumbs_up": 97,
     "app_version": "11.25.3",
     "reply": "Hallo DieVisum HD, vielen Dank für deine Bewertung mit 1⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App nicht einloggen kannst. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dich unterstützen können. Liebe Grüsse Juan"
   },
@@ -13869,7 +13869,7 @@
     "score": 1,
     "date": "2024-03-08 17:22:38",
     "content": "Katastrophe was sich SC mit ihren Apps leistet! Seit Wochen sehe ich vorwiegend den Drehkreis und nichts passiert. Auch auf der viel besseren alten App, welche ja bis zum 01.03.23 hätte laufen sollen. Wie kann man nur etwas gut funktionierendes laufend verschlechtern - unerklärlich! 1 Jahr später: nichts hat sich geändert. Dauernd Drehkreis \"das dauert länger als erwartet\", Geräteliste kann nicht angezeigt werden und keine Technische Hilfe für solche allgemeine Probleme. SEHR SCHWACH!",
-    "thumbs_up": 75,
+    "thumbs_up": 76,
     "app_version": "11.12.3",
     "reply": "Hallo Thomas, vielen Dank für deine Rückmeldung. Versuche mal die APP mit einem neuerem Gerät zu starten. Das S10 ist langsam aber sicher nicht mehr für alle Applikationen tragbar. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -44118,6 +44118,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "fr",
+    "review_id": "be54b82e-eddf-4b37-ae3d-0d76c173a354",
+    "user": "Styves Gigon",
+    "score": 1,
+    "date": "2026-07-04 15:23:15",
+    "content": "l'application ne se connecte plus! totalement inutile!",
+    "thumbs_up": 0,
+    "app_version": "11.31.1",
+    "reply": "bonjour Styves, merci pour ton message. Je suis navrée d'apprendre que notre application ne se connecte plus. Nous t'invitons à vider le cache de ton smartphone, cela permet en général de régler certains bugs. Si tu ne vois pas d'amélioration, notre support technique est à ta disposition au n° 0800 800 800. Belle journée, Chantal Online Care team."
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "fr",
     "review_id": "18f9412b-4ae0-46c2-87c1-58baaf3cc9de",
     "user": "papa tuga",
     "score": 1,
@@ -56460,20 +56474,6 @@
     "thumbs_up": 0,
     "app_version": "1.2.8",
     "reply": null
-  },
-  {
-    "app_name": "myswisscom",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.myswisscom",
-    "language": "it",
-    "review_id": "4cd81970-4573-45ec-93a7-00f120055ba7",
-    "user": "Vania Bettosini",
-    "score": 1,
-    "date": "2026-06-30 17:57:58",
-    "content": "ho rifatto l'installazione dell'app. Non riesco ad accedere. Un messaggio di errore dice di provare più tardi... se non funziona come posso pagare le fatture?",
-    "thumbs_up": 0,
-    "app_version": "11.19.0",
-    "reply": "Buongiorno Vania, grazie per il tuo messaggio. Riscontri ancora oggi questo problema con la nostra App MySwisscom? Yari Online Care Team"
   },
   {
     "app_name": "myswisscom",
@@ -119368,20 +119368,6 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "de",
-    "review_id": "41d65f35-ec20-48f4-a3fa-17ad0ab74a76",
-    "user": "Ein Google-Nutzer",
-    "score": 3,
-    "date": "2014-05-26 13:15:38",
-    "content": "Funktioniert nicht auf Switel Sky. Auf Android fehlt die Fernbedienung.",
-    "thumbs_up": 0,
-    "app_version": "1.0.1",
-    "reply": null
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "de",
     "review_id": "82d2887c-234b-4993-ae35-458387c1becc",
     "user": "Ein Google-Nutzer",
     "score": 3,
@@ -119753,6 +119739,20 @@
     "content": "Super App",
     "thumbs_up": 0,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
+    "review_id": "833ff2c4-65b2-45b9-9d72-82e8fb990264",
+    "user": "Murilo Felisberto",
+    "score": 1,
+    "date": "2026-07-04 22:46:42",
+    "content": "le réseau le plus cher et on arrive même pas à se connecter sur ce projet d'appli. prochaine étape la résiliation",
+    "thumbs_up": 0,
+    "app_version": "7.9.2",
     "reply": null
   },
   {
@@ -172321,20 +172321,6 @@
     "score": 5,
     "date": "2021-01-29 16:21:23",
     "content": "Super opérateur réseau partout à un soucis je recommande",
-    "thumbs_up": 0,
-    "app_version": "1.2.3",
-    "reply": null
-  },
-  {
-    "app_name": "my yallo",
-    "provider": "yallo",
-    "app_id": "ch.yallo.selfcare",
-    "language": "fr",
-    "review_id": "e96c040c-efcc-4a5e-ba1b-23d62c33208f",
-    "user": "Nadège Bifrare",
-    "score": 5,
-    "date": "2021-01-26 11:38:53",
-    "content": "Très fiable et pas cher",
     "thumbs_up": 0,
     "app_version": "1.2.3",
     "reply": null
@@ -255565,7 +255551,7 @@
     "score": 2,
     "date": "2026-02-12 14:08:00",
     "content": "j'ai l'application depuis quelques temps et à chaque fois que je regarde la télé l'image n'est pas bonne du tout. il doit sûrement avoir un problème avec cette application. du coup j'ai installé une autre application gratuite qui a une image irréprochable. je pense qu'il faut faire quelque chose pour régler le problème parce qu'à chaque fin de mois Salt encaisse mais ne donne pas un bon retour",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "2.2544.2",
     "reply": "Bonjour, veuillez contacter notre service d'assistance téléphonique au 0800 700 500 afin que nous puissions vous aider à résoudre vos difficultés. Cordialement, Sarah"
   },
