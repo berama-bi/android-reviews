@@ -3621,7 +3621,7 @@
     "score": 5,
     "date": "2023-11-19 11:17:33",
     "content": "Super übersichtliche und einfach zu bedienende App! Übersicht über alle Kosten, Zusatzdienste und den Verbrauch z.B. von Daten im Ausland. Rechnungen können ganz praktisch direkt mit twint bezahlt werden. Neue (dank Promotionen teils deutlich günstigere) Abos können super einfach abgeschlossen werden. Sperren von kostenpflichtigen Telefonnummern und vieles mehr.",
-    "thumbs_up": 32,
+    "thumbs_up": 33,
     "app_version": "1.1.34",
     "reply": null
   },
@@ -7074,6 +7074,34 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
+    "review_id": "8fc45f42-bc77-4465-8e15-130a51fe7f0d",
+    "user": "Nico Röösli",
+    "score": 3,
+    "date": "2026-07-07 15:23:24",
+    "content": "Teilweise sehr lange Ladezeiten, obwohl ich eine Internet-Verbindung habe. Ansonsten läuft die App aber stabil. Ich finde sie sehr übersichtlich und praktisch. Alles zur Hand in einer App. Nur halt diese laaangen Ladezeiten....",
+    "thumbs_up": 0,
+    "app_version": "11.31.1",
+    "reply": "Guten Morgen Nico, vielen Dank für deine Bewertung mit 3⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App aktuell nicht zufrieden bist. Gerne würden wir dies mit dir zusammen genauer anschauen. Melde dich gerne bei uns unter http://www.swisscom.ch/kontakt damit wir dies zusammen besprechen können. Liebe Grüsse Juan Online Care Team"
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
+    "review_id": "68f9acd5-7aa2-4c54-bd81-e6ecd4755b75",
+    "user": "Thomas Koller",
+    "score": 1,
+    "date": "2026-07-07 10:11:56",
+    "content": "der grösste Schwachsinn. seit zwei Wochen versuche ich mich anzumelden. jedes mal kommt der Vermerk \" versuchen sie es später \". Eine echtheitsprüfung viel ebenfalls fehl. App aktualisiert sowie nachträglich deinstalliert und neu installiert. ebenso wurde das handy nochmals aktualisiert und neu gestartet. nichts half. und so soll man noch seine Rechnungen bezahlen und seine Daten aktualisieren können???",
+    "thumbs_up": 0,
+    "app_version": "11.17.1",
+    "reply": "Hallo Thomas. Vielen Dank für deine Bewertung und dein Feedback. Es tut mir sehr leid zu lesen, dass du die App seit längerem nicht mehr nutzen kannst. Melde dich gerne direkt bei uns unter www.swisscom.ch/support, damit wir uns dies einmal genauer anschauen können. Ich wünsche dir einen schönen Nachmittag. Liebe Grüsse Janine, Online Care Team."
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
     "review_id": "ae87fe07-61eb-4877-83ce-2135f92f2003",
     "user": "Niaiven Shin",
     "score": 2,
@@ -7107,7 +7135,7 @@
     "score": 2,
     "date": "2026-07-03 14:22:27",
     "content": "Dauernd Anmeldeschwierigkeiten \"es ist ein Fehler aufgetreten, versuchen Sie es später erneut\", (seit Tagen) man weiss nie so genau was einen erwartet.... Und die Hotline ist gegenüber der von Sunrise in jeder Hinsicht 10 Jahre hintendran. Und SAM (KI) bringt dich vollommen an den Rand der Verzweiflung.... Aber gut, man gibt sich Mühe Und dieses \"aktualisieren\", Handy neu starten\", \"App deinstallieren und wieder installieren\" bringt absolut gar nichts.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "11.31.1",
     "reply": "Hallo SwizMuayThai #. Vielen Dank für deine Bewertung und dein Feedback. Es tut mir leid zu lesen, dass du unsere App aktuell nicht wie gewünscht nutzen kannst. Oft kann eine Neuinstallation der App helfen. Sollte dies keine Besserung bringen, melde dich gerne direkt bei uns unter www.swisscom.ch/support. Liebe Grüsse Janine, Online Care Team."
   },
@@ -7460,20 +7488,6 @@
     "thumbs_up": 0,
     "app_version": "11.21.3",
     "reply": "Hallo Bruno, danke für deine Bewertung mit 5 Sternen ⭐ - das freut und sehr! Schade ist jedoch, dass die App für dich zu kompliziert ist. Falls du dazu eine Unterstützung oder Beratung wünschst, stehen wir dir gerne zur Verfügung. Gerne via Gratisnummer 0800 800 800 oder in einem Swisscom Shop deiner Wahl. Liebe Grüsse, Dorothea Online Care Team"
-  },
-  {
-    "app_name": "myswisscom",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.myswisscom",
-    "language": "de",
-    "review_id": "110f5099-3e64-4936-9874-7bdb8da600cd",
-    "user": "Zdenko Stjepanovic",
-    "score": 1,
-    "date": "2026-05-29 02:16:25",
-    "content": "Lappenverein!",
-    "thumbs_up": 0,
-    "app_version": "11.29.2",
-    "reply": "Hallo Zdenko,vielen Dank für dein Feedback und deine Bewertung der My Swisscom App.\nFalls du Fragen zur Bedienung oder zum Handling der App hast, stehen wir dir gerne zur Verfügung. Du kannst einfach in einen Swisscom‑Shop kommen oder unseren Support https://shorturl.at/KHJHo kontaktieren. Liebe Grüsse, Mirko Online Care Team"
   },
   {
     "app_name": "myswisscom",
@@ -242835,7 +242849,7 @@
     "app_id": "com.lgi.upcch",
     "language": "fr",
     "review_id": "2c44aa6d-392e-4a8f-985e-720bcb31763e",
-    "user": "Stéphane Périsset",
+    "user": "Steve Perry",
     "score": 1,
     "date": "2022-12-30 10:34:20",
     "content": "Both user authentication and video stream overlay features are so full of bugs that I often have to fully restart my device to continue using the App if a screen lock happens when it has focus.",
@@ -246950,6 +246964,20 @@
     "provider": "sunrise",
     "app_id": "com.lgi.upcch",
     "language": "it",
+    "review_id": "7c93e5da-394a-4c59-9d52-e1159f3bcd86",
+    "user": "Casimiro Evola",
+    "score": 1,
+    "date": "2026-07-07 21:35:02",
+    "content": "da circa 2 mesi l'app sunrise tv non si vede più nei Natel si vede soltanto i Reply, comunque non è più la sunrise di una volta.",
+    "thumbs_up": 0,
+    "app_version": "5.26.14007",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "it",
     "review_id": "fb65083f-9a38-44c4-b276-12ff633252fe",
     "user": "Manuela Guarneri",
     "score": 2,
@@ -248847,6 +248875,20 @@
     "content": "Non c'ė un palinsesto dei canali.  MySports su app per Android spesso non va, nonostante l'acquisto del ticket. Su smartphone o tablet si deve acquistare il ticket sul sito internet, mentre le partite si possono solo visualizzare sull'app.",
     "thumbs_up": 3,
     "app_version": "2.3.22 Prod",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "de",
+    "review_id": "bcac4705-ad03-4d0d-ad0e-f9b2e8b8abcf",
+    "user": "Arezou Abbassi",
+    "score": 1,
+    "date": "2026-07-07 14:50:50",
+    "content": "Verkaufen können sie schnell. Aber wenn man kündigen möchte, ist plötzlich niemand mehr erreichbar. Trotz mehrerer Anruf bekomme ich keine Antwort. Ein guter Kundenservice sieht anders aus.",
+    "thumbs_up": 0,
+    "app_version": "1.0.53",
     "reply": null
   },
   {
@@ -251967,7 +252009,7 @@
     "score": 1,
     "date": "2025-01-13 12:30:59",
     "content": "Ne fonctionne toujours pas. J'ai un smartphone Samsung récent et non, je n'enverrai aucun courriel votre support. Débrouillez vous pour garder vos applications à jour et compatibles, on vous paye au cas où vous l'auriez oublié.",
-    "thumbs_up": 9,
+    "thumbs_up": 10,
     "app_version": "1.0.14",
     "reply": "Bonjour, pour que nous puissions examiner la question, j'ai besoin d'informations précises sur ce qui ne fonctionne pas. Si vous souhaitez une clarification, n'hésitez pas à me le faire savoir. Salutations, Sarah\n"
   },
@@ -252625,7 +252667,7 @@
     "score": 1,
     "date": "2025-09-06 17:20:44",
     "content": "sono settimane che non riesco ad iscrivermi all'app. arrivo alla fine e mi dice errore e di ricominciare di nuovo. utilizzo salt da un mese e mezzo solo per internet . dovrei pagare la 23 al mese e la prima fattura è di 75. appena riesco a parlare con qualcuno (servizio clienti inesistente) me ne vado. non cascateci anche voi. cercate un altra società",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "1.0.27",
     "reply": "Ciao Marco, mi dispiace che tu abbia problemi con il login. Mandami pure un'e-mail a mysalt@salt.ch con le informazioni relevanti e sarò felice di aiutarti. Saluti, Sarah"
   },
@@ -252726,6 +252768,20 @@
     "thumbs_up": 1,
     "app_version": null,
     "reply": "Ciao, qual è esattamente il problema? Di norma, si utilizzano esattamente gli stessi dati di accesso dell'account cliente nella versione web. Assicurati che l'applicazione sia stata aggiornata all'ultima versione. Saluti, Sarah"
+  },
+  {
+    "app_name": "salt tv",
+    "provider": "salt",
+    "app_id": "salt.tv.play",
+    "language": "de",
+    "review_id": "0c8981dc-96a7-4830-bae0-9d246f427122",
+    "user": "Klaus Leuenberger",
+    "score": 1,
+    "date": "2026-07-07 15:38:50",
+    "content": "Vielleichht wird man noch aufgeschaltet",
+    "thumbs_up": 0,
+    "app_version": "2.2612.0",
+    "reply": null
   },
   {
     "app_name": "salt tv",
