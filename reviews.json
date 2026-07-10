@@ -4,6 +4,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "df4b6ef4-83fb-4182-ac40-a4ef0cde5127",
+    "user": "Benno Kaiser",
+    "score": 5,
+    "date": "2026-07-08 10:07:53",
+    "content": "👍",
+    "thumbs_up": 0,
+    "app_version": "10.0.1",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "e5a53531-cc46-453c-adb9-343836cf8c4a",
     "user": "Ursi Ming",
     "score": 5,
@@ -44160,6 +44174,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "fr",
+    "review_id": "12b6f29d-3d61-4f94-bf90-76320486c0e0",
+    "user": "Frederique B",
+    "score": 4,
+    "date": "2026-07-08 12:09:36",
+    "content": "C'est une application que J'Aime Bien! Je L'Utilise! j'y vais Plusieurs Fois Pars Semaine! Seulement je peux plus car:: sa fait 2/3 jours que j'essaye de me connecter et a chaque fois le message ci-dessous s'affiche \"une erreur est survenue prière de réessayer plus tard\"",
+    "thumbs_up": 0,
+    "app_version": "11.31.1",
+    "reply": "Je t'invite ensuite à : essayer une connexion en Wi‑Fi puis en données mobiles (ou inversement) puis désinstaller puis réinstaller l’application. Si ton problème persiste je t'invite à : https://www.swisscom.ch/fr/clients-prives/aide/mobile.html Meilleures messages Rachel Online Care Team"
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "fr",
     "review_id": "7831ec3a-61f4-4107-b91d-ed11aa63012c",
     "user": "bts kpop",
     "score": 5,
@@ -44767,7 +44795,7 @@
     "score": 1,
     "date": "2026-01-01 12:13:45",
     "content": "A éviter à tout prix de vrais escrocs",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.26.7",
     "reply": "Bonjour Tiago, navrés que tu aies ce sentiment. En cas de question, notre assistance se tient volontiers à ta disposition https://www.swisscom.ch/fr/clients-prives/aide.html Bon début d'année. Meilleures salutations, Leyla Online Care Team"
   },
@@ -45341,7 +45369,7 @@
     "score": 1,
     "date": "2025-09-07 09:49:48",
     "content": "Votre appli ne fonctionne plus sur mon Huawei P30 Pro ! Il n'est même plus possible de l'ouvrir. Vous êtes priés de me répondre autre chose que \"... certaines mises à jour exigent de nouvelle technologie...\" cette réponse est totalement inadmissible, car: 1. Votre appli est la SEULE qui ne fonctionne plus avec mon smartphone. 2. Vous générez volontairement de l'obsolescence programmée. Vous avez jusqu'au 31.10.25 pour régler le problème, ou une plainte sera déposée selon point 2 ci-dessus. JD",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "11.21.3",
     "reply": "Bonjour, navré que tu rencontres des soucis avec ton appareil pour te connecter à notre App. N'hésite pas à nous contacter pour plus d'informations: https://www.swisscom.ch/fr/clients-prives/aide/contact.html. Meilleures salutations, Yari Online Care Team"
   },
@@ -45579,7 +45607,7 @@
     "score": 1,
     "date": "2025-07-17 10:40:56",
     "content": "Je ne peux toujours pas vous donner une bonne note car, je ne peux pas utiliser la nouvelle version, vue qu'elle serait incompatible avec mon S9+. Appareil d'un âge certain, mais qui me suffit amplement, sauf la batterie qui vieillit mal. En plus il semble que je ne puisse même pas réutiliser l'ancienne version et donc je suis cuite. Là je ne peux pas vous écrire une bonne lettre donc insuffisante et navrant en fait je ne devrais même pas vous donner 1 étoile.",
-    "thumbs_up": 28,
+    "thumbs_up": 29,
     "app_version": "11.21.3",
     "reply": "Bonjour Hans-jörg, nous sommes désolés d'apprendre les perturbations que tu rencontres avec ton appareil. Les nouvelles MAJ exigent parfois des technologies plus récentes, rendant celles-ci incompatibles avec les anciens appareils. Cela vise à assurer les meilleures performances et la sécurité. Meilleurs messages, Nath Online Care Team."
   },
@@ -60085,6 +60113,20 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "9b09ea01-adf3-461c-8ec3-ce8049004c53",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-07-09 00:27:26",
+    "content": "Sehr enttäuschend! App ist fehlerhaft. Guide funktioniert nicht richtig. Nach Neuinstallation geht die Abspielfunktion im Guide kurz, bald danach nicht mehr. Auch zeigt es das aktuelle Programm nicht via Balken an, wie es eigentlich sollte. Hatte vom teueren Swisscom mehr erwartet! Sunrise TV App ist viel zuverlässiger und besser!!!",
+    "thumbs_up": 0,
+    "app_version": "7.9.2",
     "reply": null
   },
   {
@@ -154369,7 +154411,7 @@
     "app_id": "ch.yallo.selfcare",
     "language": "de",
     "review_id": "cfa2823d-b480-4ac2-b511-5e3d32593240",
-    "user": "Nadine Hirschi",
+    "user": "Na Dine",
     "score": 5,
     "date": "2025-11-15 17:35:14",
     "content": "Perfekt, seit Jahren. Günstig und zuverlässig. Möchte nichts mehr anderes.",
@@ -193541,7 +193583,7 @@
     "app_id": "ch.sunrise.mein.konto",
     "language": "de",
     "review_id": "72b7fe36-07be-45f1-9360-462303ffef07",
-    "user": "Marco Corvaglia",
+    "user": "ᛗᚨᚱᚲᛟ ᚲᛟᚱᚹᚨᚷᛚᛁᚨ",
     "score": 1,
     "date": "2022-11-02 09:20:38",
     "content": "Funktioniert selten.",
@@ -248882,6 +248924,20 @@
     "provider": "salt",
     "app_id": "ch.salt.my",
     "language": "de",
+    "review_id": "65639b0c-53ca-4697-acf6-48ab61950357",
+    "user": "Rosmarie Strebel",
+    "score": 5,
+    "date": "2026-07-09 08:04:13",
+    "content": "app einfach zu bedienen direkt auf dem smartphone Super Alles Perfekt Frau Strebel",
+    "thumbs_up": 0,
+    "app_version": "1.0.53",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "de",
     "review_id": "bcac4705-ad03-4d0d-ad0e-f9b2e8b8abcf",
     "user": "Arezou Abbassi",
     "score": 1,
@@ -248915,7 +248971,7 @@
     "score": 1,
     "date": "2026-06-30 11:40:08",
     "content": "ich habe unbegrentzt Daten in der EU und jetzt haben sie mich eingeschränkt wegen zu hohem Datenverbrauch ich werde das Abo auflösen sobald ich in der Schweiz bin und vordere die schon bezahlten Monatlichen gebühren wenn Nötig gerichtlich zurück",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "1.0.52",
     "reply": null
   },
@@ -248985,7 +249041,7 @@
     "score": 1,
     "date": "2026-05-23 10:47:55",
     "content": "Nicht das beste Netz in der Schweiz. Preis-Leistungs Verhältnis ist nicht gut. App ist Müll, Salt ist Müll, die Berater und der technische Support haben keinen Plan und freundlich sind sie auch nicht (Job verfehlt?). App schnell deinstallieren und Anbieter wechseln.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "1.0.48",
     "reply": null
   },
@@ -249027,7 +249083,7 @@
     "score": 1,
     "date": "2026-03-29 06:33:07",
     "content": "Service in den Shops ist unfreundlich, bzw. nur freundlich bis man einen Abschluss gemacht hat.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "1.0.47",
     "reply": null
   },
@@ -249251,7 +249307,7 @@
     "score": 1,
     "date": "2026-02-09 10:20:03",
     "content": "unfreundlich , unkompetet. Auch im Shop Solothurn. Wechsel zu swisscom",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "1.0.42",
     "reply": null
   },
@@ -249265,7 +249321,7 @@
     "score": 1,
     "date": "2026-02-05 11:29:36",
     "content": "Beim Vertragsabschluss eine E-Mail bekommen, dass sich ein Techniker in Kürze meldet, um die OTO Dose zu installieren. Nach zwei Monaten habe ich DREI mal den Kundendienst angerufen und jedes mal sagten sie es meldet sich ein Techniker. Es sind jetzt schon wieder drei Wochen vergangen, ohne einen Termin.  Ein Stern ist noch zu viel.",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "1.0.44",
     "reply": null
   },
@@ -249279,7 +249335,7 @@
     "score": 1,
     "date": "2026-01-31 12:51:11",
     "content": "Salt!!, der beste Netz der Schweiz!!?? Traum weiter. ein Support das nicht existiert, Frage werde nicht beantwortet, aber ständig Rechnung geschickt. absolut unzufrieden mit Salt. ich Rate niemand ein Abo zu diese Firma zu machen. die sind zu kotze.",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "1.0.42",
     "reply": null
   },
@@ -249321,7 +249377,7 @@
     "score": 1,
     "date": "2026-01-23 10:23:32",
     "content": "Ein Wort sagt alles: katastrophal. weder anmelden noch eine registration funktioniert.",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "1.0.42",
     "reply": "Hallo, was genau ist das Problem mit unserer MySalt App? Bitte sende uns deine Daten per E-Mail an mysalt@salt.ch, und wir helfen dir, das Problem zu lösen. Liebe Grüsse, Sarah"
   },
@@ -249419,7 +249475,7 @@
     "score": 1,
     "date": "2025-12-20 10:19:26",
     "content": "Sehr schlechter Service. 3 Wochen Wartezeit bis eine Nachricht beantwortet wird und dann noch falsche Versprechen gemacht. Nie wieder Salt für mich. kotastrophal!!!",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "1.0.42",
     "reply": null
   },
@@ -249433,7 +249489,7 @@
     "score": 1,
     "date": "2025-12-18 05:25:34",
     "content": "3 mal Aktivierungsmail bekommen, die Anmeldung funktioniert trotzdem nicht. wenn ich an den Service im Store denke und die Preise, resp. die miese Telefonauswahl, dann passt es",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": null,
     "reply": "Hallo Maria, ich habe bereits heute Morgen auf deine Bewertung auf einer anderen Plattform geantwortet und freue mich auf deine Angaben, um dir bei deinen Login-Schwierigkeiten zu helfen. Liebe Grüsse, Sarah"
   },
@@ -249475,7 +249531,7 @@
     "score": 1,
     "date": "2025-11-18 11:46:05",
     "content": "mit an der schlechteste Anbieter in der Schweiz. jeden Tag zeigt es immer wieder an keine Daten. Support ist für nichts ausser man geht in den store. Da frag ich mich schon für was die app gut ist. Weiter kann man das Abonnement nicht einmal über die app kündigen sondern muss anrufen, aber neue abos abschliessen ist kein problem😮‍💨",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "1.0.27",
     "reply": null
   },
@@ -249797,7 +249853,7 @@
     "score": 1,
     "date": "2025-08-14 09:09:33",
     "content": "Nie mehr Salt. Das kündigen geht nur über das Telefon.Sie werden keine schriftliche Bestätigung erhalten. Sie werden auch keine Aufzeichnung vom geführten Telefonat erhalten. Lasst die Finger weg von dieser Gesellschaft.",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "1.0.21",
     "reply": null
   },
@@ -249839,7 +249895,7 @@
     "score": 3,
     "date": "2025-08-01 07:57:21",
     "content": "leider ich bin nicht zufrieden weil man macht ein Abo mit 49 Franke abet das ist nur Internet und tv und telefon zuhause nichts mehr alles andere kostet einfach mehr,zu Beispiel man will im handy schauen tv kostet einfach 4.50 mehr und 2 man will aufnehmen kostet noch mal 3.50 undan will zurück spulen kostet noch mal 3.50 mir gefällt das null ,wen ich ein vetrag machen sollten alles dabei sein und nicht Extra Zahlen die Zubehör",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "1.0.21",
     "reply": null
   },
@@ -249867,7 +249923,7 @@
     "score": 1,
     "date": "2025-07-23 07:01:44",
     "content": "Katastrophal! Mal war das Internet 4G bei Salt jetzt hat es Offenbar eine Änderung Gegeben von 4G auf H+ und ich habe das nicht mal Bemerkt erst als ich Nachfragte bei Mobile Shop ich habe ein neuer Vertrag gemacht und ich Zahle 45.- mit Brief und Couvert was ich auch Ändern wollte ..aber jetzt mit diese Internet Leistung gemessen mit einem Leistung s Spießmesser ich habe kaum Internet! Wer Salt hat mein Rat ist Wechselt den Anbieter!!!! Das ist nur Abzocke vom Feinsten.",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "1.0.21",
     "reply": null
   },
@@ -249881,7 +249937,7 @@
     "score": 1,
     "date": "2025-07-21 10:43:38",
     "content": "Jede Aktion dieses Anbieter ist ungesetzlich. 4 CHF für Papier Rechnung, bei Umstellung auf mail erhlält man nach 3 Wochen 30 CHF Mahnung. Alles ungesetzlich und anfechtbar, war hat Lust auf so einen Anbieter bei dem man jede Interaktion eigendlich Verklagen müsste weil ungesetzlich und Missbräuchlich. Die wollen keine Kunden und Dienste leisten sondern Abcashen egal wie. Europe Unlimited Fake News, Nach 10GB 5G offline, da mit 192kbps kein Smartphone von heute Funktioniert.",
-    "thumbs_up": 14,
+    "thumbs_up": 15,
     "app_version": "1.0.21",
     "reply": null
   },
@@ -249993,7 +250049,7 @@
     "score": 1,
     "date": "2025-05-13 16:50:58",
     "content": "Nach nicht einmal 2 Jahren habt ihr mich komplett vergrault. 2 Preiserhöhungen hat Salt mir klammheimlich untergejubelt. ICH musste immer die Person sein, die diesem nachrennt, und die einzige mühsame Möglichkeit der Kontaktaufnahme war die Hotline. Das gleiche Abo wird gleichzeitig auf der Webseite für 4 Franken WENIGER pro Monat angepriesen. Höchst kundenunfreundliches Verhalten von Salt, bei der der letztige Netzwerkabsturz das Tüpfchen auf dem i war. Ich rate zutiefst von dieser Firma ab.",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "1.0.9",
     "reply": null
   },
@@ -250021,7 +250077,7 @@
     "score": 1,
     "date": "2025-04-27 08:07:02",
     "content": "Unübersichtlich, der Support funktioniert online nie. Man bekommt einen Link geschickt, der nicht funktioniert. Langsam ist es wirklich zum davon laufen.",
-    "thumbs_up": 9,
+    "thumbs_up": 10,
     "app_version": "1.0.16",
     "reply": null
   },
@@ -250203,7 +250259,7 @@
     "score": 1,
     "date": "2025-01-10 06:57:19",
     "content": "Finger weg davon! Es ist der schlimmste internet Anbieter der Schweiz. Ich habe vor zwei Jahren zwei verschiedene Verträge beim Salt abgeschlossen und habe beide an dem selben Tag gekündigt. Per Email und auch telefonisch, einer davon wurde angenommen aber der andere fürs zu Hause nicht und die mit arbeit/innen sind total unfreundlich, wenn sie sie etwas verkaufen wollen denn ja, aber wenn sie hilfe oder etwas fragen möchten, denn veränderm sie sich. FINGER WEG!!",
-    "thumbs_up": 16,
+    "thumbs_up": 17,
     "app_version": null,
     "reply": "Hallo, tut mir leid, dass du Schwierigkeiten hast, aber dein Kommentar hat nichts mit einer Bewertung/Erfahrung im Zusammenhang mit unserer MySalt-App zu tun. Bitte wende dich an den Kundenservice unter der 0800 700 500, damit sie sich dein Problem ansehen und dir helfen können. Grüsse, Sarah"
   },
@@ -252768,20 +252824,6 @@
     "thumbs_up": 1,
     "app_version": null,
     "reply": "Ciao, qual è esattamente il problema? Di norma, si utilizzano esattamente gli stessi dati di accesso dell'account cliente nella versione web. Assicurati che l'applicazione sia stata aggiornata all'ultima versione. Saluti, Sarah"
-  },
-  {
-    "app_name": "salt tv",
-    "provider": "salt",
-    "app_id": "salt.tv.play",
-    "language": "de",
-    "review_id": "0c8981dc-96a7-4830-bae0-9d246f427122",
-    "user": "Klaus Leuenberger",
-    "score": 1,
-    "date": "2026-07-07 15:38:50",
-    "content": "Vielleichht wird man noch aufgeschaltet",
-    "thumbs_up": 0,
-    "app_version": "2.2612.0",
-    "reply": null
   },
   {
     "app_name": "salt tv",
