@@ -4,6 +4,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "86adc48d-4a26-44a0-b3d0-8873db9bb522",
+    "user": "Hasan Morina",
+    "score": 1,
+    "date": "2026-07-14 15:57:09",
+    "content": "Wingo zieht mir jeden Monat heimlich 3 Franken ab. Obwohl ich mich schon mehrmals an den Kundendienst gewendet habe, passiert einfach nichts. In der App kann ich die Einstellungen nicht einmal selbst ändern, um das zu stoppen – es fühlt sich an, als würde das mit Absicht blockiert, damit sie weiter abkassieren können!\"",
+    "thumbs_up": 0,
+    "app_version": "10.0.2",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "b1bb2439-395e-40ac-ba14-d90cee4b89e3",
     "user": "Adrian",
     "score": 5,
@@ -7138,6 +7152,20 @@
     "thumbs_up": 2,
     "app_version": "1.0.0",
     "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
+    "review_id": "dca61205-da34-4b66-9b24-b54be62d3add",
+    "user": "Mi Ce Ma",
+    "score": 3,
+    "date": "2026-07-14 18:10:29",
+    "content": "Das Problem ist inzwischen behoben. Aber die App könnte einfacher gestaltet sein: weniger grosse Kacheln und Bilder, damit sie schneller und flüssiger läuft. Ich erhöhe auf von 1 au 3 Sterne. --- Einloggen seit 1-3 Wochen nicht mehr möglich. Die App ist aktuell, und ich habe sie sogar deinstalliert und neu installiert, jedoch ohne Erfolg. Absolut nervig.",
+    "thumbs_up": 1,
+    "app_version": "11.31.2",
+    "reply": "Hallo Mi Ce Ma, vielen Dank für deine Bewertung mit 3 ⭐ und dein Feedback. Es freut mich, dass die App bei dir wieder funktioniert. Deinen Input betreffend der Gestaltung der App werde ich der zuständigen Stelle weiterleiten. Ich wünsche dir einen schönen Tag 💙. Liebe Grüsse Gabriela, Online Care Team"
   },
   {
     "app_name": "myswisscom",
@@ -78157,7 +78185,7 @@
     "score": 5,
     "date": "2021-11-05 21:38:25",
     "content": "Die App funktioniert sehr gut! Alles ist absolut in Ordnung und es gibt wenig bis gar keine Fehler in der App. Was mich aber regelmässig stört ist, dass wenn man mit den Fingern beim Schauen einer Sendung aus Versehen nach oben oder unten streicht, der Sender automatisch wechselt. Besonders wenn man nicht \"live\" eine Sendung schaut und das passier ist das sehr nervig, weil man dann diee Sendung suchen und wieder neu starten muss. Vorschlag von mir persönlich: Nehmt die Funktion bitte raus!",
-    "thumbs_up": 48,
+    "thumbs_up": 49,
     "app_version": "5.3.0",
     "reply": "Hallo Benjamin, danke für deine 5⭐ und dein Feedback. Wir sind stets dabei unsere App zu verbessern und zu optimieren. Gerne nehmen wir deinen Input entgegen. Ich wünsche dir einen guten Start in die neue Woche und liebe Grüsse, Nicole Online Care Team"
   },
@@ -122635,7 +122663,7 @@
     "score": 2,
     "date": "2024-11-17 11:12:21",
     "content": "Application installée sur une TV Sony XR-65A95L. L’application bascule régulièrement sur un écran noir avec obligation de la redémarrer; cela semble lié à un problème de buffering. Application supprimée et réinstallée plusieurs fois avec même problème. Beaucoup trop d’instabilité!! Egalement depuis la dernière version, nous constatons que la liste des chaînes « préférées «  est régulièrement deselectionnée.",
-    "thumbs_up": 10,
+    "thumbs_up": 11,
     "app_version": "6.4.2",
     "reply": "Hello Kerphy ! Merci de partager ton expérience. Nous sommes navrés d'apprendre les perturbations que tu rencontres avec notre application. Afin de te venir en aide et analyser la situation, nous t'invitons à prendre contact auprès du département compétent ici : https://tinyurl.com/53shucpm Meilleurs messages, Stéphanie Online Care Team"
   },
@@ -177090,6 +177118,20 @@
     "provider": "yallo",
     "app_id": "com.smith.production",
     "language": "de",
+    "review_id": "4380f9a4-9f31-4d67-9cf0-c34d863f63e7",
+    "user": "Bachir Djeffali",
+    "score": 1,
+    "date": "2026-07-14 12:33:12",
+    "content": "Session abgelaufen, auf den HandyApps. . Neustart nötig !!!!!",
+    "thumbs_up": 0,
+    "app_version": "2.0.16",
+    "reply": "Vielen Dank für Ihre Geduld und Ihr wertvolles Feedback. Wir bedauern die Unannehmlichkeiten, die durch dieses Problem entstanden sind. Inzwischen konnte der Fehler mit der neuesten Version der yallo TV App behoben werden. Vielen Dank, dass Sie uns auf dieses Problem aufmerksam gemacht haben."
+  },
+  {
+    "app_name": "yallo tv",
+    "provider": "yallo",
+    "app_id": "com.smith.production",
+    "language": "de",
     "review_id": "1bdfd18d-bbc7-40b5-831e-27634ba3685f",
     "user": "Helvetia CH",
     "score": 1,
@@ -185580,20 +185622,6 @@
     "date": "2026-01-07 16:38:57",
     "content": "leider habe ich immer problem bei rechnungen..ich komme nicht weiter..seite kann nicht geladen werden",
     "thumbs_up": 1,
-    "app_version": "7.6.36",
-    "reply": null
-  },
-  {
-    "app_name": "mysunrise",
-    "provider": "sunrise",
-    "app_id": "ch.sunrise.mein.konto",
-    "language": "de",
-    "review_id": "c6f4dde7-38c5-4df4-bb57-3aac6921cdf5",
-    "user": "Ein Google-Nutzer",
-    "score": 4,
-    "date": "2026-01-06 11:30:17",
-    "content": "transparent, verständlich,gute reaktionen, bei anliegen, sympatisch, promptes bearbeiten",
-    "thumbs_up": 0,
     "app_version": "7.6.36",
     "reply": null
   },
@@ -218215,20 +218243,6 @@
     "content": "L'écran est blanc rien ne fonctionne",
     "thumbs_up": 3,
     "app_version": "5.0.1",
-    "reply": null
-  },
-  {
-    "app_name": "mysunrise",
-    "provider": "sunrise",
-    "app_id": "ch.sunrise.mein.konto",
-    "language": "fr",
-    "review_id": "884c77e0-d77c-4817-b902-de69e2d85952",
-    "user": "Un utilisateur de Google",
-    "score": 1,
-    "date": "2019-08-19 13:06:29",
-    "content": "impossible de se connecter avec l'app alors que j'y arrive depuis l'ordinateur",
-    "thumbs_up": 0,
-    "app_version": "5.0.0",
     "reply": null
   },
   {
@@ -251542,6 +251556,20 @@
     "provider": "salt",
     "app_id": "ch.salt.my",
     "language": "fr",
+    "review_id": "b33db471-4b2f-440a-a21f-7ac62fd86b8b",
+    "user": "Omar Azragainou",
+    "score": 5,
+    "date": "2026-07-14 14:32:35",
+    "content": "Bonne",
+    "thumbs_up": 0,
+    "app_version": "1.0.42",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "fr",
     "review_id": "ed2aa7ec-ab22-46f2-8239-b546ed2f917e",
     "user": "Carlos liça",
     "score": 5,
@@ -257763,7 +257791,7 @@
     "score": 1,
     "date": "2026-02-10 16:44:18",
     "content": "Man schliesst ein günstiges Abo ab. Aber dann wird der EU-Pass doch teurer verrechnet. Bei mir und später auch bei meiner Frau.",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "1.4.3",
     "reply": null
   },
@@ -258886,20 +258914,6 @@
     "thumbs_up": 1,
     "app_version": null,
     "reply": "Lieber Kunde, es tut uns leid, dass wir Ihnen die Chromecast-Funktion noch nicht anbieten können. Wir arbeiten daran, dass diese Funktion in der Zukunft verfügbar wird. Freundliche Grüsse, Quickline"
-  },
-  {
-    "app_name": "quickline tv",
-    "provider": "quickline",
-    "app_id": "ch.quickline.tv",
-    "language": "de",
-    "review_id": "c5787084-4a36-4754-90b5-f9a78168259f",
-    "user": "Claude Nicolas",
-    "score": 3,
-    "date": "2022-02-17 21:25:32",
-    "content": "Die wichtigste Funktion, zeitversetztes fernsehen geht nicht. Wieso fixt ihr nicht diesen Fehler? Ich bin nicht der einzige hier der dieses Problem hat, oder könnt ihr erklären wieso die Meldung kommt? Oder ist das neuerdings im Quickline TV Start nicht mehr inklusive?! Übrigens es funktioniert auch nicht direkt über den Browser (WEB-TV).",
-    "thumbs_up": 0,
-    "app_version": "3.2113.01",
-    "reply": "Lieber Kunde, die Replay-Funktion ist im Quickline Start Abo nicht inkludiert. Für weitere Informationen, schauen Sie sich die Übersicht unserer TV-Abos auf https://quickline.ch/tv an. Freundliche Grüsse, Quickline"
   },
   {
     "app_name": "quickline tv",
