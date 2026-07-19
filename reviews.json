@@ -56919,7 +56919,7 @@
     "score": 1,
     "date": "2025-07-25 20:26:37",
     "content": "ne s'ouvre plus parce mon portable ne plus compatible.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.21.3",
     "reply": "Bonjour mio, merci pour ton feedback. Nous sommes navrés que tu ne sois pas satisfait de ton My Swisscom. Nous travaillons quotidiennement pour améliorer l'expérience client. Meilleures salutations, Fred Online Care Team"
   },
@@ -120171,7 +120171,7 @@
     "score": 1,
     "date": "2026-06-08 20:38:16",
     "content": "L'application bug sans cesse. Quelques exemples : - vous mettez en pause pour écouter un vocal, vous finissez le vocale, votre émission se remet en route sans mouvement de notre part. - actuellement et c'est récent, dans enregistrement il y a la vision de toutes les émissions enregistrées mais aussi programmées pour l'enregistrement. Avant celles ci étaient uniquement dans programmées. - quand on met pause et qu'on attend trop longtemps avant de remettre en route, elle reprend du début etc...",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": null,
     "reply": "Bonjour Maya, merci pour ton message. Aucun dérangement n'est annoncé à ce sujet sur notre App blue TV. As-tu essayé de réinstaller l'application? N'hésite pas à contacter notre support pour vérifier la situation. https://www.swisscom.ch/fr/clients-prives/aide.html. Meilleures salutations, Yari Online Care Team"
   },
@@ -120381,7 +120381,7 @@
     "score": 1,
     "date": "2026-04-07 19:14:28",
     "content": "Je suis déçu de l’application Swisscom sur téléphone. Elle présente trop de bugs pour être agréable à utiliser. Lors du visionnage, la lecture repart parfois au début sans raison. Les enregistrements disparaissent ou ne fonctionnent pas correctement. De plus, quand on avance le film (10 ou 30 secondes), les informations à l’écran restent affichées et ne disparaissent plus, ce qui oblige à relancer plusieurs fois la lecture. C’est très désagréable. Enfin, l’application n’est pas intuitive",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "7.7.0",
     "reply": null
   },
@@ -121924,20 +121924,6 @@
     "thumbs_up": 2,
     "app_version": "6.4.2",
     "reply": "Hello Jonas ! Merci de partager ton expérience. Nous sommes navrés d'apprendre les perturbations que tu rencontres avec notre application. Afin de te venir en aide et analyser la situation, nous t'invitons à prendre contact auprès du département compétent ici : https://tinyurl.com/53shucpm Meilleurs messages, Stéphanie Online Care Team"
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "fr",
-    "review_id": "0892ab53-d538-43e2-9fbc-33d112540a1e",
-    "user": "Corinne",
-    "score": 1,
-    "date": "2025-06-17 23:07:18",
-    "content": "L'application a bien fonctionné pendant environ 10 jours mais depuis la nouvelle mise à jour du 12 juin, nouveaux bugs. Je ne peux plus visualiser mes enregistrements☹️.",
-    "thumbs_up": 1,
-    "app_version": "7.3.2",
-    "reply": "Bonjour Corinne, merci de partager ton expérience. Si tu ne l'as pas déjà fait, nous t'invitons à désinstaller l'app et la réinstaller. En cas de perturbations récurrentes, nous nous tenons à ta disposition via nos canaux de support: https://www.swisscom.ch/fr/clients-prives/aide/contact.html. Meilleurs messages, Stéphanie Online Care Team"
   },
   {
     "app_name": "blue tv",
@@ -162138,20 +162124,6 @@
     "provider": "yallo",
     "app_id": "ch.yallo.selfcare",
     "language": "de",
-    "review_id": "1a6873b5-bc64-4467-a6c8-d52314b50d30",
-    "user": "Ein Google-Nutzer",
-    "score": 5,
-    "date": "2021-12-04 19:23:35",
-    "content": "Bester Anbieter Der bester vom Alle die ich vorher hatte.",
-    "thumbs_up": 0,
-    "app_version": "1.2.3",
-    "reply": null
-  },
-  {
-    "app_name": "my yallo",
-    "provider": "yallo",
-    "app_id": "ch.yallo.selfcare",
-    "language": "de",
     "review_id": "7add4d21-dc2d-4220-a7c3-92b5c3d8a952",
     "user": "sadeta dalipovic",
     "score": 5,
@@ -177125,6 +177097,20 @@
     "content": "No vale nulla. È una sola copia della pagina web senza neanche un poter vedere i consumi. Passima",
     "thumbs_up": 4,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "yallo tv",
+    "provider": "yallo",
+    "app_id": "com.smith.production",
+    "language": "de",
+    "review_id": "3c1b2e73-f08a-465a-aa66-86b0dd5219c6",
+    "user": "Bärner Giu",
+    "score": 1,
+    "date": "2026-07-18 06:32:51",
+    "content": "Login funktioniert nicht mehr. Es läd endlos ohne das etwas passiert nach der eingabe der Login Daten",
+    "thumbs_up": 3,
+    "app_version": "2.0.16",
     "reply": null
   },
   {
@@ -245060,20 +245046,6 @@
     "provider": "sunrise",
     "app_id": "com.lgi.upcch",
     "language": "fr",
-    "review_id": "46b86b42-a769-4bd5-a833-3e37f3c41d0d",
-    "user": "AHMAD HORO",
-    "score": 5,
-    "date": "2021-08-10 18:14:01",
-    "content": "Très bien",
-    "thumbs_up": 0,
-    "app_version": "4.33.0 Prod (4.33.14.088)",
-    "reply": null
-  },
-  {
-    "app_name": "sunrise tv",
-    "provider": "sunrise",
-    "app_id": "com.lgi.upcch",
-    "language": "fr",
     "review_id": "868ec0f1-bffc-4abe-bebc-06c2a02a8a61",
     "user": "Jean-Luc Charmillot",
     "score": 5,
@@ -249265,7 +249237,7 @@
     "score": 1,
     "date": "2026-07-07 14:50:50",
     "content": "Verkaufen können sie schnell. Aber wenn man kündigen möchte, ist plötzlich niemand mehr erreichbar. Trotz mehrerer Anruf bekomme ich keine Antwort. Ein guter Kundenservice sieht anders aus.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "1.0.53",
     "reply": "We're sorry to hear about your experience. This is not the service we aim to provide.\nPlease send us an email at socialmedia@salt.ch with your details so we can look into your request and help you further. Kind Regards Nimrod"
   },
@@ -249933,7 +249905,7 @@
     "app_id": "ch.salt.my",
     "language": "de",
     "review_id": "2b82e8d6-4636-46f8-98dd-984b829823a9",
-    "user": "uschi m.",
+    "user": "Ursula Mäder",
     "score": 4,
     "date": "2025-10-14 06:38:24",
     "content": "Die so ist genial, macht genau das es die soll .... Daumen hoch",
@@ -254781,7 +254753,7 @@
     "score": 1,
     "date": "2021-06-14 16:26:45",
     "content": "Für mich unbrauchbar, da ich mich nicht anmelden kann. Für mich absolut unverständlich, da es auf meinem iOS Gerät funktioniert (Tablet Version). Auch die iOS Version ist voller Bugs, so dass zum Teil mehrmals ein Neustart der App erforderlich ist. Bleibt meist beim vor- und zurückspulen hängen. Passwort zurücksetzen funktioniert nicht (unexpected error occured) ...",
-    "thumbs_up": 47,
+    "thumbs_up": 48,
     "app_version": null,
     "reply": null
   },
@@ -257429,6 +257401,20 @@
     "content": "Il manque l'application sur Android TV!! À quand cette application sur Android TV??  Merci pour votre réponse ;)",
     "thumbs_up": 23,
     "app_version": "2.15.1",
+    "reply": null
+  },
+  {
+    "app_name": "salt tv",
+    "provider": "salt",
+    "app_id": "salt.tv.play",
+    "language": "it",
+    "review_id": "9e4a93a3-3c79-4f69-99a9-1a051fbd79e0",
+    "user": "Rizza Marco",
+    "score": 1,
+    "date": "2026-07-17 11:27:18",
+    "content": "perché sono ladri....",
+    "thumbs_up": 0,
+    "app_version": "2.2528.0",
     "reply": null
   },
   {
