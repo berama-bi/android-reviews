@@ -4,6 +4,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "0d2def03-90fa-4995-aa8f-7b73005e7f33",
+    "user": "Oliver (Wüethi)",
+    "score": 4,
+    "date": "2026-07-18 07:27:28",
+    "content": "Super",
+    "thumbs_up": 0,
+    "app_version": "10.0.2",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "86adc48d-4a26-44a0-b3d0-8873db9bb522",
     "user": "Hasan Morina",
     "score": 1,
@@ -4057,6 +4071,20 @@
     "content": "🔥",
     "thumbs_up": 0,
     "app_version": "1.1.34",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "fr",
+    "review_id": "c78c012f-eebd-4226-96e8-c453fcc8cce7",
+    "user": "ericdidi Eric",
+    "score": 4,
+    "date": "2026-07-18 07:30:14",
+    "content": "Top De Chez Top",
+    "thumbs_up": 0,
+    "app_version": "10.0.2",
     "reply": null
   },
   {
@@ -60267,6 +60295,34 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "7bbb51ca-7198-4b47-af9b-88671494c5e9",
+    "user": "Ein Google-Nutzer",
+    "score": 2,
+    "date": "2026-07-19 07:36:06",
+    "content": "Ich war lange Zeit zufrieden, mitlerweile bin ich aber echt genervt. Gelöschte Aufnahmen,verschwinden nicht mehr aus der Liste,zukünftige Aufnahmen werden schon,teilweise 2 Wochen im vorraus,in der Aufnahmeliste angezeigt,wenn ich etwas angefangen habe zu schauen und weiter schauen möchte,funktioniert das nicht,auch wenn ich es anwählen muss ich von anfang an schauen und suchen wo ich war! Auch das mit immer wieder ausloggen kenne ich,was recht mühsame ist. Lohnt sich die teure Swisscom noch?",
+    "thumbs_up": 0,
+    "app_version": "7.9.3",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "2a1b7bda-6481-4696-bfa3-dce4b71ef7fd",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-07-18 14:14:38",
+    "content": "Absoluter Schrott, seit einiger Zeit kann die App nicht viel mehr als einen immer und immer wieder abzumelden. Die Fernbedienungsfunktion hat eh nie wirklich funktioniert, da hat man wohl gar keinen fix versucht.",
+    "thumbs_up": 0,
+    "app_version": "7.9.3",
     "reply": null
   },
   {
@@ -120054,6 +120110,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "fr",
+    "review_id": "0892ab53-d538-43e2-9fbc-33d112540a1e",
+    "user": "Corinne",
+    "score": 1,
+    "date": "2026-07-18 19:24:33",
+    "content": "Toujours des bugs hyper désagréables. Exemple : Lorsque je jegarde un film, il s'arrête en plein milieu et repard au début. Signalé sur l'application, aucune réponse, pas même un accusé de réception.👎👎👎",
+    "thumbs_up": 1,
+    "app_version": "7.9.3",
+    "reply": "Bonjour Corinne, merci de partager ton expérience. Si tu ne l'as pas déjà fait, nous t'invitons à désinstaller l'app et la réinstaller. En cas de perturbations récurrentes, nous nous tenons à ta disposition via nos canaux de support: https://www.swisscom.ch/fr/clients-prives/aide/contact.html. Meilleurs messages, Stéphanie Online Care Team"
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
     "review_id": "69734fd4-1b37-4b19-954c-4b2d7d2c55c7",
     "user": "Virginie Koller",
     "score": 1,
@@ -177347,7 +177417,7 @@
     "score": 1,
     "date": "2026-03-25 19:35:03",
     "content": "Eigentlich wäre die App ganz ok. Aber was wirklich extrem störend ist, ist das teils alle Aufnahmen einer Serie gelöscht werden, wenn man eigentlich nur eine einzelne Folge löschen wollte. Das geht gar nicht und läuft bei anderen Anbieter deutlich besser. Dringender Verbesserungsbedarf! Update: Leider ist die APP nochmals schlechter geworden, man muss sich jedes Mal wieder neu anmelden und dann noch den Code welchen man per E-Mail erhält eingeben. Das geht besser!",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "2.0.6",
     "reply": null
   },
@@ -257401,20 +257471,6 @@
     "content": "Il manque l'application sur Android TV!! À quand cette application sur Android TV??  Merci pour votre réponse ;)",
     "thumbs_up": 23,
     "app_version": "2.15.1",
-    "reply": null
-  },
-  {
-    "app_name": "salt tv",
-    "provider": "salt",
-    "app_id": "salt.tv.play",
-    "language": "it",
-    "review_id": "9e4a93a3-3c79-4f69-99a9-1a051fbd79e0",
-    "user": "Rizza Marco",
-    "score": 1,
-    "date": "2026-07-17 11:27:18",
-    "content": "perché sono ladri....",
-    "thumbs_up": 0,
-    "app_version": "2.2528.0",
     "reply": null
   },
   {
