@@ -4120,20 +4120,6 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "fr",
-    "review_id": "8dc1fbef-59c1-400c-9dc1-18e7b1451b33",
-    "user": "Jullian Campo",
-    "score": 3,
-    "date": "2026-06-25 07:19:47",
-    "content": "applications tres lente, souvent des bugs",
-    "thumbs_up": 0,
-    "app_version": "10.0.1",
-    "reply": null
-  },
-  {
-    "app_name": "mywingo",
-    "provider": "wingo",
-    "app_id": "com.swisscom.mywingo",
-    "language": "fr",
     "review_id": "11325291-558d-4fa7-b4cf-4e9eead5bd0e",
     "user": "Herve Cotting",
     "score": 5,
@@ -7373,7 +7359,7 @@
     "score": 2,
     "date": "2026-07-03 14:22:27",
     "content": "Dauernd Anmeldeschwierigkeiten \"es ist ein Fehler aufgetreten, versuchen Sie es später erneut\", (seit Tagen) man weiss nie so genau was einen erwartet.... Und die Hotline ist gegenüber der von Sunrise in jeder Hinsicht 10 Jahre hintendran. Und SAM (KI) bringt dich vollommen an den Rand der Verzweiflung.... Aber gut, man gibt sich Mühe Und dieses \"aktualisieren\", Handy neu starten\", \"App deinstallieren und wieder installieren\" bringt absolut gar nichts.",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "11.31.1",
     "reply": "Hallo SwizMuayThai, danke für deine Bewertung und deinen Kommentar. Es tut mir leid zu lesen, dass deine App zur Zeit nicht funktioniert. Wende dich bitte an einen Swisscom Shop oder an www.swisscom.ch/support. Wir würden uns freuen, dein Anliegen mit dir genau zu überprüfen. Liebe Grüsse Conny, Online Care Team"
   },
@@ -7513,7 +7499,7 @@
     "score": 1,
     "date": "2026-06-19 16:57:00",
     "content": "Einloggen in diese App nicht mehr möglich. Die Links unter dem einloggen sind auch nicht anklickbar. Und in der Webseite sind Links, die auf diese App verweisen daher sinnfrei. Beides mit 2 verschiedenen Tastaturen ausprobiert und beide male das gleiche Verhalten der App. App - mit Cache leeren und Daten löschen - deinstalliert und paar Minuten später wieder Installiert: Siehe oben. Immer noch kein einloggen möglich.",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "11.30.1",
     "reply": "Hallo Peter, vielen Dank für deine Rückmeldung. Hast du bereits die App aktualisiert? Möglicherweise unterstützt dein Gerät die aktuelle Version der App nicht mehr.\nBitte wende dich an einen Swisscom‑Shop, damit dein Anliegen dort genauer geprüft werden kann. Danke und liebe Grüsse, Mirko Online Care Team"
   },
@@ -9249,7 +9235,7 @@
     "score": 1,
     "date": "2025-11-27 19:23:35",
     "content": "Guten Tag Mehrere Nutzer – mich eingeschlossen – haben das Problem, dass die Login-Funktion in der App nicht mehr funktioniert. Wie kann es sein, dass kommuniziert wird, es sei „nichts bekannt“, obwohl dieses Problem offensichtlich mehrere Kunden betrifft? Es wäre wünschenswert, wenn die IT-Abteilung diese Störung zeitnah prüft, anstatt die Kunden einfach abzufertigen. Bei den Preisen, die Sie verlangen, erwarte ich ehrlich gesagt etwas mehr Transparenz und Kundenorientierung.",
-    "thumbs_up": 98,
+    "thumbs_up": 99,
     "app_version": "11.25.3",
     "reply": "Hallo DieVisum HD, vielen Dank für deine Bewertung mit 1⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App nicht einloggen kannst. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dich unterstützen können. Liebe Grüsse Juan"
   },
@@ -14093,7 +14079,7 @@
     "score": 1,
     "date": "2024-03-08 17:22:38",
     "content": "Katastrophe was sich SC mit ihren Apps leistet! Seit Wochen sehe ich vorwiegend den Drehkreis und nichts passiert. Auch auf der viel besseren alten App, welche ja bis zum 01.03.23 hätte laufen sollen. Wie kann man nur etwas gut funktionierendes laufend verschlechtern - unerklärlich! 1 Jahr später: nichts hat sich geändert. Dauernd Drehkreis \"das dauert länger als erwartet\", Geräteliste kann nicht angezeigt werden und keine Technische Hilfe für solche allgemeine Probleme. SEHR SCHWACH!",
-    "thumbs_up": 76,
+    "thumbs_up": 77,
     "app_version": "11.12.3",
     "reply": "Hallo Thomas, vielen Dank für deine Rückmeldung. Versuche mal die APP mit einem neuerem Gerät zu starten. Das S10 ist langsam aber sicher nicht mehr für alle Applikationen tragbar. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -120306,20 +120292,6 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "fr",
-    "review_id": "1e5d2420-32ea-4751-adfe-289777518ff1",
-    "user": "Un utilisateur de Google",
-    "score": 2,
-    "date": "2026-05-13 18:41:08",
-    "content": "- Nouveau : apparition de publicités avec un abonnement payé. - Temps de chargement trop long - Bascule entre WiFi et réseau mobile obligeant a redémarrer l'application. - Non-mémorisation du mot de passe conjuguée au fait de devoir souvent se reconnecter - La diffusion s'arrête en changeant d'application. - Programmes dans le guide tardent souvent à apparaître - bascule portrait/ paysage automatique souvent dérangeante",
-    "thumbs_up": 2,
-    "app_version": "7.8.2",
-    "reply": null
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "fr",
     "review_id": "5d56db01-267d-435f-b709-c73513ab14f3",
     "user": "Eric Gachet",
     "score": 1,
@@ -120465,7 +120437,7 @@
     "score": 5,
     "date": "2026-04-05 13:00:35",
     "content": "vraiment génial mais beaucoup trop de Bug sur les enregistrements et les replays.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "7.7.0",
     "reply": null
   },
@@ -131469,7 +131441,7 @@
     "score": 5,
     "date": "2020-11-11 21:23:10",
     "content": "Super satisfait de Swisscom Blue TV.",
-    "thumbs_up": 24,
+    "thumbs_up": 23,
     "app_version": "5.0.3",
     "reply": "Hello, nous sommes ravis que notre app te plaise! À ta disposition si besoin. Belle journée, Nathalie"
   },
@@ -149371,7 +149343,7 @@
     "app_id": "com.swisscom.tv2",
     "language": "it",
     "review_id": "ccabd152-8c3a-4ec3-b968-7c5df1aa07cd",
-    "user": "Antonia Razionale",
+    "user": "Antonia Spanò",
     "score": 5,
     "date": "2020-11-11 13:14:50",
     "content": "Mi piace moltissimo, specie se perdo qualche puntata di qualsiasi telefilm, posso tornare indietro e rivederla",
@@ -169145,6 +169117,20 @@
     "content": "Super App! Im Gegensatz zu der seit Jahren schlechten original Sunrise app, hat die yallo app genau das was es braucht. Bitte so belassen und nicht weiter überladen!",
     "thumbs_up": 2,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "my yallo",
+    "provider": "yallo",
+    "app_id": "ch.yallo.selfcare",
+    "language": "fr",
+    "review_id": "9de0ba2d-e89e-4eaf-affa-263e838e55ae",
+    "user": "Valentin L",
+    "score": 1,
+    "date": "2026-07-19 10:21:07",
+    "content": "Si vous cherchez un accès internet, n'allez surtout pas chez Yallo. C’est la pire expérience que j’ai jamais eue. Certes, ce n'est pas cher, mais il y a une raison derrière ce prix : le service est tout simplement inexistant. Mon internet devait être activé le 10 juillet, nous sommes le 19 juillet et je n'ai toujours rien. À chaque fois que j'appelle, on me promet que ce sera activé 'demain', mais rien ne se passe jamais. Je vous conseille grandement d'aller chez la concurrence.",
+    "thumbs_up": 0,
+    "app_version": "5.2.0",
     "reply": null
   },
   {
@@ -251626,6 +251612,20 @@
     "provider": "salt",
     "app_id": "ch.salt.my",
     "language": "fr",
+    "review_id": "089294dd-9f15-407c-97af-6f5c48d1c6fc",
+    "user": "Eric",
+    "score": 3,
+    "date": "2026-07-19 08:12:02",
+    "content": "L'application est utile pour payer ses abonnements ou avoir du support. Impossible de modifier ses options pour la ligne fixe ou son mobile, on est obligé d'aller modifier son compte sur une page web. Pas possible non plus de bloquer les numéros surtaxés comme le permet d'autres opérateurs. Pas possible de voir les autres lignes de son compte (enfant, conjoint) sans passer à nouveau par son compte sur une page web.",
+    "thumbs_up": 0,
+    "app_version": "1.0.54",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "fr",
     "review_id": "b33db471-4b2f-440a-a21f-7ac62fd86b8b",
     "user": "Omar Azragainou",
     "score": 5,
@@ -253215,7 +253215,7 @@
     "content": "Vielleichht wird man noch aufgeschaltet. Kundenbehandlung ist entgegenkommend gesagt katastrofal. Schade dass ich gewechselt hab. Billlig ist eben hier billig.",
     "thumbs_up": 0,
     "app_version": "2.2612.0",
-    "reply": null
+    "reply": "Hello, We are sorry to hear that you had this experience and understand your frustration. Please contact us on 0800 700 500 so that we can review your case and assist you with your request. Thank you for your understanding. Kind regards, Nimrod"
   },
   {
     "app_name": "salt tv",
@@ -253229,7 +253229,7 @@
     "content": "Vor paar Jahren hat alles super gelappt. Jetzt wollte ich die WM schauen immer falsches Login obwohl ich gewechselt habe. Und wenn ich die Bewertung so lese bin ich nicht der Einzigste mit Problemen.",
     "thumbs_up": 0,
     "app_version": "2.2612.0",
-    "reply": null
+    "reply": "Hello, Thank you for your message. To allow us to investigate your login issue, please send us an email with your details to fiber.support@salt.ch. Please include your phone number and the email address linked to your account, so our team can check your case and assist you accordingly. Thank you for your cooperation. Kind regards, Nimrod"
   },
   {
     "app_name": "salt tv",
