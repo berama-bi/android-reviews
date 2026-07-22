@@ -7177,7 +7177,7 @@
     "score": 3,
     "date": "2026-07-14 18:10:29",
     "content": "Das Problem ist inzwischen behoben. Aber die App könnte einfacher gestaltet sein: weniger grosse Kacheln und Bilder, damit sie schneller und flüssiger läuft. Ich erhöhe auf von 1 au 3 Sterne. --- Einloggen seit 1-3 Wochen nicht mehr möglich. Die App ist aktuell, und ich habe sie sogar deinstalliert und neu installiert, jedoch ohne Erfolg. Absolut nervig.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "11.31.2",
     "reply": "Hallo Mi Ce Ma, vielen Dank für deine Bewertung mit 3 ⭐ und dein Feedback. Es freut mich, dass die App bei dir wieder funktioniert. Deinen Input betreffend der Gestaltung der App werde ich der zuständigen Stelle weiterleiten. Ich wünsche dir einen schönen Tag 💙. Liebe Grüsse Gabriela, Online Care Team"
   },
@@ -57787,7 +57787,7 @@
     "score": 5,
     "date": "2022-02-02 18:21:28",
     "content": "La tv si blocca in continuazione nonostante l'ottima connessione. Quando si blocca inchioda tutto il tablet e anche il cellulare. Da ai nervi, e il bello è che prima non lo faceva, quando verrà risolto modificherò la valutazione Aggiornamento, ora va! In realtà è già da molto che funziona",
-    "thumbs_up": 15,
+    "thumbs_up": 16,
     "app_version": "10.5.1",
     "reply": "Caro Matteo, grazie mille per essere tornato ad aggiornare il tuo commento e lasciare questo feedback. Ti auguro una buona giornata, Yari online care team"
   },
@@ -120089,6 +120089,20 @@
     "content": "Super App",
     "thumbs_up": 0,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
+    "review_id": "1e5d2420-32ea-4751-adfe-289777518ff1",
+    "user": "Un utilisateur de Google",
+    "score": 1,
+    "date": "2026-07-20 19:44:20",
+    "content": "- Nouveau : apparition de publicités avec un abonnement payé. - Temps de chargement trop long - Bascule entre WiFi et réseau mobile obligeant a redémarrer l'application. - Non-mémorisation du mot de passe conjuguée au fait de devoir souvent se reconnecter - La diffusion s'arrête en changeant d'application. - Programmes dans le guide tardent souvent à apparaître - bascule portrait/ paysage automatique souvent dérangeante",
+    "thumbs_up": 2,
+    "app_version": "7.9.3",
     "reply": null
   },
   {
@@ -219790,20 +219804,6 @@
     "provider": "sunrise",
     "app_id": "ch.sunrise.mein.konto",
     "language": "fr",
-    "review_id": "b032bbc5-36aa-481f-aa74-7f5cf5496c02",
-    "user": "Un utilisateur de Google",
-    "score": 1,
-    "date": "2016-07-24 17:38:10",
-    "content": "nul de chez nul pourquoi vous faite des applications de m***e alors que l ancienne fonctionnait a merveille est pas un fouilli inimaginable si je pouvais je mettrais 5 étoiles en moins merci d écouter vos clients",
-    "thumbs_up": 2,
-    "app_version": "3.0.0",
-    "reply": null
-  },
-  {
-    "app_name": "mysunrise",
-    "provider": "sunrise",
-    "app_id": "ch.sunrise.mein.konto",
-    "language": "fr",
     "review_id": "95f07169-01fc-464d-aa31-83e45dcd1fa2",
     "user": "Un utilisateur de Google",
     "score": 1,
@@ -252611,7 +252611,7 @@
     "score": 4,
     "date": "2024-10-16 05:44:28",
     "content": "Ne sert à rien, on ne peut rien modifier sur son compte , on ne voit rien des factures, on ne peut rien configurer . A améliorer vraiment. _______________________ Merci Sarah je vous ai envoyé un email. __________ Après avoir désinstaller l'application et réinstaller l'application je peux avoir accès à mon compte si vous rencontrez le même problème",
-    "thumbs_up": 39,
+    "thumbs_up": 40,
     "app_version": "1.0.10",
     "reply": "Bonjour, pouvez-vous m'envoyer une capture d'écran, le modèle de l'appareil, la version d'Android et votre numéro de téléphone/adresse e-mail par e-mail à mysalt@salt.ch afin que nous puissions vérifier? Salutations, Sarah"
   },
