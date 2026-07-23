@@ -5548,6 +5548,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.tv2.wingo",
     "language": "de",
+    "review_id": "3d08cf26-7dcf-49cd-8892-b6eaf6b77f04",
+    "user": "Mario Calcagnini",
+    "score": 1,
+    "date": "2026-07-21 21:56:44",
+    "content": "Beim Streaming auf Chromecast ständig Ruckler und Hänger. Netflix und Disney laufen problemlos. Wungo Tv nicht. so leider unbauchbar",
+    "thumbs_up": 0,
+    "app_version": "2.9.0",
+    "reply": null
+  },
+  {
+    "app_name": "wingo tv",
+    "provider": "wingo",
+    "app_id": "com.swisscom.tv2.wingo",
+    "language": "de",
     "review_id": "7e45f9ac-c3af-4dc2-a2d8-00e53d36f412",
     "user": "Lorenz Nitschke",
     "score": 5,
@@ -7172,6 +7186,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
+    "review_id": "692f9c6c-278d-415d-b77c-0424ab9e9285",
+    "user": "Jimmy Haselpletsche",
+    "score": 3,
+    "date": "2026-07-21 14:24:46",
+    "content": "Bis die E-Mail geöffnet werden geht noch langsamer😒😒😒",
+    "thumbs_up": 0,
+    "app_version": "11.31.2",
+    "reply": "Hallo Jimmy, vielen Dank für deine Bewertung mit 3⭐ und dein Feedback. Es tut mir leid, dass das Öffnen der E-Mail langsam ist. Melde dich doch bei uns via www.swisscom.ch/support. Unsere Spezialist*innen nehmen sich der Sache gerne an. Liebe Grüsse, Gabriela Online Care Team."
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
     "review_id": "dca61205-da34-4b66-9b24-b54be62d3add",
     "user": "Mi Ce Ma",
     "score": 3,
@@ -7187,7 +7215,7 @@
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
     "review_id": "84dbd3c0-e3c3-43bf-9c0e-d3443bcbcb9f",
-    "user": "Franziska Bächler",
+    "user": "Ein Google-Nutzer",
     "score": 1,
     "date": "2026-07-13 11:47:12",
     "content": "Einloggen geht nicht. Auch nach mehrmaliger neuinstallation!!!",
@@ -60293,7 +60321,7 @@
     "score": 2,
     "date": "2026-07-19 07:36:06",
     "content": "Ich war lange Zeit zufrieden, mitlerweile bin ich aber echt genervt. Gelöschte Aufnahmen,verschwinden nicht mehr aus der Liste,zukünftige Aufnahmen werden schon,teilweise 2 Wochen im vorraus,in der Aufnahmeliste angezeigt,wenn ich etwas angefangen habe zu schauen und weiter schauen möchte,funktioniert das nicht,auch wenn ich es anwählen muss ich von anfang an schauen und suchen wo ich war! Auch das mit immer wieder ausloggen kenne ich,was recht mühsame ist. Lohnt sich die teure Swisscom noch?",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.9.3",
     "reply": null
   },
@@ -61119,7 +61147,7 @@
     "score": 1,
     "date": "2026-03-16 08:22:15",
     "content": "Ich habe blue Sport abonniert. Leider scheint das Hauptziel der App zu sein, das Abspielen der abonnierten Inhalte zu verhindern.",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "7.7.0",
     "reply": "Hallo Daniel, vielen Dank für deine Rückmeldung. Je nachdem, wo du dich befindest, kann es aus urheberrechtlichen Gründen vorkommen, dass Inhalte im Ausland nicht abgespielt werden können. Es ist schwierig, die genaue Ursache hierfür zu ermitteln. Tut mir leid für die Umstände. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -62116,20 +62144,6 @@
     "thumbs_up": 2,
     "app_version": "7.5.4",
     "reply": "Hallo Jan, danke für das Feedback. Es tut mir leid, dass die TV-App nicht wunschgemäss funktioniert. Nimm dein TV-Gerät vom Strom und installiere danach die App nochmals neu. Sollten dies nicht helfen, kontaktiere uns via www.swisscom.ch/support. Unsere Spezialist*innen nehmen sich der Sache gerne an. Liebe Grüsse, Gabriela Online Care Team"
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "de",
-    "review_id": "59a62861-84d7-4dab-82d2-6eeabf30edae",
-    "user": "Ein Google-Nutzer",
-    "score": 1,
-    "date": "2025-11-16 13:08:27",
-    "content": "Wie kann das sein, dass so ein Konzern die Updates von mal zu mal so krass verschlechtert!!! Ich bitte um sofortige Korrektur!!! Man kann nicht mal mehr richtig \"spulen\". Die App ist ein Desaster",
-    "thumbs_up": 10,
-    "app_version": "7.5.3",
-    "reply": "Hallo Mike, danke für dein Feedback. Es tut mir leid, dass unsere App nicht wunschgemäss funktioniert. Aus Sicherheitsgründen wird die Unterstützung älterer Systeme eingestellt, da aktuelle Standards sicherer sind. Ich wünsche dir einen schönen Tag. Liebe Grüsse Gabriela, Online Care Team"
   },
   {
     "app_name": "blue tv",
@@ -68119,7 +68133,7 @@
     "score": 1,
     "date": "2024-01-23 21:43:43",
     "content": "wieso kann ich trotz blue Sport Abo Spiele nicht in HD schauen? das geht doch nicht. früher konnte ich von der mobilen App auf den TV streamen oder via Laptop und HDMI. beides ist nun auch nicht mehr möglich. wie soll ich mir denn für mein Geld so überhaupt anständig ein Spiel ansehen? was soll das bitte?!",
-    "thumbs_up": 9,
+    "thumbs_up": 10,
     "app_version": "6.0.1",
     "reply": "Hallo Thomas, danke für die Bewertung und das Feedback. Es tut mir Leid zu lesen, dass du mit unserer App nicht zufrieden bist. Unsere Entwickler arbeiten weiterhin daran, die App immer attraktiver zu machen und auszubauen. Gerne gebe ich deine Inputs weiter. Beste Grüsse. Corin, Online Care Team"
   },
@@ -78227,7 +78241,7 @@
     "score": 5,
     "date": "2021-11-05 21:38:25",
     "content": "Die App funktioniert sehr gut! Alles ist absolut in Ordnung und es gibt wenig bis gar keine Fehler in der App. Was mich aber regelmässig stört ist, dass wenn man mit den Fingern beim Schauen einer Sendung aus Versehen nach oben oder unten streicht, der Sender automatisch wechselt. Besonders wenn man nicht \"live\" eine Sendung schaut und das passier ist das sehr nervig, weil man dann diee Sendung suchen und wieder neu starten muss. Vorschlag von mir persönlich: Nehmt die Funktion bitte raus!",
-    "thumbs_up": 49,
+    "thumbs_up": 50,
     "app_version": "5.3.0",
     "reply": "Hallo Benjamin, danke für deine 5⭐ und dein Feedback. Wir sind stets dabei unsere App zu verbessern und zu optimieren. Gerne nehmen wir deinen Input entgegen. Ich wünsche dir einen guten Start in die neue Woche und liebe Grüsse, Nicole Online Care Team"
   },
@@ -184392,6 +184406,20 @@
     "thumbs_up": 0,
     "app_version": "1.42.4",
     "reply": "Grazie mille per la sua recensione positiva! Vi auguriamo di continuare a divertirvi con yallo TV."
+  },
+  {
+    "app_name": "spusu",
+    "provider": "spusu",
+    "app_id": "com.massresponse.spusuch",
+    "language": "de",
+    "review_id": "2e01dc78-f9a9-4c70-8b0a-13d3400df211",
+    "user": "T „Tamy“ Nguyen",
+    "score": 5,
+    "date": "2026-07-22 05:30:40",
+    "content": "Top",
+    "thumbs_up": 0,
+    "app_version": "2.00.000",
+    "reply": null
   },
   {
     "app_name": "spusu",
