@@ -3980,20 +3980,6 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
-    "review_id": "2ff8d495-b513-4f4b-84db-f865ff452653",
-    "user": "Leo Rothacher",
-    "score": 5,
-    "date": "2023-10-25 11:07:25",
-    "content": "Super Endlich eine Wingo App Funktioniert Tadelos weiter so Wingo Danke (;",
-    "thumbs_up": 1,
-    "app_version": "1.1.34",
-    "reply": null
-  },
-  {
-    "app_name": "mywingo",
-    "provider": "wingo",
-    "app_id": "com.swisscom.mywingo",
-    "language": "de",
     "review_id": "a47c47ac-d752-4da4-b8b2-177457341940",
     "user": "Lorin",
     "score": 5,
@@ -7235,7 +7221,7 @@
     "content": "Ist mit meinem Gerät nicht mehr kompatibel... vielen Dank SWISSCOM für garnichts... das ist eine Frechheit",
     "thumbs_up": 0,
     "app_version": "11.31.2",
-    "reply": null
+    "reply": "{{screenName}} Guten Tag Michael, danke für deine Bewertung und deinen Kommentar. Leider ist es für Swisscom nicht möglich, eine App zu betreiben, die auf allen Software-Versionen läuft. Gerade auch wegen Sicherheits-Aspekten und Vorgaben vom Hersteller - hier bitten wir dich um Verständnis 🙏💙. Liebe Grüsse, Dorothea Online Care Team 🌷"
   },
   {
     "app_name": "myswisscom",
@@ -7270,20 +7256,6 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
-    "review_id": "84dbd3c0-e3c3-43bf-9c0e-d3443bcbcb9f",
-    "user": "Ein Google-Nutzer",
-    "score": 1,
-    "date": "2026-07-13 11:47:12",
-    "content": "Einloggen geht nicht. Auch nach mehrmaliger neuinstallation!!!",
-    "thumbs_up": 0,
-    "app_version": null,
-    "reply": "Hallo Franziska Bächler, danke für deine Bewertung und deinen Kommentar. Es tut mir leid zu lesen, dass deine App zur Zeit nicht funktioniert. Wende dich bitte an unsere Hotline 0800 800 800 oder an www.swisscom.ch/support. Wir würden uns freuen, dein Anliegen mit dir genau zu überprüfen. Liebe Grüsse Conny, Online Care Team"
-  },
-  {
-    "app_name": "myswisscom",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.myswisscom",
-    "language": "de",
     "review_id": "45cee64f-9339-460e-8b1c-0a3a07177faa",
     "user": "Fischer Jacqueline",
     "score": 3,
@@ -7303,7 +7275,7 @@
     "score": 1,
     "date": "2026-07-10 21:42:17",
     "content": "Kommentar überflüssig... 👎",
-    "thumbs_up": 1,
+    "thumbs_up": 0,
     "app_version": "11.31.1",
     "reply": "Guten Tag René, danke für deine Bewertung. Ich wünsche dir einen schönen Nachmittag. Liebe Grüsse, Conny"
   },
@@ -7331,7 +7303,7 @@
     "score": 1,
     "date": "2026-07-10 10:45:21",
     "content": "Seit 1 Woche kann ich mich nicht mehr anmelden, werden die Rechnungen halt nicht mehr bezahlt 😂👍🏻 Antwort an Swisscom; Warum sollte ich mich bei der Kundenhotline melden? Ist nicht mein Problem, wenn die Swisscom App nicht gut programmiert wurde. Ich bin nicht hier um das Problem zu lösen, reine Zeitverschwendung für mich, wenn ich anrufe.",
-    "thumbs_up": 1,
+    "thumbs_up": 0,
     "app_version": "11.31.1",
     "reply": "Hallo Fabian, danke für deine Bewertung und deinen Kommentar. Es tut mir leid zu lesen, dass du dich nicht mehr anmelden kannst, um deine Rechnungen einzusehen. Wende dich bitte an unsere Kundenhotline 0800 800 800 oder über www.swisscom.ch/support bei uns. Wir würden uns freuen, dein Anliegen zu überprüfen. Liebe Grüsse Conny, Online Care Team"
   },
@@ -7345,7 +7317,7 @@
     "score": 3,
     "date": "2026-07-10 10:44:00",
     "content": "s log in Funktioniert wieder",
-    "thumbs_up": 2,
+    "thumbs_up": 1,
     "app_version": "11.31.1",
     "reply": "Guten Tag Mughiwaranogodi, vielen Dank für deine 3 ⭐ Bewertung und dein Feedback. Es freut mich für dich, das alles wieder funktioniert. Ich wünsche dir einen schönen Nachmittag und sende dir liebe Grüsse, Conny Online Care Team."
   },
@@ -7359,7 +7331,7 @@
     "score": 1,
     "date": "2026-07-09 15:08:15",
     "content": "Anmelden nicht möglich! Fehler Meldung seit einigen Wochen. Swisscom war mal gut.",
-    "thumbs_up": 1,
+    "thumbs_up": 0,
     "app_version": "11.31.1",
     "reply": "Hallo Jean-Marc, vielen Dank für deine Rückmeldung.\nUns liegen aktuell keine Störungen in der My Swisscom App vor. Schau doch gerne in einem Swisscom Shop vorbei, damit du dein Anliegen gemeinsam mit einer Beraterin oder einem Berater besprechen kannst. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -7373,7 +7345,7 @@
     "score": 1,
     "date": "2026-07-09 13:12:29",
     "content": "als hätte ich als Kunde nichts anderes zu tun als meine Zeit zu vertrödeln neue Apps herunter zu laden und neu einzurichten. Höchst unprofessionelles verhalten der immer teurer werdenden Swisscom",
-    "thumbs_up": 1,
+    "thumbs_up": 0,
     "app_version": "11.21.3",
     "reply": "Hallo Dieter Syz, vielen Dank für deine Bewertung mit 1⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App aktuell nicht zufrieden bist. Gerne würden wir dies mit dir zusammen genauer anschauen. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dich unterstützen können. Liebe Grüsse Juan"
   },
@@ -7583,7 +7555,7 @@
     "score": 1,
     "date": "2026-06-19 16:57:00",
     "content": "Einloggen in diese App nicht mehr möglich. Die Links unter dem einloggen sind auch nicht anklickbar. Und in der Webseite sind Links, die auf diese App verweisen daher sinnfrei. Beides mit 2 verschiedenen Tastaturen ausprobiert und beide male das gleiche Verhalten der App. App - mit Cache leeren und Daten löschen - deinstalliert und paar Minuten später wieder Installiert: Siehe oben. Immer noch kein einloggen möglich.",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "11.30.1",
     "reply": "Hallo Peter, vielen Dank für deine Rückmeldung. Hast du bereits die App aktualisiert? Möglicherweise unterstützt dein Gerät die aktuelle Version der App nicht mehr.\nBitte wende dich an einen Swisscom‑Shop, damit dein Anliegen dort genauer geprüft werden kann. Danke und liebe Grüsse, Mirko Online Care Team"
   },
@@ -9207,7 +9179,7 @@
     "score": 1,
     "date": "2025-12-05 16:57:34",
     "content": "Jedes Mal muss ich ein Update machen und warte seit 5min bis die App aktualisiert. Nun sind wir mal bei 98% gelandet. Danach kann ich mich nicht einloggen und muss jedes Mal anrufen. Kundendienst ist immer sehr lieb, aber das bringt mir nichts, wenn ich doppelt so viel bezahle monatlich, als bei Salt. Zwar spart man an Papier, aber mein Zeitaufwand ist dafür maximal. Das war vor paar Monaten viel besser bei Salt. Schade!",
-    "thumbs_up": 13,
+    "thumbs_up": 14,
     "app_version": "11.26.6",
     "reply": "Hallo Emine, danke für deine Rückmeldung. Es tut mir leid, dass du Probleme hast. Die Anmeldung inklusive Verifizierung dauert normalerweise nicht länger als 20 Sekunden – dabei kann auch dein Fingerabdruck verwendet werden. Gerne helfen wir dir auch in einem Swisscom Shop weiter. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -9319,7 +9291,7 @@
     "score": 1,
     "date": "2025-11-27 19:23:35",
     "content": "Guten Tag Mehrere Nutzer – mich eingeschlossen – haben das Problem, dass die Login-Funktion in der App nicht mehr funktioniert. Wie kann es sein, dass kommuniziert wird, es sei „nichts bekannt“, obwohl dieses Problem offensichtlich mehrere Kunden betrifft? Es wäre wünschenswert, wenn die IT-Abteilung diese Störung zeitnah prüft, anstatt die Kunden einfach abzufertigen. Bei den Preisen, die Sie verlangen, erwarte ich ehrlich gesagt etwas mehr Transparenz und Kundenorientierung.",
-    "thumbs_up": 99,
+    "thumbs_up": 100,
     "app_version": "11.25.3",
     "reply": "Hallo DieVisum HD, vielen Dank für deine Bewertung mit 1⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App nicht einloggen kannst. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dich unterstützen können. Liebe Grüsse Juan"
   },
@@ -12413,7 +12385,7 @@
     "score": 1,
     "date": "2025-06-03 09:06:37",
     "content": "Hallo Liebe Swisscom, ich kann mich nicht mehr anmelden! Login funktioniert nicht und wird mit einer Fehlermeldung \"Versuchen Sie es später nochmals\" quittiert!! Die Abo Daten bzw Profildaten koennen so nicht angezeigt fehler. Da kommt leider ein Systemfehler. Da ist aktuell ein Problem. Koennen Sie das bitte fixen? So ist die App unbrauchbar und jaa liebe SC App x-mal de-installiert und installiert. Danke für eine schnelle Lösung.",
-    "thumbs_up": 46,
+    "thumbs_up": 47,
     "app_version": "11.22.1",
     "reply": "Hallo Roberto, vielen Dank für deine Bewertung und das Feedback. Es tut mir leid zu lesen, dass Probleme mit der App bestehen. Dieses Problem ist bei unseren Spezialisten bekannt und wird schnellstmöglich behoben. Bitte habe noch etwas Geduld und Verständnis. Wünsche dir einen wunderschönen Tag und sende liebe Grüsse, Dorothea Online Care Team 🌷"
   },
@@ -14163,7 +14135,7 @@
     "score": 1,
     "date": "2024-03-08 17:22:38",
     "content": "Katastrophe was sich SC mit ihren Apps leistet! Seit Wochen sehe ich vorwiegend den Drehkreis und nichts passiert. Auch auf der viel besseren alten App, welche ja bis zum 01.03.23 hätte laufen sollen. Wie kann man nur etwas gut funktionierendes laufend verschlechtern - unerklärlich! 1 Jahr später: nichts hat sich geändert. Dauernd Drehkreis \"das dauert länger als erwartet\", Geräteliste kann nicht angezeigt werden und keine Technische Hilfe für solche allgemeine Probleme. SEHR SCHWACH!",
-    "thumbs_up": 78,
+    "thumbs_up": 79,
     "app_version": "11.12.3",
     "reply": "Hallo Thomas, vielen Dank für deine Rückmeldung. Versuche mal die APP mit einem neuerem Gerät zu starten. Das S10 ist langsam aber sicher nicht mehr für alle Applikationen tragbar. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -56079,7 +56051,7 @@
     "score": 5,
     "date": "2012-03-31 06:18:35",
     "content": "... Et la facilité d'accès .",
-    "thumbs_up": 1,
+    "thumbs_up": 0,
     "app_version": "2.0",
     "reply": null
   },
@@ -60365,6 +60337,20 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "40478508-8d59-43f9-b4e0-99b9bee83771",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-07-26 12:32:33",
+    "content": "Nicht alles auf dem TV kann gestreamt werden. Manche Sender gehen gar nicht.",
+    "thumbs_up": 0,
+    "app_version": "7.9.3",
     "reply": null
   },
   {
@@ -71040,20 +71026,6 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "de",
-    "review_id": "40b3c6f5-df68-4e66-985a-7123c48b219b",
-    "user": "Ein Google-Nutzer",
-    "score": 5,
-    "date": "2023-05-23 06:27:33",
-    "content": "Einfach Genial",
-    "thumbs_up": 0,
-    "app_version": "5.7.1",
-    "reply": "Guten Morgen Fabrizio. Vielen lieben Dank für deine 5 Sterne und dein Feedback. Es freut mich sehr zu lesen, dass du mit unserer App zufrieden bist 😊💙 Ich wünsche dir einen tollen Tag und sende dir liebe Grüsse. Janine, Online Care Team."
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "de",
     "review_id": "455d0f00-fb2e-4bb1-948a-42c5a771ba11",
     "user": "Ein Google-Nutzer",
     "score": 4,
@@ -72742,20 +72714,6 @@
     "thumbs_up": 0,
     "app_version": "5.5.2",
     "reply": "Bonjour Gilles, navrés d'apprendre les perturbations que tu rencontres avec notre application.\nJe t'invite à cliquer sur ce lien: https://bit.ly/2A45DGn où un support pourra t'être donné.\nPasse une bonne semaine, Stéphanie Online Care Team"
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "de",
-    "review_id": "95de708e-af4f-4b85-917c-93f8e35bae7e",
-    "user": "Ein Google-Nutzer",
-    "score": 5,
-    "date": "2022-11-18 12:42:27",
-    "content": "Einfach Top 😉👍",
-    "thumbs_up": 0,
-    "app_version": "5.5.2",
-    "reply": "Hallo Fabrizio. Danke dir für deine 5 Sterne und dein Feedback 💙 Es freut mich sehr zu lesen, dass du mit unserer App zufrieden bist. Ich wünsche dir ein tolles Wochenende. Liebe Grüsse, Bettina Online Care Team"
   },
   {
     "app_name": "blue tv",
@@ -120297,7 +120255,7 @@
     "score": 5,
     "date": "2026-06-24 21:45:07",
     "content": "Oui ! Juste oui ! (petit défaut : les skips de pubs mal gérés mais c'est pas grave 🤷🏽‍♂️)",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.9.1",
     "reply": null
   },
@@ -120493,7 +120451,7 @@
     "score": 5,
     "date": "2026-04-12 06:42:37",
     "content": "La mise à jour 7.8.1 a RÉSOLU ce problème 😀 \"7.6.1 Android 15 description des chaînes en mode télécommande jusqu'au numéro 20, il y a déjà un ticket ouvert, ce problème dure depuis plusieurs mois maintenant...\"",
-    "thumbs_up": 14,
+    "thumbs_up": 15,
     "app_version": "7.8.1",
     "reply": null
   },
@@ -123475,7 +123433,7 @@
     "score": 4,
     "date": "2024-03-12 10:54:26",
     "content": "Application stable et de qualité. Vraiment agréable de l'utiliser, je la recommande. Je ne lui mets pas la note maximum car à la différence de l'application youtube, elle ne gère pas l'écran externe du samsung Zflip 4 et aussi le fait qu'elle se met en veille quand le téléphone est fermé ou locké ce qui n'est pas pratique quand on écoute une émission dans les transports publics ou dans la rue. C'est un détail mais ceux qui voyagent tous les jours me comprendront.",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "6.1.0",
     "reply": "Bonjour Pierre ! Merci d'avoir pris le temps de nous laisser ton commentaire 💙. Nous sommes heureux que notre application te plaise et nous transmettons avec plaisir tes remarques au département compétent. Cela nous permettra de nous améliorer 😊. Belle journée, Stéphanie Online Care Team"
   },
@@ -199453,7 +199411,7 @@
     "score": 1,
     "date": "2020-08-01 19:39:30",
     "content": "Katastrophal. Funktioniert überhaupt nicht. App hängt sich beim Start dauern auf und nichts geht mehr. Die neue App Version finde ich nicht gut. Beim Anmelden sieht man nicht mehr sofort wie viele Gespräche, SMS und Daten man noch hat. Diese Information muss man nun mühsam zusammensuchen. Ich finde es schade, dass man immer etwas verschlechtern muss was einigermaßen gut war.",
-    "thumbs_up": 43,
+    "thumbs_up": 44,
     "app_version": "5.2.2",
     "reply": null
   },
@@ -248873,7 +248831,7 @@
     "score": 5,
     "date": "2021-02-19 11:27:48",
     "content": "Facile, puoi tornare indietro, puoi mettere in pausa, hai tanti canali a disposizione, semplicemente stupenda.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "2.3.63 Prod",
     "reply": null
   },
