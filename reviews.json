@@ -5618,6 +5618,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.tv2.wingo",
     "language": "de",
+    "review_id": "151c83ad-4dce-452a-a0c0-305c9d62d799",
+    "user": "Florian Aebi",
+    "score": 1,
+    "date": "2026-07-28 19:54:27",
+    "content": "weil die App 10000 mal nach einer Bewertung fragt....",
+    "thumbs_up": 0,
+    "app_version": "2.9.0",
+    "reply": null
+  },
+  {
+    "app_name": "wingo tv",
+    "provider": "wingo",
+    "app_id": "com.swisscom.tv2.wingo",
+    "language": "de",
     "review_id": "76216947-144c-4438-8990-051886d85240",
     "user": "Mujo Mujagic",
     "score": 3,
@@ -7250,6 +7264,20 @@
     "thumbs_up": 2,
     "app_version": "1.0.0",
     "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
+    "review_id": "5116e969-ffd7-49c7-8667-a9a21a6b4125",
+    "user": "Edyta Jankowska",
+    "score": 1,
+    "date": "2026-07-28 19:58:00",
+    "content": "die Swisscom app ist für manche Handy nicht verfügbar... trotz Vwrtrages...?!",
+    "thumbs_up": 0,
+    "app_version": null,
+    "reply": "Hallo Edyta Jankowska, danke für dein Feedback und die Bewertung. Für die Nutzung der My Swisscom App brauchst du ein Swisscom Login sowie iOS 14.0+, Android 8.0+ oder alternativ einen Webbrowser. Die App ist nur für Privatkunden Produkte verfügbar. Ich wünsche dir einen angenehmen Tag und sende dir liebe Grüsse Corin, Online Care Team."
   },
   {
     "app_name": "myswisscom",
@@ -56835,7 +56863,7 @@
     "score": 1,
     "date": "2026-07-05 18:08:32",
     "content": "si, non é cambiato nulla. rifatto di nuovo installazione. accettato condizioni e non accetta la scansioni della carta d'identità...dice che non é biometrico il documento mentre é una carta appena rilasciata quindi nuova. cancellerò di nuovo l'applicazione.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.31.1",
     "reply": "Grazie Vania Bettosini per aver condiviso la tua esperienza. Siamo spiacenti di apprendere i disagi che stai riscontrando con la nostra applicazione. Ti invitiamo a contattare il nostro servizio clienti allo 0800 800 800 per trovare una soluzione. Cordiali saluti, Chantal Online Care team."
   },
@@ -57885,7 +57913,7 @@
     "score": 5,
     "date": "2022-02-02 18:21:28",
     "content": "La tv si blocca in continuazione nonostante l'ottima connessione. Quando si blocca inchioda tutto il tablet e anche il cellulare. Da ai nervi, e il bello è che prima non lo faceva, quando verrà risolto modificherò la valutazione Aggiornamento, ora va! In realtà è già da molto che funziona",
-    "thumbs_up": 16,
+    "thumbs_up": 17,
     "app_version": "10.5.1",
     "reply": "Caro Matteo, grazie mille per essere tornato ad aggiornare il tuo commento e lasciare questo feedback. Ti auguro una buona giornata, Yari online care team"
   },
@@ -58179,7 +58207,7 @@
     "score": 4,
     "date": "2021-07-31 17:40:15",
     "content": "Ottimo servizio, l'unica pecca è quando inserisci il codice dalla televisione (6 numeri) non funziona",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "10.4.1",
     "reply": "Ciao Fabrizio, grazie per la tua valutazione. Mi dispiace dover leggere che il codice a 6 cifre non funziona. Volentieri inoltro ciò al reparto responsabile. Ti auguro una buona giornata. Cari saluti, Enea (Online Care Team)"
   },
@@ -60965,7 +60993,7 @@
     "score": 2,
     "date": "2026-05-04 05:57:29",
     "content": "Download option eigentlich super. Was mich aber total nervt, ist das man sich immerwieder einloggen muss. Für die Ferien lade ich jeweils ein paar Filme runter die ich dann im Flugzeug gerne schauen möchte. Vor Abflug jeweils nochmals extra einloggen. Im Flieger werde ich dann jeweils völlig random wieder ausgeloggt, auch wenn ich den Film schon angefangen habe. Ohne Internet kann ich mich logisch nicht mehr einloggen. Finde ich extrem mühsam.",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "7.8.2",
     "reply": null
   },
@@ -60979,7 +61007,7 @@
     "score": 2,
     "date": "2026-05-03 19:40:03",
     "content": "Extrem frustrierend ist es, dass: wenn man etwas aufnimmt und dieselbe Sendung etwas verspätet über den TV-Guide \"von Anfang an\" spielt, wird bei Abschluss der Aufnahme, die Sendung wieder auf Live geschaltet, ohne Möglichkeit, wieder zur gesehenen Stelle zurückzukehren. Entweder man schaut die ganze Sendung nochmals von vorn oder gar nicht. Die Aufnahmen nehmen auch keine Verlängerungen im Sport wahr, was dazu führt, dass ein F1 Rennen nach Roter Flagge mitten im Rennbetrieb abgebrochen wird.",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": null,
     "reply": null
   },
@@ -61007,7 +61035,7 @@
     "score": 1,
     "date": "2026-04-28 16:37:31",
     "content": "Die App war mal richtig gut 🙁 Wenigstens die Vollbildansicht funktioniert jetzt nach einem halbem Jahr wieder. Wenn man schnell zurück springen möchte, springt die App an den Anfang oder irgendwo anders hin!? Vorher hat das alles einwandfrei funktioniert! Für mich war die vorher recht gute App ein Grund das etwas teuerer Swisscom Abo zu wählen. Leider verliert dieser Grund gerade seine Berechtigung! Wirklich schade",
-    "thumbs_up": 29,
+    "thumbs_up": 30,
     "app_version": "7.8.2",
     "reply": "Hallo My List, vielen Dank für deine Bewertung und dein Feedback. Es tut mir leid zu lesen, dass du seit dem letzten Update Probleme feststellst. Diesen Bug sollte gegen ende August mit dem nächsten Release 7.4.0 gelöst werden.\nLiebe Grüsse, Federica\nOnline Care Team"
   },
@@ -61273,7 +61301,7 @@
     "score": 3,
     "date": "2026-03-15 13:13:55",
     "content": "Die Filmlänge stimmt vielfach nicht. Der Film fängt erst später an (was nicht schlimm ist) und hört deshalb dann auch zu früh auf. Letzteres regt mich dann jedes Mal auf, denn wenn ich einen Film schauen möchte, dann bitte bis zum Ende! manchmal taucht auch ein kryptisches Textfeld mitten im Film vor dem Bild auf, so dass man die Handlung nicht mehr sieht. dieses Textfeld lässt sich nicht wegdrücken..",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "7.7.0",
     "reply": "Hallo S M, vielen Dank für deine Rückmeldung. Das ist natürlich ärgerlich. Die Programmdaten werden uns zwar zur Verfügung gestellt, allerdings hast du bei den Aufnahmen die Möglichkeit, die Aufnahme länger zu konfigurieren – so verpasst du auch keinen Schluss. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -61301,7 +61329,7 @@
     "score": 2,
     "date": "2026-03-06 15:56:44",
     "content": "Ich bin seit Jahren Fan dieser App. Es gibt aber immer wieder neue Probleme. das aktuelle Problem: Downloads haben keinen Ton oder können gar nicht abgespielt werden. Wenn ich Aufnahmen schaue, dann starten die jeweils ca. 3min zu spät, so dass man den Anfang verpasst, ebenso springt nach dem Stoppen die Wiederaufnahme wieder 1-3min vorwärts. Das ist wirklich sehr mühsam. Ich hoffe auf eine schnelle Korrektur dieser Fehler.",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "7.7.0",
     "reply": null
   },
@@ -61525,7 +61553,7 @@
     "score": 1,
     "date": "2026-02-02 20:17:07",
     "content": "Habe die App Jahrelang genutzt. Alles bestens. Seit kurzem kann ich mich aber auf dem Smartphone nicht mehr einloggen. Der Bildschirm bleibt leer (schwarz). Das X oben links bringt mich nur wieder zurück auf die Logginseite und das \"Spiel\" beginnt von neuem. Echt bemühend emühend ist, dass man sich jetzt auch vorzu zu neu anmelden muss. Wenn der Zugriff durch ein bekanntes Gerät schon einmal erfolgte, sollte das nicht mehr nötig sein! Das war früher der nicht der Fall. Bitte unbedingt fixen!!",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "5.0.8",
     "reply": "Hallo Oidualc. Vielen Dank für deine Bewertung und dein Feedback. Es tut mir leid zu lesen, dass du die App aktuell nicht nutzen kannst. Hast du die App einmal de- und wieder neu installiert? Dies kann oft helfen. Sollte dies keine Besserung bringen, melde dich direkt bei uns unter www.swisscom.ch/support. Liebe Grüsse Janine, Online Care Team."
   },
@@ -62897,7 +62925,7 @@
     "score": 1,
     "date": "2025-08-25 06:39:16",
     "content": "Die App wird immer schlimmer. Sie ist inzwischen fast nicht mehr brauchbar. Aufnahmen werden nicht angezeigt, bei der kleinsten Berührung werden die Inhalte gewechselt und das schlimmste: Sobald einmal eine Aufnahme läuft, wird das Spulen zur Herausforderung. 30 Sekunden vorspulen resultiert JEDES MAL in 3 Minuten zurückspulen. Wie geht das???? Das Problem besteht seit mehr als einem Monat, gemacht wird aber nichts. Bringt mal eure App in Ordnung!",
-    "thumbs_up": 30,
+    "thumbs_up": 31,
     "app_version": "7.3.10",
     "reply": "Hallo Flo, vielen Dank für deine Rückmeldung. Es tut mir leid zu lesen, dass du Schwierigkeiten mit der App hast. Dein Feedback wird selbstverständlich an die entsprechende interne Abteilung weitergeleitet. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -67923,7 +67951,7 @@
     "score": 2,
     "date": "2024-03-04 20:35:56",
     "content": "Seit fast einer Woche ist das Login weder auf dem Phone, noch auf dem Tablet möglich. Das Login fragt nach einem Pin und nach gewisser Zeit kann man sich eine SMS mit einer Nummer senden lassen, was funktioniert. Danach folgt die Frage nach welchem Abo man sich einloggen will. Trotz mehrmaligem Klicken passiert gar nichts mehr, egal welches Gerät. Wie loggt man sich korrekt ein?",
-    "thumbs_up": 10,
+    "thumbs_up": 11,
     "app_version": "6.0.2",
     "reply": "Hallo Hanspeter, danke für dein Feedback. Ich bedaure zu lesen, dass unsere App nicht wunschgemäss funktioniert. Unter folgendem Link kannst du einen Rückruf anfordern:\nhttps://www.swisscom.ch/de/privatkunden/hilfe/kontakt\nUnsere Spezialisten: innen nehmen sich der Sache gerne an. Liebe Grüsse, Barbara Online Care Team"
   },
@@ -73327,7 +73355,7 @@
     "score": 1,
     "date": "2022-10-23 16:50:00",
     "content": "Absolut kein Service und keine Funktionen mehr. Swisscom Internet fällt aus. Normalerweise Handy per HDMI Kabel an TV angeschlossen und über Handy Netz Swisscom TV geschaut. Geht nicht mehr, Meldung \"HDMI und AirPlay nicht erlaubt\". Ganz schwach Swisscom. Wenn ihr alle nützlichen Funktionen schon abschafft, Replay Werbung schaltet, Streaming unterbindet, dann geht wenigstens mit dem Preis runter. Euer hoher Preis rechtfertigt das Produkt langsam leider nicht mehr. Wirklich schwach von euch!",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "5.4.4",
     "reply": "Hallo Olivarius, danke für deine Bewertung. Zu deinen angesprochenen Themen zwei Interessante Links dazu: https://www.swisscom.ch/de/privatkunden/hilfe/blue-tv/replay-werbung.html und https://community.swisscom.ch/t5/TV-Wissensbox/Das-bedeutet-Digitales-Rechtemanagement-f%C3%BCr-blue-TV-Air/ta-p/709355. Liebe Grüsse, Raphael Online Care Team"
   },
@@ -86529,7 +86557,7 @@
     "score": 1,
     "date": "2020-11-15 14:02:12",
     "content": "Habe langsam keine Lust mehr, mich jedes Mal, wenn ich die App öffne das Tablett neu anzumelden. Dann funktioniert es nicht ... Nicht mal das Verbinden mit dem Pin des Fernsehers funktioniert -> \"Anzahl Anmeldungen pro 90 Tage überschritten. ....\" Die Swisscom behauptet wir haben das Problem erkannt und gelöst... in anderen Kommentaren Die vielen Reklamationen zeigen aber das Gegenteil. Fakt ist, es funktioniert nicht - Swisscom erbringt nicht die Leistung, für die man bezahlt. So ist das ganze nur ärgerlich. Bei Netflix ist mir das noch nie passiert. Die scheinen es im Griff zu haben.",
-    "thumbs_up": 34,
+    "thumbs_up": 35,
     "app_version": "5.0.3",
     "reply": "Hallo Martin, danke für dein Feedback. Es tut mir leid, dass die Umstellung negative Auswirkungen hat. Wir konnten den Fehler, welcher ein wiederkehrendes Login bei Nutzung der App erfordert hat, identifizieren und arbeiten zurzeit mit Hochdruck an einer Lösung. Wir entschuldigen uns für die Unannehmlichkeiten. Liebe Grüsse Janine"
   },
@@ -120187,6 +120215,20 @@
     "content": "Super App",
     "thumbs_up": 0,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
+    "review_id": "854adaf7-7717-42b1-a844-3fcabe75d895",
+    "user": "Lorena M.",
+    "score": 4,
+    "date": "2026-07-28 19:12:07",
+    "content": "c'est pas mal mais j'efface des séries et ça revient. ça fonctionne mieux sur la tv",
+    "thumbs_up": 0,
+    "app_version": "7.9.3",
     "reply": null
   },
   {
@@ -154410,6 +154452,20 @@
     "provider": "yallo",
     "app_id": "ch.yallo.selfcare",
     "language": "de",
+    "review_id": "0fa87930-cb6d-4973-a406-3e4151bcbdc7",
+    "user": "Larissa Kofmel",
+    "score": 2,
+    "date": "2026-07-28 19:49:18",
+    "content": "App selbst funktioniert. Zwei Sterne für den Preis.. Aber das Wlan ist sack schwach und bis der TV vlt. mal ohne z stocken läuft, dauert es jedes mal zwischen 5 und 30 minuten. auch das gerät für kurze zeit auszustecken hilft nur bedingt.",
+    "thumbs_up": 0,
+    "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "my yallo",
+    "provider": "yallo",
+    "app_id": "ch.yallo.selfcare",
+    "language": "de",
     "review_id": "d212fc10-619d-4e41-97f9-3d8442c11f41",
     "user": "Johannes Dobers",
     "score": 1,
@@ -181333,7 +181389,7 @@
     "app_id": "com.smith.production",
     "language": "de",
     "review_id": "098ca20e-5014-4291-8c59-566893e28049",
-    "user": "Hansjörg Klauser",
+    "user": "Ein Google-Nutzer",
     "score": 5,
     "date": "2022-11-18 12:53:13",
     "content": "ist optimal und breit aufgestellt an TV Programmen!!",
@@ -184538,6 +184594,20 @@
     "provider": "spusu",
     "app_id": "com.massresponse.spusuch",
     "language": "de",
+    "review_id": "42aa16b3-2730-4827-a4c0-2da3573c68a8",
+    "user": "Remigi Odermatt",
+    "score": 1,
+    "date": "2026-07-28 12:27:56",
+    "content": "app funktioniert nicht auf tablet",
+    "thumbs_up": 0,
+    "app_version": "2.00.001",
+    "reply": null
+  },
+  {
+    "app_name": "spusu",
+    "provider": "spusu",
+    "app_id": "com.massresponse.spusuch",
+    "language": "de",
     "review_id": "74f790b7-936f-4c1c-9793-092ff2fa080d",
     "user": "Wolfgang Schulz",
     "score": 5,
@@ -184627,7 +184697,7 @@
     "score": 5,
     "date": "2026-04-07 12:49:28",
     "content": "Ich bin sehr zufrieden. Die Anmeldung, die Telefonnummerübernahme alles hat bestens geklappt. Alles ist einfach und entspannt. Der Support ist Spitze kaum Wartezeiten, mega freundlich und Anliegen/Probleme werden umgehend gelöst. Herzlichen Dank Spusu Team.",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "2.00.000",
     "reply": null
   },
@@ -184655,7 +184725,7 @@
     "score": 5,
     "date": "2026-02-06 09:06:22",
     "content": "Spitze",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "2.00.000",
     "reply": null
   },
@@ -185091,6 +185161,20 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 0,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "07b4e8a6-f1f3-4e35-9701-85616376dcec",
+    "user": "Stefan Luethi",
+    "score": 1,
+    "date": "2026-07-28 15:50:11",
+    "content": "Einfach Schrott, sorry ☹️",
+    "thumbs_up": 0,
+    "app_version": "7.6.52",
     "reply": null
   },
   {
@@ -185799,7 +185883,7 @@
     "app_id": "ch.sunrise.mein.konto",
     "language": "de",
     "review_id": "4be75784-23ac-4cc3-a9bb-50baef539312",
-    "user": "L. N.",
+    "user": "Lydia Della Rossa",
     "score": 1,
     "date": "2026-01-16 11:31:43",
     "content": "Braucht oft sehr lang bis Seiten sich öffnen oder es zeigt eine Fehlermeldung an. Aber noch schlimmer finde ich, dass ich mit einer Gebühr \"bestraft\" werde, wenn ich die Option 'sofort zahlen' im App wähle, obwohl sie doch froh sein sollten, wenn man seine Rechnung sofort begleichen möchte.. find ich jetzt überhaupt nicht Kundenorientiert Ausserdem ist der Kundendienst wirklich schlecht",
@@ -212083,6 +212167,20 @@
     "content": "Lol, warum steht in der Beschreibung, dass ich ein iPhone benötige? Copy Paste vom Appstore? ;-)",
     "thumbs_up": 0,
     "app_version": "1.0.1.15742",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "fr",
+    "review_id": "a149e605-23a2-4bab-a952-6884d84d44f9",
+    "user": "Senducha Sinnappu",
+    "score": 1,
+    "date": "2026-07-29 05:10:57",
+    "content": "je ne suis pas contente des prix et des factures. Le service n'edt pas comme avant",
+    "thumbs_up": 0,
+    "app_version": "7.6.52",
     "reply": null
   },
   {
@@ -249449,7 +249547,7 @@
     "content": "Einmal Salt - nie mehr Salt !!!",
     "thumbs_up": 0,
     "app_version": "1.0.53",
-    "reply": null
+    "reply": "Hello, We're sorry to hear that your experience with Salt has left you with this impression. We'd like the opportunity to look into your case. Please send us an email at socialmedia@salt.ch with your phone number and a brief description of the issue, and we'll be happy to review it. Kind regards Nimrod"
   },
   {
     "app_name": "salt",
@@ -251801,7 +251899,7 @@
     "content": "L'application est utile pour payer ses abonnements ou avoir du support. Impossible de modifier ses options pour la ligne fixe ou son mobile, on est obligé d'aller modifier son compte sur une page web. Pas possible non plus de bloquer les numéros surtaxés comme le permet d'autres opérateurs. Pas possible de voir les autres lignes de son compte (enfant, conjoint) sans passer à nouveau par son compte sur une page web.",
     "thumbs_up": 0,
     "app_version": "1.0.54",
-    "reply": null
+    "reply": "Hello, Thank you for your feedback. Regarding premium-rate services, it is possible to have these blocked. Please send us an email to socialmedia@salt.ch with your details, and we will be happy to check this for you. You can also manage this option directly through your customer account. Kind regards Nimrod"
   },
   {
     "app_name": "salt",
@@ -251897,7 +251995,7 @@
     "score": 5,
     "date": "2026-06-09 17:37:35",
     "content": "Pratique, assez simple d'utilisation.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "1.0.52",
     "reply": null
   },
