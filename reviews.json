@@ -4237,7 +4237,7 @@
     "score": 4,
     "date": "2026-04-28 18:06:28",
     "content": "vôtre appli est bien mais j'aimerais pouvoir gérer aussi mes appels depuis la Suisse vers l' étranger . Pouvoir mettre une limite si on dépasse les minutes inclus dans mon forfait ...",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "9.0.4",
     "reply": null
   },
@@ -4895,7 +4895,7 @@
     "score": 1,
     "date": "2025-04-23 16:03:24",
     "content": "Dommage, on ne peut pas faire grand chose. Aucun contrôle sur les données utilisées à l'étranger. J'ai mis 10 fr sur le compte, on n'en voit aucune trace. On est obligé de se connecter sur le compte pour voir où faire quelque chose. Merci de corriger ou de me dire où trouver ces infos sur l'appli. Bonne journée",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "7.63.1",
     "reply": null
   },
@@ -7264,6 +7264,20 @@
     "thumbs_up": 2,
     "app_version": "1.0.0",
     "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
+    "review_id": "fc1a559a-ac23-46cb-878f-a47d50675bca",
+    "user": "allrad",
+    "score": 1,
+    "date": "2026-07-29 13:53:08",
+    "content": "Anmelden geht überhaupt nicht mehr. Geht gar nichts mehr. Der tolle Chat kann auch nix machen.",
+    "thumbs_up": 0,
+    "app_version": "11.31.2",
+    "reply": "Guten Tag allrad, vielen Dank für deine Bewertung und dein Feedback. Ich hoffe die App deinstallieren und neu installieren hilft, dein ungelöstes Problem zu lösen. Nimm am Besten direkt mit unseren Kundendienst Kontakt auf oder über diesen Link: www.swisscom.ch/de/privatkunden/hilfe.html kannst du dein Anliegen melden. LG, Corin Online Care Team 💙"
   },
   {
     "app_name": "myswisscom",
@@ -44420,6 +44434,20 @@
     "thumbs_up": 2,
     "app_version": "1.2.8",
     "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "fr",
+    "review_id": "c3966f1d-47a3-4883-aede-a54735275f02",
+    "user": "Alain Bliggenstorfer",
+    "score": 1,
+    "date": "2026-07-30 05:05:46",
+    "content": "Trop compliquée",
+    "thumbs_up": 0,
+    "app_version": "10.5.1",
+    "reply": "Hello Alain ! Merci d’avoir pris le temps de partager ton avis. Navrés d’apprendre que l’app My Swisscom te semble compliquée à utiliser. Tes retours sont précieux et nous aident à améliorer l’expérience de nos clients. N’hésite pas à nous préciser ce qui t’a posé problème afin que nous puissions mieux t’aider. Stéphanie Online Care Team"
   },
   {
     "app_name": "myswisscom",
@@ -185168,6 +185196,20 @@
     "provider": "sunrise",
     "app_id": "ch.sunrise.mein.konto",
     "language": "de",
+    "review_id": "e31ae6a6-e268-4e74-a174-2c475bc8b511",
+    "user": "Al C",
+    "score": 1,
+    "date": "2026-07-29 21:09:51",
+    "content": "funktioniert eigentlich nie korrekt.",
+    "thumbs_up": 0,
+    "app_version": "7.6.41",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
     "review_id": "07b4e8a6-f1f3-4e35-9701-85616376dcec",
     "user": "Stefan Luethi",
     "score": 1,
@@ -199705,7 +199747,7 @@
     "score": 1,
     "date": "2020-07-07 23:04:02",
     "content": "Leider ist die App furchtbar unbrauchbar. Sie hängt sich ständig auf! Man kann Sie kaum nutzen (Auf verschiedenen Geräten! Auch gibt Sie teilweise an, eine Zahlung könne nicht getätigt werden, der Betrag wird dem Konto trotzdem abgezogen. Dummerweise denkt man so, man müsse die Zahlung wiederholen, was dazu führt, dass das Konto sich nach und nach entleert.",
-    "thumbs_up": 76,
+    "thumbs_up": 77,
     "app_version": "5.2.1",
     "reply": null
   },
