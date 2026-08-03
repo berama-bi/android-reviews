@@ -7291,7 +7291,7 @@
     "content": "100% unbrauchbar...",
     "thumbs_up": 0,
     "app_version": "11.31.2",
-    "reply": null
+    "reply": "Guten Tag Beat, vielen Dank für deine Bewertung. Es tut mir sehr leid zu lesen, dass du unsere App als \"unbrauchbar\" empfindest. Bitte melde dich doch bei unserem Kundendienst, damit wir dich hierbei unterstützen können - Ich hoffe sehr, dass wir dich bald zu unseren zufriedenen Usern zählen dürfen. Liebe Grüsse, Dorothea Online Care Team 🌷"
   },
   {
     "app_name": "myswisscom",
@@ -184678,6 +184678,20 @@
     "provider": "spusu",
     "app_id": "com.massresponse.spusuch",
     "language": "de",
+    "review_id": "d0eb61f1-fbb0-4b7b-975a-3ab757d8cd94",
+    "user": "Max Grunder",
+    "score": 5,
+    "date": "2026-08-01 13:31:39",
+    "content": "gut",
+    "thumbs_up": 0,
+    "app_version": "2.00.001",
+    "reply": null
+  },
+  {
+    "app_name": "spusu",
+    "provider": "spusu",
+    "app_id": "com.massresponse.spusuch",
+    "language": "de",
     "review_id": "42aa16b3-2730-4827-a4c0-2da3573c68a8",
     "user": "Remigi Odermatt",
     "score": 1,
@@ -184711,7 +184725,7 @@
     "score": 1,
     "date": "2026-07-27 15:50:59",
     "content": "Nach Update auf 2.00.001 funktioniert App nicht mehr. Display bleibt dunkel und App reagiert nicht mehr.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "2.00.001",
     "reply": null
   },
@@ -185245,6 +185259,34 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 0,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "c1e54efc-a0c4-4f6b-be70-26656e1bf435",
+    "user": "Simona C.",
+    "score": 1,
+    "date": "2026-08-02 01:57:37",
+    "content": "Seit über 20 Jahren bin ich Sunrise Kundin. Ich habe jeweils alle meine Rechnungen bezahlt und musste nun - wegen 3 Tagen Zahlungsverzug - CHF 40.00 Mahngebühr (1. Mahnung) bezahlen. Meine Kündigung des Abos folgt.",
+    "thumbs_up": 0,
+    "app_version": "7.6.53",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "93f7a01d-f921-48b1-ad7a-419b9ceda5bb",
+    "user": "Robin Pahl",
+    "score": 2,
+    "date": "2026-08-01 11:03:49",
+    "content": "Leider hängt die App sich immer wieder auf. Daher können die Funktionen nicht optimal genutzt werden.",
+    "thumbs_up": 0,
+    "app_version": "7.6.17",
     "reply": null
   },
   {
@@ -224697,6 +224739,20 @@
     "content": "App molto utile",
     "thumbs_up": 0,
     "app_version": "1.0.1.15742",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
+    "review_id": "d1556f06-f6e9-4581-b981-152e3e649b3d",
+    "user": "Regina Bühler",
+    "score": 5,
+    "date": "2026-08-01 16:46:54",
+    "content": "Alles gut, danke",
+    "thumbs_up": 0,
+    "app_version": "5.26.14007",
     "reply": null
   },
   {
