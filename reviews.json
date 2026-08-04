@@ -7382,6 +7382,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
+    "review_id": "84dbd3c0-e3c3-43bf-9c0e-d3443bcbcb9f",
+    "user": "Franziska Bächler",
+    "score": 1,
+    "date": "2026-07-13 11:47:12",
+    "content": "Einloggen geht nicht. Auch nach mehrmaliger neuinstallation!!!",
+    "thumbs_up": 0,
+    "app_version": null,
+    "reply": "Hallo Franziska Bächler, danke für deine Bewertung und deinen Kommentar. Es tut mir leid zu lesen, dass deine App zur Zeit nicht funktioniert. Wende dich bitte an unsere Hotline 0800 800 800 oder an www.swisscom.ch/support. Wir würden uns freuen, dein Anliegen mit dir genau zu überprüfen. Liebe Grüsse Conny, Online Care Team"
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
     "review_id": "45cee64f-9339-460e-8b1c-0a3a07177faa",
     "user": "Fischer Jacqueline",
     "score": 3,
@@ -7401,7 +7415,7 @@
     "score": 1,
     "date": "2026-07-10 21:42:17",
     "content": "Kommentar überflüssig... 👎",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.31.1",
     "reply": "Guten Tag René, danke für deine Bewertung. Ich wünsche dir einen schönen Nachmittag. Liebe Grüsse, Conny"
   },
@@ -7429,7 +7443,7 @@
     "score": 1,
     "date": "2026-07-10 10:45:21",
     "content": "Seit 1 Woche kann ich mich nicht mehr anmelden, werden die Rechnungen halt nicht mehr bezahlt 😂👍🏻 Antwort an Swisscom; Warum sollte ich mich bei der Kundenhotline melden? Ist nicht mein Problem, wenn die Swisscom App nicht gut programmiert wurde. Ich bin nicht hier um das Problem zu lösen, reine Zeitverschwendung für mich, wenn ich anrufe.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "11.31.1",
     "reply": "Hallo Fabian, danke für deine Bewertung und deinen Kommentar. Es tut mir leid zu lesen, dass du dich nicht mehr anmelden kannst, um deine Rechnungen einzusehen. Wende dich bitte an unsere Kundenhotline 0800 800 800 oder über www.swisscom.ch/support bei uns. Wir würden uns freuen, dein Anliegen zu überprüfen. Liebe Grüsse Conny, Online Care Team"
   },
@@ -7443,7 +7457,7 @@
     "score": 3,
     "date": "2026-07-10 10:44:00",
     "content": "s log in Funktioniert wieder",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "11.31.1",
     "reply": "Guten Tag Mughiwaranogodi, vielen Dank für deine 3 ⭐ Bewertung und dein Feedback. Es freut mich für dich, das alles wieder funktioniert. Ich wünsche dir einen schönen Nachmittag und sende dir liebe Grüsse, Conny Online Care Team."
   },
@@ -7457,7 +7471,7 @@
     "score": 1,
     "date": "2026-07-09 15:08:15",
     "content": "Anmelden nicht möglich! Fehler Meldung seit einigen Wochen. Swisscom war mal gut.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.31.1",
     "reply": "Hallo Jean-Marc, vielen Dank für deine Rückmeldung.\nUns liegen aktuell keine Störungen in der My Swisscom App vor. Schau doch gerne in einem Swisscom Shop vorbei, damit du dein Anliegen gemeinsam mit einer Beraterin oder einem Berater besprechen kannst. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -7471,7 +7485,7 @@
     "score": 1,
     "date": "2026-07-09 13:12:29",
     "content": "als hätte ich als Kunde nichts anderes zu tun als meine Zeit zu vertrödeln neue Apps herunter zu laden und neu einzurichten. Höchst unprofessionelles verhalten der immer teurer werdenden Swisscom",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.21.3",
     "reply": "Hallo Dieter Syz, vielen Dank für deine Bewertung mit 1⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App aktuell nicht zufrieden bist. Gerne würden wir dies mit dir zusammen genauer anschauen. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dich unterstützen können. Liebe Grüsse Juan"
   },
@@ -30949,7 +30963,7 @@
     "score": 5,
     "date": "2016-07-16 11:38:20",
     "content": "Gutes design übersichtlich sehr gut!",
-    "thumbs_up": 42,
+    "thumbs_up": 41,
     "app_version": "8.8.0",
     "reply": null
   },
@@ -60477,6 +60491,20 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "6346e982-b671-404c-8212-4fd572e7c5fc",
+    "user": "Ein Google-Nutzer",
+    "score": 3,
+    "date": "2026-08-02 10:47:55",
+    "content": "Wenn ich seit einiger Zeit von meine geplanten Sendungen eine lösche falle ich immer wieder auf den Reiter \"Alle Sendungen\" zurück",
+    "thumbs_up": 1,
+    "app_version": "7.9.3",
     "reply": null
   },
   {
@@ -164602,20 +164630,6 @@
     "provider": "yallo",
     "app_id": "ch.yallo.selfcare",
     "language": "de",
-    "review_id": "22ade0d7-2a3e-49d9-9f81-7ea5abc3c3e5",
-    "user": "Ein Google-Nutzer",
-    "score": 5,
-    "date": "2021-01-15 05:09:19",
-    "content": "Sehr gut",
-    "thumbs_up": 0,
-    "app_version": "1.2.3",
-    "reply": null
-  },
-  {
-    "app_name": "my yallo",
-    "provider": "yallo",
-    "app_id": "ch.yallo.selfcare",
-    "language": "de",
     "review_id": "e0c0b5e2-b56b-439a-902c-cc3b468c0887",
     "user": "K F",
     "score": 5,
@@ -185313,7 +185327,7 @@
     "score": 1,
     "date": "2026-07-30 12:24:17",
     "content": "\"sch...\" Firma .. Abzocker -> Nur mal ein BSPL.. Mahnungen vor Ablauf der 30 Tage Frist.l!:cBegründung Sunrise? AGB ! ABER { }{Fritst/en. -> sämrl. CH§§ (hiier -> OR §} stehen rechtlich ÜBER SÄMTLICHEN AGBs! In d. Folge -> Zahle ich nur dem tats. geschuldeten monatl. Betrag (ohne die \"+Fr.30.-Mahnungskosten\" ->> In d. darauffogenden Rechnung + WEITERE! Fr. 30. (WAAS?! soll lden das sein?-> Mahnungn bez. \"Stafosten'",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": null,
     "reply": null
   },
@@ -185383,7 +185397,7 @@
     "score": 1,
     "date": "2026-07-13 12:36:52",
     "content": "APP konnte nicht installiert werden da der Code nicht zugestellt wurde. Dies trotz mehreren Versuchen. Daher wieder deinstalliert.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": null,
     "reply": "Vielen Dank für Ihr Feedback. Es tut uns leid zu hören, dass Sie die App aufgrund des fehlenden Codes nicht installieren konnten. Das sollte natürlich nicht passieren. Bitte wenden Sie sich an unsere Hotline unter 0800 707 707 oder an unsere Community, damit wir den Grund dafür prüfen und Ihnen weiterhelfen können."
   },
@@ -185397,7 +185411,7 @@
     "score": 1,
     "date": "2026-07-09 10:33:54",
     "content": "Etwa So Gut wie ihre Bandbreite / Mobilfunkabdeckung",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.6.50",
     "reply": "Vielen Dank für Ihr Feedback. Es tut uns leid, dass Sie mit unserer Mobilfunkabdeckung und Leistung unzufrieden sind. Bitte wenden Sie sich an unsere Hotline unter 0800 707 707 damit wir Ihre Netzsituation prüfen und Sie bestmöglich unterstützen können."
   },
@@ -185411,7 +185425,7 @@
     "score": 1,
     "date": "2026-07-09 09:20:58",
     "content": "Anmeldung nicht möglich. immer try again later Kundendienst ist auch grausam nach 15min immer noch keine Antwort",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.6.50",
     "reply": "Vielen Dank für Ihr Feedback. Es tut uns leid, dass Sie sich nicht anmelden konnten und auch mit unserem Kundendienst unzufrieden waren. Das entspricht nicht unserem Anspruch. Bitte melden Sie sich bei unserer Hotline unter 0800 707 707 oder in unserer Community, damit wir Ihr Anliegen prüfen können."
   },
@@ -185495,7 +185509,7 @@
     "score": 1,
     "date": "2026-06-12 01:39:51",
     "content": "Einfach nur ein verheerender Service von Sunrise mit Rechnungen und den damit verbundenen Mahngebühren. Noch nie erlebt solch ein Theater. Nie wieder Sunrise!!!!",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.6.46",
     "reply": "Es tut uns sehr leid zu hören, dass Sie mit unserem Service und insbesondere mit den Rechnungen sowie Mahngebühren so schlechte Erfahrungen gemacht haben. Das entspricht nicht unserem Anspruch an einen guten Kundenservice."
   },
@@ -185691,7 +185705,7 @@
     "score": 1,
     "date": "2026-04-16 07:20:17",
     "content": "sunrise einfach schlechteste in die Welt und Switzerland 👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎🤑",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.6.41",
     "reply": "Vielen Dank für Ihr Feedback. Es tut uns leid, dass Sie so unzufrieden sind. Könnten Sie uns bitte mitteilen, was genau zu dieser Einschätzung geführt hat?"
   },
@@ -185761,7 +185775,7 @@
     "score": 1,
     "date": "2026-04-13 18:39:27",
     "content": "Grauenhaft. Trotz App und Registrierung muss man sich immer mit einem Code anmelden. Trotzdem habe ich bei jedem login Probleme mich einzuloggen. Dann wird mir angeblich ein Code gesendet der nie ankommt..so geht das Tage ..weder per mail noch SMS..mühselig und wertvolle Lebenszeitverlust und eine Unverschämtheit. ich werde die App Trustpilot melden und den Anbieter wechseln. sunrise ist und bleibt einfach eine Katastrophe in jeder Hinsicht",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": null,
     "reply": "Es tut uns leid, dass Sie negative Erfahrungen mit der My Sunrise App gemacht haben und der Code nie ankommt. Das ist keinesfalls unser Anspruch. Wir verstehen Ihren Frust und entschuldigen uns aufrichtig für die Unnanehmlichkeiten. Es ist schade, dass Sie uns verlassen möchten. Sie können direkt hier Antworten damit wir Ihnen weiterhelfen können."
   },
@@ -185887,7 +185901,7 @@
     "score": 1,
     "date": "2026-03-12 23:29:14",
     "content": "nie wieder sunrise",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.6.39",
     "reply": null
   },
@@ -186041,7 +186055,7 @@
     "score": 1,
     "date": "2026-01-27 23:04:27",
     "content": "Die App ist langsam und hat fehler bei der Anwendung. Chat funktion ist nicht hilfreich, am ende muss man immer mit dem Kundendienst telefonieren, wenn etwas ist. Leider nach einem Jahr wieder dieselben Probleme. Die App ist schlecht!",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "7.6.36",
     "reply": "Herzlichen Dank für Ihr Feedback. Wir bedauern sehr, dass Sie Schwierigkeiten hatten. Bitte stellen Sie sicher, dass sie die neuste App-Version haben. Wenn es weiterhin vorkommt, bitten wir Sie Screenshots davon auf https://community.sunrise.ch/t/mysunrise-upc-app hochzuladen. Vielen Dank für Ihre Zusammenarbeit! Liebe Grüsse, Sunrise App Support\n"
   },
@@ -186055,7 +186069,7 @@
     "score": 1,
     "date": "2026-01-16 11:31:43",
     "content": "Braucht oft sehr lang bis Seiten sich öffnen oder es zeigt eine Fehlermeldung an. Aber noch schlimmer finde ich, dass ich mit einer Gebühr \"bestraft\" werde, wenn ich die Option 'sofort zahlen' im App wähle, obwohl sie doch froh sein sollten, wenn man seine Rechnung sofort begleichen möchte.. find ich jetzt überhaupt nicht Kundenorientiert Ausserdem ist der Kundendienst wirklich schlecht",
-    "thumbs_up": 34,
+    "thumbs_up": 35,
     "app_version": "7.6.36",
     "reply": null
   },
@@ -186139,7 +186153,7 @@
     "score": 1,
     "date": "2026-01-02 12:49:00",
     "content": "Unterirdischer schlechter Support mit null kompetenzen",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "7.6.36",
     "reply": null
   },
@@ -186153,7 +186167,7 @@
     "score": 1,
     "date": "2025-12-30 22:02:35",
     "content": "Passend zum miserablen Kundendienst von Sunrise ist die App ebenfalls unterirdisch. Man landet fast immer in einer Sackgasse (leere Seite). Man fragt sich wirklich wer so etwas programmiert...",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "7.6.36",
     "reply": null
   },
@@ -212342,6 +212356,20 @@
     "provider": "sunrise",
     "app_id": "ch.sunrise.mein.konto",
     "language": "fr",
+    "review_id": "eaf474a4-273e-401f-9012-6ffce0ebd662",
+    "user": "Jonathan Buser",
+    "score": 2,
+    "date": "2026-08-03 06:16:52",
+    "content": "peu rapide, certaines fois pas accessible donc déficit de fiabilité.",
+    "thumbs_up": 0,
+    "app_version": "7.6.50",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "fr",
     "review_id": "35384ae8-9209-441b-ae05-227beea6d006",
     "user": "Tiarte Meryem",
     "score": 1,
@@ -228447,7 +228475,7 @@
     "score": 5,
     "date": "2023-05-07 06:24:56",
     "content": "Funktioniert super auf dem Android TV. Wenn das app langsam wird, muss ich ab und zu den Cache leeren. Hier könnte man noch verbessern. Ich konnte die Hardware weglassen, da alle Funktionen auch im app verfügbar. So hatte ich auch keine Probleme mehr mit der Soundbar, weil die box von UPC Probleme machte mit dem Ton.",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "5.01.6512",
     "reply": null
   },
@@ -252082,6 +252110,20 @@
     "thumbs_up": 0,
     "app_version": "1.0.9",
     "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "fr",
+    "review_id": "79f22d91-480f-4b88-8152-e8cb0b243154",
+    "user": "HELL NoNation",
+    "score": 5,
+    "date": "2026-08-03 07:12:59",
+    "content": "Petit problème avec l'affichage de l'accueille ça va directament sur Facture. impossible de voir les contrats des abonnements en détail. Depuis un moment l'application est de moins en moins détaillé.",
+    "thumbs_up": 0,
+    "app_version": "1.0.56",
+    "reply": "Thank you for your feedback. We're sorry to hear about your experience. We understand how frustrating this can be. We've shared your comments with our development team so they can investigate the issue and consider improvements. Your feedback helps us make the app better. Thank you for taking the time to let us know."
   },
   {
     "app_name": "salt",
