@@ -4,6 +4,34 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "52118414-f0f3-45f2-a83e-3cba25482c66",
+    "user": "Reto Giuseppe",
+    "score": 1,
+    "date": "2026-08-04 16:17:13",
+    "content": "unlimitiert in EU heisst nicht bis 40 GB dann wird gedrosselt. Geht's eigentlich noch, dann schreibt gefälligst hin dass nur 40 GB in EU verfügbar ist etc.",
+    "thumbs_up": 1,
+    "app_version": null,
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
+    "review_id": "322e560b-2209-4777-a0ad-f7ba6721c368",
+    "user": "Monika Rösli",
+    "score": 2,
+    "date": "2026-08-04 10:23:18",
+    "content": "vor etwas mehr als 1Jahr habe ich wingo gewechselt mit einem lebenlangen Abopreis. wingo du hast bald ausgedient ! Bereits zum 2.Mal wude der Abopreis erhöht. ich fühle mich hintergangen. wo bleibt das lebenslange Versprechen:-(",
+    "thumbs_up": 0,
+    "app_version": "10.0.2",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "b9565bad-1bab-40c5-b55c-0e2e5b79021a",
     "user": "Pascal Fischer",
     "score": 1,
@@ -45215,7 +45243,7 @@
     "score": 1,
     "date": "2025-12-22 10:14:47",
     "content": "Ne fonctionne plus depuis quelques jours. Impossible de se connecter. Message \"une erreur est survenue\" alors que l'application est à jour. J'ai désinstallé et réinstaller comme on m'a dit de le faire. Aucun changement. Nath de Online Care Team me demande de les contacter pour informer du problème alors qu'ils sont au courant depuis 1 mois. Ils sont vraiment incompétent au service numérique de Swisscom.",
-    "thumbs_up": 25,
+    "thumbs_up": 26,
     "app_version": null,
     "reply": null
   },
@@ -112471,7 +112499,7 @@
     "score": 1,
     "date": "2016-03-07 19:09:51",
     "content": "Will ich ein Fussballspiel mieten, muss ich mich erst im Internet anmelden. Dann, angemeldet drück ich auf mieten (beim Spiel meiner Wahl) und nichts passiert. EINFACH NICHTS. Nur das Fenster schliesst sich wieder. Nutzlose App!",
-    "thumbs_up": 37,
+    "thumbs_up": 36,
     "app_version": "1.7.1",
     "reply": null
   },
@@ -173479,7 +173507,7 @@
     "app_id": "ch.yallo.selfcare",
     "language": "fr",
     "review_id": "76c9ff1f-8789-4553-b238-264609bd5a3b",
-    "user": "Losi Durma",
+    "user": "Filan Fisteku",
     "score": 5,
     "date": "2020-09-17 17:32:20",
     "content": "Excellant",
@@ -179475,7 +179503,7 @@
     "score": 5,
     "date": "2023-08-28 06:49:42",
     "content": "Die App tut grundsätzlich, was sie soll. Was aber definitiv fehlt, ist ein \"weiterschauen\"-button, neben Live-TV und Replay-TV (für Fernseh-App?). Momentan muss ich jedes Mal, wenn ich eine Sendung verlassen habe und diese später weiterschauen möchte, von vorne beginnen und spulen, was sehr ärgerlich ist. Edit: DANKE für die Anpassung!!",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "1.62.1",
     "reply": "Vielen Dank für deine positive Bewertung und für dein Feedback! Wir wünschen dir weiterhin gute Unterhaltung mit yallo TV."
   },
@@ -183250,6 +183278,20 @@
     "provider": "yallo",
     "app_id": "com.smith.production",
     "language": "fr",
+    "review_id": "c4e745aa-0d88-42b9-aaaf-186c66a6069d",
+    "user": "Jack",
+    "score": 1,
+    "date": "2026-08-04 11:08:30",
+    "content": "août 2026 : sur TV, de pire en pire, replay plante, émission s'arrête, bref même la chaleur fiche en l'air Yallo TV ! juillet 2026 : toujours pas corrigé !!! vous comprendre problème ou pas ? quelle stupidité de mettre une pub sur le ralenti/arrêt sur image, on ne peut plus voir nos images 🤬 Wow, Werbung auf einem Standbild – das ist ein echter „Geniestreich“ (natürlich ironisch gemeint) – ich ziehe eine Stern.",
+    "thumbs_up": 0,
+    "app_version": "2.0.18",
+    "reply": null
+  },
+  {
+    "app_name": "yallo tv",
+    "provider": "yallo",
+    "app_id": "com.smith.production",
+    "language": "fr",
     "review_id": "8b51c706-ed52-4b00-af8b-15752fa9d3e5",
     "user": "colibrì zordy",
     "score": 1,
@@ -185315,20 +185357,6 @@
     "content": "Leider hängt die App sich immer wieder auf. Daher können die Funktionen nicht optimal genutzt werden.",
     "thumbs_up": 0,
     "app_version": "7.6.17",
-    "reply": null
-  },
-  {
-    "app_name": "mysunrise",
-    "provider": "sunrise",
-    "app_id": "ch.sunrise.mein.konto",
-    "language": "de",
-    "review_id": "cc7cc7a8-29b4-490d-94d7-6c77dc5e8fe5",
-    "user": "Lucien",
-    "score": 1,
-    "date": "2026-07-31 22:36:34",
-    "content": "Die App ist ein schlechter Witz. Das \"Rewards\" System auf das die seit dessen Einführung so unendlich stolz sind, ist wohl der erbärmlichste Versuch eines Unternehmens, die eigene Kundschaft von einer Treueaktion überzeugen zu wollen. Nichts davon ist wirklich was Wert und ganz egal wieviel Rabatt sie einen weiss machen wollen, dass man jetzt auf dieses Produkt nur.durch diese Aktion erreicht habe, kriegt man exakt genau dasselbe Produkt ohne Rabatt wesentlich günstiger.",
-    "thumbs_up": 0,
-    "app_version": "7.6.53",
     "reply": null
   },
   {
@@ -242853,7 +242881,7 @@
     "score": 1,
     "date": "2023-11-03 21:02:30",
     "content": "Franchement Sunrise... vos apps sont vraiment codé avec le Coude... Il y'en pas une pour rattraper l'autre, entre bug divers, connexion impossible ou trop long (3mn quand même pour \"my sunrise\") affichage bof, pas intuitif ni user-friendly et pour finir des tutos de connexion à la ramasse, mettez vous à jour bon sang! Et le point final, il est où le français?!? On parle pas tous le sauvage en Suisse.",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "5.05.7707",
     "reply": "Merci beaucoup pour vos commentaires. Nous nous excusons pour la gêne occasionnée lors de l'utilisation de notre application. Nous apprécions beaucoup vos commentaires et vos suggestions sont extrêmement importantes pour nous afin que vos commentaires soient mis en œuvre le plus rapidement possible. Bien cordialement, Sunrise App Support."
   },
@@ -243399,7 +243427,7 @@
     "score": 1,
     "date": "2023-04-20 22:10:11",
     "content": "Depuis plus d'1 semaine, impossible de regarder un programme en replay ou un enregistrement... Du coup, cette application devient complètement inutile. En plus, je dois systématiquement me reconnecter avec mon mot de passe et identifiant quand j'ouvre l'appli, alors qu'avant, elle s'ouvrait de suite sur le bon profil utilisateur. Vraiment, c'était mieux quand c'était UPC.",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "4.46.6219",
     "reply": null
   },
@@ -244029,7 +244057,7 @@
     "score": 2,
     "date": "2022-11-12 13:52:29",
     "content": "Bon, après des mois il y a eu quelques jours acceptables. Et là de nouveau lent, plante et s'arrête souvent. Visiblement les enregistrement depuis l'app sont toujours aléatoires. Dommage car c'est assez bien fait autrement. Une option directement dans l'application qui permette de rapporter les bugs ? Je ne comprends pas comment Sunrise peut proposer un tel produit? Pourquoi avoir détruit une app qui fonctionnait bien avec UPC? Vous allez perdre des clients.",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "4.44.5618",
     "reply": null
   },
@@ -244645,7 +244673,7 @@
     "score": 1,
     "date": "2022-07-06 14:41:14",
     "content": "Sunrise a réussi l'exploit de bugger une app qui un jour fonctionnait +/- sur UPC. Aujourd'hui, c'est impossible de regarder un programme, aussi court soit il, sans avoir de constantes coupures/interruptions. Je ne parle pas des enregistrements impossibles parce que les horaires des programmes ne correspondent jamais à la réalité. Ou alors il faut aussi enregistrer l'émission suivante (impossible à faire lorsque tu programmes l'enregistrement des épisodes d'une ou plusieurs saisons).",
-    "thumbs_up": 40,
+    "thumbs_up": 41,
     "app_version": "4.41.4608",
     "reply": null
   },
@@ -246437,7 +246465,7 @@
     "score": 2,
     "date": "2020-03-03 13:56:41",
     "content": "Le guide TV mentionne sans arrêt \"pas de données disponibles\". On ne peut donc pas programmer d'enregistrements à distance. Une partie des infos est en français, une autre en allemand. Attention le replay n'est pas fourni par UPC pour les chaînes du bouquet Canal+ contrairement à Swisscom. Application donc peu utile contrairement à celles des concurrents. Dommage",
-    "thumbs_up": 17,
+    "thumbs_up": 18,
     "app_version": "2.3.47 Prod",
     "reply": null
   },
@@ -258675,6 +258703,20 @@
     "content": "non ho mai avuto problemi con l'abbonamento del natel. ottimo abbonamento e a buon mercato! 👍",
     "thumbs_up": 0,
     "app_version": "1.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "quickline tv",
+    "provider": "quickline",
+    "app_id": "ch.quickline.tv",
+    "language": "de",
+    "review_id": "232c09e4-96db-4be0-9083-64e53aee963c",
+    "user": "Michel Riedy (Michel Riedy)",
+    "score": 5,
+    "date": "2026-08-04 22:36:43",
+    "content": "Bin mit Quickline sehr zufriden !44 fr internet und handi sim karde guter Service und werde freundlich behandelt. danke",
+    "thumbs_up": 0,
+    "app_version": "3.2614.02",
     "reply": null
   },
   {
