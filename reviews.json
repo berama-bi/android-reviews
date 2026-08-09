@@ -5660,6 +5660,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.tv2.wingo",
     "language": "de",
+    "review_id": "4948abdc-e163-4fbe-bc1f-8f0d7a8a5941",
+    "user": "Daniel Hirsbrunner",
+    "score": 5,
+    "date": "2026-08-07 16:16:25",
+    "content": "gut",
+    "thumbs_up": 0,
+    "app_version": "2.9.0",
+    "reply": null
+  },
+  {
+    "app_name": "wingo tv",
+    "provider": "wingo",
+    "app_id": "com.swisscom.tv2.wingo",
+    "language": "de",
     "review_id": "151c83ad-4dce-452a-a0c0-305c9d62d799",
     "user": "Florian Aebi",
     "score": 1,
@@ -28317,7 +28331,7 @@
     "score": 5,
     "date": "2019-08-01 07:06:24",
     "content": "Das App ist Super so hat man voll Kostenkontrolle und man kann sein Abo verlängern oder auch erneuern.,sowie wie Pakete hinzufügen. Auch beim Festnetzt kann man sein Abo erneuern. Ich habe auch Swisscom TV Air auf meinem Handy. Ich bin nun schon 25 Jahre bei der Swisscom und ein wechsel zu einem anderen Anbieter kommt für mich nicht in Frage. Ich glaube keiner hat so eine freundliche Kundenbetreuung wie Swisscom.",
-    "thumbs_up": 29,
+    "thumbs_up": 30,
     "app_version": "9.1.17",
     "reply": null
   },
@@ -60629,7 +60643,7 @@
     "score": 2,
     "date": "2026-07-19 07:36:06",
     "content": "Ich war lange Zeit zufrieden, mitlerweile bin ich aber echt genervt. Gelöschte Aufnahmen,verschwinden nicht mehr aus der Liste,zukünftige Aufnahmen werden schon,teilweise 2 Wochen im vorraus,in der Aufnahmeliste angezeigt,wenn ich etwas angefangen habe zu schauen und weiter schauen möchte,funktioniert das nicht,auch wenn ich es anwählen muss ich von anfang an schauen und suchen wo ich war! Auch das mit immer wieder ausloggen kenne ich,was recht mühsame ist. Lohnt sich die teure Swisscom noch?",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "7.9.3",
     "reply": null
   },
@@ -60797,7 +60811,7 @@
     "score": 5,
     "date": "2026-06-24 15:18:32",
     "content": "Auf der App werden seit kurzem unter alle Aufnahmen auch zukünftige Aufnahmen angezeigt, was sehr unübersichtlich und verwirrend ist, besonders bei Serienaufnahmen. Könnt ihr das wieder ändern?",
-    "thumbs_up": 23,
+    "thumbs_up": 24,
     "app_version": "7.9.1",
     "reply": null
   },
@@ -154662,6 +154676,20 @@
     "provider": "yallo",
     "app_id": "ch.yallo.selfcare",
     "language": "de",
+    "review_id": "be6eddc4-a657-4799-b913-a2bcb8df1163",
+    "user": "10 01",
+    "score": 1,
+    "date": "2026-08-07 14:06:02",
+    "content": "Reine Katastrophe Finger weg von yallo und co. ich musste 8. mal kontakt aufnehmen um ein Abo zu kündigen. Dann abo gekündigt auf ende 2025 aber das gekündigte abo wird immer noch bis heute 2026 berechnet. wieder kontaktiert beim weiterleiten wurde die verbindung einfach unterbrochen. Niemand ruft oder schreibt zurück und die yallo app ist auch richtig schlecht sehr langsam jedes mal sprache umstellen. in ein paar monaten ist bei mir ruhe. Alle abos gekündigt.",
+    "thumbs_up": 0,
+    "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "my yallo",
+    "provider": "yallo",
+    "app_id": "ch.yallo.selfcare",
+    "language": "de",
     "review_id": "0fa87930-cb6d-4973-a406-3e4151bcbdc7",
     "user": "Larissa Kofmel",
     "score": 2,
@@ -184837,7 +184865,7 @@
     "score": 1,
     "date": "2026-07-27 15:50:59",
     "content": "Nach Update auf 2.00.001 funktioniert App nicht mehr. Display bleibt dunkel und App reagiert nicht mehr.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "2.00.001",
     "reply": null
   },
@@ -185371,6 +185399,20 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 0,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "bc62b9c9-fdf6-4aca-b51b-787c95f45df8",
+    "user": "Pascal Gabele",
+    "score": 1,
+    "date": "2026-08-07 08:46:43",
+    "content": "Die App lädt nicht. bekomme nur sms Code. aber komme nicht in die app. lädt nur die ganze zeit.",
+    "thumbs_up": 2,
+    "app_version": "7.6.53",
     "reply": null
   },
   {
@@ -212447,6 +212489,20 @@
     "content": "Lol, warum steht in der Beschreibung, dass ich ein iPhone benötige? Copy Paste vom Appstore? ;-)",
     "thumbs_up": 0,
     "app_version": "1.0.1.15742",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "fr",
+    "review_id": "b9235c40-a3fb-45c0-9ee8-d844f17ede15",
+    "user": "Jérôme Pochon",
+    "score": 1,
+    "date": "2026-08-07 18:46:11",
+    "content": "Depuis le nouveau système d'authentification je ne peux plus ouvrir l'application. Je reçois le code par SMS que je clique sur \"autoriser\" ou \"refuser\" à lire le code rien ne se passe.",
+    "thumbs_up": 0,
+    "app_version": "7.6.53",
     "reply": null
   },
   {
