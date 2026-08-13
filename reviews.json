@@ -3299,7 +3299,7 @@
     "score": 5,
     "date": "2024-11-10 18:05:59",
     "content": "Sei 2018 bin ich mit Wingo Mobile, Internet und TV bestens verbunden zufrieden und glücklich! Bester Empfang Dank Swisscom Netz und falls du trotz wingo cockpit mal Hilfe benötigst und per Mail kontakt aufnimmst, ruft dir jemand kompetent und freundlich zurück.",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "6.59.1",
     "reply": null
   },
@@ -44637,7 +44637,7 @@
     "app_id": "com.swisscom.myswisscom",
     "language": "fr",
     "review_id": "7831ec3a-61f4-4107-b91d-ed11aa63012c",
-    "user": "bts kpop",
+    "user": "Elena P",
     "score": 5,
     "date": "2026-07-05 20:08:39",
     "content": "top",
@@ -60909,7 +60909,7 @@
     "score": 5,
     "date": "2026-06-24 15:18:32",
     "content": "Auf der App werden seit kurzem unter alle Aufnahmen auch zukünftige Aufnahmen angezeigt, was sehr unübersichtlich und verwirrend ist, besonders bei Serienaufnahmen. Könnt ihr das wieder ändern?",
-    "thumbs_up": 24,
+    "thumbs_up": 25,
     "app_version": "7.9.1",
     "reply": null
   },
@@ -120509,6 +120509,20 @@
     "content": "Super App",
     "thumbs_up": 0,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
+    "review_id": "c4e3dbd1-8fd9-42cc-aeca-fbc4f95d9466",
+    "user": "Un utilisateur de Google",
+    "score": 2,
+    "date": "2026-08-11 17:32:40",
+    "content": "Pas possible de faire défiler les chaînes sous android lorsque l’ on regarde une émission et que l’on veut passer sur une autre chaîne.",
+    "thumbs_up": 0,
+    "app_version": "7.9.3",
     "reply": null
   },
   {
@@ -185490,6 +185504,20 @@
     "provider": "sunrise",
     "app_id": "ch.sunrise.mein.konto",
     "language": "de",
+    "review_id": "8c6a3f48-7e0c-44d9-a43b-910301591885",
+    "user": "Barbara Fischer",
+    "score": 1,
+    "date": "2026-08-11 16:19:18",
+    "content": "40.- Mahngebühr bei 10Tagen über Rechnungsdatum, erlauben sich nicht mal Behörden! 1.- Gebühr für Sofortbezahlung nicht akzeptierbar! Kündigung wird schnellst möglich folgen! Leider habe ich erst verlängert!",
+    "thumbs_up": 0,
+    "app_version": "7.6.53",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
     "review_id": "42fe138b-79dd-4925-9d46-1a8a4f422861",
     "user": "Michael Brügger",
     "score": 2,
@@ -185539,7 +185567,7 @@
     "content": "Die App ist ein schlechter Witz. Das \"Rewards\" System auf das die seit dessen Einführung so unendlich stolz sind, ist wohl der erbärmlichste Versuch eines Unternehmens, die eigene Kundschaft von einer Treueaktion überzeugen zu wollen. Nichts davon ist wirklich was Wert und ganz egal wieviel Rabatt sie einen weiss machen wollen, dass man jetzt auf dieses Produkt nur.durch diese Aktion erreicht habe, kriegt man exakt genau dasselbe Produkt ohne Rabatt wesentlich günstiger.",
     "thumbs_up": 1,
     "app_version": "7.6.53",
-    "reply": null
+    "reply": "Vielen Dank für Ihr ausführliches Feedback. Es tut uns leid, dass Sie mit der App und insbesondere mit unserem Rewards-Angebot unzufrieden sind. Wir verstehen, dass der wahrgenommene Mehrwert für Sie nicht den Erwartungen entspricht. Ihre Kritik nehmen wir ernst und geben sie gerne an die zuständigen Stellen weiter."
   },
   {
     "app_name": "mysunrise",
@@ -185553,7 +185581,7 @@
     "content": "Doesn't start at all",
     "thumbs_up": 0,
     "app_version": "7.6.49",
-    "reply": null
+    "reply": "Thank you for your feedback. We’re sorry to hear that the app doesn’t start at all. We understand how frustrating this can be. Please contact our hotline at 0800 707 707 or reach out to our Community, so we can help you find a solution."
   },
   {
     "app_name": "mysunrise",
@@ -185567,7 +185595,7 @@
     "content": "Seit über 20 Jahren bin ich Sunrise Kundin. Ich habe jeweils alle meine Rechnungen bezahlt und musste nun - wegen 3 Tagen Zahlungsverzug - CHF 40.00 Mahngebühr (1. Mahnung) bezahlen. Meine Kündigung des Abos folgt.",
     "thumbs_up": 0,
     "app_version": "7.6.53",
-    "reply": null
+    "reply": "Vielen Dank für Ihre Rückmeldung. Es tut uns leid, dass wir Sie nach so einer langen Zeit als Kundin verlieren. Wir bedanken uns für den Hinweis und nehmen diesen ernst. Wenn Sie Unterstützung benötigen oder Fragen haben, melden Sie sich gerne jederzeit unter 0800 707 707 bei uns. Wir helfen Ihnen gerne weiter."
   },
   {
     "app_name": "mysunrise",
@@ -185581,7 +185609,7 @@
     "content": "Leider hängt die App sich immer wieder auf. Daher können die Funktionen nicht optimal genutzt werden.",
     "thumbs_up": 0,
     "app_version": "7.6.17",
-    "reply": null
+    "reply": "Vielen Dank für Ihre Rückmeldung. Es tut uns leid, dass sich die App aufhängt und Sie diese nicht optimal nutzen können. Bitte starten Sie Ihr Gerät neu und prüfen Sie, ob Sie die aktuellste App-Version nutzen. Bei anhaltenden Problemen hilft Ihnen unser Support gerne weiter."
   },
   {
     "app_name": "mysunrise",
@@ -185595,7 +185623,7 @@
     "content": "\"sch...\" Firma .. Abzocker -> Nur mal ein BSPL.. Mahnungen vor Ablauf der 30 Tage Frist.l!:cBegründung Sunrise? AGB ! ABER { }{Fritst/en. -> sämrl. CH§§ (hiier -> OR §} stehen rechtlich ÜBER SÄMTLICHEN AGBs! In d. Folge -> Zahle ich nur dem tats. geschuldeten monatl. Betrag (ohne die \"+Fr.30.-Mahnungskosten\" ->> In d. darauffogenden Rechnung + WEITERE! Fr. 30. (WAAS?! soll lden das sein?-> Mahnungn bez. \"Stafosten'",
     "thumbs_up": 1,
     "app_version": null,
-    "reply": null
+    "reply": "Vielen Dank für Ihre deutlichen Worte. Wir verstehen, dass Unstimmigkeiten bei Mahngebühren sehr ärgerlich sind. Bitte wenden Sie sich direkt an unsere Hotline unter 0800 707 707, damit unser Team Ihren genauen Fall und die Fristen prüfen kann. Wir möchten gemeinsam eine faire Lösung für Sie finden."
   },
   {
     "app_name": "mysunrise",
@@ -185609,7 +185637,7 @@
     "content": "funktioniert eigentlich nie korrekt.",
     "thumbs_up": 0,
     "app_version": "7.6.41",
-    "reply": null
+    "reply": "Vielen Dank, dass Sie sich die Zeit für eine Rückmeldung genommen haben. Es tut uns leid, dass Sie solche Erfahrungen machen mussten. Wir möchten das unbedingt ändern und Ihnen weiterhelfen. Am besten erreichen Sie uns über unsere Hotline unter 0800 707 707 oder über unsere Community."
   },
   {
     "app_name": "mysunrise",
@@ -185623,7 +185651,7 @@
     "content": "Einfach Schrott, sorry ☹️",
     "thumbs_up": 0,
     "app_version": "7.6.52",
-    "reply": null
+    "reply": "Vielen Dank für Ihr Feedback. Es tut uns leid, dass Sie mit unseren Services so unzufrieden sind. Wir würden gerne besser verstehen, was bei Ihnen nicht funktioniert. Wenden Sie sich gerne an unsere Hotline unter 0800 707 707 oder an unsere Community, damit wir Ihnen weiterhelfen können."
   },
   {
     "app_name": "mysunrise",
@@ -185637,7 +185665,7 @@
     "content": "zahlungen klappen sehr einfach",
     "thumbs_up": 0,
     "app_version": "7.6.51",
-    "reply": null
+    "reply": "Vielen Dank für Ihre positive Rückmeldung! Es freut uns sehr, dass die Zahlungen bei Ihnen unkompliziert und einfach funktionieren. Genau so soll es sein – wir wünschen Ihnen weiterhin eine angenehme Nutzung unserer Services!"
   },
   {
     "app_name": "mysunrise",
@@ -212643,7 +212671,7 @@
     "content": "lente à mourir, pas logique... pour payer une facture c'est un combat à chaque fois",
     "thumbs_up": 0,
     "app_version": "7.6.53",
-    "reply": null
+    "reply": "Merci pour votre retour. Nous sommes désolés que l’utilisation de l’application soit aussi frustrante pour vous, notamment lors du paiement de vos factures. Nous comprenons que cela ne devrait pas être aussi compliqué. Vous pouvez contacter notre hotline au 0800 707 707 ou notre Community pour obtenir de l’aide."
   },
   {
     "app_name": "mysunrise",
@@ -212657,7 +212685,7 @@
     "content": "peu rapide, certaines fois pas accessible donc déficit de fiabilité.",
     "thumbs_up": 0,
     "app_version": "7.6.50",
-    "reply": null
+    "reply": "Merci pour votre retour. Nous sommes désolés pour ces lenteurs et problèmes d'accès. Ce manque de fiabilité ne correspond pas à nos standards. Pour que nous puissions analyser cela, contactez-nous au 0800 707 707. Nous sommes là pour vous aider."
   },
   {
     "app_name": "mysunrise",
@@ -212671,7 +212699,7 @@
     "content": "compliquer pour le ebanking",
     "thumbs_up": 0,
     "app_version": "7.6.53",
-    "reply": null
+    "reply": "Nous avons pris note de vos remarques et comprenons que la gestion des moyens de paiement dans l'e-banking vous semble complexe. Nous vous remercions de nous en avoir fait part."
   },
   {
     "app_name": "mysunrise",
@@ -212685,7 +212713,7 @@
     "content": "je ne suis pas contente des prix et des factures. Le service n'edt pas comme avant",
     "thumbs_up": 0,
     "app_version": "7.6.52",
-    "reply": null
+    "reply": "Merci pour votre retour. Nous sommes désolés d’apprendre que vous n’êtes plus satisfaite de nos prix, de vos factures et de notre service. Nous comprenons votre déception et prenons votre remarque au sérieux. Pour toute question concernant votre facture, notre hotline au 0800 707 707 ou notre Community sont à votre disposition."
   },
   {
     "app_name": "mysunrise",
@@ -217948,20 +217976,6 @@
     "date": "2021-10-02 10:18:16",
     "content": "Très lent. Quelques message en italien au lieu de français",
     "thumbs_up": 1,
-    "app_version": "6.0.5",
-    "reply": null
-  },
-  {
-    "app_name": "mysunrise",
-    "provider": "sunrise",
-    "app_id": "ch.sunrise.mein.konto",
-    "language": "fr",
-    "review_id": "9ab3195d-d949-4108-8147-ff220b085bcb",
-    "user": "Andreia V.",
-    "score": 1,
-    "date": "2021-10-01 09:40:23",
-    "content": "My UPC ne fonctionnait déjà pas correctement. J'ai pensé qu'avec Sunrise ça allait s'améliorer, mais visiblement c'est trop en demander. Je ne peux même pas me connecter. Deux opérateurs en un c'est pire que tout! Rien ne va en s'améliorant chez vous, décidément! Lisez les commentaires que vous avez et réagissez!!!! Faites des app utiles, faciles d'utilisation et qui FONCTIONNENT!",
-    "thumbs_up": 42,
     "app_version": "6.0.5",
     "reply": null
   },
@@ -250079,7 +250093,7 @@
     "content": "leider funktionieren das login welches auf der my.salt seite geht in der app nicht...",
     "thumbs_up": 0,
     "app_version": null,
-    "reply": null
+    "reply": "Vielen Dank für deine Rückmeldung. Bitte sende uns eine E-Mail an [socialmedia@salt.ch](mailto:socialmedia@salt.ch) mit deiner Telefonnummer und einer kurzen Beschreibung des Problems. Wir prüfen dies gerne für dich.\n"
   },
   {
     "app_name": "salt",
@@ -250161,7 +250175,7 @@
     "score": 1,
     "date": "2026-07-07 14:50:50",
     "content": "Verkaufen können sie schnell. Aber wenn man kündigen möchte, ist plötzlich niemand mehr erreichbar. Trotz mehrerer Anruf bekomme ich keine Antwort. Ein guter Kundenservice sieht anders aus.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "1.0.53",
     "reply": "We're sorry to hear about your experience. This is not the service we aim to provide.\nPlease send us an email at socialmedia@salt.ch with your details so we can look into your request and help you further. Kind Regards Nimrod"
   },
@@ -250427,7 +250441,7 @@
     "score": 4,
     "date": "2026-02-26 10:50:30",
     "content": "Wäre noch besser wenn nicht immer Störung wäre , sonnst alles perfekt",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "1.0.44",
     "reply": "Hallo, um welche Störung geht es denn? Sende uns deine Nummer und Screenshots der Störung per E-Mail an mysalt@salt.ch, und wir helfen dir, das Problem zu lösen. Liebe Grüsse, Sarah"
   },
