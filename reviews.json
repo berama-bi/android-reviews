@@ -47353,7 +47353,7 @@
     "app_id": "com.swisscom.myswisscom",
     "language": "fr",
     "review_id": "d7b88506-5974-437f-aee9-91c05fad3bc1",
-    "user": "Carlo Gheller",
+    "user": "Carlo Gheller (“Francesco Samuel”)",
     "score": 5,
     "date": "2024-02-14 19:23:37",
     "content": "Très bonne application, facile à comprendre et à appliquer. Cool Merci",
@@ -60671,7 +60671,7 @@
     "score": 1,
     "date": "2026-08-14 04:19:51",
     "content": "nicht wirklich gut... funkioniert oft nicht gut",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.9.3",
     "reply": null
   },
@@ -60699,7 +60699,7 @@
     "score": 1,
     "date": "2026-08-12 18:28:00",
     "content": "zu teuer",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.9.3",
     "reply": null
   },
@@ -89035,7 +89035,7 @@
     "score": 4,
     "date": "2020-10-30 08:36:56",
     "content": "Bin sehr zufrieden mit der App. Den Abzug gibts dafür, dass die App immer wieder mal meine Logindaten \"verliert\" und ich mich neu anmelden muss. Dies unabhängig davon, ob ich die Checkbox \" Angemeldet bleiben \" aktiviert habe. Eine super Funktion wäre noch, wenn man nach bereits gesehenen Aufnahmen filtern könnte, das erleichtert das nachträgliche löschen enorm.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": null,
     "reply": null
   },
@@ -123905,7 +123905,7 @@
     "app_id": "com.swisscom.tv2",
     "language": "fr",
     "review_id": "e6428099-3ca8-4d53-bd02-61b564bfab94",
-    "user": "Carlo Gheller",
+    "user": "Carlo Gheller (“Francesco Samuel”)",
     "score": 5,
     "date": "2024-03-23 11:41:57",
     "content": "pratique,agréable à utiliser avec le téléphone portable et tablettes. merci beaucoup Blue TV",
@@ -146563,6 +146563,20 @@
     "content": "Top",
     "thumbs_up": 0,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "it",
+    "review_id": "8726ec12-37c0-466f-98ef-9e0c3f8d28d2",
+    "user": "Romina Solari",
+    "score": 5,
+    "date": "2026-08-15 11:40:51",
+    "content": "fantastico",
+    "thumbs_up": 0,
+    "app_version": "7.8.2",
     "reply": null
   },
   {
@@ -177818,6 +177832,20 @@
     "provider": "yallo",
     "app_id": "com.smith.production",
     "language": "de",
+    "review_id": "23a5089e-d78e-4bd6-85e9-40fab4081feb",
+    "user": "Daniel Knoth",
+    "score": 1,
+    "date": "2026-08-15 20:39:54",
+    "content": "Zuhause trotz neuem Yallo-Router öfters Aussetzer oder Replay funktioniert nicht. Unterwegs trotz vollem 5G-Empfang dauerhafte Aussetzer (2 Sekunden schauen, mindestens 10 Sekunden warten). Eine absolute Katastrophe! Ich kann nur jedem empfehlen, Hände weg!!!",
+    "thumbs_up": 0,
+    "app_version": "2.0.19",
+    "reply": null
+  },
+  {
+    "app_name": "yallo tv",
+    "provider": "yallo",
+    "app_id": "com.smith.production",
+    "language": "de",
     "review_id": "e4df21c7-01bb-4381-9736-58452fe9586a",
     "user": "S Nirwana",
     "score": 2,
@@ -185637,6 +185665,20 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 0,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "2be519fe-7211-443e-80ad-ccacd6cddcc0",
+    "user": "Adrian",
+    "score": 1,
+    "date": "2026-08-15 14:14:04",
+    "content": "- Sehr langsame APP - Unübersichtlich - Werbung für Zusatzabos nerft + Die Rechnungen pünktlich",
+    "thumbs_up": 1,
+    "app_version": "7.6.56",
     "reply": null
   },
   {
