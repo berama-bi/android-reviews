@@ -7849,7 +7849,7 @@
     "score": 1,
     "date": "2026-06-19 16:57:00",
     "content": "Einloggen in diese App nicht mehr möglich. Die Links unter dem einloggen sind auch nicht anklickbar. Und in der Webseite sind Links, die auf diese App verweisen daher sinnfrei. Beides mit 2 verschiedenen Tastaturen ausprobiert und beide male das gleiche Verhalten der App. App - mit Cache leeren und Daten löschen - deinstalliert und paar Minuten später wieder Installiert: Siehe oben. Immer noch kein einloggen möglich.",
-    "thumbs_up": 9,
+    "thumbs_up": 10,
     "app_version": "11.30.1",
     "reply": "Hallo Peter, vielen Dank für deine Rückmeldung. Hast du bereits die App aktualisiert? Möglicherweise unterstützt dein Gerät die aktuelle Version der App nicht mehr.\nBitte wende dich an einen Swisscom‑Shop, damit dein Anliegen dort genauer geprüft werden kann. Danke und liebe Grüsse, Mirko Online Care Team"
   },
@@ -14429,7 +14429,7 @@
     "score": 1,
     "date": "2024-03-08 17:22:38",
     "content": "Katastrophe was sich SC mit ihren Apps leistet! Seit Wochen sehe ich vorwiegend den Drehkreis und nichts passiert. Auch auf der viel besseren alten App, welche ja bis zum 01.03.23 hätte laufen sollen. Wie kann man nur etwas gut funktionierendes laufend verschlechtern - unerklärlich! 1 Jahr später: nichts hat sich geändert. Dauernd Drehkreis \"das dauert länger als erwartet\", Geräteliste kann nicht angezeigt werden und keine Technische Hilfe für solche allgemeine Probleme. SEHR SCHWACH!",
-    "thumbs_up": 82,
+    "thumbs_up": 83,
     "app_version": "11.12.3",
     "reply": "Hallo Thomas, vielen Dank für deine Rückmeldung. Versuche mal die APP mit einem neuerem Gerät zu starten. Das S10 ist langsam aber sicher nicht mehr für alle Applikationen tragbar. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -133695,7 +133695,7 @@
     "score": 2,
     "date": "2020-07-06 11:38:49",
     "content": "Je n'aime pas du tout la nouvelle version. Impossible de télécharger des émissions pour pouvoir les regarder off line et surtout impossible de regarder certaines émissions enregistrées. C'est indiqué enregistré mais elles n'apparaissent pas dans les enregistrements, on les trouves sous autres épisodes pour les séries et la un message d'erreur dis réessayer plus tard ou éteindre le lecteur. Je viens de désinstaller et réinstaller l'application, reconnecter avec mon mon login, msis rien ne change.",
-    "thumbs_up": 5,
+    "thumbs_up": 4,
     "app_version": "4.0.1",
     "reply": "Bonjour Kristel, merci pour ton commentaire. Je suis navrée pour les perturbations que tu rencontres avec notre application. Si réinstaller l'app n'a pas été concluant, je t'invite à effectuer une demande de rappel pour un support: https://bit.ly/2Njxx7s. Bonne journée, Stéphanie"
   },
@@ -179895,7 +179895,7 @@
     "score": 4,
     "date": "2023-08-24 18:30:58",
     "content": "Insgesamt zufrieden mit der App. Aber 4 Punte die stören. - Wenn man eine Sendung aus der Vergangenheit anschaut, kann man mit zurückspulen nicht vor Sendeanfang gehen (oft nötig, wenn das Programm früher angefangen hat) - Senderliste (rechts) ist viel zu gross am grossen Fernseher. Halb so gross, dafür mehr Infos wäre optimal. - Bei Aufnahmen von serien jeglicher Art, wird leider fast nie mehr \"serie aufnehmen\" angeboten. - Weiterschauen zeigt oft nicht die letzten angefangenen Programme an",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "1.62.1",
     "reply": "Vielen Dank für dein detailliertes Feedback. Kannst du uns bitte eine E-Mail an: yallotvsupport@sunrise.net senden damit wir auf deine 4 Punkte detailliert eingehen können? Vielen Dank für deine Mithilfe und wir freuen uns auf deine Kontaktaufnahme!"
   },
@@ -180234,20 +180234,6 @@
     "thumbs_up": 0,
     "app_version": "1.57.1",
     "reply": "Vielen Dank für dein Feedback. Wir bedauern, dass die App deinen Erwartungen nicht entspricht. Unsere Techniker*innen sind über alle Feedbacks informiert und wir arbeiten mit Hochdruck an weiteren Stabilitätsverbesserungen. Wir bitten dich um Geduld."
-  },
-  {
-    "app_name": "yallo tv",
-    "provider": "yallo",
-    "app_id": "com.smith.production",
-    "language": "de",
-    "review_id": "56960289-855a-4524-acae-7858202e099d",
-    "user": "Mike Oberli",
-    "score": 3,
-    "date": "2023-06-01 15:45:55",
-    "content": "Sehr instabiles Verhalten, wenn die Datenverbindung nicht optimal ist.",
-    "thumbs_up": 0,
-    "app_version": "1.57.1",
-    "reply": "Vielen Dank für dein Feedback. Wir bedauern, dass die App aktuell deinen Erwartungen nicht entspricht. Wir arbeiten fortlaufend an Stabilitätsverbesserungen und freuen uns, dir in Zukunft neue Updates zur Verfügung zu stellen. Wir bitten dich um Geduld."
   },
   {
     "app_name": "yallo tv",
@@ -193695,7 +193681,7 @@
     "app_id": "ch.sunrise.mein.konto",
     "language": "de",
     "review_id": "3b7fe522-fc37-4334-a0da-cf572848c6bb",
-    "user": "Erna Hadziefendic",
+    "user": "Erna UndSo",
     "score": 1,
     "date": "2023-06-26 07:07:35",
     "content": "Die App ist eine Katastrophe! Egal was ich tun möchte es funktioniert nicht. Rechnungen ansehen? Bildschirm weiss (seit Monaten)! Auf meine Optionen? App schliesst sich. Hatte noch nie so viele Probleme bei einer App. Verstehe nicht wie das möglich ist.",
