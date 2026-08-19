@@ -144,20 +144,6 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
-    "review_id": "b1bb2439-395e-40ac-ba14-d90cee4b89e3",
-    "user": "Adrian",
-    "score": 5,
-    "date": "2026-07-09 10:32:27",
-    "content": "Alles bestens Einzig..... Callfilter für unterdrückte Anrufe fehlt im Gegensatz zu Swisscom",
-    "thumbs_up": 0,
-    "app_version": "10.0.1",
-    "reply": null
-  },
-  {
-    "app_name": "mywingo",
-    "provider": "wingo",
-    "app_id": "com.swisscom.mywingo",
-    "language": "de",
     "review_id": "df4b6ef4-83fb-4182-ac40-a4ef0cde5127",
     "user": "Benno Kaiser",
     "score": 5,
@@ -7404,6 +7390,20 @@
     "thumbs_up": 2,
     "app_version": "1.0.0",
     "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
+    "review_id": "cffe7350-b226-4e6f-a0f8-3fd9f07b6978",
+    "user": "dieter gue",
+    "score": 1,
+    "date": "2026-08-17 18:01:45",
+    "content": "Ist lediglich ein Shortcut zur Seite.... Beschämend so was vom grössten IT Konzern der Schweiz....",
+    "thumbs_up": 0,
+    "app_version": null,
+    "reply": "Hallo Dieter, danke für deine Bewertung. Schade, dass unsere App dich nicht überzeugt. Liebe Grüsse, Barbara Online Care Team."
   },
   {
     "app_name": "myswisscom",
@@ -44669,7 +44669,7 @@
     "score": 1,
     "date": "2026-07-30 05:05:46",
     "content": "Trop compliquée",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "10.5.1",
     "reply": "Hello Alain ! Merci d’avoir pris le temps de partager ton avis. Navrés d’apprendre que l’app My Swisscom te semble compliquée à utiliser. Tes retours sont précieux et nous aident à améliorer l’expérience de nos clients. N’hésite pas à nous préciser ce qui t’a posé problème afin que nous puissions mieux t’aider. Stéphanie Online Care Team"
   },
@@ -44683,7 +44683,7 @@
     "score": 2,
     "date": "2026-07-10 16:45:57",
     "content": "n'importe quoi vôtre application, je dois payer des factures impossible de me connecter, que dois-je faire. Où sont les informaticiens pour détecter la panne. Merci de faire le nécessaire rapidement.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.31.2",
     "reply": "Bonjour Calò Conigliaro, merci pour ton évaluation et ton commentaire. Je suis désolée d’apprendre que tu ne peux plus te connecter pour consulter tes factures. Merci de contacter notre hotline clientèle au 0800 800 800 ou via www.swisscom.ch/support. Nous serons heureux d’examiner ton problème. Meilleures salutations, Conny Online Care Team"
   },
@@ -44739,7 +44739,7 @@
     "score": 1,
     "date": "2026-07-03 09:56:38",
     "content": "Bonjour Depuis quelques jours je n'arrive plus à me connecter a l'app MySwisscom j'ai toujours la mention ( une erreur est survenue prière de réessayer plus tard ) hors jusqu'à il y a qq jours ça fonctionnait parfaitement ! Pouvez vous s'il vous plaît résoudre ce bug",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.31.1",
     "reply": "Hello papa tuga ! Merci pour ton message. Nous n'avons pas réussi à reproduire l'erreur que tu mentionnes. Nous t'invitons à vider le cache de ton smartphone, cela permet en général de régler certains bugs. Si tu ne vois pas d'amélioration, notre support technique est à ta disposition au n° 0800 800 800. Bon après-midi, Stéphanie Online Care Team"
   },
@@ -45453,7 +45453,7 @@
     "score": 1,
     "date": "2025-12-14 17:12:25",
     "content": "Pour une raison inconnue, depuis plusieurs jours/semaines que j'ai un message d'erreur : « Une erreur est survenue. » Je crois que le service technique n'en a rien à cirer de régler le problème.. Fred, si vous lisez ceci, remontez l'information au service informatique en Urgence, ce n'est pas à nous de le faire 100 fois..",
-    "thumbs_up": 16,
+    "thumbs_up": 17,
     "app_version": "11.26.7",
     "reply": "Bonjour Astiizz, merci de partager ton expérience. Nous cherchons en permanence à améliorer notre application. Nous t'invitons à la désinstaller et la réinstaller. Si tu ne vois aucune amélioration après cela, nous sommes à ta disposition via nos canaux de support: https://tinyurl.com/ywsvdx4k Meilleurs messages, Fred Online Care Team"
   },
@@ -45537,7 +45537,7 @@
     "score": 1,
     "date": "2025-12-04 22:08:10",
     "content": "Ça fait 2 semaines que j'essaie de me connecter à l'application et que le message suivant apparaît : \"Une erreur est survenue. Prière de réessayer plus tard.\" J'ai pourtant vérifier les paramètres de mon téléphone, fait la mise à jour de ce dernier ainsi que la MAJ de l'application. Je suis donc dans l'impossibilité de pouvoir payé mes factures..",
-    "thumbs_up": 13,
+    "thumbs_up": 14,
     "app_version": "11.26.6",
     "reply": "Bonjour Amandine, merci pour ton feedback. Nous sommes navrés que tu ne sois pas satisfaite de ton My Swisscom. Nous sommes à ta disposition via nos canaux de support: https://tinyurl.com/ywsvdx4k Meilleurs messages, Fred Online Care Team"
   },
@@ -45859,7 +45859,7 @@
     "score": 1,
     "date": "2025-09-09 20:03:04",
     "content": "Je ne peux pas installer l'application sur mon téléphone soi-disant trop vieux. Tout ça pour, paraît-il, supporter de nouvelles fonctionnalités absolument inutiles: il y avait tout ce dont j'avais besoins pour gérer mon réseau dans l'ancienne version. Un gros zéro pointé pour le support client Swisscom",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "11.21.3",
     "reply": "Merci de partager ton expérience. Nous sommes navrés d'apprendre les perturbations que tu rencontres avec notre application. Afin de te venir en aide et d'analyser la situation, nous t'invitons à contacter notre département compétent ici : https://www.swisscom.ch/fr/clients-prives/aide/contact.html Meilleurs messages, Chantal Online Care Team"
   },
@@ -60657,7 +60657,7 @@
     "score": 2,
     "date": "2026-08-14 11:10:08",
     "content": "Ich bin seit Jahren Fan dieser App. Es gibt aber immer wieder neue Probleme, die mich langsam nerven. Die Übersicht ist sehr schlecht geworden, die Reihenfolge der Aufnahmen ist willkürlich, alte Aufnahmen werden automatisch wieder aufgenommen und angezeigt, das ist jetzt schon länger der Fall. Würde mich freuen, wenn dies korrigiert wird.",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "7.9.3",
     "reply": null
   },
@@ -60867,7 +60867,7 @@
     "score": 2,
     "date": "2026-07-19 07:36:06",
     "content": "Ich war lange Zeit zufrieden, mitlerweile bin ich aber echt genervt. Gelöschte Aufnahmen,verschwinden nicht mehr aus der Liste,zukünftige Aufnahmen werden schon,teilweise 2 Wochen im vorraus,in der Aufnahmeliste angezeigt,wenn ich etwas angefangen habe zu schauen und weiter schauen möchte,funktioniert das nicht,auch wenn ich es anwählen muss ich von anfang an schauen und suchen wo ich war! Auch das mit immer wieder ausloggen kenne ich,was recht mühsame ist. Lohnt sich die teure Swisscom noch?",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "7.9.3",
     "reply": null
   },
@@ -168275,7 +168275,7 @@
     "score": 5,
     "date": "2019-12-05 13:42:00",
     "content": "Gute Übersicht über das Abo und auch super, dass man die Rechnungen anschauen und auch gleich bezahlen kann.",
-    "thumbs_up": 2,
+    "thumbs_up": 1,
     "app_version": "1.2.3",
     "reply": null
   },
@@ -168303,7 +168303,7 @@
     "score": 5,
     "date": "2019-12-04 18:19:40",
     "content": "Bin schon lange bei yallo. Spare im Vergleich zu swisscom 75% . Es funktioniert alles und man hat die gleiche oder sogar bessere Netzabdeckung als swisscom. Mit swisscom hat man überall netzt, mit yallo aber auch. Yallo netzt ist von sunrise .",
-    "thumbs_up": 1,
+    "thumbs_up": 0,
     "app_version": "1.2.3",
     "reply": null
   },
@@ -168499,7 +168499,7 @@
     "score": 4,
     "date": "2019-11-30 19:15:42",
     "content": "etwas viel werbung im self-care",
-    "thumbs_up": 1,
+    "thumbs_up": 0,
     "app_version": "1.2.3",
     "reply": null
   },
@@ -168583,7 +168583,7 @@
     "score": 5,
     "date": "2019-11-25 04:35:25",
     "content": "Habe die app erst gestern Nacht heruntergeladen. Finde sie sehr gut. Bin ebenfalls sehr zufrieden mit meinem yallo Abo. Werde ziemlich sicher bei yallo bleiben, da das preis-leistungsverhältnis total stimmt. Auch der Kundenservice ist Hammer. Sollte ich wechseln, dann kommt für mich nur Sunrise in Frage. Good job. Thank you, yallo",
-    "thumbs_up": 5,
+    "thumbs_up": 4,
     "app_version": "1.2.3",
     "reply": null
   },
@@ -168709,7 +168709,7 @@
     "score": 5,
     "date": "2019-11-11 09:50:52",
     "content": "Das beste Abo im besten Netz (Sunrise) der Schweiz.",
-    "thumbs_up": 1,
+    "thumbs_up": 0,
     "app_version": "1.2.3",
     "reply": null
   },
@@ -168933,7 +168933,7 @@
     "score": 5,
     "date": "2019-10-31 17:45:51",
     "content": "Der App hat alle Informationen, was man braucht. Nutzung, Kosten, Rechnungen, Aktionen auf einen Blick. Ich nutze Yallo seit 6 Monaten und bereue es nicht. Überal erreichbar, Net habe ich immer, egal ob ich in der Schweiz oder in Ausland bin und all das für das günstigste Abo in der Schweiz!",
-    "thumbs_up": 10,
+    "thumbs_up": 9,
     "app_version": "1.2.3",
     "reply": null
   },
@@ -169367,7 +169367,7 @@
     "score": 5,
     "date": "2019-09-07 12:18:03",
     "content": "Sehr gut ist, dass man mit der App auch gleich die Rechnungen zahlen kann.",
-    "thumbs_up": 4,
+    "thumbs_up": 3,
     "app_version": "1.2.1",
     "reply": null
   },
@@ -177832,6 +177832,20 @@
     "provider": "yallo",
     "app_id": "com.smith.production",
     "language": "de",
+    "review_id": "56960289-855a-4524-acae-7858202e099d",
+    "user": "Mike Oberli",
+    "score": 4,
+    "date": "2026-08-18 04:38:11",
+    "content": "In letzter Zeit funktioniert die App stabil. Danke",
+    "thumbs_up": 0,
+    "app_version": "2.0.19",
+    "reply": "Vielen Dank für dein Feedback. Wir bedauern, dass die App aktuell deinen Erwartungen nicht entspricht. Wir arbeiten fortlaufend an Stabilitätsverbesserungen und freuen uns, dir in Zukunft neue Updates zur Verfügung zu stellen. Wir bitten dich um Geduld."
+  },
+  {
+    "app_name": "yallo tv",
+    "provider": "yallo",
+    "app_id": "com.smith.production",
+    "language": "de",
     "review_id": "23a5089e-d78e-4bd6-85e9-40fab4081feb",
     "user": "Daniel Knoth",
     "score": 1,
@@ -178344,20 +178358,6 @@
     "thumbs_up": 2,
     "app_version": "2.0.3",
     "reply": "Vielen Dank für dein Feedback. In der Zwischenzeit wurde eine neue App Version veröffentlicht. Bitte installiere die neuste Version und wir hoffen, dass du nun keine Fehlermeldungen mehr erhältst. Wir wünschen dir gute Unterhaltung mit yallo TV!"
-  },
-  {
-    "app_name": "yallo tv",
-    "provider": "yallo",
-    "app_id": "com.smith.production",
-    "language": "de",
-    "review_id": "93ca203e-c0f6-41ba-8e9f-5af907287875",
-    "user": "Bree Wue",
-    "score": 1,
-    "date": "2026-02-07 19:44:16",
-    "content": "Im neuen Update fehlt das Streaming-Zeichen, kann somit nicht via Chromcast auf TV-Gerät eine Sendung schauen.",
-    "thumbs_up": 0,
-    "app_version": "1.72.0",
-    "reply": null
   },
   {
     "app_name": "yallo tv",
@@ -185658,12 +185658,26 @@
     "provider": "sunrise",
     "app_id": "ch.sunrise.mein.konto",
     "language": "de",
-    "review_id": "2be519fe-7211-443e-80ad-ccacd6cddcc0",
-    "user": "Adrian",
+    "review_id": "7a904700-531b-4fd5-bb5a-5ef59b10198c",
+    "user": "Bujamim Zekjiri",
     "score": 1,
-    "date": "2026-08-15 14:14:04",
-    "content": "- Sehr langsame APP - Unübersichtlich - Werbung für Zusatzabos nerft + Die Rechnungen pünktlich",
-    "thumbs_up": 1,
+    "date": "2026-08-17 12:47:04",
+    "content": "👎",
+    "thumbs_up": 0,
+    "app_version": "7.6.56",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "ac03f23d-34d2-4fa9-92e2-b6cb44dd1158",
+    "user": "Andbox",
+    "score": 2,
+    "date": "2026-08-17 12:14:12",
+    "content": "Nur kommt man nicht mehr auf die App. was ist los bei Euch? Kurz vor dem Wechsel. ihr seit einfach zu teuer.",
+    "thumbs_up": 0,
     "app_version": "7.6.56",
     "reply": null
   },
@@ -188925,7 +188939,7 @@
     "score": 1,
     "date": "2025-02-12 10:57:16",
     "content": "Sunrise ist der schlechteste Anbieter den ich jemals hatte. Die App ist unübersichtlich, die Chat-Funktion ist meistens nicht verfügbar, wenn man einen Rückruf vereinbart funktioniert das 1x aus 10 und sie haben fast immer technische Probleme. Sunrise ist richtig richtig schlecht und sie wissen es und ändern NICHTS daran. Die Mitarbeiter:innen sind teilweise auch sehr nett, aber können innerhalb von Sunrise einfach nicht wirklich helfen. Absolut nicht empfehlenswert, auf keine Art und Weise.",
-    "thumbs_up": 14,
+    "thumbs_up": 15,
     "app_version": null,
     "reply": "Herzlichen Dank für Ihr Feedback. Wir bedauern, dass Sie mit dem Dienst der Sunrise unzufrieden sind. Wir bitten Sie, sich bei Beanstandungen bei unserem Kundendienst auf https://www.sunrise.ch/de/support/kontakt zu melden, damit wir eine Lösung für Ihr Anliegen finden können. Liebe Grüsse, Sunrise App Support"
   },
@@ -221456,6 +221470,20 @@
     "provider": "sunrise",
     "app_id": "ch.sunrise.mein.konto",
     "language": "it",
+    "review_id": "ccb1501a-2628-48d1-b684-45feed680c17",
+    "user": "badrobot93",
+    "score": 1,
+    "date": "2026-08-17 09:07:55",
+    "content": "Applicazione che fa pietà. Lenta, mal ottimizzata, caricamenti con pagina bianca infiniti, e ora da qualche giorno non si apre nemmeno, pagina bianca... Da un provider come Sunrise, che si occupano di telefonia mobile e non solo, mi aspetterei una app PER TELEFONO che funzioni bene!!",
+    "thumbs_up": 0,
+    "app_version": "7.6.56",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "it",
     "review_id": "9f55a4f8-a491-43e4-afae-ffed5fbb09cf",
     "user": "Ciccio Pasticcio",
     "score": 1,
@@ -223757,7 +223785,7 @@
     "score": 1,
     "date": "2019-12-05 15:02:36",
     "content": "C'è da migliorare ancora. Il più delle volte si blocca , o dà una pagina bianca vuota . Quando effettuo i pagamenti delle fatture con la mia carta online , il pagamento non viene aggiornato subito, e devo farlo più volte . Per questo motivo lo scorso mese ho ricevuto un sollecito di pagamento, perché quest'ultimo non era stato aggiornato e quindi effettuato. E non è buono che questi servizi non sono aggiornati o non so, non funzionano come devono.",
-    "thumbs_up": 16,
+    "thumbs_up": 17,
     "app_version": "5.2.1",
     "reply": null
   },
@@ -254767,7 +254795,7 @@
     "score": 1,
     "date": "2024-10-15 20:15:32",
     "content": "Wenn die App laufen würde, wäre sie super. Leider ist dies kaum mal der Fall. Meist wird kein Inhalt geladen sondern nur ein leerer Raster. Ab und zu wird im TV Guide etwas angezeigt, aber auch nur nach Neustart des Tablets - und das Datum über das Auswahlmenü zu wechseln ist unmöglich. Insgesamt absolut enttäuschend.",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "2.2429.0",
     "reply": "Hallo Martin, kannst du mir bitte eine E-Mail an Fiber.Support@salt.ch schreiben mit deiner Kundennummer und einem Screenshot des Problems? Besteht es nur auf dem Tablett oder auch auf anderen Geräten? Grüsse, Sarah"
   },
