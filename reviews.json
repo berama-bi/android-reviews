@@ -4,6 +4,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "df129546-a9d2-4561-a4c2-9c095a438c75",
+    "user": "Mitja",
+    "score": 4,
+    "date": "2026-08-18 14:28:11",
+    "content": "Übersichtliche und einfach zu bedienende App. Rechnungen und Verbrauch, sowie Verwaltung aus einer Hand.",
+    "thumbs_up": 0,
+    "app_version": "11.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "b639d1ac-f676-433c-b576-c191e7627881",
     "user": "Cornelius De Rooij",
     "score": 5,
@@ -7396,6 +7410,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
+    "review_id": "e02bc9c6-3a07-41b7-b007-12803889cb4e",
+    "user": "Wolf Caspers Rollman",
+    "score": 1,
+    "date": "2026-08-18 12:14:01",
+    "content": "Service gleich Null,-Rechnungen werden auch nach mehreren Aufforderungen nicht Zugestellt! Beim Fernsehangebot ist auch nach mehreren Aufforderungen kein Service vorbei gekommen Trotz Zusage! Versprochene Sender war nicht ein einziger Vorhanden, zumindest sind Sie grosszügig in Rechnungen und Betreibungen😡😡😡",
+    "thumbs_up": 0,
+    "app_version": "11.32.1",
+    "reply": "Guten Tag, danke für deine Bewertung und dein Feedback. Wir nehmen deine Rückmeldung ernst und möchten deinen Fall gerne genauer prüfen. Melde dich doch bitte per Privatnachricht über unsere Social-Media Kanäle oder auf www.swisscom.ch/support kannst du einen Rückruf vereinbaren. Liebe Grüsse, Barbara Online Care Team"
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
     "review_id": "cffe7350-b226-4e6f-a0f8-3fd9f07b6978",
     "user": "dieter gue",
     "score": 1,
@@ -7709,7 +7737,7 @@
     "score": 2,
     "date": "2026-07-03 14:22:27",
     "content": "Dauernd Anmeldeschwierigkeiten \"es ist ein Fehler aufgetreten, versuchen Sie es später erneut\", (seit Tagen) man weiss nie so genau was einen erwartet.... Und die Hotline ist gegenüber der von Sunrise in jeder Hinsicht 10 Jahre hintendran. Und SAM (KI) bringt dich vollommen an den Rand der Verzweiflung.... Aber gut, man gibt sich Mühe Und dieses \"aktualisieren\", Handy neu starten\", \"App deinstallieren und wieder installieren\" bringt absolut gar nichts.",
-    "thumbs_up": 9,
+    "thumbs_up": 10,
     "app_version": "11.31.1",
     "reply": "Hallo SwizMuayThai, danke für deine Bewertung und deinen Kommentar. Es tut mir leid zu lesen, dass deine App zur Zeit nicht funktioniert. Wende dich bitte an einen Swisscom Shop oder an www.swisscom.ch/support. Wir würden uns freuen, dein Anliegen mit dir genau zu überprüfen. Liebe Grüsse Conny, Online Care Team"
   },
@@ -13284,20 +13312,6 @@
     "thumbs_up": 0,
     "app_version": "11.17.3",
     "reply": "Guten Morgen Heinz Kuenzle, vielen Dank für deine 5 ⭐und dein tolles Feedback💙. Es freut mich zu lesen, dass du mit unserer MySwisscom App zufrieden bist. Ich wünsche dir einen schönen Tag. Liebe Grüsse Juan, Online Care Team"
-  },
-  {
-    "app_name": "myswisscom",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.myswisscom",
-    "language": "de",
-    "review_id": "65c9f5c3-b297-4dec-aa04-c470b4cd385d",
-    "user": "Schneewittchen *",
-    "score": 5,
-    "date": "2024-11-04 17:08:11",
-    "content": "Bis vor ca 4 Tagen konnte ich nichts negatives über die App sagen. Gestern funktionierte das Login lange nicht und jetzt muss ich mich wieder einloggen und die Login Funktion geht wieder nicht Nachtrag: Es funktioniert wieder somit gibt es 5⭐️",
-    "thumbs_up": 23,
-    "app_version": "11.17.3",
-    "reply": "Guten Morgen Schneewittchen *, vielen Dank für deine Bewertung mit 5⭐. Ich wünsche dir einen schönen Tag. Liebe Grüsse Juan, Online Care Team"
   },
   {
     "app_name": "myswisscom",
@@ -44725,7 +44739,7 @@
     "score": 1,
     "date": "2026-07-04 15:23:15",
     "content": "l'application ne se connecte plus! totalement inutile!",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.31.1",
     "reply": "bonjour Styves, merci pour ton message. Je suis navrée d'apprendre que notre application ne se connecte plus. Nous t'invitons à vider le cache de ton smartphone, cela permet en général de régler certains bugs. Si tu ne vois pas d'amélioration, notre support technique est à ta disposition au n° 0800 800 800. Belle journée, Chantal Online Care team."
   },
@@ -44767,7 +44781,7 @@
     "score": 1,
     "date": "2026-07-02 12:06:10",
     "content": "nouvelle version plus compatible avec un téléphone mis sur le marché il y a moins de 6 mois...je comprends la problématique de l'obsolescence mais là c'est de l'abus",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.29.0",
     "reply": "Bonjour Mehdi ! Merci d’avoir pris le temps de partager ton ressenti. Si tu souhaites en discuter plus en détail ou si certaines questions restent sans réponse, nous restons volontiers à ta disposition via nos différents canaux : https://www.swisscom.ch/fr/clients-prives/aide/contact.html Meilleurs messages, Stéphanie Online Care Team"
   },
@@ -44795,7 +44809,7 @@
     "score": 1,
     "date": "2026-06-28 06:14:37",
     "content": "pourquoi blue news n'autorise plus l'accès à certains articles?",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.31.1",
     "reply": "Bonjour Martina Gerber. Merci d'avoir pris le temps de nous laisser ton commentaire. Nous transmettons ta remarque au département compétent. Passe une agréable journée, Nath Online Care Team"
   },
@@ -44837,7 +44851,7 @@
     "score": 1,
     "date": "2026-06-24 16:51:29",
     "content": "nul éviter de prendre swisscom c'est devenu vraiment pas bien je vais changer d'opérateur et en plus le service clientèle en chat ne sert à rien perte de temps et ils font plus rien pour aider à fuir maintenant c'est plus comme avant",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "11.30.1",
     "reply": "Bonjour Sandrine, merci pour ton feedback. Nous sommes navrés que tu ne sois pas satisfaite de ton My Swisscom et de notre service. Nous travaillons quotidiennement pour améliorer l'expérience client. Meilleures salutations, Fred Online Care Team"
   },
@@ -44865,7 +44879,7 @@
     "score": 1,
     "date": "2026-06-05 10:51:31",
     "content": "Ne marche pas sur Motorola Edge 60 connexion impossible. Et le pire c'est que le site internet renvoie toujours vers l'App... qui ne fonctionne pas. Vraiment déçu par Swisscom.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "11.29.3",
     "reply": "Bonjour Harold, Merci de partager ton expérience. Nous sommes navrés d'apprendre les perturbations que tu rencontres avec notre application. Afin de te venir en aide et analyser la situation, nous t'invitons à prendre contact auprès du département compétent ici : https://tinyurl.com/53shucpm Meilleurs messages, Ada Online Care Team"
   },
@@ -44907,7 +44921,7 @@
     "score": 1,
     "date": "2026-05-03 08:07:36",
     "content": "Dommage que cette application du \"MEILLEUR réseau de Suisse\" (comme me l'a rappelé le service client en me proposant hier un rabais pour mon abo INT+TV de près de 30 chf /mois quand j'ai évoqué d'aller voir ailleurs...) ne fonctionne pas avec mon nouveau smartphone (android 16): l'écran de login tourne en boucle sans jamais qu'on ait la possibilité d'entrer ses données de connection. Le meilleur est parfois l'ennemi du bien...97",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": null,
     "reply": "Bonjour opera bluetooth, merci pour ton message. Nous sommes navrés que tu ne parviennes pas à te connecter à ton compte My Swisscom. Nous t'invitons à désinstaller l'application et à la réinstaller. Bon début de semaine, Leyla Online Care Team"
   },
@@ -44935,7 +44949,7 @@
     "score": 1,
     "date": "2026-04-10 06:32:23",
     "content": "nul car impossible de ce connecter, mise a jour trop fréquente pour rien... et il a fallu ce battre au téléphone avec swisscom pour avoir le \"droit\" de recevoir un facture par mail !... perdre plus d'une heure pour avoir un moyens de les payer ...",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "11.28.4",
     "reply": "Bonjour Cln Nicolier, Meri pour ton message. Nous t'invitons à désinstaller notre application et à la réinstaller. En cas de perturbations récurrentes, nous nous tenons avec plaisir à ta disposition via nos canaux de support: https://www.swisscom.ch/fr/clients-prives/aide.html Meilleurs messages, Chantal Online Care Team"
   },
@@ -44991,7 +45005,7 @@
     "score": 1,
     "date": "2026-03-16 13:03:58",
     "content": "Cela ne fonctionne pas sur mon téléphones mobile alors pourquoi faite vous des changement de M.... Et de surcroît ne fonctionne pas sur tout les téléphones.... Cela veut dire que vous pousser à la consommation ou cela veut dire que je dois changer de fournisseur de service ???!!!",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.21.3",
     "reply": "Merci de partager ton expérience. Nous sommes navrés d'apprendre les perturbations que tu rencontres avec notre application. Afin de te venir en aide et analyser la situation, nous t'invitons à prendre contact auprès du département compétent ici : https://www.swisscom.ch/fr/clients-prives/aide.html Meilleurs messages, Chantal Online Care Team"
   },
@@ -45271,7 +45285,7 @@
     "score": 1,
     "date": "2026-01-06 12:01:58",
     "content": "bonjour application impossible d'ouvrir. contacter encore le service qui sert a rien car ce toujours resolu je ne peux même pas payé la facture,par y save renvoyer des rappel mais que j'ai as access. Comment fait ton .",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "11.25.3",
     "reply": "Salut Emmanuelgonthier, nous ne pouvons pas faire de support sur ce canal. Il faut essayer de désinstaller et réinstaller l'app et redémarrer ton appareil. Si cela ne fonctionne pas, tu peux appeler notre support au 0800 800 800. Meilleures salutations."
   },
@@ -45383,7 +45397,7 @@
     "score": 1,
     "date": "2025-12-22 10:14:47",
     "content": "Ne fonctionne plus depuis quelques jours. Impossible de se connecter. Message \"une erreur est survenue\" alors que l'application est à jour. J'ai désinstallé et réinstaller comme on m'a dit de le faire. Aucun changement. Nath de Online Care Team me demande de les contacter pour informer du problème alors qu'ils sont au courant depuis 1 mois. Ils sont vraiment incompétent au service numérique de Swisscom.",
-    "thumbs_up": 26,
+    "thumbs_up": 27,
     "app_version": null,
     "reply": null
   },
@@ -45467,7 +45481,7 @@
     "score": 1,
     "date": "2025-12-11 09:47:23",
     "content": "Impossible de se connecter sur l'application! Et quand je vois d'autres commentaires qui ont le même problème depuis 2 semaines signalé le 4 décembre et que rien n'est fait! On est juste bon à payer!",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "11.26.6",
     "reply": "Merci Elisabeth, pour ton évaluation. Navrée que tu rencontres des soucis avec notre application. N'hésite pas à contacter notre support. https://www.swisscom.ch/fr/clients-prives/aide/applis-et-services.html bonne journée Nath"
   },
@@ -45481,7 +45495,7 @@
     "score": 1,
     "date": "2025-12-09 21:08:32",
     "content": "Impossible de me connecter à l'appli depuis au moins 1 semaine. Toujours le message \"Une erreur est survenue\". svp réglez le problème...",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "11.26.6",
     "reply": "Bonjour Vi B, merci pour ton appréciation. N'hésite pas à contacter notre support si tu rencontres des soucis. Bonne journée, Nath. https://www.swisscom.ch/fr/clients-prives/aide/blue-tv.html"
   },
@@ -45621,7 +45635,7 @@
     "score": 1,
     "date": "2025-11-14 09:25:21",
     "content": "Bonjour Swisscom! Je n'ai plus accès à l'appli depuis environ 2 semaines...j'ai appelé la hotline il y a 1 semaine, on m'a certifié que j'y aurait à nouveau accès dans la journée, qu'il y avait de la maintenance. Ce n'a pas été le cas, et vu que je paie mes factures via l'appli, autant vous dire que çà m'arrange pas! J'ai tout tenté : désinstaller l'appli, la réinstaller, éteindre mon téléphone totalement et le rallumer...rien, nada, nothing, niet, wallou...Je fais comment du coup?",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": null,
     "reply": "Bonjour Soizic Le Havennec,\nMerci pour ton message. Afin de trouver une solution à ton problème, je te propose de contacter notre support technique à l'aide du lien suivant : https://www.swisscom.ch/fr/clients-prives/aide/applis-et-services.html\nTu peux également rappeler notre hotline au no 0800 800 800.\nMeilleures salutations.\nChantal"
   },
@@ -45691,7 +45705,7 @@
     "score": 1,
     "date": "2025-10-15 07:54:07",
     "content": "L. Agencement de la nouvelle mise a jour est horrible, avant on cliquait sur un onglet general et il suffisait de glisser sur l'onglet numero, internet ect, maintenant on clique dessus et il y a tout oui mais en style année 2000, il faut cliquer et revenir en arrière pour choisir autre chose. Si vous n'êtes pas capable de garder ce qui est bon faites juste des mises. A jour de sécurité...",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": null,
     "reply": "Bonjour mael i, merci de partager ton expérience. Nous cherchons en permanence à améliorer notre application. Si tu souhaites en discuter ou pour toute question en suspens, nous restons volontiers à ta disposition, via nos différents canaux https://www.swisscom.ch/fr/clients-prives/aide/contact.html Meilleurs messages, Stéphanie Online Care Team"
   },
@@ -45775,7 +45789,7 @@
     "score": 1,
     "date": "2025-09-21 13:35:24",
     "content": "Merci de m'avoir supprimé mon mot de passe comme je ne vais jamais sur l'application et une fois que je dois aller pour voir quelque chose et je met mon mot de passe de toujours et ça me dit mot de passe pas bon et vous êtes aussi une honte d'avoir donné de l'argent en faveur du oui sur E-ID ! ON N'EN VEUT PAS DONC NON À L'E-ID !",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "11.23.6",
     "reply": "Bonjour MATITALIA F ! Nous sommes navrés d'apprendre ton mécontentement. Afin de te venir en aide ou pour toute question en suspens, nous restons volontiers à ta disposition, via nos différents canaux https://www.swisscom.ch/fr/clients-prives/aide/contact.html Meilleurs messages, Stéphanie Online Care Team"
   },
@@ -45887,7 +45901,7 @@
     "score": 1,
     "date": "2025-09-07 09:49:48",
     "content": "Votre appli ne fonctionne plus sur mon Huawei P30 Pro ! Il n'est même plus possible de l'ouvrir. Vous êtes priés de me répondre autre chose que \"... certaines mises à jour exigent de nouvelle technologie...\" cette réponse est totalement inadmissible, car: 1. Votre appli est la SEULE qui ne fonctionne plus avec mon smartphone. 2. Vous générez volontairement de l'obsolescence programmée. Vous avez jusqu'au 31.10.25 pour régler le problème, ou une plainte sera déposée selon point 2 ci-dessus. JD",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "11.21.3",
     "reply": "Bonjour, navré que tu rencontres des soucis avec ton appareil pour te connecter à notre App. N'hésite pas à nous contacter pour plus d'informations: https://www.swisscom.ch/fr/clients-prives/aide/contact.html. Meilleures salutations, Yari Online Care Team"
   },
@@ -45929,7 +45943,7 @@
     "score": 1,
     "date": "2025-08-16 15:13:36",
     "content": "Merci Swisscom, la nouvelle version de l'application n'est pas compatible avec des \"vieux\" téléphone. c'est effectivement mieux pour la planète d'obliger les gens à acheter des nouveaux téléphones. je ne changerai pas mon téléphone qui a 5 ans et fonctionne très bien. Par contre je vais changer d'opérateur.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": null,
     "reply": "Hello Olivier ! Nous sommes désolés d'apprendre les perturbations que tu rencontres avec ton appareil. Les nouvelles MAJ exigent parfois des technologies plus récentes, rendant celles-ci incompatibles avec les anciens appareils. Cela vise à assurer les meilleures performances et la sécurité. Nath"
   },
@@ -45985,7 +45999,7 @@
     "score": 1,
     "date": "2025-08-07 11:34:35",
     "content": "(mise à jour 2: c'est pas marqué mais pour les utilisateur d'Android, vous devez faire attention à l'application que vous utilisez par default pour votre navigateur. Cela doit être une application des big 3 sinon vous ne pourrez pas vous connecter. Je ne change pas ma note car cela devrait automatiquement être affiché lors de la procédure d'enregistrement) Swisscom vous n'avez pas pensez au utilisateur Android.",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "11.23.2",
     "reply": "Bonjour Caio B, navrés que tu rencontres des difficultés de connexion. Nous t'invitons à désinstaller et réinstaller l'application. Si cela ne résout pas la situation, notre assistance se tient à ta disposition ici https://tinyurl.com/4bnawj8j Cordialement. Bonne journée, Leyla Online Care Team"
   },
@@ -46027,7 +46041,7 @@
     "score": 1,
     "date": "2025-07-25 13:27:59",
     "content": "Impossible de voir mes factures car à la connexion, ça me dit que l'application n'est plus compatible avec mon appareil. Je clique donc sur le bouton qui m'invite à mettre mon application à jour et pouf... ça me fait revenir sur la page de base avec le message de départ et rien a été mis à jour. C'est top pour savoir si on est à jour avec nos paiements 👍🏻 Bravo Swisscom...",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "11.21.3",
     "reply": "Bonjour Marion, nous sommes désolés d'apprendre les perturbations que tu rencontres avec ton appareil. Les nouvelles MAJ exigent parfois des technologies plus récentes, rendant celles-ci incompatibles avec les anciens appareils. Cela vise à assurer les meilleures performances et la sécurité. Meilleurs messages, Stéphanie Online Care Team"
   },
@@ -46167,7 +46181,7 @@
     "score": 1,
     "date": "2025-07-14 12:00:04",
     "content": "Dommage pour cette excellente application mais depuis la dernière mise à jour cette application ne fonctionne plus sur mon smartphone Android 10! Cette app. est considérée comme incompatible avec mon appareil... Apparemment les autres app Swisscom potentiellement payantes fonctionnent!!! Cette obsolescence forcée d'anciens appareils ne correspond pas à une société se disant écoresponsable...",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "11.21.3",
     "reply": "Bonjour Daniel, nous prenons actuellement en charge les smartphones qui reçoivent toujours des mises à jour de sécurité officielles de Google. L'utilisation d'une version plus ancienne peut entraîner des failles de sécurité. Tu peux continuer à utiliser toutes les fonctionnalités de l'app sur ce lien http://Swisscom.ch/myswisscom Cordialement"
   },
@@ -46251,7 +46265,7 @@
     "score": 1,
     "date": "2025-07-09 08:43:36",
     "content": "Voilà ! Swisscom nous oblige à investir dans un nouveau portable (obsolescence programmée modifiée). Pour info, pas tout le monde a les moyens de changer de téléphone. Alors fait comme moi, aller voir à la concurrence ce qu'il propose.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "11.21.3",
     "reply": "Bonjour Jacques, Pour des raisons de sécurité, le support des anciens systèmes Android est progressivement abandonné. Les exigences plus récentes et les frameworks modernes offrent un niveau de sécurité plus élevé,. Ces améliorations sont parfois incompatibles avec les anciens systèmes d'exploitation. Accès via Web: http://Swisscom.ch/myswisscom."
   },
@@ -46335,7 +46349,7 @@
     "score": 1,
     "date": "2025-07-07 10:46:52",
     "content": "impossible de mettre à jour la version de Swisscom sur mon samsung note 9 merci beaucoup pour les spécialistes techniques qui ont inventé cette nouvelle version alors que je suis client depuis 60 ans à Swisscom donc je ne peux plus accéder à mon compte Swisscom sur mon téléphone c'est quand même le comble j'aurais bien mis zéro comme résultat mais je ne sais pas si c'est possible je voulais payer la facture donc impossible d'accéder à ma facture bravo et merci aux spécialistes techniques de Swi",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "11.23.1",
     "reply": "Bonjour James, Pour des raisons de sécurité, le support des anciens systèmes Android est progressivement abandonné. Les exigences plus récentes et les frameworks modernes offrent un niveau de sécurité plus élevé,. Ces améliorations sont parfois incompatibles avec les anciens systèmes d'exploitation. Accès via Web: http://Swisscom.ch/myswisscom."
   },
@@ -46419,7 +46433,7 @@
     "score": 1,
     "date": "2025-07-05 15:20:44",
     "content": "L'appli ne fonctionne plus sur mon huawei p30 lite 😕, ne peut pas installer la nouvelle mise à jour et me marque l'appli n'est pas compatible avec mon téléphone Version emui 12.0.0 J'ai vidé le cache de l'appli et redémarré le tel mais cet toujours impossible d'installer la mise à jour 😢😢",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.23.1",
     "reply": "Salut Yves, navré que tu rencontres ces problèmes. N'hésite pas à contacter notre service technique si tu as besoin d'un spécialiste https://tinyurl.com/4nudd2we Bonne journée Ismaël Online Care Team"
   },
@@ -46433,7 +46447,7 @@
     "score": 1,
     "date": "2025-07-04 15:36:25",
     "content": "Vos mises à jour ne permettent plus l'utilisation de l'app.... Cela vise surtout à pousser à la consommation et acheter des nouveaux appareils inutiles, puisque les anciens fonctionnent encore très bien...",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "11.21.3",
     "reply": "Hello Bertrand! Nous sommes désolés d'apprendre les perturbations que tu rencontres avec ton appareil. Les nouvelles MAJ exigent parfois des technologies plus récentes, rendant celles-ci incompatibles avec les anciens appareils. Cela vise à assurer les meilleures performances et la sécurité. Meilleurs messages Nath Online Care Team"
   },
@@ -46447,7 +46461,7 @@
     "score": 1,
     "date": "2025-07-04 09:39:06",
     "content": "Mon Huawei p30 pro qui fonctionne à merveille n'est plus compatible avec la nouvelle version de my swisscom, c'est très décevant. Je ne peux plus accéder à mes factures... Merci l'obsolescence programme et la course à la consommation.",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "11.21.3",
     "reply": "Hello Denis! Nous sommes désolés d'apprendre les perturbations que tu rencontres avec ton appareil. Les nouvelles MAJ exigent parfois des technologies plus récentes, rendant celles-ci incompatibles avec les anciens appareils. Cela vise à assurer les meilleures performances et la sécurité, et non à encourager l'achat de nouveaux modèles. Nath"
   },
@@ -46489,7 +46503,7 @@
     "score": 1,
     "date": "2025-07-03 04:13:27",
     "content": "\"cette application n'est plus compatible avec votre appareil\", on fait comment ? On doit passer au Shop acheter un nouveau téléphone avec prolongation d'abonnement ? On a une remise pour l'ancien qui fonctionne toujours très bien du coup et qu'on ne veut pas changer ? Je trouve ça fou que ce soit la seule application qui m'empêche de faire une màj.. Heureusement, qu'on peut toujours passer par internet pour payer les factures tiens...",
-    "thumbs_up": 37,
+    "thumbs_up": 38,
     "app_version": "11.21.3",
     "reply": "Bonjour alexiabeaud ! Nous sommes désolés d'apprendre les perturbations que tu rencontres avec ton appareil. Les nouvelles MAJ exigent parfois des technologies plus récentes, rendant celles-ci incompatibles avec les anciens appareils. Cela vise à assurer les meilleures performances et la sécurité. Meilleurs message, Stéphanie Online Care Team"
   },
@@ -46503,7 +46517,7 @@
     "score": 1,
     "date": "2025-07-02 12:46:02",
     "content": "Cette nouvelle version de My Swisscom n'est plus compatible avec mon Samsung Galaxy S9+ de 2019 qui fonctionne encore parfaitement. Je trouve cela très négatif et ne correspond pas avec l'image de durabilité que veut donner Swisscom de rendre obsolète mon appareil par une nouvelle version de son logiciel incompatible avec ma version Android 10 La version précédente de l'application My Swisscom installée sur mon smartphone m'oblige à installer la nouvelle version, on n'en sort pas.",
-    "thumbs_up": 14,
+    "thumbs_up": 15,
     "app_version": "11.21.3",
     "reply": "Bonjour Henri-Louis, nous sommes désolés d'apprendre les perturbations que tu rencontres avec ton appareil. Les nouvelles MAJ exigent parfois des technologies plus récentes, rendant celles-ci incompatibles avec les anciens appareils. Cela vise à assurer les meilleures performances et la sécurité. Meilleurs messages, Nath Online Care Team."
   },
@@ -46573,7 +46587,7 @@
     "score": 1,
     "date": "2025-06-30 19:03:36",
     "content": "aurais bien mis -1. mais il n'y a pas :-( mon vieux téléphone fonctionne super bien, mais la MAJ me dit, incompatible avec ce téléphone!!! encore et encore du forcing pour acheter, acheter, acheter... LAMENTABLE!!!",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "11.21.3",
     "reply": "Hello Anthony! Nous sommes désolés d'apprendre les perturbations que tu rencontres avec ton appareil. Les nouvelles MAJ exigent parfois des technologies plus récentes, rendant celles-ci incompatibles avec les anciens appareils. Cela vise à assurer les meilleures performances et la sécurité, et non à encourager l'achat de nouveaux modèles. Stéphanie"
   },
@@ -46587,7 +46601,7 @@
     "score": 1,
     "date": "2025-06-23 10:35:11",
     "content": "Depuis une semaine impossible de me connecter depuis l'application, message comme quoi ma connexion est temporairement bloquée. J'écris sur le chat et j'ai comme réponse que je dois changer mon mot de passe. Chose faite et ça ne fonctionne toujours pas. Sur le net ça fonctionne, donc l'app ne sert à rien au finish. Déjà désinstaller et réinstaller 2 fois sans succès.",
-    "thumbs_up": 10,
+    "thumbs_up": 11,
     "app_version": "11.22.2",
     "reply": "Bonjour Evelyne, merci pour ton message. As-tu déjà contacté notre service technique afin qu'il puisse t'aider. Je te transmets le lien. Clients privés: contact par hotline, chat, message | Swisscom. Bonne journée Nath"
   },
@@ -46615,7 +46629,7 @@
     "score": 1,
     "date": "2025-05-26 14:15:17",
     "content": "impossible de chater avec une ia car l'app bug et je ne peux pas avoir un technicien au téléphone. comment vous contacter? c'est devenu n'importe quoi votre assistance! si vous enlevez les appels, au moins faites en sorte qu'on puisse chater avec quelqu'un!!!! et quand enfin on arrive à discuter avec l'ia impossible de résoudre les problèmes!!!! l'ia donne un lien qui me renvoi sur la conversation actuelle... je tourne en rond et personne pour résoudre les problèmes",
-    "thumbs_up": 10,
+    "thumbs_up": 11,
     "app_version": "11.22.1",
     "reply": "Bonjour Andreia V.\nJe suis désolée de lire ton commentaire. Nous cherchons en permanence à améliorer notre application. Si tu ne l'as pas déjà fait, je t'invite à la désinstaller et la réinstaller. Tu peux toujours nous joindre via nos canaux de support: https://www.swisscom.ch/fr/clients-prives/aide/contact.html\nMeilleures salutations. Chantal"
   },
@@ -46629,7 +46643,7 @@
     "score": 1,
     "date": "2025-05-22 13:37:29",
     "content": "l'application my Swisscom ne fonctionne pas je ne peux pas afficher mes facture ni modifier mes données j'appelle la hotline qui me propose un service payant pour le faire ou me rendre dans un shop c'est inadmissible de faire payer au client le dysfonctionnement des services Swisscom. Dommage qu'il pas zéro étoile",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "11.22.1",
     "reply": "Bonjour Maimouna ! Je suis navrée que tu aies vécu une mauvaise expérience avec notre application. Si tu souhaites en discuter ou pour toute question en suspens, nous restons volontiers à ta disposition, via nos différents canaux https://www.swisscom.ch/fr/clients-prives/aide/contact.html Meilleurs messages, Stéphanie Online Care Team"
   },
@@ -46923,7 +46937,7 @@
     "score": 1,
     "date": "2024-10-23 18:34:24",
     "content": "Sur l'écran de ma TV vous avez incrusté Blue TV. De ce fait je n'ai plus de Netflix. On me faisait poireauter sur votre soi disant Hotline 38 min!!! sans daigné prendre mon appel!!! C'est honteux et inacceptable!!! Je suis abonnée à Netflix, mais pour y accéder il faut me à nouveau abonner?! Engager plus de collaborateurs!!!",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "11.14.0",
     "reply": "Bonjour Pavla Sudan, je ne suis pas certain de saisir ta demande mais si tu penses avoir besoin de support technique, tu peux nous contacter ici: https://www.swisscom.ch/fr/clients-prives/aide/contact.html. Yari Online Care Team"
   },
@@ -47553,7 +47567,7 @@
     "score": 1,
     "date": "2023-12-09 10:14:12",
     "content": "Très moyen depuis que la publicité bloque l'accès aux emails et autres fonctions. Elle n'a rien à faire sur un site ou nous payons un abonnement de plus de 1'000.- par an. Inacceptable ! Lamentable !",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "11.10.0",
     "reply": "Bonjour, merci pour ton commentaire. L'e-mail Bluewin est mis à disposition gratuitement. Pour cette raison, des messages publicitaires s'affichent. Il est possible de consulter ses e-mails sans publicités en utilisant le programme de messagerie de ton téléphone. Tu trouveras plus d'informations à ce sujet sur ce lien https://tinyurl.com/4ta9ywp5"
   },
@@ -47749,7 +47763,7 @@
     "score": 1,
     "date": "2023-10-12 07:37:51",
     "content": "Impossible d'ouvrir l'application qui rame et ne me laisse même pas ne serait-ce qu'apercevoir les 1er menus de l'application. Une cata!!! Swisscom vous m'avez habitué à bcp mieux.",
-    "thumbs_up": 15,
+    "thumbs_up": 16,
     "app_version": "11.9.0",
     "reply": "Bonjour Didier, aucun dérangement n'est annoncé avec My Swisscom App actuellement. As-tu essayé de réinstaller l'application? N'hésite pas à prendre contact avec nous si nécessaire: https://www.swisscom.ch/fr/clients-prives/aide/contact.html. Meilleures salutations, Yari Online Care Team"
   },
@@ -47931,7 +47945,7 @@
     "score": 1,
     "date": "2023-08-13 22:05:35",
     "content": "Même pas une étoile: - plante lors de la mesure de vitesse de connection vers mon tél - plante quand j'essaie de savoir quels sont les appareils de la familles connectés -plante quand j'essaie de contrôler l'accès d'un appareil au réseaux...quand par hasard il me fournir une liste. En bref, je n'ose pas utiliser cette application pour gérer quoi que ce soit en relation avec les services Swisscom depuis mon tél Samsung A53 de peur que cela n'aboutisse jamais!!!!!",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "11.8.18",
     "reply": "Bonjour Daniel! Navrée que tu ne sois pas satisfait de My Swisscom App. Nos développeurs travaillent activement à l'améliorer pour offrir la meilleure expérience possible. Nous t'invitons à désinstaller l'app et à la réinstaller. De l'aide supplémentaire est à ta disposition ici https://tinyurl.com/nhhnnkee Bonne semaine, Stéphanie Online Care Team"
   },
@@ -48043,7 +48057,7 @@
     "score": 1,
     "date": "2023-07-24 17:47:08",
     "content": "Inutile. Sur le site on nous dit que l'on peut tester le WLAN dans la maison , je télécharge l'application, je ne trouve rien, je parle à l'AI qui ne comprend rien comme d'habitude. Il me dit que l'on va me téléphoner, ce qui est le cas mais la personne n'est pas au courant de ce qui se passe et ne sait pas comment résoudre ce petit problème. Bravo",
-    "thumbs_up": 9,
+    "thumbs_up": 10,
     "app_version": "11.8.18",
     "reply": "Bonjour Phil, merci pour ton commentaire. Nous nous tenons à disposition sur nos différents canaux si tu souhaites plus d'informations ou de l'aide: https://www.swisscom.ch/fr/clients-prives/aide/contact.html. Yari Online Care Team"
   },
@@ -48169,7 +48183,7 @@
     "score": 1,
     "date": "2023-06-25 14:20:17",
     "content": "Nul. Le chat ne sert a rien. Pour joindre quelqu'un c est la croix et la bannière car la hotline vous renvois àl'appli. Plus aucune personne disponible hors des heures de bureau (surtout le dimanche). A cause d'une erreur de Swisscom, plus d'accès à Netflix et c'est à nous d'attendre le lundi. Ne sert qu'à payer les factures.",
-    "thumbs_up": 21,
+    "thumbs_up": 22,
     "app_version": "11.8.13",
     "reply": "Bonjour Diableresse S, nous sommes navrés que tu rencontres des perturbations avec nos services. N'hésite pas à nous contacter pour que nous puissions te venir en aide: https://shorturl.at/EL139. Meilleurs messages, Stéphanie Online Care Team"
   },
@@ -48463,7 +48477,7 @@
     "score": 1,
     "date": "2023-03-05 10:54:04",
     "content": "Impose l'utilisation de chrome, et donc l'acceptation de conditions violant la protection des données ... Merci de modifier cela et de laisser l'utilisation du navigateur par défaut pour l'ouverture des liens . Par ex, chrome desactive/desinstalle, il est impossible d'accéder a la configuration du routeur, ce qui est contre productif . Merci de corriger cela, l'ancienne ap embarquait cela et etait, de fait utilisable .",
-    "thumbs_up": 20,
+    "thumbs_up": 21,
     "app_version": "11.6.0",
     "reply": "Bonjour @Gdpr_compliant, navrée que tu ne sois pas satisfait de notre application. Nos spécialistes se tiennent à ta disposition pour toute question via nos différents canaux https://bit.ly/3xhbp4u . Passe une bonne journée, Stéphanie Online Care Team"
   },
@@ -48477,7 +48491,7 @@
     "score": 1,
     "date": "2023-03-03 22:53:33",
     "content": "tout simplement inutile. était sensé remplacer l'app home, mais absolument rien.. j'ai perdu toute ma configuration domotique que j'utilisais tout les jours. le seul produit qui fonctionnait vous l'enlevez sans aucune raison, je vais vraiment finir par vous quiter..",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "11.6.0",
     "reply": "Bonjour walter, nous sommes navrés que tu ne sois pas satisfait de la suppression de notre application Home. Une partie des fonctions peut-être gérable depuis My Swisscom App sinon il faudra utiliser les applications des fabricants . Plus d'infos ici: https://www.swisscom.ch/fr/clients-prives/aide/applis-et-services/homeapp.html#homeapp. Yari"
   },
@@ -48505,7 +48519,7 @@
     "score": 1,
     "date": "2023-02-23 19:52:25",
     "content": "Je n arrive plus à me connecter. J'ai fait la mise à jour. J'ai désinstallé puis réinstaller rien du tout écran blanc, je comprends pas pourquoi.",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "11.6.0",
     "reply": "Hello Emmy G, nous sommes navrés de l'apprendre. My Swisscom est disponible sur Android 8.0 ou supérieur. Essaie de désinstaller et réinstaller l'app. Si le phénomène persiste, contacte notre support pour une aide: https://bit.ly/2CkhCAF. Belle fin de semaine, Nathalie Online Care Team"
   },
@@ -48547,7 +48561,7 @@
     "score": 1,
     "date": "2023-02-09 14:56:00",
     "content": "Cette app fonctionne extrêmement mal. La plupart du temps impossible de modifier les heures de connexion autorisé par les différents appareils. Et dire que c'est censé remplacer Home. Flûte alors pour être poli.",
-    "thumbs_up": 19,
+    "thumbs_up": 20,
     "app_version": "11.5.0",
     "reply": "Bonjour Jp Dutto, merci d'avoir pris le temps de partager ton avis. Nous travaillons en permanence sur l'amélioration de nos applications pour proposer des services de qualité. Nous transmettons avec plaisir tes remarques auprès de l'équipe compétente pour de futures mises à jour. Meilleurs messages, Nathalie Online Care Team"
   },
@@ -48603,7 +48617,7 @@
     "score": 1,
     "date": "2023-01-30 22:14:46",
     "content": "Très loin par rapport avec l'application Home, gestion de produits connectes complètement nul. Tu peux rien fair avec cet application. Sur home je pouvais allumer et éteindre tout me produit connecté par exemple \"mes sonos a distance. On régressé... Dommage...",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "11.4.6",
     "reply": "Bonjour Jazzaccordeon Accordeon, nous sommes navrés que tu sois déçu. Dans un souci de simplification de notre portefeuille, nous avons effectivement pris la décision d'arrêter l'application Home le 1er mars 2023. En cas de besoin, nous mettons une page d'aide: https://bit.ly/3RlCEUE à disposition. Meilleurs messages, Nathalie Online Care Team"
   },
@@ -48757,7 +48771,7 @@
     "score": 1,
     "date": "2023-01-03 13:26:10",
     "content": "Très déçu du système très compliqué pour remettre en service de plus la personne qui vous répond insiste pour que nous passions par l assistante payante je ne suis pas d accord du moments que je paye un abonnement et le problème vient de Swisscom.....",
-    "thumbs_up": 9,
+    "thumbs_up": 10,
     "app_version": "11.4.6",
     "reply": "Bonjour Antoine Nargone, nous sommes navrés que tu ne sois pas satisfait de nos services. Si tu as besoin d'un support pour l'utilisation de notre application My Swisscom ou besoin d'aide concernant tes services, nous nous tenons volontiers à ta disposition via nos canaux de contact: https://bit.ly/3VEX9MU. Meilleurs messages, Online Care Team"
   },
@@ -51235,7 +51249,7 @@
     "score": 1,
     "date": "2021-03-05 22:34:19",
     "content": "Bloquée suite dépassement 1GO. Modifié en abo pour 5GO. Ne fonctionne pas sur le natel ni tablette. Tout essayé et changé mot de passe. C est déplorable et leur tutoyement m agace on a pas tous 15ans.",
-    "thumbs_up": 14,
+    "thumbs_up": 15,
     "app_version": "10.1.10",
     "reply": "Bonjour Yolande, afin de recevoir un support et résoudre cette situation au plus vite, je t'invite à contacter directement nos spécialistes ici : https://bit.ly/3qztSnn, ils pourront t'apporter l'aide nécessaire. Passe une bonne semaine, Stéphanie Online Care Team"
   },
@@ -52061,7 +52075,7 @@
     "score": 1,
     "date": "2020-05-04 07:23:08",
     "content": "Bonjour, Pouvez-vous rendre cette application disponible dans le play store des pays frontaliers ? Résident en France je n'y ai pas accès, je ne peux pas bénéficier de ses service. Ce serait bien appréciable. Merci d'avance.",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "8.3.0",
     "reply": "Bonjour Monsieur Charton, merci pour votre suggestion. Malheureusement, ceci n'est pas possible à cause des directives de Google. L'app est seulement disponible en Suisse. Vous pouvez toutefois configurer votre compte Google de manière à ce que la Suisse soit votre lieu de résidence principal. Meilleures salutations, AdrianW responsable produit"
   },
@@ -52271,7 +52285,7 @@
     "score": 1,
     "date": "2019-12-05 09:44:29",
     "content": "Merci Swisscon de répondre en Allemand..... je ne parle absolument pas Allemand!!!! Donc 1 étoiles. Un message s'affiche quand j'ouvre l'appli \"erreur de connexion\"! Je d'installe et réinstalle pas de changement. J'éteins et rallume mon téléphone pas de changement. Je suis en relations avec un technicien..... il en a aucune idée du problème. Vu le prix qu'on paie les abonnement Swisscom pourrait avoir les moyens pour que tous fonctionne, non? A voir les avis le problème est connu depuis août",
-    "thumbs_up": 22,
+    "thumbs_up": 23,
     "app_version": "9.1.26",
     "reply": "Guten Tag. Der Fehler wurde mit dem letzten Release behoben. Wir entschuldigen uns vielmals für die Unannehmlichkeiten. Wir arbeiten hart daran uns stetig zu verbessern und würden uns über eine zweite Chance und eine positive Bewertung freuen. Besten Dank für Ihre Unterstützung und Ihr Vertrauen. Freundliche Grüsse, Swisscom."
   },
@@ -52523,7 +52537,7 @@
     "score": 1,
     "date": "2019-10-10 15:40:06",
     "content": "Il faut très régulièrement refaire la procédure de login. Alors que ma SIM swisscom est dans le téléphone !!! Et cette procédure nécessite une connection internet. Quand vous avez consommé l'intégralité des données mobiles, impossible de se connecter et de savoir pourquoi vous n'avez plus de connexion. Inacceptable !",
-    "thumbs_up": 24,
+    "thumbs_up": 25,
     "app_version": null,
     "reply": "Bonjour. Le bogue a été corrigé avec la dernière version. Nous nous excusons pour le dérangement. Nous travaillons dur pour nous améliorer constamment et nous serions heureux d'avoir une deuxième chance et une évaluation positive. Merci beaucoup pour votre soutien et votre confiance. Bien cordialement, Swisscom."
   },
@@ -62774,20 +62788,6 @@
     "thumbs_up": 0,
     "app_version": "7.4.3",
     "reply": "Guten Tag XeNoX, danke für deine Bewertung und Mitteilung. Unseren Spezialisten ist der Fehler bekannt und es wird mit Hochdruck an der Behebung gearbeitet. Bald kannst du die App wieder wie gewohnt nutzen. Ich bitte dich daher um etwas Geduld und Verständnis. Liebe Grüsse, Isabel Online Care Team 🌻"
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "de",
-    "review_id": "89f04c3b-ce04-4e80-bcbd-f753eed60ae5",
-    "user": "Ein Google-Nutzer",
-    "score": 4,
-    "date": "2025-10-29 11:01:32",
-    "content": "Nach vielen patches funktioniert so langsam wieder alles. Man muss manchmal neu installieren das könnte verbessert werden und wenn für Aufnahmen die alte geringere Auflösung wieder verfügbar ist gibt es den letzten Stern. Diese funktioniert aktuell nur bei live TV aber wenn man im Ausland Aufnahme schauen will war es praktisch die geringe Auflösung zu wählen um Datenvolumen zu sparen",
-    "thumbs_up": 4,
-    "app_version": "7.4.3",
-    "reply": "Hallo Alfred Geers, herzlichen Dank für deine tolle Bewertung mit 4 ⭐. Es freut mich sehr, dass du mit unserer App soweit zufrieden bist. Dein Feedback betreffend der Auflösung, werde ich gerne an unsere Spezialisten weiterleiten. Wünsche dir weiterhin viel Freude und einen schönen Tag. Liebe Grüsse, Corin Online Care Team 💙."
   },
   {
     "app_name": "blue tv",
@@ -212804,6 +212804,20 @@
     "provider": "sunrise",
     "app_id": "ch.sunrise.mein.konto",
     "language": "fr",
+    "review_id": "923c929b-ab44-489e-9a38-3d133fc3cb40",
+    "user": "Synder",
+    "score": 1,
+    "date": "2026-08-18 13:12:33",
+    "content": "depuis la dernière mise à jour, ça vous donne un code, a chaque fois que vous allez sur my sunrise, si vous y allez de temps en temps ça va, mais si c'est plusieurs fois par jour, c'est pénible... en plus ça rame, ça rame et ça rame, je n'ai pas accès l'information dû montant de la facture.",
+    "thumbs_up": 0,
+    "app_version": "7.6.56",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "fr",
     "review_id": "b9235c40-a3fb-45c0-9ee8-d844f17ede15",
     "user": "Jérôme Pochon",
     "score": 5,
@@ -222637,7 +222651,7 @@
     "score": 5,
     "date": "2023-03-01 22:01:36",
     "content": "Decisamente una ottima app. Non ho piu problemi di login e riesco a vedere tutti miei abbonamenti e le fatture. Top!",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "7.5.1",
     "reply": "Grazie mille per il vostro feedback! Cordiali saluti, Sunrise App Support"
   },
@@ -225271,6 +225285,34 @@
     "content": "App molto utile",
     "thumbs_up": 0,
     "app_version": "1.0.1.15742",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
+    "review_id": "9ea9d6c9-836e-44cd-9eab-1b8d922c7331",
+    "user": "Samuel Albrecht",
+    "score": 4,
+    "date": "2026-08-18 21:00:16",
+    "content": "Zurzeit wechselt es bei mir beim TV schauen vom vollbildmodus auf bildmodus mit schwarzem rand hin und her was sehr störend ist. Ansonsten läufts soweit gut.",
+    "thumbs_up": 0,
+    "app_version": "5.28.14611",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
+    "review_id": "6016a8ab-b536-4c57-8220-dca381899fcb",
+    "user": "Christian Mathis",
+    "score": 3,
+    "date": "2026-08-18 19:31:30",
+    "content": "Läuft gut, stürzt ab und zu ab...",
+    "thumbs_up": 0,
+    "app_version": "5.26.14007",
     "reply": null
   },
   {
@@ -250345,7 +250387,7 @@
     "content": "Man kann sich nicht mal anmelden! Zeitverschwendung! Am besten null Sterne!",
     "thumbs_up": 0,
     "app_version": null,
-    "reply": null
+    "reply": "Es tut uns leid, dass die Registrierung nicht funktioniert. Bitte senden Sie uns Ihre Angaben und eine kurze Beschreibung des Problems an mysalt@salt.ch. Falls eine Fehlermeldung erscheint, können Sie uns gerne einen Screenshot mitsenden. Wir prüfen Ihr Anliegen gerne."
   },
   {
     "app_name": "salt",
@@ -252711,7 +252753,7 @@
     "content": "bien, très bien merci beaucoup 0",
     "thumbs_up": 0,
     "app_version": "1.0.53",
-    "reply": null
+    "reply": "Merci beaucoup pour votre retour positif ! Nous sommes ravis que vous soyez satisfait de votre expérience avec Salt\n"
   },
   {
     "app_name": "salt",
