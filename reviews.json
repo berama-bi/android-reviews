@@ -23,7 +23,7 @@
     "score": 4,
     "date": "2026-08-18 14:28:11",
     "content": "Übersichtliche und einfach zu bedienende App. Rechnungen und Verbrauch, sowie Verwaltung aus einer Hand.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.0.0",
     "reply": null
   },
@@ -7424,6 +7424,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
+    "review_id": "2999753e-1cf4-4565-83a9-694b62429370",
+    "user": "Harri",
+    "score": 1,
+    "date": "2026-08-23 12:54:38",
+    "content": "nützt mir überhaupt nicht kann sie nicht mal herunterlsden",
+    "thumbs_up": 0,
+    "app_version": "11.32.1",
+    "reply": "Hallo Harri, vielen Dank für deine Bewertung und deine Rückmeldung. Schade, dass du die App nicht herunterladen konntest. Gerne hilft dir unser Kundendienst weiter, damit die Installation funktioniert: www.swisscom.ch/de/privatkunden/hilfe Liebe Grüsse Corin Online Care Team."
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
     "review_id": "193d5bfc-932b-4b8a-a8b3-cf0b2c1ce4f6",
     "user": "IVAN",
     "score": 3,
@@ -7431,7 +7445,7 @@
     "content": "Wollte keine e SIM einwerfen und habe nun eine.((****)) ((../-...)) ~ ,☆DOCH… DIE WURZEL DIESES ÜBELS IST; …ich hab mir damals ein handy gekauft, APP IST OK",
     "thumbs_up": 0,
     "app_version": "11.32.1",
-    "reply": null
+    "reply": "Lieber Ivan, vielen Dank für deine Bewertung. Es freut mich, dass du mit der App zufrieden bist. Schade, dass die eSIM nicht ganz deinen Erwartungen entsprochen hat. Bei Fragen zur Nutzung oder Einrichtung hilft dir unser Kundendienst gerne weiter:www.swisscom.ch/de/privatkunden/hilfe. Ich wünsche dir einen angenehmen Tag. LG Corin Online Care Team"
   },
   {
     "app_name": "myswisscom",
@@ -44725,7 +44739,7 @@
     "score": 1,
     "date": "2026-08-19 14:05:18",
     "content": "Système de connexion insupportable, pour me connecter à l'application, cela ouvre une seconde page sur internet et pour finir la connexion je dois confirmer dans l'application à laquelle je ne peux me connecter. Ensuite l'application me déconnecte chaque mois sans exception. La récupération par email ne fonctionne pas. De plus, il est impossible de se connecter avec son numéro de téléphone ou email uniquement avec l'identifiant.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.32.1",
     "reply": "Bonjour Marco, merci pour ton message. La connexion fonctionne toujours sans problème ; tu peux modifier ton nom d’utilisateur dans l’application My Swisscom, sous Paramètres → Sécurité (Mobile ID ou 2FA). L’application est mise à jour régulièrement. Cordialement, Mirko, Online Care Team"
   },
@@ -60750,6 +60764,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "de",
+    "review_id": "bb30fd61-f71d-4f97-8706-4e795b878925",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-08-23 18:47:59",
+    "content": "vieles funktioniert oft nicht, Login selten einfach beim ersten Versuch, aktuell kann ich es wegen angeblichem Roaming nicht öffnen (bin in der Schweiz und alles andere funktioniert). einfach schwach für einen derart hohen Preis!",
+    "thumbs_up": 0,
+    "app_version": "7.9.3",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
     "review_id": "9906a5d3-6e64-4da4-9c3a-3ed325c934a7",
     "user": "Ein Google-Nutzer",
     "score": 1,
@@ -61161,7 +61189,7 @@
     "score": 3,
     "date": "2026-06-26 14:37:18",
     "content": "Version 7.9.2: Filter für Aufnahmen entspricht fälschlicherweise den geplanten Aufnahmen. Dies bereits seit mehreren Versionen.",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "7.9.2",
     "reply": null
   },
@@ -120955,7 +120983,7 @@
     "score": 1,
     "date": "2026-06-08 20:38:16",
     "content": "L'application bug sans cesse. Quelques exemples : - vous mettez en pause pour écouter un vocal, vous finissez le vocale, votre émission se remet en route sans mouvement de notre part. - actuellement et c'est récent, dans enregistrement il y a la vision de toutes les émissions enregistrées mais aussi programmées pour l'enregistrement. Avant celles ci étaient uniquement dans programmées. - quand on met pause et qu'on attend trop longtemps avant de remettre en route, elle reprend du début etc...",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": null,
     "reply": "Bonjour Maya, merci pour ton message. Aucun dérangement n'est annoncé à ce sujet sur notre App blue TV. As-tu essayé de réinstaller l'application? N'hésite pas à contacter notre support pour vérifier la situation. https://www.swisscom.ch/fr/clients-prives/aide.html. Meilleures salutations, Yari Online Care Team"
   },
@@ -131549,7 +131577,7 @@
     "app_id": "com.swisscom.tv2",
     "language": "fr",
     "review_id": "c6e8422d-9d51-4800-b9cd-1e1b853aa8d6",
-    "user": "A. Cavioli",
+    "user": "Amanda C.",
     "score": 3,
     "date": "2020-12-15 17:40:35",
     "content": "Depuis la dernière mise à jour, le guide TV m'est à temps fou à se télécharger quand il se télécharge car parfoit il se télécharge pas du tout même après plusieur redémarrage de l'application. Aussi depuis cette mise à jour nous rencontrons plus de soucis avec le chromcastage,",
@@ -175144,6 +175172,20 @@
     "provider": "yallo",
     "app_id": "ch.yallo.selfcare",
     "language": "it",
+    "review_id": "8de72b4d-9808-4605-9fee-2bf7d753e40a",
+    "user": "Isram",
+    "score": 1,
+    "date": "2026-08-23 19:19:05",
+    "content": "Ciao,la app oggi non accetta né e-mail né password .perche???la app non parte già 3 giorni,cosa state facendo,svegliatevi!!!!!RIPARATE LA APP, ho bisogno di cotrolare perché l'abbonamento è salito 9 franchi. Penso che è arrivata ora per cambiare l'aria .Prima parlerò con un operatore e dopo vedremo.",
+    "thumbs_up": 2,
+    "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "my yallo",
+    "provider": "yallo",
+    "app_id": "ch.yallo.selfcare",
+    "language": "it",
     "review_id": "6bb62aa2-5493-4898-a92b-238a2d6411b3",
     "user": "Gazmend",
     "score": 1,
@@ -177937,6 +177979,20 @@
     "content": "No vale nulla. È una sola copia della pagina web senza neanche un poter vedere i consumi. Passima",
     "thumbs_up": 4,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "yallo tv",
+    "provider": "yallo",
+    "app_id": "com.smith.production",
+    "language": "de",
+    "review_id": "8638ec3b-5b9a-4cad-a938-e8238b816b71",
+    "user": "Bree Wue",
+    "score": 3,
+    "date": "2026-08-23 18:03:30",
+    "content": "Audio: Sprachumstellung (Originalsprache) schaltet nicht auf TV-Gerät via Cast. Bei alter Version hat es reibungslos funktionierte.",
+    "thumbs_up": 0,
+    "app_version": "2.0.19",
     "reply": null
   },
   {
@@ -185168,13 +185224,13 @@
     "provider": "spusu",
     "app_id": "com.massresponse.spusuch",
     "language": "de",
-    "review_id": "3ddc6904-efb3-4acb-8ba8-5a16081b8bab",
-    "user": "Sandra Eberhard",
-    "score": 1,
-    "date": "2026-08-10 07:09:12",
-    "content": "öffnet nicht mehr",
+    "review_id": "352451ca-3f2e-4937-85ee-e7abce4b4070",
+    "user": "emil casablanca",
+    "score": 4,
+    "date": "2026-08-23 18:14:32",
+    "content": "Habe bei Spusu ein Legendär Abo gemacht ein Tag später schon die SIM bekommen und bei der Registration und Identifikation wurde mir sofort geholfen bis jetzt mehr wie zu Frieden hoffentlich bleibt es so",
     "thumbs_up": 0,
-    "app_version": "2.00.001",
+    "app_version": "2.00.002",
     "reply": null
   },
   {
@@ -185873,7 +185929,7 @@
     "score": 2,
     "date": "2026-08-10 09:57:36",
     "content": "Normalerweise schreibe ich nie eine Bewertung. Hier jedoch rege ich mich so auf, dass ich mich entschieden habe eine zu verfassen. Im Gross und Ganzen bin ich mit den Dienstleistungen von Sunrise zufrieden. Die App ist aber eine pure Frechheit und unterirdisch. Abo Wechsel über die App? 10 Minuten im Ladescreen aber nicht weiter gekommen! Selbiges beim Melden des Umzugs. Dort 20 Minuten im Ladescreen aber nicht durchgekommen! App war auf dem neusten Stand. Heutzutage muss sowas funktionieren.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.6.53",
     "reply": null
   },
@@ -192386,20 +192442,6 @@
     "thumbs_up": 1,
     "app_version": "7.6.4",
     "reply": null
-  },
-  {
-    "app_name": "mysunrise",
-    "provider": "sunrise",
-    "app_id": "ch.sunrise.mein.konto",
-    "language": "de",
-    "review_id": "ceaf7590-a5b8-4713-b7a4-642b2101f91d",
-    "user": "Ruben Hilbrecht",
-    "score": 1,
-    "date": "2023-11-09 08:05:48",
-    "content": "App funktioniert gar nicht mehr. Kei. Zugriff auf gar kein menüe, nichts. Wirklich mühsem!",
-    "thumbs_up": 0,
-    "app_version": "7.6.4",
-    "reply": "Herzlichen Dank für ihr Feedback. Wir entschuldigen uns für die Schwierigkeiten, die sie hatten. Wir bitten sie, Screenshots und Aufnahmen auf unserer Sunrise Community hochzuladen. Anhand von dem, können wir prüfen, wie wir das Anliegen schnellstmöglich lösen können. Wir Danken für die Zusammenarbeit. Lieb Grüsse, Sunrise App Support."
   },
   {
     "app_name": "mysunrise",
@@ -229129,7 +229171,7 @@
     "app_id": "com.lgi.upcch",
     "language": "de",
     "review_id": "f75c6823-2203-4476-a6ee-187b61f0c1a2",
-    "user": "Enrique Tödtli",
+    "user": "Ein Google-Nutzer",
     "score": 1,
     "date": "2023-05-28 10:45:18",
     "content": "Schon das Einloggen ist eine Katastrophe.",
@@ -250514,6 +250556,20 @@
     "thumbs_up": 3,
     "app_version": "2.3.22 Prod",
     "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "de",
+    "review_id": "1f223f94-6595-4bf8-b694-00e11e3fe342",
+    "user": "M. B.",
+    "score": 2,
+    "date": "2026-08-23 08:52:21",
+    "content": "Fehler jetzt beheben. Wenn man den Wohnsitz ins Ausland wechselt und die Nummer nun als Prepaid registriert ist sieht man das in der App nirgends!!!! Keine Information. Nur Online",
+    "thumbs_up": 2,
+    "app_version": "1.0.56",
+    "reply": "Hallo, kannst du mir bitte via E-Mail an mysalt@salt.ch einen Screenshot der Fehlermeldung (falls vorhanden), das Gerätemodell, die Android Version und deine Rufnummer/E-Mail-Adresse mitteilen und wir prüfen es gerne. Grüsse, Sarah"
   },
   {
     "app_name": "salt",
