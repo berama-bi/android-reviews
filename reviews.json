@@ -3313,7 +3313,7 @@
     "score": 2,
     "date": "2024-11-12 19:01:34",
     "content": "Grundsätzlich eine sehr gute App und würde auch 4 Sterne bekommen. Bei den aktuellen Kosten kann man die Anrufe und die aktuellen Kosten sehen. Nicht auf den abgeschlossenen Monat. Sehe nur auf der Rechnung 19.- Kosten für Auslandsgespräche, obwohl keine Auslandsgespräche geführt wurden und diese noch im Abo enthalten sind. Entweder zahle ich jetzt 1.50/min für die Hotline oder ich zahle einfach den Betrag. Es wäre schön, wenn man so etwas nachvollziehen könnte, wie bei den aktuellen Kosten.",
-    "thumbs_up": 18,
+    "thumbs_up": 19,
     "app_version": "6.59.1",
     "reply": null
   },
@@ -3789,7 +3789,7 @@
     "score": 5,
     "date": "2023-11-19 11:17:33",
     "content": "Super übersichtliche und einfach zu bedienende App! Übersicht über alle Kosten, Zusatzdienste und den Verbrauch z.B. von Daten im Ausland. Rechnungen können ganz praktisch direkt mit twint bezahlt werden. Neue (dank Promotionen teils deutlich günstigere) Abos können super einfach abgeschlossen werden. Sperren von kostenpflichtigen Telefonnummern und vieles mehr.",
-    "thumbs_up": 34,
+    "thumbs_up": 35,
     "app_version": "1.1.34",
     "reply": null
   },
@@ -5513,6 +5513,20 @@
     "content": "Nice",
     "thumbs_up": 1,
     "app_version": "1.1.34",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "it",
+    "review_id": "613e315e-a017-4ada-949a-46e982aac7fe",
+    "user": "Guido Pedroni",
+    "score": 5,
+    "date": "2026-08-26 14:09:52",
+    "content": "ottimo da usare e costi chiari!",
+    "thumbs_up": 0,
+    "app_version": "11.0.1",
     "reply": null
   },
   {
@@ -20319,7 +20333,7 @@
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
     "review_id": "b1b99eec-11b4-49f3-b744-b17f2050eee4",
-    "user": "Hans A. Kröner",
+    "user": "Ein Google-Nutzer",
     "score": 1,
     "date": "2022-01-22 09:19:20",
     "content": "Persönlich brauchte ich weniger. Man wird mit Werbung, News und Nachrichtigen bombardiert. Das ist so richtig oberlästig. Auch kein Ferseh brauche ich auf dem Handy. Bitte alles deaktivieren. Benötigen tue ich nur mein Maileingang.",
@@ -57656,20 +57670,6 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "it",
-    "review_id": "392c4eb7-51a9-437a-b47c-0a1c5e5fc8ac",
-    "user": "Alessia De Giuli (Spirito libero)",
-    "score": 5,
-    "date": "2024-04-11 12:10:20",
-    "content": "Mi scuso infinitamente, l'applicazione funziona benissimo, non riuscivo ad accedere ora è tutto a posto grazie mille 🙏🌟 🙏👍",
-    "thumbs_up": 2,
-    "app_version": "11.13.2",
-    "reply": "Ottimo sono contento che tutto funziona. Grazie mille per averci risposto e cari saluti, Yari Online Care Team"
-  },
-  {
-    "app_name": "myswisscom",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.myswisscom",
-    "language": "it",
     "review_id": "3a4d1e6c-d604-4a59-892d-68ce7516646d",
     "user": "Nessuno Uno",
     "score": 1,
@@ -60771,6 +60771,34 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "47cbf3aa-6162-4150-83f3-be9c11774cd9",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-08-26 06:45:40",
+    "content": "Schlechteste Erfahrung mit Bluesport. Lizenzen werden jedes Jahr gewechselt, sodass das Produkt nicht mit dem geworbenem übereinstimmt. Ebenfalls wird bei einer Kündigung keine Kulanz gezeigt.",
+    "thumbs_up": 0,
+    "app_version": "7.6.1",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "719072d3-1ee5-4a72-b1ab-d0ab496d6520",
+    "user": "Ein Google-Nutzer",
+    "score": 4,
+    "date": "2026-08-25 20:19:12",
+    "content": "Die App läuft mittlerweile grösstenteils Souverän.",
+    "thumbs_up": 1,
+    "app_version": "7.9.3",
     "reply": null
   },
   {
@@ -120754,6 +120782,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "fr",
+    "review_id": "5922deb3-bf9f-4882-a876-6f98037f52e9",
+    "user": "Alain Chappuis",
+    "score": 5,
+    "date": "2026-08-25 17:37:53",
+    "content": "parfait très content de swisscom",
+    "thumbs_up": 0,
+    "app_version": "7.9.3",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
     "review_id": "8dffcc2c-7cf0-477c-9097-4c53373131b7",
     "user": "Dominique Burkhalter",
     "score": 4,
@@ -124920,20 +124962,6 @@
     "thumbs_up": 0,
     "app_version": "5.9.1",
     "reply": "Bonjour Natalino, je suis content que tu apprécies notre App et que tu l'utilises dans toutes les situations possibles. Merci d'avoir pris le temps de la noter avec 5 ⭐. Meilleures salutations, Yari Online Care Team"
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "fr",
-    "review_id": "3187a267-98cd-4b02-b7e7-0588b5493a64",
-    "user": "M. J.",
-    "score": 2,
-    "date": "2023-08-17 22:11:56",
-    "content": "Pourquoi les sous-titres et la fonction \"reprendre la lecture\" ne fonctionnent-ils plus et sur la TV et sur mon smartphone Android? Par ailleurs, depuis quelque temps,les langues se mélangent dsns les menus sur l'application mobile! Et, par moments, certains mots sont traduits de façon débile: \"inscription\" au lieu de \"enregistrement\", par exemple... 😒 Quelle dégringolade!",
-    "thumbs_up": 8,
-    "app_version": "5.9.1",
-    "reply": "Bonjour Marlene, navrée pour les perturbations que tu rencontres avec notre application. Je t'invite à désinstaller puis réinstaller l'app. Si cela ne fonctionne toujours pas, notre assistance se tient volontiers à ta disposition ici https://tinyurl.com/2ht6sfah Bonne fin de semaine. Stéphanie, Online Care Team"
   },
   {
     "app_name": "blue tv",
@@ -134097,7 +134125,7 @@
     "app_id": "com.swisscom.tv2",
     "language": "fr",
     "review_id": "ce365a32-fe64-47e7-8614-9853b92a9e0d",
-    "user": "Neko_Ryuu gs",
+    "user": "Grazia",
     "score": 1,
     "date": "2020-05-17 18:00:47",
     "content": "NUL, nul nul. Je ne peux plus voir tous mes enregistrements sur l'app car ils n'apparaissent pas tous alors que je l'ai vois sur ma box ou depuis internet",
@@ -155171,7 +155199,7 @@
     "score": 1,
     "date": "2026-06-04 10:24:17",
     "content": "Sehr schwache User Experience, langsam (je nach Klick 3-4 Sekunden Ladezeit) und viel Werbung. Viele Links die aus dem App führen oder zur alten Ansicht, wirkt nicht Mobileoptimiert, finde Infos nicht, die essentiell sind, bspw. was in meinem Abo alles inbegriffen ist. Dazu muss ich auf die Produktseite gehen. Der Support ist nett, aber drängt einen zu guten Bewertungen, sehr unangenehm.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "5.2.0",
     "reply": null
   },
@@ -178022,20 +178050,6 @@
     "thumbs_up": 0,
     "app_version": "2.0.19",
     "reply": null
-  },
-  {
-    "app_name": "yallo tv",
-    "provider": "yallo",
-    "app_id": "com.smith.production",
-    "language": "de",
-    "review_id": "4380f9a4-9f31-4d67-9cf0-c34d863f63e7",
-    "user": "Bachir Djeffali",
-    "score": 1,
-    "date": "2026-08-20 07:17:18",
-    "content": "MÄNGELRÜGE ! Ein nicht funktionierendes EPG macht den Abovertrag ungültig !!! ZATTOO ZATTOO ZATTOO PROGRAMM FUNKTIONIERT - YALLO NICHT !!!! 4 Staffeln FRINGE sind auf RTS2 gelaufen und im PROGRAMM NIE SICHTBAR !!! 4 F ING STAFFELN !!!! Sogar jetzt kann man suchen und es kommt nix (Montags auf RTS2) IHR MACHT DAS HÄÜFIG. DESHALB NUTZE ICH ZATTOO ALS PROGRAMM, DA FINDET MAN SACHEN DIE BEI YALLO NICHT AUFGELISTET WERDEN. Sauerei !!!",
-    "thumbs_up": 0,
-    "app_version": "2.0.19",
-    "reply": "Vielen Dank für Ihre Geduld und Ihr wertvolles Feedback. Wir bedauern die Unannehmlichkeiten, die durch dieses Problem entstanden sind. Inzwischen konnte der Fehler mit der neuesten Version der yallo TV App behoben werden. Vielen Dank, dass Sie uns auf dieses Problem aufmerksam gemacht haben."
   },
   {
     "app_name": "yallo tv",
@@ -229833,7 +229847,7 @@
     "score": 1,
     "date": "2023-03-07 12:35:46",
     "content": "Auf einem Phillips TV mit Android (aktuell) installiert - soweit OK im Installationsvorgang - ABER - es werden keine Eingaben über die TV Fernbedienung angenommen, die Navigation ist zum 🤮 - Nutzen sinnvoll = 0 - ACH JA - habe diese APP mehrere Tage (5) ausprobiert - das ganze geht sicher auch besser - ABER das scheint ja wohl der Politik seitens LG (UPC / Sunrise) zu wiedersprechen, die lieber Ihre IPTV Box abgeben - denn dadurch wird der Routerzwang durch die Hintertür wieder eingeführt.",
-    "thumbs_up": 13,
+    "thumbs_up": 14,
     "app_version": "4.46.6213",
     "reply": "Herzlichen Dank für Ihr Feedback. Wir bedauern sehr, dass Sie Schwierigkeiten mit unserer App hatten. Können Sie uns bitte beschreiben, was wir verbessern können? Vielen Dank für Ihre Zusammenarbeit! Liebe Grüsse, Sunrise App Support"
   },
@@ -250618,6 +250632,20 @@
     "provider": "salt",
     "app_id": "ch.salt.my",
     "language": "de",
+    "review_id": "d2be6351-be4d-4d91-aa89-ea0e13fd66f8",
+    "user": "Ali Karimi",
+    "score": 1,
+    "date": "2026-08-25 22:33:12",
+    "content": "nicht zofriden immer Jeden monat ander betrag immer mehr mehr muss ich sallen anfang 109 und jetzt 123 chf und manichmal 144 chf nicht gut",
+    "thumbs_up": 0,
+    "app_version": "1.0.48",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "de",
     "review_id": "1f223f94-6595-4bf8-b694-00e11e3fe342",
     "user": "M. B.",
     "score": 2,
@@ -250777,7 +250805,7 @@
     "score": 1,
     "date": "2026-06-30 11:40:08",
     "content": "ich habe unbegrentzt Daten in der EU und jetzt haben sie mich eingeschränkt wegen zu hohem Datenverbrauch ich werde das Abo auflösen sobald ich in der Schweiz bin und vordere die schon bezahlten Monatlichen gebühren wenn Nötig gerichtlich zurück",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "1.0.52",
     "reply": null
   },
@@ -251113,7 +251141,7 @@
     "score": 1,
     "date": "2026-02-05 11:29:36",
     "content": "Beim Vertragsabschluss eine E-Mail bekommen, dass sich ein Techniker in Kürze meldet, um die OTO Dose zu installieren. Nach zwei Monaten habe ich DREI mal den Kundendienst angerufen und jedes mal sagten sie es meldet sich ein Techniker. Es sind jetzt schon wieder drei Wochen vergangen, ohne einen Termin.  Ein Stern ist noch zu viel.",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "1.0.44",
     "reply": null
   },
@@ -251323,7 +251351,7 @@
     "score": 1,
     "date": "2025-11-18 11:46:05",
     "content": "mit an der schlechteste Anbieter in der Schweiz. jeden Tag zeigt es immer wieder an keine Daten. Support ist für nichts ausser man geht in den store. Da frag ich mich schon für was die app gut ist. Weiter kann man das Abonnement nicht einmal über die app kündigen sondern muss anrufen, aber neue abos abschliessen ist kein problem😮‍💨",
-    "thumbs_up": 9,
+    "thumbs_up": 10,
     "app_version": "1.0.27",
     "reply": null
   },
@@ -253033,6 +253061,20 @@
     "content": "Endlich eine App, dazu noch top!!",
     "thumbs_up": 0,
     "app_version": "1.0.9",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "fr",
+    "review_id": "d87ccbad-fa1b-4a29-a8c8-e39a6a6c0146",
+    "user": "Marlene Cirade",
+    "score": 5,
+    "date": "2026-08-26 15:16:40",
+    "content": "Je pense que ces pratiques efficaces. Merci à vous",
+    "thumbs_up": 0,
+    "app_version": "1.0.56",
     "reply": null
   },
   {
