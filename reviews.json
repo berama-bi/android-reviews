@@ -135,7 +135,7 @@
     "score": 3,
     "date": "2026-07-23 10:21:47",
     "content": "Grundsätzlich gut aber bei Wingo ist es sehr schwierig sein Abo zu künden. In der App geht das nicht, sie verweisen auf Chats.. aber im WhatsApp geben sie keine Antwort.. auch nicht während den Öffnungszeiten. Mail gibts nicht, ich werde es über die kostenpflichtige Tel. Nr. probieren müssen. (Facebook habe ich nicht).",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "10.0.2",
     "reply": null
   },
@@ -7446,6 +7446,20 @@
     "thumbs_up": 2,
     "app_version": "1.0.0",
     "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
+    "review_id": "8458153b-1492-46ba-914e-ae609c1a7c78",
+    "user": "Kurt Schnellmann",
+    "score": 5,
+    "date": "2026-08-26 18:09:20",
+    "content": "Swisscom ist gut, aber schon etwas teuer.",
+    "thumbs_up": 0,
+    "app_version": "11.21.3",
+    "reply": "Lieber Kurt, vielen Dank für deine TOP-Bewertung. Wir bauen die APP regelmässig aus das kostet eben auch etwas. Ich wünsche dir viel Spass beim Stöbern. Liebe Grüsse, Mirko Online Care Team"
   },
   {
     "app_name": "myswisscom",
@@ -44823,7 +44837,7 @@
     "score": 4,
     "date": "2026-07-08 12:09:36",
     "content": "C'est une application que J'Aime Bien! Je L'Utilise! j'y vais Plusieurs Fois Pars Semaine! Seulement je peux plus car:: sa fait 2/3 jours que j'essaye de me connecter et a chaque fois le message ci-dessous s'affiche \"une erreur est survenue prière de réessayer plus tard\"",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "11.31.1",
     "reply": "Je t'invite ensuite à : essayer une connexion en Wi‑Fi puis en données mobiles (ou inversement) puis désinstaller puis réinstaller l’application. Si ton problème persiste je t'invite à : https://www.swisscom.ch/fr/clients-prives/aide/mobile.html Meilleures messages Rachel Online Care Team"
   },
@@ -120782,6 +120796,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "fr",
+    "review_id": "3187a267-98cd-4b02-b7e7-0588b5493a64",
+    "user": "M. J.",
+    "score": 3,
+    "date": "2026-08-26 23:57:50",
+    "content": "La recherche myAI s'impose mais ne fonctionne pas sur mon smartphone Android. Ennuyeux!",
+    "thumbs_up": 8,
+    "app_version": "7.9.3",
+    "reply": "Bonjour Marlene, navrée pour les perturbations que tu rencontres avec notre application. Je t'invite à désinstaller puis réinstaller l'app. Si cela ne fonctionne toujours pas, notre assistance se tient volontiers à ta disposition ici https://tinyurl.com/2ht6sfah Bonne fin de semaine. Stéphanie, Online Care Team"
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
     "review_id": "5922deb3-bf9f-4882-a876-6f98037f52e9",
     "user": "Alain Chappuis",
     "score": 5,
@@ -185411,7 +185439,7 @@
     "score": 5,
     "date": "2026-04-07 12:49:28",
     "content": "Ich bin sehr zufrieden. Die Anmeldung, die Telefonnummerübernahme alles hat bestens geklappt. Alles ist einfach und entspannt. Der Support ist Spitze kaum Wartezeiten, mega freundlich und Anliegen/Probleme werden umgehend gelöst. Herzlichen Dank Spusu Team.",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "2.00.000",
     "reply": null
   },
@@ -185453,7 +185481,7 @@
     "score": 5,
     "date": "2026-01-27 13:29:26",
     "content": "Super Anbieter, habe vor mehreren Monaten auf spusu gewechselt. Preis-Leistung ist TOP! Support klappt wunderbar und es wird schnell reagiert. Keine Probleme im Ausland und wenn doch, gibt es schnelle Hilfe. Absolute Empfehlung.",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "2.00.000",
     "reply": null
   },
@@ -185875,6 +185903,20 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 0,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "5d5fd2f9-9b77-46d5-92f7-df933189e8aa",
+    "user": "Willy Amrein",
+    "score": 1,
+    "date": "2026-08-27 15:37:25",
+    "content": "mein Gerät soll plötzlich nicht mehr mit dieser App kompatibel sein??? Rechnung bezahlen geht auch nicht mehr???",
+    "thumbs_up": 0,
+    "app_version": null,
     "reply": null
   },
   {
@@ -261207,7 +261249,7 @@
     "score": 4,
     "date": "2020-09-24 20:29:22",
     "content": "Die neue App ab Ende Sept. ist gut gelungen und sehr übersichtlich. Tipp zum Login, dort wäre die Bezeichnung Benutzernummer wohl treffender als Benutzername. Denn langjährigen KD wurde die KD-Nummer automatisch dem Login zugeteilt. Dass ich das ändern kann wurde mir erstmals eben mitgeteilt. Sichtbar ist für mich als Kunde nur die Änderungsmöglichkeit des Passwortes. Trotzdem werde ich das dann vielleicht einmal probieren, mit dem Nachteil bei allen Geräten das autom. Login zu QL anzupassen.",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "3.2079.04",
     "reply": "Lieber Herr Grob, vielen Dank für Ihre Bewertung! Es freut uns, dass Ihnen die neue Version gefällt. Ihren Benutzernamen können Sie selbst auf cockpit.quickline.ch beliebig ändern. Er muss nicht zwingend Nummer enthalten. Aus diesem Grund finden wir die Bezeichnung «Benutzername» zutreffender als «Benutzernummer». Freundliche Grüsse, Quickline"
   },
