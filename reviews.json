@@ -4,6 +4,34 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "1c536d78-1803-4782-bcf0-4f01235880e1",
+    "user": "Adi",
+    "score": 5,
+    "date": "2026-08-28 07:06:01",
+    "content": "Sehr gute und übersichtliche App",
+    "thumbs_up": 0,
+    "app_version": "11.0.1",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
+    "review_id": "675266c3-bafa-4399-b0f0-8659b66c4fe9",
+    "user": "Angiel Reisende",
+    "score": 3,
+    "date": "2026-08-28 03:03:14",
+    "content": "simple App ich hab eine Frage hinsichtlich datenmax Verbrauch Einstellung... gerade auch für mein Ausland Abo. gerne würde ich max 1 GB pro Tag verbrauchen ohne ständig nach dem bisherigen Verbrauch schauen zu müssen. wo kann ich das tun?",
+    "thumbs_up": 0,
+    "app_version": "11.0.1",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "faa2ca93-79df-4145-9d33-6be220aea6e0",
     "user": "Stefan Zibu Reinhard",
     "score": 1,
@@ -3813,7 +3841,7 @@
     "app_id": "com.swisscom.mywingo",
     "language": "de",
     "review_id": "44da69bb-f318-4a1f-97c0-507e5ef09d9e",
-    "user": "Kurt Wickler",
+    "user": "Andreas Alscher",
     "score": 3,
     "date": "2023-11-14 13:13:30",
     "content": "Eigentlich 4 Sterne, wenn es eine Kontrolle gäbe über ein- und ausgehende Telefonate zwecks Kostenkontrolle.",
@@ -7452,6 +7480,34 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
+    "review_id": "bbccaedc-5927-4226-93b7-71afa5e324f3",
+    "user": "Rico Kunfermann",
+    "score": 5,
+    "date": "2026-08-28 10:17:31",
+    "content": "top, gute Übersicht",
+    "thumbs_up": 0,
+    "app_version": "11.33.0",
+    "reply": "Hallo Rico, vielen lieben Dank für deine tolle Bewertung und Rückmeldung. Es freut mich, zu lesen, dass dir die App so gute Dienste leistet. Ich wünsche dir weiterhin viel Spass. Liebe Grüsse, Mirko Online‑Care‑Team"
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
+    "review_id": "3a71f51c-08c8-41cc-9696-a15343bb08b5",
+    "user": "Adi",
+    "score": 5,
+    "date": "2026-08-28 07:05:21",
+    "content": "Sehr gute und übersichtliche App",
+    "thumbs_up": 0,
+    "app_version": "11.33.0",
+    "reply": "Hallo Adi, vielen lieben Dank für deine tolle Rückmeldung und deine TOP‑Bewertung! Wir entwickeln die App laufend weiter und arbeiten daran, dass sie das so bleibt. Ich wünsche dir weiterhin viel Spass mit unserer App. Liebe Grüsse Mirko Online‑Care‑Team"
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
     "review_id": "8458153b-1492-46ba-914e-ae609c1a7c78",
     "user": "Kurt Schnellmann",
     "score": 5,
@@ -7513,7 +7569,7 @@
     "score": 1,
     "date": "2026-08-18 12:14:01",
     "content": "Service gleich Null,-Rechnungen werden auch nach mehreren Aufforderungen nicht Zugestellt! Beim Fernsehangebot ist auch nach mehreren Aufforderungen kein Service vorbei gekommen Trotz Zusage! Versprochene Sender war nicht ein einziger Vorhanden, zumindest sind Sie grosszügig in Rechnungen und Betreibungen😡😡😡",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.32.1",
     "reply": "Guten Tag, danke für deine Bewertung und dein Feedback. Wir nehmen deine Rückmeldung ernst und möchten deinen Fall gerne genauer prüfen. Melde dich doch bitte per Privatnachricht über unsere Social-Media Kanäle oder auf www.swisscom.ch/support kannst du einen Rückruf vereinbaren. Liebe Grüsse, Barbara Online Care Team"
   },
@@ -7583,7 +7639,7 @@
     "score": 1,
     "date": "2026-07-30 14:33:26",
     "content": "Die my swisscom App funktioniert seit Wochen nicht mehr. Es kommen Meldungen wie \"Es ist ein Fehler sufgetreten\" und \"Versuchen Sie es später nochmals\". Habe alles probiert, mit Neustart, mit App Neuinstallation usw. Alles nützt nichts.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "11.31.2",
     "reply": "Hallo Urs, vielen Dank für deine Bewertung und dein Feedback. Es tut mir leid, dass du unsere App nur mit 1 Stern bewertet hast. Deinen Hinweis habe ich soeben an unsere Spezialisten weitergeleitet.\nLiebe Grüsse, Isabel Online Care Team"
   },
@@ -7653,7 +7709,7 @@
     "score": 3,
     "date": "2026-07-14 18:10:29",
     "content": "Das Problem ist inzwischen behoben. Aber die App könnte einfacher gestaltet sein: weniger grosse Kacheln und Bilder, damit sie schneller und flüssiger läuft. Ich erhöhe auf von 1 au 3 Sterne. --- Einloggen seit 1-3 Wochen nicht mehr möglich. Die App ist aktuell, und ich habe sie sogar deinstalliert und neu installiert, jedoch ohne Erfolg. Absolut nervig.",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "11.31.2",
     "reply": "Hallo Mi Ce Ma, vielen Dank für deine Bewertung mit 3 ⭐ und dein Feedback. Es freut mich, dass die App bei dir wieder funktioniert. Deinen Input betreffend der Gestaltung der App werde ich der zuständigen Stelle weiterleiten. Ich wünsche dir einen schönen Tag 💙. Liebe Grüsse Gabriela, Online Care Team"
   },
@@ -7835,7 +7891,7 @@
     "score": 2,
     "date": "2026-07-03 14:22:27",
     "content": "Dauernd Anmeldeschwierigkeiten \"es ist ein Fehler aufgetreten, versuchen Sie es später erneut\", (seit Tagen) man weiss nie so genau was einen erwartet.... Und die Hotline ist gegenüber der von Sunrise in jeder Hinsicht 10 Jahre hintendran. Und SAM (KI) bringt dich vollommen an den Rand der Verzweiflung.... Aber gut, man gibt sich Mühe Und dieses \"aktualisieren\", Handy neu starten\", \"App deinstallieren und wieder installieren\" bringt absolut gar nichts.",
-    "thumbs_up": 11,
+    "thumbs_up": 12,
     "app_version": "11.31.1",
     "reply": "Hallo SwizMuayThai, danke für deine Bewertung und deinen Kommentar. Es tut mir leid zu lesen, dass deine App zur Zeit nicht funktioniert. Wende dich bitte an einen Swisscom Shop oder an www.swisscom.ch/support. Wir würden uns freuen, dein Anliegen mit dir genau zu überprüfen. Liebe Grüsse Conny, Online Care Team"
   },
@@ -7891,7 +7947,7 @@
     "score": 1,
     "date": "2026-06-30 19:46:32",
     "content": "Es ist nicht möglich sich anzumelden, klickt man auf den Anmeldebutton, wird angezeigt dass es eine Störung gibt. Schade, seit der Nutzung der App, hat diese bei gefühlten 1000 Versuchen 3 Mal funktioniert.",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "11.31.1",
     "reply": "Guten Morgen Stefan, danke für deine Bewertung und dein Feedback. Es tut mir leid zu lesen, dass du Probleme mit der App hast und dich zurzeit nicht in die App einloggen kannst. Deinen Hinweis habe ich aufgenommen und werde ihn gerne an unsere Spezialisten weiterleiten. Liebe Grüsse, Isabel Online Care Team 🌻"
   },
@@ -7947,7 +8003,7 @@
     "score": 1,
     "date": "2026-06-25 14:53:15",
     "content": "Trotz neustem Händy einloggen nicht möglich kommt immer das selbe \" Es ist ein Fehler aufgetreten versuchen sie es später nochmal\" dazu nich Downlod schwächer Trotz 1gb leitung nur 90 MBit möglich Vekabelt. Bekommt es mal in den griff wofür bezahlen wir so viel wenn nichts richtig läuft.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "11.30.1",
     "reply": "Hallo Juan, besten Dank für deine Bewertung und dein Feedback. Ich hoffe die App deinstallieren und neu installieren hilft, dein ungelöstes Problem zu lösen. Nimm am Besten direkt mit unseren Kundendienst Kontakt auf oder über diesen Link: www.swisscom.ch/de/privatkunden/hilfe. kannst du dein Anliegen melden. LG, Corin Online Care Team 💙"
   },
@@ -7975,7 +8031,7 @@
     "score": 1,
     "date": "2026-06-19 16:57:00",
     "content": "Einloggen in diese App nicht mehr möglich. Die Links unter dem einloggen sind auch nicht anklickbar. Und in der Webseite sind Links, die auf diese App verweisen daher sinnfrei. Beides mit 2 verschiedenen Tastaturen ausprobiert und beide male das gleiche Verhalten der App. App - mit Cache leeren und Daten löschen - deinstalliert und paar Minuten später wieder Installiert: Siehe oben. Immer noch kein einloggen möglich.",
-    "thumbs_up": 10,
+    "thumbs_up": 11,
     "app_version": "11.30.1",
     "reply": "Hallo Peter, vielen Dank für deine Rückmeldung. Hast du bereits die App aktualisiert? Möglicherweise unterstützt dein Gerät die aktuelle Version der App nicht mehr.\nBitte wende dich an einen Swisscom‑Shop, damit dein Anliegen dort genauer geprüft werden kann. Danke und liebe Grüsse, Mirko Online Care Team"
   },
@@ -8045,7 +8101,7 @@
     "score": 1,
     "date": "2026-06-14 13:37:04",
     "content": "Immer noch funktioniert es nicht mit Android 16!!!!! Spezialisten, das ist ja zum Lachen, sie haben keine Ahnung von der App! x mal geschrieben, keine Antwort, gar nicht kundenfreundlich, Kundenservice eine Katastrophe!! Nach wie vor keine Anmeldung möglich. !!! Immer mit der Meldung, keine Anmeldung möglich. versuchen sie es später wieder, Kundendienst hilft auch nicht weiter. Mann erhält nur eine billige Antwort, Webbrowser benützen.",
-    "thumbs_up": 35,
+    "thumbs_up": 36,
     "app_version": "11.30.1",
     "reply": "Hallo Tomi, danke für deine Bewertung. Es tut mir leid, dass zu solche Schwierigkeiten hast. Ich empfehle dir die App zu löschen und nochmals neu herunterzuladen. Sollte das Problem weiterhin bestehen, kannst du dich gerne an einen Swisscom Shop wenden. Unsere Kolleg*innen vor Ort unterstützen dich gerne. Liebe Grüsse, Gabriela Online Care Team"
   },
@@ -8507,7 +8563,7 @@
     "score": 1,
     "date": "2026-04-10 09:46:32",
     "content": "Noch immer kein Dark-Mode verfügbar?! In der aktuellen Version, greller weisser Hintergrund, gräuliche Schrift, für mich unbrauchbar. Nachtrag, seit sicher 3 oder 4 Jahren immer dieselbe Standardantwort! Von dem \"Care Tean\", vermutlich sogar durch Ki generiert?! Völlug unbefriedugend!!!",
-    "thumbs_up": 60,
+    "thumbs_up": 61,
     "app_version": "11.28.4",
     "reply": "Lieber Werner, vielen Dank für deine Rückmeldung. Nein, die Antwort vom Care Team erfolgt weiterhin von einem Menschen. Deinen Input haben wir daher an unsere Entwicklungsabteilung weitergeleitet. Vielen Dank für dein Verständnis. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -8787,7 +8843,7 @@
     "score": 1,
     "date": "2026-03-05 12:25:52",
     "content": "App ist aus irgendeinem Grund nicht für mein Gerät verfügbar, obwohl ich sämtliche Ländereinstellungen auf \"Schweiz\" habe. Der Kundenberater am Telefon konnte/wollte mir nicht helfen, behauptet einfach, es sei ein Endgeräteproblem. Als ich fragte, welche Bereiche das Programm prüft, das müssen die Programmierer ja wissen, kam auch keine Antwort. 1 Stern ist noch zu viel. So viel Geld verlangen für miesen Service. Ich ändere den Provider und spare dabei Geld. Der Service kann nicht schlechter...",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "11.27.1",
     "reply": "Hallo Andi V, herzlichen Danke für deine Bewertung mit 1⭐. Tut mir leid, dass du mit unserer MySwisscom App nicht zufrieden bist. Gerne würden wir dies mit dir zusammen anschauen. Dafür kannst du uns per Hotline, Social Media oder auch via WhatsApp kontaktieren. Ich wünsche dir einen schönen Tag und sende dir liebe Grüsse. Juan, Online Care Team."
   },
@@ -9599,7 +9655,7 @@
     "score": 1,
     "date": "2025-12-05 16:57:34",
     "content": "Jedes Mal muss ich ein Update machen und warte seit 5min bis die App aktualisiert. Nun sind wir mal bei 98% gelandet. Danach kann ich mich nicht einloggen und muss jedes Mal anrufen. Kundendienst ist immer sehr lieb, aber das bringt mir nichts, wenn ich doppelt so viel bezahle monatlich, als bei Salt. Zwar spart man an Papier, aber mein Zeitaufwand ist dafür maximal. Das war vor paar Monaten viel besser bei Salt. Schade!",
-    "thumbs_up": 14,
+    "thumbs_up": 15,
     "app_version": "11.26.6",
     "reply": "Hallo Emine, danke für deine Rückmeldung. Es tut mir leid, dass du Probleme hast. Die Anmeldung inklusive Verifizierung dauert normalerweise nicht länger als 20 Sekunden – dabei kann auch dein Fingerabdruck verwendet werden. Gerne helfen wir dir auch in einem Swisscom Shop weiter. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -9851,7 +9907,7 @@
     "score": 1,
     "date": "2025-11-19 11:29:41",
     "content": "Katastrophe Seit dem letzten Update gibt es nur noch probleme: ich kann meine Rechnungen nicht ansehen, erst nach dem 2.-3. mal einloggen scheinen sie auf. Und 2: ich muss mich bei fast allem was ich klicke neu einloggen, so, ohne Grund. Als ich das bei der Service Hotline gemeldet habe, wurde OHNE MEINE ANFRAGE! einfach mein Passwort zurückgesetzt und es lässt mich auch nicht kein Altes wieder verwenden, und jetzt muss ich mir extra für diese App ein neues merken. 11/2025 ist schon wieder so...",
-    "thumbs_up": 28,
+    "thumbs_up": 29,
     "app_version": "11.25.1",
     "reply": "Hallo OLL13_85. Vielen Dank für deine Bewertung und dein Feedback. Es tut mir sehr leid zu lesen, dass die App nicht wie gewünscht nutzbar ist und das Passwort zurück gesetzt wurde. Dies ist nicht in Ordnung und ich entschuldige mich dafür. Gerne gebe ich deine Rückmeldung intern weiter. Liebe Grüsse Janine, Online Care Team."
   },
@@ -12805,7 +12861,7 @@
     "score": 1,
     "date": "2025-06-03 09:06:37",
     "content": "Hallo Liebe Swisscom, ich kann mich nicht mehr anmelden! Login funktioniert nicht und wird mit einer Fehlermeldung \"Versuchen Sie es später nochmals\" quittiert!! Die Abo Daten bzw Profildaten koennen so nicht angezeigt fehler. Da kommt leider ein Systemfehler. Da ist aktuell ein Problem. Koennen Sie das bitte fixen? So ist die App unbrauchbar und jaa liebe SC App x-mal de-installiert und installiert. Danke für eine schnelle Lösung.",
-    "thumbs_up": 48,
+    "thumbs_up": 49,
     "app_version": "11.22.1",
     "reply": "Hallo Roberto, vielen Dank für deine Bewertung und das Feedback. Es tut mir leid zu lesen, dass Probleme mit der App bestehen. Dieses Problem ist bei unseren Spezialisten bekannt und wird schnellstmöglich behoben. Bitte habe noch etwas Geduld und Verständnis. Wünsche dir einen wunderschönen Tag und sende liebe Grüsse, Dorothea Online Care Team 🌷"
   },
@@ -13267,7 +13323,7 @@
     "score": 1,
     "date": "2024-12-15 05:38:47",
     "content": "Suchfunktion funzt nicht und man sucht und sucht, dann endlich gefunden wie das völlig überteuerte Abo gekündigt werden. Neukunden bekommen sensationelle Rabatte, Alt-Kunden, die die Swisscom zu dem machten was sie jetzt ist, gucken in Röhre! Zur Auswahl steht Kündigung per Telefon oder per Online, nur letzteres funktioniert - nicht! Also Termin abgemacht, obs klappt bezweifle ich allerdings... Update: NIEMAND! hat angerufen...",
-    "thumbs_up": 19,
+    "thumbs_up": 20,
     "app_version": "11.18.0",
     "reply": "Lieber Thomas, vielen Dank für deine Rückmeldung. Tut mir leid zu lesen, dass du solche Problem mit der APP hast. Falls wir etwas für dich tun können, melde dich bitte unter: https://www.swisscom.ch/de/privatkunden/hilfe/kontakt.html Liebe Grüsse, Mirko Online Care Team"
   },
@@ -13491,7 +13547,7 @@
     "score": 1,
     "date": "2024-10-25 13:11:09",
     "content": "Wenn ich nur kurz das WLAN einschalten möchte, habe ich keine Lust, auf Funktionen der App hingewiesen zu werden, bis die gewünschte Funktion (eben WLAN einschalten) dann verfügbar ist. Das nervt. Danke für die Antwort. Ich bin angemeldet und muss mir trotzdem etwa fünf Sekunden Funktionenbeschreibungen anschauen beim Start der App.",
-    "thumbs_up": 19,
+    "thumbs_up": 20,
     "app_version": "11.17.2",
     "reply": "Guten Tag. Vielen Dank für deine Feedback. Wenn du in der App angemeldet bist, kannst du über die Schnellzugriffe direkt auf das Internet und danach deine gewünschte Funktion auswählen. Liebe Grüsse Sheena, Online Care Team.💙"
   },
@@ -15199,7 +15255,7 @@
     "score": 1,
     "date": "2023-11-15 16:55:00",
     "content": "15.11.2023 Und seit längerer Zeit kann die tägliche Surfzeitlimite nicht aktiviert werden. Läuft super langsam, manchmal gar nicht. Habe die App mehrere Male installiert und habe ein gutes Handy. Nicht alles Neue ist gut, die Home App war besser und einfacher/intuitiver zu bedienen. Schade, eine Verschlechterung zu vorher. In 90% der Fälle funktioniert die App nicht oder nur mangelhaft. Swisscom scheint aber kein Interesse daran zu haben, etwas zu ändern. Super mühsam.",
-    "thumbs_up": 73,
+    "thumbs_up": 74,
     "app_version": "11.9.2",
     "reply": "Hallo Simon, vielen Dank für deine Rückmeldung. Die WLAN Surfeinstellungen sind weiterhin möglich. Durch die Zusammenlegung zweier APP's gab es Überschneidungen. Wir sind dabei dies weiterhin zu optimieren. Liebe Grüsse, Mirko Online Care Team\nhttps://www.swisscom.ch/de/privatkunden/hilfe/sicherheit/kinder-und-jugendschutz.html"
   },
@@ -15703,7 +15759,7 @@
     "score": 1,
     "date": "2023-09-26 13:15:59",
     "content": "Die App ist immer schlimmer !!!! Wird nun gelöscht und alle Abos hinterfragt ! Die App bringt sehr viel Error und funktioniert danach erst nach neuem Start wieder. Dies auch wärend dem Mail schreiben. Komischerweise erst seit etwa einem Monat. Häufiges einloggen erforderlich trotz eingeloggt bleiben angewählt. Mit der Zeit nervt es. Danke für die Antwort, wurde schon mehrmals aktualisiert und neu geladen, bringt nichts.",
-    "thumbs_up": 19,
+    "thumbs_up": 20,
     "app_version": "10.4.4",
     "reply": "Hallo Christoph, danke für dein Feedback. Ich bedaure zu lesen, dass unsere App nicht wunschgemäss funktioniert. Am besten kontaktierst du unsere Spezialisten:innen unter folgendem Link:\nhttps://www.swisscom.ch/de/privatkunden/hilfe/kontakt.html\nLiebe Grüsse, Barbara Online Care Team"
   },
@@ -17789,7 +17845,7 @@
     "score": 1,
     "date": "2023-01-05 10:32:01",
     "content": "Hallo, für mich ist die App im Moment noch sehr unübersichtlich. Die Zeiten für WLAN kann ich nicht mehr anpassen...und dies finde ich sehr schade...warum immer wieder Neuerungen, wenn doch 'das alte' funktioniert.. und dann noch dieser St. Nikolaus auf dem Schlitten, welcher über den Bildschirm läuft, total blöd und auf dem Natel deckt er vieles ab, dies muss doch nicht sein...",
-    "thumbs_up": 11,
+    "thumbs_up": 12,
     "app_version": "11.4.6",
     "reply": "Hallo Elisabeth, vielen Dank für deine Rückmeldung. Du findest alle Funktionen unter Top- Funktionen, drücke hierzu auf \"Alle anzeigen\" unter Internet wirst du WLAN-Einstellungen fündig. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -124203,7 +124259,7 @@
     "score": 4,
     "date": "2024-03-12 10:54:26",
     "content": "Application stable et de qualité. Vraiment agréable de l'utiliser, je la recommande. Je ne lui mets pas la note maximum car à la différence de l'application youtube, elle ne gère pas l'écran externe du samsung Zflip 4 et aussi le fait qu'elle se met en veille quand le téléphone est fermé ou locké ce qui n'est pas pratique quand on écoute une émission dans les transports publics ou dans la rue. C'est un détail mais ceux qui voyagent tous les jours me comprendront.",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "6.1.0",
     "reply": "Bonjour Pierre ! Merci d'avoir pris le temps de nous laisser ton commentaire 💙. Nous sommes heureux que notre application te plaise et nous transmettons avec plaisir tes remarques au département compétent. Cela nous permettra de nous améliorer 😊. Belle journée, Stéphanie Online Care Team"
   },
@@ -178117,7 +178173,7 @@
     "score": 2,
     "date": "2026-08-10 17:51:25",
     "content": "seit Werbung im replay nicht mehr übersprungen werden kann stimmt so einiges nicht mehr. replay sendung wird plötzlich gestoppt und das home menu angezeigt. ein erneuter start der Sendung geht nicht. erst wenn man die tv box neu startet kann man replay neu starten. anrufe bleiben ohne versprochenen Rückruf. im yallo shop weiss man von Problemen kann aber keine hilfe bieten kurz es ust ober mühsam.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "2.0.18",
     "reply": null
   },
@@ -178131,7 +178187,7 @@
     "score": 1,
     "date": "2026-07-24 18:47:51",
     "content": "Hängt sich ständig auf. Kein schauen mehr möglich nach letztem update. Samsung galaxy s9. Ich bezahl für nix. Das ist nicht ok. Wilmaa app lief prima. Warum habt ihr die nicht übernommen. Namen wechseln und fertig. Echt traurig. 07.08.2023 App läuft besser. Leider gelegentlich noch Absturz.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "2.0.17",
     "reply": "Vielen Dank für dein Feedback. Wir bedauern, dass die App aktuell deinen Erwartungen nicht entspricht. Du kannst uns sehr gerne eine E-Mail an yallotvsupport@sunrise.net senden um uns ein detailliertes Feedback zu hinterlassen. So können wir versuchen dein TV Erlebnis zu optimieren. Vielen Dank für deine Mithilfe!"
   },
@@ -178145,7 +178201,7 @@
     "score": 1,
     "date": "2026-07-18 06:32:51",
     "content": "Login funktioniert nicht mehr. Es läd endlos ohne das etwas passiert nach der eingabe der Login Daten",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "2.0.16",
     "reply": null
   },
@@ -178173,7 +178229,7 @@
     "score": 1,
     "date": "2026-07-10 17:29:28",
     "content": "auf dem Handy funktioniert es gut aber auf dem TV wo es am wichtigsten ist, ist es langsam und funktioniert nicht immer.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "2.0.16",
     "reply": null
   },
@@ -178187,7 +178243,7 @@
     "score": 1,
     "date": "2026-06-26 12:51:48",
     "content": "Heute 26.06.2026 nach 4 Jahren Gebrauch ist die Yallo App noch schlechter geworden bis die app gestartet ist brauchts bis zu 3 Minuten dann Zappen 2 Sender gehen beim dritten schwarzes Bild wieder Home Taste dann yallo tv dann warten dann yallo tv schauen dann 5 Sender scrollen dann schwarzes Bild.an die Entwickler der App ist es dann wirklich nicht möglich der App ein flüssiges laufen zu ermöglichen!!!! Oder sind die Entwickler einfach zu faul",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "2.0.13",
     "reply": null
   },
@@ -178243,7 +178299,7 @@
     "score": 1,
     "date": "2026-05-29 21:29:23",
     "content": "Billig bleibt Billig noch nie so eine Benutzer unfreundliche APP gesehen, wahrscheinlich liegt das an dem super Kundenservice der leider nicht Gratis ist .😉",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "2.0.12",
     "reply": null
   },
@@ -178369,7 +178425,7 @@
     "score": 1,
     "date": "2026-03-25 19:35:03",
     "content": "Eigentlich wäre die App ganz ok. Aber was wirklich extrem störend ist, ist das teils alle Aufnahmen einer Serie gelöscht werden, wenn man eigentlich nur eine einzelne Folge löschen wollte. Das geht gar nicht und läuft bei anderen Anbieter deutlich besser. Dringender Verbesserungsbedarf! Update: Leider ist die APP nochmals schlechter geworden, man muss sich jedes Mal wieder neu anmelden und dann noch den Code welchen man per E-Mail erhält eingeben. Das geht besser!",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "2.0.6",
     "reply": null
   },
@@ -185903,6 +185959,20 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 0,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "c42701c1-57e4-4ea8-805f-96f62e9ff067",
+    "user": "Adi",
+    "score": 2,
+    "date": "2026-08-28 07:10:06",
+    "content": "App sehr langsam und hängt sich relativ viel auf. Passkey für Anmeldung existiert nicht Da ist noch sehr viel luft nach oben App sowie Mobile Abdeckung/Bandbreite",
+    "thumbs_up": 1,
+    "app_version": "7.6.57",
     "reply": null
   },
   {
@@ -198735,7 +198805,7 @@
     "app_id": "ch.sunrise.mein.konto",
     "language": "de",
     "review_id": "8f066842-1f21-405c-b379-edccc945eaf6",
-    "user": "J Rohner",
+    "user": "T R",
     "score": 1,
     "date": "2021-08-28 07:27:56",
     "content": "Warum ist diese app plötzlich so langsam? Stürzt dauernd ab und man kann weder ein neues Gerät kaufen noch sonst etwas machen.",
@@ -250674,6 +250744,20 @@
     "provider": "salt",
     "app_id": "ch.salt.my",
     "language": "de",
+    "review_id": "479da02c-6cec-414c-9581-f1b588c84441",
+    "user": "Adrian Nideröst",
+    "score": 5,
+    "date": "2026-08-28 05:07:02",
+    "content": "Gute und übersichtliche App, schnelle und bequeme Zahlungsarten der Rechnung per Karte, Google Pay oder TWINT 👍 Weiter so! 😃",
+    "thumbs_up": 0,
+    "app_version": "1.0.56",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "de",
     "review_id": "d2be6351-be4d-4d91-aa89-ea0e13fd66f8",
     "user": "Ali Karimi",
     "score": 1,
@@ -253103,6 +253187,20 @@
     "content": "Endlich eine App, dazu noch top!!",
     "thumbs_up": 0,
     "app_version": "1.0.9",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "fr",
+    "review_id": "9212b68a-46f3-4e99-82db-397643f87d3e",
+    "user": "sylvie trudu",
+    "score": 3,
+    "date": "2026-08-27 19:17:06",
+    "content": "c est dommage quand on achète un supplément de data quand on est en déplacement même si le Natel on ne l utilise pas ils nous déduisent des gb cela plus intéressant de recevoir par SMS ce que on utilise par jour et plus simple",
+    "thumbs_up": 0,
+    "app_version": "1.0.56",
     "reply": null
   },
   {
