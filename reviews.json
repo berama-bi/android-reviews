@@ -20402,20 +20402,6 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
-    "review_id": "b1b99eec-11b4-49f3-b744-b17f2050eee4",
-    "user": "Ein Google-Nutzer",
-    "score": 1,
-    "date": "2022-01-22 09:19:20",
-    "content": "Persönlich brauchte ich weniger. Man wird mit Werbung, News und Nachrichtigen bombardiert. Das ist so richtig oberlästig. Auch kein Ferseh brauche ich auf dem Handy. Bitte alles deaktivieren. Benötigen tue ich nur mein Maileingang.",
-    "thumbs_up": 4,
-    "app_version": "10.5.1",
-    "reply": "Hallo Hans A.\nDanke für deine Bewertung und dein Feedback. Die kostenpflichtige Version bietet TV-Vergnügen ohne Werbung an. Bei weiteren Fragen diesbezüglich steht dir unser Kundendienst unter 0800 800 800 zur Verfügung.\nIch wünsche dir einen schönen Tag und sende dir liebe Grüsse.\nDorothea, Online Care Team"
-  },
-  {
-    "app_name": "myswisscom",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.myswisscom",
-    "language": "de",
     "review_id": "fd67d14a-9ad3-413a-be11-c1f6504640d5",
     "user": "Marvin Jäger",
     "score": 5,
@@ -185901,7 +185887,7 @@
     "score": 2,
     "date": "2026-06-22 12:47:11",
     "content": "Man kann nirgends kontrollieren wie viel man von den inkludierten Roaming GB schon aufgebraucht hat, ist bei anderen Anbietern Standard",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "5.2.0",
     "reply": null
   },
@@ -185929,7 +185915,7 @@
     "score": 2,
     "date": "2026-05-14 08:01:30",
     "content": "Die APP ist identisch mit der Browser-Version ... bietet keinen Mehrwert. Besonders schade + ärgerlich ist , dass sich die verbrauchten Daten im Roaming nicht kontrollieren und ablesen lassen !! ... war bei Yallo cleverer gelöst. Wie soll ich wissen, wann ich die inkludierten 5GB Intenet-Daten im Ausland aufgebraucht habe ??",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "1.0.1",
     "reply": null
   },
@@ -225677,6 +225663,34 @@
     "content": "App molto utile",
     "thumbs_up": 0,
     "app_version": "1.0.1.15742",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
+    "review_id": "736cdc57-49ed-47b7-8869-bb945740183b",
+    "user": "Verena Müller",
+    "score": 4,
+    "date": "2026-08-28 19:21:18",
+    "content": "etwas unübersichtlich, lange Wartezeiten beim Support, oft Überschnitte mit unterschiedlichen Supportern",
+    "thumbs_up": 0,
+    "app_version": "5.28.14611",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
+    "review_id": "57925773-4b9b-4856-b8ce-14d45cbd7bdc",
+    "user": "Aleksandar Dimitrijevic",
+    "score": 1,
+    "date": "2026-08-28 17:00:13",
+    "content": "funktioniert nicht egal wie oft ich versuche über diese App zu schauen , es verbindet sich nicht. wenn es so weitergeht brauche ich gar keine Fernsehenabo mehr",
+    "thumbs_up": 0,
+    "app_version": "5.28.14611",
     "reply": null
   },
   {
