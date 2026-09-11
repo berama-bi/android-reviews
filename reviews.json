@@ -4,6 +4,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "efd3dcd0-2670-479b-906a-47cbc26c21f5",
+    "user": "Anita Locher",
+    "score": 5,
+    "date": "2026-09-10 07:02:52",
+    "content": "perfekt 👍",
+    "thumbs_up": 0,
+    "app_version": "11.0.1",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "aa87d861-06b6-4c0d-9349-21029c6f78e3",
     "user": "Theodor Imfeld",
     "score": 1,
@@ -247,7 +261,7 @@
     "score": 1,
     "date": "2026-07-14 15:57:09",
     "content": "Wingo zieht mir jeden Monat heimlich 3 Franken ab. Obwohl ich mich schon mehrmals an den Kundendienst gewendet habe, passiert einfach nichts. In der App kann ich die Einstellungen nicht einmal selbst ändern, um das zu stoppen – es fühlt sich an, als würde das mit Absicht blockiert, damit sie weiter abkassieren können!\"",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "10.0.2",
     "reply": null
   },
@@ -3397,7 +3411,7 @@
     "score": 2,
     "date": "2024-11-12 19:01:34",
     "content": "Grundsätzlich eine sehr gute App und würde auch 4 Sterne bekommen. Bei den aktuellen Kosten kann man die Anrufe und die aktuellen Kosten sehen. Nicht auf den abgeschlossenen Monat. Sehe nur auf der Rechnung 19.- Kosten für Auslandsgespräche, obwohl keine Auslandsgespräche geführt wurden und diese noch im Abo enthalten sind. Entweder zahle ich jetzt 1.50/min für die Hotline oder ich zahle einfach den Betrag. Es wäre schön, wenn man so etwas nachvollziehen könnte, wie bei den aktuellen Kosten.",
-    "thumbs_up": 20,
+    "thumbs_up": 21,
     "app_version": "6.59.1",
     "reply": null
   },
@@ -45022,6 +45036,20 @@
     "thumbs_up": 2,
     "app_version": "1.2.8",
     "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "fr",
+    "review_id": "2cb9d044-a2e3-49ac-b01d-3a528a56d12c",
+    "user": "Daniel Mayaud",
+    "score": 4,
+    "date": "2026-09-09 19:20:54",
+    "content": "Dommage pour cette excellente application mais depuis la dernière mise à jour cette application ne fonctionne plus sur mon smartphone Android 10! Mis à part quelques détails cela fonctionne sous Android 17...",
+    "thumbs_up": 3,
+    "app_version": "11.33.0",
+    "reply": "Bonjour Daniel, merci beaucoup pour ton évaluation 4 ⭐ et ton retour. Je suis ravie que tu est satisfait de notre My Swisscom App. Je vais contacter nos experts et je reviendrai vers toi avec une réponse. Je vous souhaite un bel journée, salutation Conny, Équipe Online Care"
   },
   {
     "app_name": "myswisscom",
@@ -121104,6 +121132,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "fr",
+    "review_id": "406120f6-d4e3-4e01-8de4-3f07f8f89099",
+    "user": "Vartan Birnisan",
+    "score": 5,
+    "date": "2026-09-09 16:51:46",
+    "content": "super",
+    "thumbs_up": 0,
+    "app_version": "7.10.2",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
     "review_id": "3187a267-98cd-4b02-b7e7-0588b5493a64",
     "user": "M. J.",
     "score": 3,
@@ -155488,20 +155530,6 @@
     "provider": "yallo",
     "app_id": "ch.yallo.selfcare",
     "language": "de",
-    "review_id": "be6eddc4-a657-4799-b913-a2bcb8df1163",
-    "user": "10 01",
-    "score": 1,
-    "date": "2026-08-07 14:06:02",
-    "content": "Reine Katastrophe Finger weg von yallo und co. ich musste 8. mal kontakt aufnehmen um ein Abo zu kündigen. Dann abo gekündigt auf ende 2025 aber das gekündigte abo wird immer noch bis heute 2026 berechnet. wieder kontaktiert beim weiterleiten wurde die verbindung einfach unterbrochen. Niemand ruft oder schreibt zurück und die yallo app ist auch richtig schlecht sehr langsam jedes mal sprache umstellen. in ein paar monaten ist bei mir ruhe. Alle abos gekündigt.",
-    "thumbs_up": 0,
-    "app_version": "5.2.0",
-    "reply": null
-  },
-  {
-    "app_name": "my yallo",
-    "provider": "yallo",
-    "app_id": "ch.yallo.selfcare",
-    "language": "de",
     "review_id": "0fa87930-cb6d-4973-a406-3e4151bcbdc7",
     "user": "Larissa Kofmel",
     "score": 2,
@@ -178399,7 +178427,7 @@
     "content": "In letzter Zeit funktioniert die App stabil. Danke",
     "thumbs_up": 0,
     "app_version": "2.0.19",
-    "reply": "Vielen Dank für dein Feedback. Wir bedauern, dass die App aktuell deinen Erwartungen nicht entspricht. Wir arbeiten fortlaufend an Stabilitätsverbesserungen und freuen uns, dir in Zukunft neue Updates zur Verfügung zu stellen. Wir bitten dich um Geduld."
+    "reply": "Vielen Dank, dass du dir Zeit genommen hast und uns so eine positive Bewertung hinterlassen hast! Wir wünschen dir viel Vergnügen mit yallo TV!"
   },
   {
     "app_name": "yallo tv",
@@ -186211,6 +186239,20 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 0,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "27ba3404-ae82-4e7f-88c0-feb1627e5434",
+    "user": "Martin Treuthardt",
+    "score": 1,
+    "date": "2026-09-10 07:26:03",
+    "content": "Neue App ist nicht kompatibel mit meinem Gerät. Die Alte läuft nicht mehr. Super Kundendienst!!! Bravo habt ihr toll gemacht.",
+    "thumbs_up": 0,
+    "app_version": "7.6.53",
     "reply": null
   },
   {
@@ -213579,7 +213621,7 @@
     "score": 5,
     "date": "2026-08-13 07:48:45",
     "content": "J'avais un problème d'identification pour ouvrir l'application. Après avoir supprimé et réinstaller l'application le problème est résolu. Tout fonctionne parfaitement.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "7.6.53",
     "reply": "Vielen Dank für Ihre Rückmeldung. Es tut uns leid, dass Sie nach der Einführung des neuen Authentifizierungssystems nicht auf die Anwendung zugreifen können. Wir verstehen Ihren Ärger. Sollte das Problem weiterhin bestehen, stehen Ihnen unsere Hotline unter 0800 707 707 oder unsere Community gerne zur Verfügung."
   },
@@ -251150,6 +251192,34 @@
     "provider": "salt",
     "app_id": "ch.salt.my",
     "language": "de",
+    "review_id": "2e36e9f0-1adc-40b6-b28c-405292a39546",
+    "user": "Erich Brülhart",
+    "score": 5,
+    "date": "2026-09-09 17:19:22",
+    "content": "Ich Brülhart Erich Bezahle meine Rechnung immer so um den 8 Vollenden Monat Besten Dank für Ihre Bemühungen Lg Erich Brülhart",
+    "thumbs_up": 0,
+    "app_version": "1.0.53",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "de",
+    "review_id": "ac75262d-12f7-4efb-ae8e-eff9e2fe34e7",
+    "user": "Mahan Mahan",
+    "score": 1,
+    "date": "2026-09-09 14:07:47",
+    "content": "Leider bin ich mit dem Kundenservice von Salt sehr unzufrieden. Ich habe vier Mobilfunknummern bei Salt und bin seit längerer Zeit Kundin. Trotzdem wurde mein Anliegen bezüglich mehrfach bezahlter Rechnungen bisher nicht zufriedenstellend gelöst. Am 25.08.2026 habe ich auf Anweisung eines Salt-Mitarbeiters nochmals bezahlt, mit der Zusage, dass die zu viel bezahlten Beträge zurückerstattet werden. Bis heute habe ich jedoch keine Rückerstattung erhalten. Zusätzlich wurde danach erneut ein Betrag",
+    "thumbs_up": 0,
+    "app_version": "1.0.56",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "de",
     "review_id": "2f153a1f-09a1-4e1f-9242-b0a243985665",
     "user": "Edgar Soeder",
     "score": 5,
@@ -253649,6 +253719,20 @@
     "content": "Endlich eine App, dazu noch top!!",
     "thumbs_up": 0,
     "app_version": "1.0.9",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "fr",
+    "review_id": "404cbda0-c5e9-489b-83c9-900cb28f3764",
+    "user": "Nicolas Feignoux",
+    "score": 1,
+    "date": "2026-09-10 05:44:21",
+    "content": "très mauvaise expérience. du jour au lendemain, mon téléphone ne permet plus d'appeler ni de recevoir d'appel alors que je suis en France avec un abonnement adéquat. Quand au soi disant forfait Internet illimité en europe, il n'est pas recommandé non plus. Je déconseille cet opérateur qui n'est pas du tout fiable !",
+    "thumbs_up": 0,
+    "app_version": "1.0.56",
     "reply": null
   },
   {
