@@ -7625,7 +7625,7 @@
     "score": 5,
     "date": "2026-09-11 14:12:44",
     "content": "Kann meinen Rechnungen schnell zahlen, kann einstellungen anpassen die ich brauche. Für mich eine gute App.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.33.0",
     "reply": "Hallo Christian, Vielen Dank für dein Feedback. Wir freuen uns sehr, dass dir unsere App gefällt, und wünschen dir ein schönes Wochenende. Yari Online Care Team"
   },
@@ -7639,7 +7639,7 @@
     "score": 5,
     "date": "2026-09-10 14:16:12",
     "content": "Super",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.33.0",
     "reply": "Guten Tag Thomas, vielen Dank für deine 5 ⭐ Bewertung und dein Feedback. Es freut mich, dass du mit der My Swisscom App zufrieden bist. Ich wünsche dir einen schönen Nachmittag und sende dir liebe Grüsse, Conny Online Care Team."
   },
@@ -7653,7 +7653,7 @@
     "score": 5,
     "date": "2026-09-09 08:12:04",
     "content": "Ich finde die App super. Alles Rechnungen können eingesehen werden, Ratenzahlungen vereinbart und Einstellungen vorgenommen werden. Weiter kann ich direkt Ware bestellen, Abo's verwalten und monatlich etwas Gewinnen. Top App",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.33.0",
     "reply": "Hallo P K. vielen Dank für deine Bewertung mit 5⭐. Es freut mich sehr zu lesen, dass du mit unserer My Swisscom App aktuell zufrieden bist. Wir wünschen dir weiterhin viel Freude mit der My Swisscom App. Liebe Grüsse Juan Online Care Team"
   },
@@ -10075,7 +10075,7 @@
     "score": 1,
     "date": "2025-11-27 19:23:35",
     "content": "Guten Tag Mehrere Nutzer – mich eingeschlossen – haben das Problem, dass die Login-Funktion in der App nicht mehr funktioniert. Wie kann es sein, dass kommuniziert wird, es sei „nichts bekannt“, obwohl dieses Problem offensichtlich mehrere Kunden betrifft? Es wäre wünschenswert, wenn die IT-Abteilung diese Störung zeitnah prüft, anstatt die Kunden einfach abzufertigen. Bei den Preisen, die Sie verlangen, erwarte ich ehrlich gesagt etwas mehr Transparenz und Kundenorientierung.",
-    "thumbs_up": 102,
+    "thumbs_up": 103,
     "app_version": "11.25.3",
     "reply": "Hallo DieVisum HD, vielen Dank für deine Bewertung mit 1⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App nicht einloggen kannst. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dich unterstützen können. Liebe Grüsse Juan"
   },
@@ -57586,6 +57586,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "it",
+    "review_id": "a294de3a-48ee-454a-b186-203e0279e515",
+    "user": "samuel cunha",
+    "score": 1,
+    "date": "2026-09-15 15:49:38",
+    "content": "wifi pessimo non funziona quasi mai anche se vicino al router. 2 Tv box anche ogni 2 minuti si blocca",
+    "thumbs_up": 0,
+    "app_version": "11.33.0",
+    "reply": "Ciao Samuel, grazie per la tua recensione. Ci dispiace per i problemi con il Wi‑Fi e i TV‑Box. Ti consigliamo di riavviare i dispositivi e, se possibile, collegarli via cavo Ethernet. Per ulteriore supporto: www.swisscom.ch/support. Cordiali saluti, Gabriela, Online Care Team"
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "it",
     "review_id": "0a0776e4-acee-447c-aa06-d54039c4a3ff",
     "user": "Giampiero Nardo",
     "score": 1,
@@ -61315,7 +61329,7 @@
     "score": 1,
     "date": "2026-08-31 19:44:30",
     "content": "seit ca 2 Wochen nur noch Probleme mit der App auf dem Smartphone und Tablet. jeden zweiten Tag muss man sich neu anmelden und dann erscheint bei allen Sendern die Meldung, dass die Sendungen nicht abgespielt werden können weil \"nicht in Ihrem Angebot enthalten\". oft hilft nur mehrmaliges de- und neu installieren der App. und dafür zahlt man ein horrend teures Abo! ich bin mehr als enttäuscht!",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "7.9.3",
     "reply": null
   },
@@ -61805,7 +61819,7 @@
     "score": 5,
     "date": "2026-06-24 15:18:32",
     "content": "Auf der App werden seit kurzem unter alle Aufnahmen auch zukünftige Aufnahmen angezeigt, was sehr unübersichtlich und verwirrend ist, besonders bei Serienaufnahmen. Könnt ihr das wieder ändern?",
-    "thumbs_up": 27,
+    "thumbs_up": 28,
     "app_version": "7.9.1",
     "reply": null
   },
@@ -121230,6 +121244,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "fr",
+    "review_id": "b720b90d-b3a8-4bf0-9962-1390b9ac437a",
+    "user": "Lionel Terreaux",
+    "score": 1,
+    "date": "2026-09-15 19:26:09",
+    "content": "cette application est vraiment nulle pour reprendre une émission sur de multiples supports. Elle n arrive pas à enregistrer comme par exemple Netflix.",
+    "thumbs_up": 0,
+    "app_version": "7.10.3",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
     "review_id": "e3922be1-9d80-4030-aa03-2758636bc512",
     "user": "Caranci Roberto",
     "score": 5,
@@ -155703,7 +155731,7 @@
     "score": 1,
     "date": "2026-06-11 14:31:48",
     "content": "Es ist eine katastrophale App. Die Rechnungen sind zu hoch, ohne irgendeinen Grund. Wenn ich eine Rechnung bezahle, wird es nicht gezeigt, sondern es steht einfach ( noch zu bezahlen). Ich habe ein Abo, das 12 CHF monatlich kostet. Aber in meiner Rechnung steht für zwei Monaten 200 CHF . Ich muss es bezahlen und als ich Yallo vor Ort bei einer Filiale gefragt habe, wieso meine Rechnung so hoch ist, haben sie mir gesagt, es ist so, wie es ist. Ich bereue sehr, dass ich Yallo gekauft habe. Bald kü",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "5.2.0",
     "reply": null
   },
@@ -175723,7 +175751,7 @@
     "score": 1,
     "date": "2026-08-23 19:19:05",
     "content": "Ciao,la app oggi non accetta né e-mail né password .perche???la app non parte già 3 giorni,cosa state facendo,svegliatevi!!!!!RIPARATE LA APP, ho bisogno di cotrolare perché l'abbonamento è salito 9 franchi. Penso che è arrivata ora per cambiare l'aria .Prima parlerò con un operatore e dopo vedremo.",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "5.2.0",
     "reply": null
   },
@@ -176115,7 +176143,7 @@
     "score": 4,
     "date": "2023-08-27 08:15:24",
     "content": "App buona e comoda, non so il perché ma da un paio di giorni non riesco ad entrarci dovrei pagare una fattura, un altra cosa che ci dovrebbe essere è la possibilità di fare il pagamento automatico delle fatture.",
-    "thumbs_up": 10,
+    "thumbs_up": 11,
     "app_version": null,
     "reply": null
   },
@@ -184300,6 +184328,20 @@
     "provider": "yallo",
     "app_id": "com.smith.production",
     "language": "fr",
+    "review_id": "c4e745aa-0d88-42b9-aaaf-186c66a6069d",
+    "user": "Jack",
+    "score": 1,
+    "date": "2026-09-16 06:09:41",
+    "content": "septembre 2026 : une mauvaise tournure de phrase et le tutoiement portent a croire que l'appli active les mise a jour automatiques...🤦🏼‍♂️",
+    "thumbs_up": 0,
+    "app_version": "2.0.21",
+    "reply": null
+  },
+  {
+    "app_name": "yallo tv",
+    "provider": "yallo",
+    "app_id": "com.smith.production",
+    "language": "fr",
     "review_id": "72d579ce-fee3-4583-8427-978a2b726195",
     "user": "Charles",
     "score": 4,
@@ -186281,6 +186323,20 @@
     "content": "Bravi tutto ben in chiaro.",
     "thumbs_up": 0,
     "app_version": "1.00.000",
+    "reply": null
+  },
+  {
+    "app_name": "chmobile",
+    "provider": "chmobile",
+    "app_id": "com.chmobile.selfcareapp",
+    "language": "de",
+    "review_id": "2afaa5e2-1f1a-430b-8130-7ee29d9ebfc4",
+    "user": "Simon Widmer",
+    "score": 1,
+    "date": "2026-09-15 20:28:58",
+    "content": "Restdaten im Ausland nicht einsehbar. Diese App ist für mich so unbrauchbar.",
+    "thumbs_up": 0,
+    "app_version": "5.2.0",
     "reply": null
   },
   {
@@ -195466,20 +195522,6 @@
     "thumbs_up": 7,
     "app_version": "7.3.0",
     "reply": "Herzlichen Dank für Ihr Feedback. Wir bedauern sehr, dass Sie Schwierigkeiten mit unserer App hatten. Unterdessen gab es bereits einige Updates. Wir würden uns freuen, wenn Sie die aktuellste Version testen und danach Ihre Bewertung neu abgeben könnten. Vielen Dank für Ihre Kooperation! Liebe Grüsse, Sunrise App Support"
-  },
-  {
-    "app_name": "mysunrise",
-    "provider": "sunrise",
-    "app_id": "ch.sunrise.mein.konto",
-    "language": "de",
-    "review_id": "7dee3889-660d-4eaf-becd-e061e0a021ce",
-    "user": "SEK Offiziell",
-    "score": 1,
-    "date": "2022-12-08 16:20:10",
-    "content": "Schlechteste App die ich je gesehen habe",
-    "thumbs_up": 0,
-    "app_version": "7.2.4",
-    "reply": "Herzlichen Dank für Ihr Feedback. Wir bedauern sehr, dass Sie Schwierigkeiten mit unserer App hatten. Unterdessen gab es bereits einige Updates. Wir würden uns freuen, wenn Sie die aktuellste Version testen und danach Ihre Bewertung neu abgeben könnten. Vielen Dank für Ihre Kooperation! Liebe Grüsse, Sunrise App Support\n"
   },
   {
     "app_name": "mysunrise",
@@ -230519,7 +230561,7 @@
     "score": 1,
     "date": "2023-03-07 12:35:46",
     "content": "Auf einem Phillips TV mit Android (aktuell) installiert - soweit OK im Installationsvorgang - ABER - es werden keine Eingaben über die TV Fernbedienung angenommen, die Navigation ist zum 🤮 - Nutzen sinnvoll = 0 - ACH JA - habe diese APP mehrere Tage (5) ausprobiert - das ganze geht sicher auch besser - ABER das scheint ja wohl der Politik seitens LG (UPC / Sunrise) zu wiedersprechen, die lieber Ihre IPTV Box abgeben - denn dadurch wird der Routerzwang durch die Hintertür wieder eingeführt.",
-    "thumbs_up": 14,
+    "thumbs_up": 15,
     "app_version": "4.46.6213",
     "reply": "Herzlichen Dank für Ihr Feedback. Wir bedauern sehr, dass Sie Schwierigkeiten mit unserer App hatten. Können Sie uns bitte beschreiben, was wir verbessern können? Vielen Dank für Ihre Zusammenarbeit! Liebe Grüsse, Sunrise App Support"
   },
@@ -243226,6 +243268,20 @@
     "provider": "sunrise",
     "app_id": "com.lgi.upcch",
     "language": "fr",
+    "review_id": "164dddf6-379a-46ee-9df6-984a68713674",
+    "user": "Rophito",
+    "score": 3,
+    "date": "2026-09-16 04:41:05",
+    "content": "L'appli en soit est bien, mais très souvent ça zoom sans que je touche et un peu plus tard ca dézoom aussi tout seul.",
+    "thumbs_up": 0,
+    "app_version": "5.29.14911",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "fr",
     "review_id": "cb4d7dbb-a8cd-4453-8d39-b1b490e640cb",
     "user": "chris coun",
     "score": 1,
@@ -250679,7 +250735,7 @@
     "score": 4,
     "date": "2021-05-24 11:26:06",
     "content": "Salve, l'app. Ha bisogno ancora di un piccolo miglioramento in modo che non avvengano bug improvvisi durante un cambio di programma, mi spiego, guardo una trasmisione, finisce, cambio canale e di colpo non funziona piú l'app. Grazie e buon lavoro.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "4.32.0 Prod (4.32.15.089)",
     "reply": null
   },
@@ -258477,7 +258533,7 @@
     "score": 2,
     "date": "2026-09-02 20:11:05",
     "content": "application vraiment limite... voir nul... ca serait bien que les développeurs l utilise pour s en rendre compte. le seul truc bien c est qu on reçoit une Apple TV et qu on peut utiliser des autres applications...",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "2.2612.0",
     "reply": null
   },
@@ -258491,7 +258547,7 @@
     "score": 2,
     "date": "2026-08-22 00:02:39",
     "content": "Beaucoup de beug depuis plusieurs mois, souvent impossible de regarder une autre chaîne. Ça laisse ce qu'on regardait.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "2.2612.0",
     "reply": null
   },
@@ -258659,7 +258715,7 @@
     "score": 1,
     "date": "2024-06-18 15:43:22",
     "content": "Il existe plusieurs problèmes récurrents avec cette application, notamment des bugs sur Apple TV. Il n'est pas possible de créer des comptes enfants pour restreindre l'accès aux contenus inappropriés. Lorsque l'on est sur une chaîne, la prochaine émission n'est pas affichée. Il est facile de s'abonner à un bouquet par inadvertance (code PIN ne fonctionne pas !!!). De plus, il faut payer 5 CHF supplémentaires pour l'utiliser sur Android TV.",
-    "thumbs_up": 13,
+    "thumbs_up": 14,
     "app_version": "2.2416.0",
     "reply": "Bonjour, le client peut protéger les achats et contenus adultes avec PIN codes via My Account. Avec l'option Smart TV nous offrons à nos clients une valeur ajoutée évidente, qui se reflète dans le prix très attractif de l'option. Par rapport à nos concurrents, nous offrons le meilleur rapport qualité/prix. Salutations, Sarah"
   },
@@ -258995,7 +259051,7 @@
     "score": 1,
     "date": "2022-05-24 16:26:41",
     "content": "Trop de bug avec Android...chaque 15 min le programme s arrête et je ne parle même pas si on tente d'avancer les pubs ou ledit programme. Ce n'est pas normal pour un service tel que le vôtre. Pourtant votre application existe depuis un certain temps donc poirquoi existe-t-il encore autant de problèmes.En voyant les commentaires beaucoup se plaignent pourquoi ne faites-vous rien? Les insatisfactions de votre clientèle n'ont aucune importance ?",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "2.2204.0",
     "reply": "Bonjour, sur quel appareil utilisez-vous Salt TV? Angelo"
   },
@@ -259415,7 +259471,7 @@
     "score": 1,
     "date": "2020-07-25 05:31:28",
     "content": "Ce fournisseur est bon marche, mais les prestations. sont comme le prix, tres bas pour ne pas dire nul.. la vitesse est loin des promesses et je suis seul a la maison, on m avait dit que telecharger un film prenait quelques secondes, il me faut 3 a4 minutes. Pour les factures, je ne recois que les rapelles, donc 30 frs de plus par mois. La box est lamentable. La box apple n est pas mieux, la telecomande pas pratique. En fait si mes finances me le permettait, je changerai d operateur aujourd hui",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "2.2009.3",
     "reply": null
   },
@@ -259429,7 +259485,7 @@
     "score": 3,
     "date": "2020-06-28 17:40:45",
     "content": "L'application est incompatible avec Android TV. Donc si vous avez un téléviseur avec Android TV ou une nVidia Shield TV, il n'est pas possible d'installer simplement cette application et voir la TV avec votre appareil préféré. Dommage, car bon nombre de concurrents ont une app compatible avec Android TV. Il est possible de se rabattre sur la version iOS pour Apple TV, mais l'app pour iOS a plusieurs bugs ennuyeux qui nécessitent un redémarrage de temps à autre de l'Apple TV (par exemple programme TV qui ne se charge plus, liste des chaîne qui ne s'affiche plus, ...) . Sinon cette app fonctionne bien sur les smartphones et tablettes Android que je possède.",
-    "thumbs_up": 58,
+    "thumbs_up": 59,
     "app_version": "2.2009.3",
     "reply": null
   },
@@ -260633,7 +260689,7 @@
     "score": 1,
     "date": "2025-09-29 13:23:00",
     "content": "Ein Stern, weil trotz Internetverbindung und 5 Balken bei der Signalstärke sporadisch gemeldet wird: Keine Internetverbindung und Hoppla, da ist etwas schief gelaufen. Ein Stern, weil ausserhalb der Wohnung ohne Quickline-Netz die Sender der zugebuchten Senderpakete gesperrt sind. Das gibt es nur bei Quickline. Ein Stern, weil man in der App bei einem ausgewählten Sender in Querformat nicht mit Wischen den vorherigen oder nächsten Sender auswählen kann. Man muss das Natel erst hochkant nehmen.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "3.2512.01",
     "reply": "Danke für Ihr Feedback. Gerne nehmen wir die Anregungen bezüglich den gesperrten Senderpaketen sowie dem Kanalwechsel im Querformat mit dem Produktmanagement auf. Die Internetverbindung können wir mit der App leider nicht beeinflussen. Die Fehlermeldung erscheint effektiv nur, wenn keine Verbindung besteht. Beste Grüsse, Quickline"
   },
@@ -261025,7 +261081,7 @@
     "score": 1,
     "date": "2024-03-02 21:39:50",
     "content": "Warum kann ich die App nicht auf einem Fernseher mit Android TV installieren? Die Quickline Box läuft ja auch mit Android TV. Ihr braucht die App somit nur für diese Geräte freizugeben. Edit 02.03.2024: Nun sind schon wieder 1,5 Jahre vergangen und ich kann die App immer noch nicht auf meinem Android TV installieren. Nicht einmal das Streaming von der Handy App ist möglich. Es ist echt mühsam mit euch!!! Wenn ihr nicht so günstig wärt, hätte ich schon lange zu einem anderen Anbieter gewechselt!",
-    "thumbs_up": 11,
+    "thumbs_up": 12,
     "app_version": "3.2402.05",
     "reply": "Lieber Kunde, danke für Ihr Feedback. Leider ist es etwas komplizierter als nur eine Freigabe der App für Android TV Geräte und momentan ist dies nicht geplant. Wir arbeiten jedoch an einer anderen Lösung, um Quickline TV mit Geräten ohne Quickline Box nutzen zu können. Freundliche Grüsse, Quickline"
   },
@@ -262439,7 +262495,7 @@
     "score": 1,
     "date": "2020-02-05 07:56:50",
     "content": "Eine mobile App die nur mit WLAN funktioniert! Ernsthaft jetzt? Gegenüber der alten App ist diese nur umständlich und kompliziert. Für Replay muss man Datum und Zeit eingeben, statt einfach scrollen zu können. Das ging in der alten App deutlich einfacher. Kaum zu glauben, dass Quickline einen derartigen Rückschritt gemacht hat.Die Konkurrenz ist da deutlich besser.",
-    "thumbs_up": 14,
+    "thumbs_up": 15,
     "app_version": "2.7.10",
     "reply": null
   },
