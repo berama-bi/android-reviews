@@ -289,7 +289,7 @@
     "score": 1,
     "date": "2026-07-14 15:57:09",
     "content": "Wingo zieht mir jeden Monat heimlich 3 Franken ab. Obwohl ich mich schon mehrmals an den Kundendienst gewendet habe, passiert einfach nichts. In der App kann ich die Einstellungen nicht einmal selbst ändern, um das zu stoppen – es fühlt sich an, als würde das mit Absicht blockiert, damit sie weiter abkassieren können!\"",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "10.0.2",
     "reply": null
   },
@@ -61149,6 +61149,34 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "6a3108e8-fd8f-4cfe-a8a5-640c86461a43",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-09-17 18:45:20",
+    "content": "Mit dieser App gibt es immer wieder Probleme. Nicht genug dass man sich seit einiger Zeit immer wieder neu anmelden muss. Seit ein paar Tagen funktioniert die App gar nicht mehr. Von einer Swisscom mit so gesalzenen Preisen sollte man mehr erwarten können.",
+    "thumbs_up": 0,
+    "app_version": "7.10.3",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "45857bf9-dba1-4214-928f-f27b7ecf7dbb",
+    "user": "Ein Google-Nutzer",
+    "score": 3,
+    "date": "2026-09-17 14:44:55",
+    "content": "App könnte besser sein",
+    "thumbs_up": 0,
+    "app_version": "7.10.3",
     "reply": null
   },
   {
@@ -147247,7 +147275,7 @@
     "score": 1,
     "date": "2026-09-14 16:46:36",
     "content": "al momento di autenticarmi con swisscom login mi da schermata nera senza campi in cui scrivere. samsung s24+",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "7.10.3",
     "reply": "Ciao Lorenzo, grazie per la recensione e il feedback. Mi dispiace che tu abbia riscontrato problemi con l'elenco dei canali dopo l'ultimo aggiornamento. Se possiamo aiutarti in qualche modo, non esitare a contattarci tramite il seguente link diretto: https://www.swisscom.ch/de/privatkunden/hilfe/kontakt.html.\nSaluto, Federica\nOnline Care Team"
   },
@@ -147320,20 +147348,6 @@
     "thumbs_up": 0,
     "app_version": "7.8.2",
     "reply": null
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "it",
-    "review_id": "e6b7e6de-458a-4478-b54c-8a8aa78fd35e",
-    "user": "Cristina F. (CriS620314)",
-    "score": 1,
-    "date": "2026-05-17 09:25:51",
-    "content": "Allora, ho dovuto modificare la mia recensione di 5*, perchè non capisco cosa succede 🤨‼️ Ho sempre potuto accedere via app ai programmi TV e ora nè live nè in replay posso, perchè come spiegazione mi dice che con il mio abbonamento non posso accedere da un secondo apparecchio ai programmi nemmeno in Svizzera, ma ho pure tolto dal cell la app e ce l'ho solo su questo vecchio tablet! Radio a parte, se sarò fuori casa nemmeno potrò guardare le mie registrazioni o il replay ovunque 😳🤬..INAUDITO",
-    "thumbs_up": 0,
-    "app_version": "7.8.2",
-    "reply": "Ciao Cristina, grazie mille per aver preso il tempo di valutare la nostra App. Siamo molto contenti che l'app ti piaccia così tanto. Cordiali saluti, Corin Online Care Team"
   },
   {
     "app_name": "blue tv",
@@ -185845,7 +185859,7 @@
     "score": 1,
     "date": "2026-07-28 12:27:56",
     "content": "app funktioniert nicht auf tablet",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "2.00.001",
     "reply": null
   },
@@ -217537,7 +217551,7 @@
     "app_id": "ch.sunrise.mein.konto",
     "language": "fr",
     "review_id": "8b7023b7-7a13-4873-a069-10d73fe0f533",
-    "user": "Jack S",
+    "user": "Jack",
     "score": 2,
     "date": "2023-05-01 17:19:18",
     "content": "Vraiment de pire en pire cette application.... moyennement fiable et mise à part acheter des options ou des nouveaux services c'est vide. Auparavant on pouvait consulter l'état de compteur de giga utilisé en 4g et là plus rien. Merci d'améliorer cette application c'est indigne d'un soit disant meilleure fournisseur de mobile",
@@ -251388,6 +251402,20 @@
     "provider": "salt",
     "app_id": "ch.salt.my",
     "language": "de",
+    "review_id": "0d048929-1d36-44a1-8ef4-96087eed2768",
+    "user": "Annett Rainer",
+    "score": 1,
+    "date": "2026-09-17 15:49:21",
+    "content": "schlechtester Kundenservice nach 26 Minuten aufgegeben.Nach 12 Minuten Kundenservice erreicht und erneut in der Warteschleife gelandet.Icj werde kündigen.",
+    "thumbs_up": 0,
+    "app_version": null,
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "de",
     "review_id": "2e36e9f0-1adc-40b6-b28c-405292a39546",
     "user": "Erich Brülhart",
     "score": 5,
@@ -253915,6 +253943,20 @@
     "content": "Endlich eine App, dazu noch top!!",
     "thumbs_up": 0,
     "app_version": "1.0.9",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "fr",
+    "review_id": "27109e9a-fd5a-44f3-bc1e-464f079272c6",
+    "user": "Maria Philipona",
+    "score": 4,
+    "date": "2026-09-17 23:46:33",
+    "content": "très bien",
+    "thumbs_up": 0,
+    "app_version": "1.0.56",
     "reply": null
   },
   {
