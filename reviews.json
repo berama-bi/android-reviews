@@ -4302,6 +4302,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "fr",
+    "review_id": "34d17ea8-b9d6-494b-8668-f827654e622b",
+    "user": "gala xie",
+    "score": 5,
+    "date": "2026-09-20 08:19:02",
+    "content": "toujours au top, merci",
+    "thumbs_up": 0,
+    "app_version": "11.0.1",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "fr",
     "review_id": "98d5cc5a-0f8d-4759-bb6e-b27d3a8a9fdb",
     "user": "Giovanni Martoccia",
     "score": 5,
@@ -7627,7 +7641,7 @@
     "content": "keine Probleme weder mit Login noch sonstige. Ich hoffe dass bleibt so. bis jetzt keine größeren Probleme und bin schon zeitchen dabei.",
     "thumbs_up": 0,
     "app_version": "11.33.0",
-    "reply": null
+    "reply": "Hallo Patrizio, vielen Dank für deine 5 ⭐und dein tolles Feedback💙. Es freut mich zu lesen, dass du mit unserer MySwisscom App zufrieden bist. Ich wünsche dir einen schönen Tag. Liebe Grüsse Juan, Online Care Team"
   },
   {
     "app_name": "myswisscom",
@@ -7709,7 +7723,7 @@
     "score": 1,
     "date": "2026-09-03 10:00:26",
     "content": "Es ist langsam träge unübersichtlich, man muss gefühlt 20mal Codes eingeben.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.33.0",
     "reply": "Hallo Louis, vielen Dank für deine Bewertung mit 1⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App aktuell nicht zufrieden bist. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dich unterstützen können. Liebe Grüsse Juan, Online Care Team."
   },
@@ -50045,7 +50059,7 @@
     "score": 5,
     "date": "2022-05-29 14:39:17",
     "content": "Bonjour Top la nouvelle application. Ce qui serait bien serait une version pour tablette. Qu'en pensez-vous ?",
-    "thumbs_up": 32,
+    "thumbs_up": 33,
     "app_version": "11.1.0",
     "reply": "Bonjour Aldo! Merci d'avoir pris le temps de nous laisser ton commentaire que nous retenons et de nous avoir noté sur 5 ⭐. Je te souhaite de passer une bonne semaine, Stéphanie Online Care Team"
   },
@@ -61170,12 +61184,68 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "de",
+    "review_id": "3c40ea32-b948-45e8-b257-f61298a91588",
+    "user": "Ein Google-Nutzer",
+    "score": 2,
+    "date": "2026-09-20 09:50:20",
+    "content": "laesst am tv keinquerformat zu fuer eine bezahl app lausig",
+    "thumbs_up": 0,
+    "app_version": "7.10.3",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "5cafe8d6-196a-4fe3-a57a-75befb932430",
+    "user": "Ein Google-Nutzer",
+    "score": 4,
+    "date": "2026-09-19 19:37:02",
+    "content": "An sich eine gute App, aber es wäre schön wenn unter Google bzw. Android TV der zuletzt geschaute Sender auch weiterlaufen würde wenn die Streaming Box aus dem Standby aufgeweckt wird. Es gibt zwar eine Einstellung die das beim Neustart der App macht, aber eben nur bei einem Neustart der App. Wechselt man kurz in eine andere App und wieder zurück, landet man in der Übersicht. So ist es immer etwas umständlich die Streaming Box wie eine TV Box zu benutzen. YalloTV kann das zum Beispiel auch.",
+    "thumbs_up": 0,
+    "app_version": null,
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "bf6c6525-bd4c-4181-a9c8-55559db4dc37",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-09-19 18:26:04",
+    "content": "App nicht mehr brauchbar. Wurde mal wieder ausgeloggt. Wenn ich mich anmelden möchte, erscheint nach Auswahl Account anmelden nur ein schwarzer Bildschirm mit einem X links oben. Völlig unfähige Bluewin-IT!!! Update: Anmeldung funktioniert zwar inzwischen wieder, aber man wird ständig ausgeloggt! Was soll der Sch...??? 👎👎👎",
+    "thumbs_up": 22,
+    "app_version": "7.10.3",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "9c64137c-1874-45d5-9499-86a60a1cc15a",
+    "user": "Ein Google-Nutzer",
+    "score": 4,
+    "date": "2026-09-19 15:04:25",
+    "content": "Super",
+    "thumbs_up": 0,
+    "app_version": "7.10.3",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
     "review_id": "6a3108e8-fd8f-4cfe-a8a5-640c86461a43",
     "user": "Ein Google-Nutzer",
     "score": 1,
     "date": "2026-09-17 18:45:20",
     "content": "Mit dieser App gibt es immer wieder Probleme. Nicht genug dass man sich seit einiger Zeit immer wieder neu anmelden muss. Seit ein paar Tagen funktioniert die App gar nicht mehr. Von einer Swisscom mit so gesalzenen Preisen sollte man mehr erwarten können.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.10.3",
     "reply": null
   },
@@ -61203,7 +61273,7 @@
     "score": 1,
     "date": "2026-09-16 17:04:28",
     "content": "Schlechte App alle drei Monate ein neues Problem",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.10.3",
     "reply": null
   },
@@ -148437,7 +148507,7 @@
     "score": 1,
     "date": "2023-06-28 20:19:05",
     "content": "Purtroppo l'App non si istalla, c'è l'icona con  la scritta Download ma niente, atteso anche un ora, ma non ce verso.",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": null,
     "reply": "Caro Fabio, hai potuto scaricare lApp blue TV? Non riscontriamo problemi con il Download di questa App.? Yari Online Care Team"
   },
@@ -251519,7 +251589,7 @@
     "score": 5,
     "date": "2026-08-28 05:07:02",
     "content": "Gute und übersichtliche App, schnelle und bequeme Zahlungsarten der Rechnung per Karte, Google Pay oder TWINT 👍 Weiter so! 😃",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "1.0.56",
     "reply": null
   },
@@ -251659,7 +251729,7 @@
     "score": 5,
     "date": "2026-07-09 08:04:13",
     "content": "app einfach zu bedienen direkt auf dem smartphone Super Alles Perfekt Frau Strebel",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "1.0.53",
     "reply": null
   },
@@ -253157,7 +253227,7 @@
     "score": 4,
     "date": "2024-12-03 19:23:10",
     "content": "Danke für die App. Ich habe gehofft, dass ich nun endlich meine Vertragsdauer direkt sehen kann. Vielleicht steht das bei Ihnen schon auf dem Plan, da würde ich mich freuen.",
-    "thumbs_up": 13,
+    "thumbs_up": 14,
     "app_version": "1.0.14",
     "reply": null
   },
@@ -253957,6 +254027,20 @@
     "content": "Endlich eine App, dazu noch top!!",
     "thumbs_up": 0,
     "app_version": "1.0.9",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "fr",
+    "review_id": "24feb212-a2b9-4a7d-bb83-366eb7b52114",
+    "user": "Fabienne Gugler",
+    "score": 1,
+    "date": "2026-09-19 13:01:46",
+    "content": "je ne comprends pas votre message et ce que je dois faire De plus, pas de #de tel pour me renseigner. Salt m'a demandé de contrôler la fibre optique, c'est fait. Alors? S'il faut changer le routeur et tv box maintenant dites le moi simplement....et pas de menace d'amende...si j'avais su que Salt que devenir cliente chez Salt, je me serais abstenue... réponse exigée. Salutations désenchantées. Fabienne Gugler",
+    "thumbs_up": 0,
+    "app_version": "1.0.56",
     "reply": null
   },
   {
