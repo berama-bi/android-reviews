@@ -4,7 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 5 * * *'
-
+  repository_dispatch:
+    types: [trigger-from-powerautomate]
+    
 permissions:
   contents: write
 
