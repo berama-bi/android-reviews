@@ -15992,20 +15992,6 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
-    "review_id": "892f873f-5473-445a-bd12-905d9b4d3b2a",
-    "user": "Massimo Musto",
-    "score": 1,
-    "date": "2023-10-11 13:12:37",
-    "content": "Leider ist Werbund wärend dem Email lesen der nächste Rückschritt. Das ist nicht Kundenfreundlich sondern nur ärgerlich. Wer will Werbung, wenn die Emails gelesen werden über die gesamte Bildschirmfäche? Als hättes es nicht schon genug. Hallo???",
-    "thumbs_up": 2,
-    "app_version": "11.9.0",
-    "reply": "Hallo Massimo, danke für deine Bewertung und dein Feedback. Ich empfehle dir, dein Mailkonto in einem gängigen Programm wie z.B. auf deinem Smartphone, Outlook oder Thunderbird einzurichten. So kannst du die Werbung umgehen. Ich wünsche dir einen angenehmen Nachmittag und sende dir freundliche Grüsse, Nicole Online Care Team"
-  },
-  {
-    "app_name": "myswisscom",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.myswisscom",
-    "language": "de",
     "review_id": "81ddf042-97fb-4c2b-a458-67e29cd1d6ed",
     "user": "Rolf Schneiter",
     "score": 1,
@@ -28961,7 +28947,7 @@
     "score": 5,
     "date": "2019-08-01 07:06:24",
     "content": "Das App ist Super so hat man voll Kostenkontrolle und man kann sein Abo verlängern oder auch erneuern.,sowie wie Pakete hinzufügen. Auch beim Festnetzt kann man sein Abo erneuern. Ich habe auch Swisscom TV Air auf meinem Handy. Ich bin nun schon 25 Jahre bei der Swisscom und ein wechsel zu einem anderen Anbieter kommt für mich nicht in Frage. Ich glaube keiner hat so eine freundliche Kundenbetreuung wie Swisscom.",
-    "thumbs_up": 30,
+    "thumbs_up": 31,
     "app_version": "9.1.17",
     "reply": null
   },
@@ -61248,6 +61234,20 @@
     "thumbs_up": 0,
     "app_version": "1.2.8",
     "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "359d54d9-b5d3-48dd-84c7-925119fb5887",
+    "user": "Ein Google-Nutzer",
+    "score": 3,
+    "date": "2026-09-24 12:55:35",
+    "content": "Es gibt diverse Probleme mit der App auf dem Telefon: • Das Handy wird sehr heiss. • Der Akkuverbrauch hat sich deutlich erhöht bzw. nahezu verdoppelt. • Nachfolgende Sendungen/Episoden können weiterhin nicht abgespielt werden. Die Funktionen „Weiterschauen“ oder „Nächste Episode abspielen“ funktionieren nicht. Stattdessen erscheint die Fehlermeldung: „Replay für diesen Sender aktivieren“. Die Replay-Funktion ist jedoch bereits aktiviert. • ständig erneut anmelden und geht nur über die TV Box",
+    "thumbs_up": 5,
+    "app_version": "7.10.3",
+    "reply": "Hallo Monica, vielen Dank für deine Bewertung mit 3⭐. Es tut mir leid zu lesen, dass du mit unserer blue TV App aktuell nicht zufrieden bist. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dem genauer nachgehen können. Liebe Grüsse Juan Online Care Team"
   },
   {
     "app_name": "blue tv",
@@ -121433,6 +121433,34 @@
     "content": "Super App",
     "thumbs_up": 0,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
+    "review_id": "b2f3cb24-bd69-4599-9ddc-f25a54e74cd7",
+    "user": "Mathieu Ngalo",
+    "score": 4,
+    "date": "2026-09-25 06:34:10",
+    "content": "ok",
+    "thumbs_up": 0,
+    "app_version": "7.10.3",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
+    "review_id": "c1027030-e50d-4dc1-a263-8ad735e757a0",
+    "user": "Corinne Hey",
+    "score": 3,
+    "date": "2026-09-24 17:08:36",
+    "content": "je n'aime pas la pub en replay!",
+    "thumbs_up": 0,
+    "app_version": "7.9.3",
     "reply": null
   },
   {
@@ -186027,7 +186055,7 @@
     "score": 1,
     "date": "2026-08-24 14:22:46",
     "content": "öffnet nicht mehr, auch nicht nach dem aktuellen Update 😭",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "2.00.002",
     "reply": null
   },
@@ -186645,6 +186673,20 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 0,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "4fc5bb36-7b61-4760-ac5d-cd2d77809a99",
+    "user": "Edgar Fleischmann",
+    "score": 1,
+    "date": "2026-09-24 18:26:51",
+    "content": "Stürzt in letzter Zeit häufig ab. Android meldet Fehler in der App.",
+    "thumbs_up": 0,
+    "app_version": "7.6.59",
     "reply": null
   },
   {
@@ -199561,7 +199603,7 @@
     "app_id": "ch.sunrise.mein.konto",
     "language": "de",
     "review_id": "8f066842-1f21-405c-b379-edccc945eaf6",
-    "user": "T R",
+    "user": "J Rohner",
     "score": 1,
     "date": "2021-08-28 07:27:56",
     "content": "Warum ist diese app plötzlich so langsam? Stürzt dauernd ab und man kann weder ein neues Gerät kaufen noch sonst etwas machen.",
@@ -226447,6 +226489,20 @@
     "content": "App molto utile",
     "thumbs_up": 0,
     "app_version": "1.0.1.15742",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
+    "review_id": "ae66e8b0-19b8-4f49-b3d5-f94d1c79dd62",
+    "user": "Simone Hosang",
+    "score": 2,
+    "date": "2026-09-24 19:06:34",
+    "content": "seit aktualisierung ist die verbindung mit Chromecast nicht mehr möglich...",
+    "thumbs_up": 0,
+    "app_version": "5.29.14911",
     "reply": null
   },
   {
