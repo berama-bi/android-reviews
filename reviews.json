@@ -4615,7 +4615,7 @@
     "score": 1,
     "date": "2026-03-30 05:57:32",
     "content": "Impossível de mettre une limite d'utilisation du coup la moindre appel à l'étranger peut vous créé une grosse facture attention cela semble volontaire de la part de Wingo !",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "9.0.4",
     "reply": null
   },
@@ -5161,7 +5161,7 @@
     "score": 1,
     "date": "2025-05-08 17:47:42",
     "content": "on nous factures des frais en plus à l'étranger à cause de wingo qui nous envois eux même des messages que l'on ne peu pas bloquer. et refusent d'enlever les frais en plus. c'est illégal et malhonnête, belle façon de s'enrichir sans rien faire pour le client",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "6.59.1",
     "reply": null
   },
@@ -5973,7 +5973,7 @@
     "score": 1,
     "date": "2026-09-07 09:46:21",
     "content": "Seit 01.09.2026 dabei (zuvor greenTV). Da könnte sich der Entwickler einige Grundfunktionen abschauen. Würde WingoTV aufwerten. Bei der Guide Ansicht funktioniert die Bildrotation nicht, damit ist die Guide fast unbrauchbar. Der Sender -Wechsel funktioniert (sehr intuitiv versteckt) nur bei der Standard Senderliste, nicht bei neu angelegten. Umgekehrt wäre angebracht. Was ist hier die Logik, bei über 400 Sendern und einer willkürlichen Sortierung? Das macht 4 Sterne Abzug, schade!",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "2.9.0",
     "reply": null
   },
@@ -6169,7 +6169,7 @@
     "score": 1,
     "date": "2026-03-29 16:33:53",
     "content": "Aufnahmen können nicht gelöscht werden, Replay und \"weiterschauen\" hat noch nie korrekt funktioniert, langsam, manchmal zeigt es die Aufnahmen nicht an und ab und zu fängt die Folge, während dem abspielen, einfach wieder von vorne an.",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "2.7.0",
     "reply": null
   },
@@ -24761,7 +24761,7 @@
     "score": 4,
     "date": "2020-11-15 10:15:54",
     "content": "so nun bin ich wieder zufrieden mit der app, hier noch eine anregung, vor langer, langer zeit konnte man einer prepaid nummer einen namen geben. da ich selber fünf nummern habe wäre ich froh, nr.x alarm, nr.y weiteleitung, nr.z garagentor, usw. gruss h. minudel",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": null,
     "reply": null
   },
@@ -186806,20 +186806,6 @@
     "provider": "sunrise",
     "app_id": "ch.sunrise.mein.konto",
     "language": "de",
-    "review_id": "e4dcc510-a6cc-4b0a-9a90-d1855a0cc943",
-    "user": "Zdenko Stjepanovic",
-    "score": 1,
-    "date": "2026-09-03 15:20:35",
-    "content": "Meine Downloadgeschwindigkeit liegt durchschnittlich bei nur 4,67 Mbit/s, obwohl ich einen Vertrag mit unlimitiertem Datenvolumen und voller Geschwindigkeit habe. Ich habe den Speedtest bei mehreren Anbietern durchgeführt – alle zeigen dasselbe Ergebnis. Aktuelle Störungen bei Sunrise habe ich ebenfalls geprüft, es liegen keine vor. Ich bezahle hier für eine Leistung, die von Sunrise nicht erbracht wird.",
-    "thumbs_up": 2,
-    "app_version": "7.6.57",
-    "reply": null
-  },
-  {
-    "app_name": "mysunrise",
-    "provider": "sunrise",
-    "app_id": "ch.sunrise.mein.konto",
-    "language": "de",
     "review_id": "c42701c1-57e4-4ea8-805f-96f62e9ff067",
     "user": "Adi",
     "score": 2,
@@ -253409,7 +253395,7 @@
     "score": 4,
     "date": "2024-12-03 19:23:10",
     "content": "Danke für die App. Ich habe gehofft, dass ich nun endlich meine Vertragsdauer direkt sehen kann. Vielleicht steht das bei Ihnen schon auf dem Plan, da würde ich mich freuen.",
-    "thumbs_up": 14,
+    "thumbs_up": 15,
     "app_version": "1.0.14",
     "reply": null
   },
