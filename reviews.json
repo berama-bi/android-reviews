@@ -5954,6 +5954,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.tv2.wingo",
     "language": "de",
+    "review_id": "bad12201-064c-4d96-9609-dcf7be3c6807",
+    "user": "Claudia Schmid",
+    "score": 1,
+    "date": "2026-09-27 07:33:10",
+    "content": "Seit einigen Monaten lassen sich auf dem Handy die tatsächlichen Aufnahmen nicht mehr von geplanten und von gelöschten Aufnahmen unterscheiden. Das ist extrem unübersichtlich. Bitte einen Filter einbauen oder rückgängig machen, vorher war das viel besser! Das Wingoteam hat übrigens keine Ahnung, wovon ich spreche und hat trotzdem das Geld für die \"Hilfe\" berechnet.",
+    "thumbs_up": 0,
+    "app_version": "2.9.0",
+    "reply": null
+  },
+  {
+    "app_name": "wingo tv",
+    "provider": "wingo",
+    "app_id": "com.swisscom.tv2.wingo",
+    "language": "de",
     "review_id": "b8df2c4a-d50f-48cc-959c-2896e486316c",
     "user": "Andres Schütz",
     "score": 3,
@@ -10145,7 +10159,7 @@
     "score": 1,
     "date": "2025-11-27 19:23:35",
     "content": "Guten Tag Mehrere Nutzer – mich eingeschlossen – haben das Problem, dass die Login-Funktion in der App nicht mehr funktioniert. Wie kann es sein, dass kommuniziert wird, es sei „nichts bekannt“, obwohl dieses Problem offensichtlich mehrere Kunden betrifft? Es wäre wünschenswert, wenn die IT-Abteilung diese Störung zeitnah prüft, anstatt die Kunden einfach abzufertigen. Bei den Preisen, die Sie verlangen, erwarte ich ehrlich gesagt etwas mehr Transparenz und Kundenorientierung.",
-    "thumbs_up": 105,
+    "thumbs_up": 106,
     "app_version": "11.25.3",
     "reply": "Hallo DieVisum HD, vielen Dank für deine Bewertung mit 1⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App nicht einloggen kannst. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dich unterstützen können. Liebe Grüsse Juan"
   },
@@ -10285,7 +10299,7 @@
     "score": 1,
     "date": "2025-11-19 11:29:41",
     "content": "Katastrophe Seit dem letzten Update gibt es nur noch probleme: ich kann meine Rechnungen nicht ansehen, erst nach dem 2.-3. mal einloggen scheinen sie auf. Und 2: ich muss mich bei fast allem was ich klicke neu einloggen, so, ohne Grund. Als ich das bei der Service Hotline gemeldet habe, wurde OHNE MEINE ANFRAGE! einfach mein Passwort zurückgesetzt und es lässt mich auch nicht kein Altes wieder verwenden, und jetzt muss ich mir extra für diese App ein neues merken. 11/2025 ist schon wieder so...",
-    "thumbs_up": 29,
+    "thumbs_up": 30,
     "app_version": "11.25.1",
     "reply": "Hallo OLL13_85. Vielen Dank für deine Bewertung und dein Feedback. Es tut mir sehr leid zu lesen, dass die App nicht wie gewünscht nutzbar ist und das Passwort zurück gesetzt wurde. Dies ist nicht in Ordnung und ich entschuldige mich dafür. Gerne gebe ich deine Rückmeldung intern weiter. Liebe Grüsse Janine, Online Care Team."
   },
@@ -14975,7 +14989,7 @@
     "score": 1,
     "date": "2024-03-08 17:22:38",
     "content": "Katastrophe was sich SC mit ihren Apps leistet! Seit Wochen sehe ich vorwiegend den Drehkreis und nichts passiert. Auch auf der viel besseren alten App, welche ja bis zum 01.03.23 hätte laufen sollen. Wie kann man nur etwas gut funktionierendes laufend verschlechtern - unerklärlich! 1 Jahr später: nichts hat sich geändert. Dauernd Drehkreis \"das dauert länger als erwartet\", Geräteliste kann nicht angezeigt werden und keine Technische Hilfe für solche allgemeine Probleme. SEHR SCHWACH!",
-    "thumbs_up": 88,
+    "thumbs_up": 89,
     "app_version": "11.12.3",
     "reply": "Hallo Thomas, vielen Dank für deine Rückmeldung. Versuche mal die APP mit einem neuerem Gerät zu starten. Das S10 ist langsam aber sicher nicht mehr für alle Applikationen tragbar. Liebe Grüsse, Mirko Online Care Team"
   },
@@ -26525,7 +26539,7 @@
     "score": 5,
     "date": "2020-04-09 20:40:16",
     "content": "Schönes Design, Übersichtlich, praktisch, gut",
-    "thumbs_up": 16,
+    "thumbs_up": 15,
     "app_version": "10.0.0",
     "reply": "Grüäzi Simu L, cool! Das freut uns natürlich sehr dies zu hören. Beste Grüsse, AdrianW Produktverantwortlicher"
   },
@@ -26539,7 +26553,7 @@
     "score": 3,
     "date": "2020-04-08 17:59:02",
     "content": "Einfach perfekt,Personal von Swisscom immer sehr freundlich,fachlich gut ausgebildet und erklären es für jeden einfach zu verstehen,Danke",
-    "thumbs_up": 13,
+    "thumbs_up": 12,
     "app_version": "10.0.0",
     "reply": "Guten Tag und herzlichen Dank für die positive Rückmeldung. Ich melde das gerne weiter. Beste Grüsse, AdrianW Produktverantwortlicher"
   },
@@ -61233,6 +61247,20 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "e97ab45a-920d-4de6-ace7-4d8fbcf02d98",
+    "user": "Ein Google-Nutzer",
+    "score": 5,
+    "date": "2026-09-26 18:09:56",
+    "content": "Perfekt",
+    "thumbs_up": 0,
+    "app_version": "7.10.3",
     "reply": null
   },
   {
@@ -141661,7 +141689,7 @@
     "score": 3,
     "date": "2016-12-21 19:04:30",
     "content": "Bonjour, bonne application mais depuis quelques temps, sur la page principale, je n'arrive plus à faire défiler les heures afin de voir toutes les chaînes du tv guide... À chaque mise à jour, je me dis que le problème sera résolu mais ce n'est pas le cas.",
-    "thumbs_up": 17,
+    "thumbs_up": 16,
     "app_version": "2.1.0",
     "reply": "Bonjour Aline, cette option fonctionne bien, avez-vous essayé de réinstaller l'application? Assurez-vous d'avoir la dernière mise à jour du téléphone également et contactez pour un support si nécessaire http://bit.ly/1tsGsF8. Joyeux Noël et bonnes fêtes, Swisscom"
   },
@@ -214013,7 +214041,7 @@
     "score": 5,
     "date": "2026-08-13 07:48:45",
     "content": "J'avais un problème d'identification pour ouvrir l'application. Après avoir supprimé et réinstaller l'application le problème est résolu. Tout fonctionne parfaitement.",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "7.6.53",
     "reply": "Vielen Dank für Ihre Rückmeldung. Es tut uns leid, dass Sie nach der Einführung des neuen Authentifizierungssystems nicht auf die Anwendung zugreifen können. Wir verstehen Ihren Ärger. Sollte das Problem weiterhin bestehen, stehen Ihnen unsere Hotline unter 0800 707 707 oder unsere Community gerne zur Verfügung."
   },
@@ -214027,7 +214055,7 @@
     "score": 1,
     "date": "2026-08-12 13:40:12",
     "content": "My UPC ne fonctionnait déjà pas correctement. J'ai pensé qu'avec Sunrise ça allait s'améliorer, mais visiblement c'est trop en demander. Je ne peux même pas me connecter. Deux opérateurs en un c'est pire que tout! Rien ne va en s'améliorant chez vous, décidément! Lisez les commentaires que vous avez et réagissez!!!! Faites des app utiles, faciles d'utilisation et qui Fonctionnent! 1h pour contacter le support, sans succès !",
-    "thumbs_up": 44,
+    "thumbs_up": 45,
     "app_version": "7.6.53",
     "reply": null
   },
@@ -243541,6 +243569,20 @@
     "content": "Very nice.. Works good and user friendly...",
     "thumbs_up": 1,
     "app_version": "2.3.22 Prod",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "fr",
+    "review_id": "c31a2e01-a363-4e74-83ac-ac556430efab",
+    "user": "Cyril Barbier",
+    "score": 5,
+    "date": "2026-09-26 17:12:22",
+    "content": "cool !",
+    "thumbs_up": 0,
+    "app_version": "5.25.13707",
     "reply": null
   },
   {
