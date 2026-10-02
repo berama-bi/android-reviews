@@ -4461,7 +4461,7 @@
     "score": 5,
     "date": "2026-07-31 08:54:45",
     "content": "Super intuitive et complète.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "10.0.2",
     "reply": null
   },
@@ -45285,7 +45285,7 @@
     "score": 1,
     "date": "2026-08-19 14:05:18",
     "content": "Système de connexion insupportable, pour me connecter à l'application, cela ouvre une seconde page sur internet et pour finir la connexion je dois confirmer dans l'application à laquelle je ne peux me connecter. Ensuite l'application me déconnecte chaque mois sans exception. La récupération par email ne fonctionne pas. De plus, il est impossible de se connecter avec son numéro de téléphone ou email uniquement avec l'identifiant.",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "11.32.1",
     "reply": "Bonjour Marco, merci pour ton message. La connexion fonctionne toujours sans problème ; tu peux modifier ton nom d’utilisateur dans l’application My Swisscom, sous Paramètres → Sécurité (Mobile ID ou 2FA). L’application est mise à jour régulièrement. Cordialement, Mirko, Online Care Team"
   },
@@ -46167,7 +46167,7 @@
     "score": 1,
     "date": "2025-12-04 22:08:10",
     "content": "Ça fait 2 semaines que j'essaie de me connecter à l'application et que le message suivant apparaît : \"Une erreur est survenue. Prière de réessayer plus tard.\" J'ai pourtant vérifier les paramètres de mon téléphone, fait la mise à jour de ce dernier ainsi que la MAJ de l'application. Je suis donc dans l'impossibilité de pouvoir payé mes factures..",
-    "thumbs_up": 14,
+    "thumbs_up": 15,
     "app_version": "11.26.6",
     "reply": "Bonjour Amandine, merci pour ton feedback. Nous sommes navrés que tu ne sois pas satisfaite de ton My Swisscom. Nous sommes à ta disposition via nos canaux de support: https://tinyurl.com/ywsvdx4k Meilleurs messages, Fred Online Care Team"
   },
@@ -156067,7 +156067,7 @@
     "score": 1,
     "date": "2026-06-11 14:31:48",
     "content": "Es ist eine katastrophale App. Die Rechnungen sind zu hoch, ohne irgendeinen Grund. Wenn ich eine Rechnung bezahle, wird es nicht gezeigt, sondern es steht einfach ( noch zu bezahlen). Ich habe ein Abo, das 12 CHF monatlich kostet. Aber in meiner Rechnung steht für zwei Monaten 200 CHF . Ich muss es bezahlen und als ich Yallo vor Ort bei einer Filiale gefragt habe, wieso meine Rechnung so hoch ist, haben sie mir gesagt, es ist so, wie es ist. Ich bereue sehr, dass ich Yallo gekauft habe. Bald kü",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "5.2.0",
     "reply": null
   },
@@ -170832,6 +170832,20 @@
     "provider": "yallo",
     "app_id": "ch.yallo.selfcare",
     "language": "fr",
+    "review_id": "26455b4b-0bf9-409b-b66f-4436c01445bb",
+    "user": "Gaston Coutaz",
+    "score": 1,
+    "date": "2026-09-30 15:36:37",
+    "content": "du n'importe quoi a déconseillé",
+    "thumbs_up": 0,
+    "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "my yallo",
+    "provider": "yallo",
+    "app_id": "ch.yallo.selfcare",
+    "language": "fr",
     "review_id": "ed4b028e-81f1-455f-820f-618f4cdf6da1",
     "user": "Jeremie G",
     "score": 1,
@@ -179041,7 +179055,7 @@
     "score": 1,
     "date": "2026-07-12 15:07:26",
     "content": "Eine Rangliste PAUSIEREN GEHT NICHT‼️ Möchte man eine RANGLISTE oder einen UNTERTITEL in Ruhe anschauen, sieht man nur eine sehr grosse WERBUNG, die alles überdeckt‼️",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": null,
     "reply": null
   },
@@ -179237,7 +179251,7 @@
     "score": 1,
     "date": "2026-03-25 19:35:03",
     "content": "Eigentlich wäre die App ganz ok. Aber was wirklich extrem störend ist, ist das teils alle Aufnahmen einer Serie gelöscht werden, wenn man eigentlich nur eine einzelne Folge löschen wollte. Das geht gar nicht und läuft bei anderen Anbieter deutlich besser. Dringender Verbesserungsbedarf! Update: Leider ist die APP nochmals schlechter geworden, man muss sich jedes Mal wieder neu anmelden und dann noch den Code welchen man per E-Mail erhält eingeben. Das geht besser!",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "2.0.6",
     "reply": null
   },
@@ -195785,7 +195799,7 @@
     "score": 5,
     "date": "2023-01-04 12:08:48",
     "content": "Die App ist ok. Es ist nur störend, dass man keine E-Mails mehr an Sunrise mailen kann. Beim telefonischen Kundendienst warten man eine Ewigkeit! (Ist in letzter Zeit, beim Abowechsel, sehr viel besser geworden. Danke.) Auch dass man eine Zahlungsauforderung per SMS bekommt, obwohl die Rechnung schon bezahlt ist, ist äusserst überflüssig. Ansonsten sehr nette Kundendienstmitarbeiter. Ich persönlich bin sehr, sehr Zufrieden mit Sunrise. Danke für alles und auf ein tolles Jahr 2023 mit Sunrise!😊",
-    "thumbs_up": 41,
+    "thumbs_up": 42,
     "app_version": "7.3.0",
     "reply": null
   },
@@ -198721,7 +198735,7 @@
     "app_id": "ch.sunrise.mein.konto",
     "language": "de",
     "review_id": "24d80211-8759-43e9-ba6c-05c346182f26",
-    "user": "L.",
+    "user": "Anna L.",
     "score": 1,
     "date": "2022-03-07 02:03:11",
     "content": "Funktioniert garnicht seit eine Woche und auch vorher schon stürzte immer wieder ab. Wenn ich könnte, würde ich minus Punkte geben. Es verdient nicht mal einen Punkt!",
@@ -201595,7 +201609,7 @@
     "score": 1,
     "date": "2020-07-07 23:04:02",
     "content": "Leider ist die App furchtbar unbrauchbar. Sie hängt sich ständig auf! Man kann Sie kaum nutzen (Auf verschiedenen Geräten! Auch gibt Sie teilweise an, eine Zahlung könne nicht getätigt werden, der Betrag wird dem Konto trotzdem abgezogen. Dummerweise denkt man so, man müsse die Zahlung wiederholen, was dazu führt, dass das Konto sich nach und nach entleert.",
-    "thumbs_up": 82,
+    "thumbs_up": 83,
     "app_version": "5.2.1",
     "reply": null
   },
@@ -226573,6 +226587,20 @@
     "content": "App molto utile",
     "thumbs_up": 0,
     "app_version": "1.0.1.15742",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
+    "review_id": "c10924c6-d8c3-4712-bb90-f829501e57c2",
+    "user": "Franca Vedovato",
+    "score": 1,
+    "date": "2026-09-30 16:34:02",
+    "content": "Seit Tagen kann ich nicht mehr in der Küche streamen. Laut Info kann ich bis zu 5 Geräten streamen. Was ist los???",
+    "thumbs_up": 0,
+    "app_version": "5.29.14911",
     "reply": null
   },
   {
@@ -254314,6 +254342,20 @@
     "provider": "salt",
     "app_id": "ch.salt.my",
     "language": "fr",
+    "review_id": "6d4e5809-7096-42b3-a76d-b5049aaa45d7",
+    "user": "Maxime",
+    "score": 1,
+    "date": "2026-10-01 06:51:40",
+    "content": "Impossible d'accéder à l'app depuis peu",
+    "thumbs_up": 0,
+    "app_version": "1.0.59",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "fr",
     "review_id": "24feb212-a2b9-4a7d-bb83-366eb7b52114",
     "user": "Fabienne Gugler",
     "score": 1,
@@ -261055,6 +261097,20 @@
     "content": "non ho mai avuto problemi con l'abbonamento del natel. ottimo abbonamento e a buon mercato! 👍",
     "thumbs_up": 0,
     "app_version": "1.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "quickline tv",
+    "provider": "quickline",
+    "app_id": "ch.quickline.tv",
+    "language": "de",
+    "review_id": "2c491716-1508-4233-9604-8d0ba353af67",
+    "user": "Mike",
+    "score": 1,
+    "date": "2026-09-30 16:01:23",
+    "content": "Kann auf Reisen im Ausland nicht genutzt werden.",
+    "thumbs_up": 0,
+    "app_version": "3.2618.01",
     "reply": null
   },
   {
