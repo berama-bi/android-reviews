@@ -10201,7 +10201,7 @@
     "score": 1,
     "date": "2025-11-27 19:23:35",
     "content": "Guten Tag Mehrere Nutzer – mich eingeschlossen – haben das Problem, dass die Login-Funktion in der App nicht mehr funktioniert. Wie kann es sein, dass kommuniziert wird, es sei „nichts bekannt“, obwohl dieses Problem offensichtlich mehrere Kunden betrifft? Es wäre wünschenswert, wenn die IT-Abteilung diese Störung zeitnah prüft, anstatt die Kunden einfach abzufertigen. Bei den Preisen, die Sie verlangen, erwarte ich ehrlich gesagt etwas mehr Transparenz und Kundenorientierung.",
-    "thumbs_up": 106,
+    "thumbs_up": 107,
     "app_version": "11.25.3",
     "reply": "Hallo DieVisum HD, vielen Dank für deine Bewertung mit 1⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App nicht einloggen kannst. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dich unterstützen können. Liebe Grüsse Juan"
   },
@@ -61567,7 +61567,7 @@
     "score": 4,
     "date": "2026-09-08 18:06:02",
     "content": "Bin grundsätzlich zufrieden, auch wenn zunehmend Zwangswerbung geschaltet wird. Seit dem Update von 08/26 heizt sich mein Handy jedoch deutlich auf und der Akkuverbrauch hat sich etwa verdoppelt. Ausserdem hoffe ich sehr, dass die \"Mini-Ansicht\" im Vordergrund über anderen laufenden Apps wieder zurückkommt (ich meine damit nicht die Popup-Ansicht; auf meinem Samsung Galaxy konnte ich vorher während der Sendung auf den Home Button drücken, dann erschien die Sendung als kleines Bild im Bild).",
-    "thumbs_up": 5,
+    "thumbs_up": 6,
     "app_version": "7.10.2",
     "reply": null
   },
@@ -155964,20 +155964,6 @@
     "provider": "yallo",
     "app_id": "ch.yallo.selfcare",
     "language": "de",
-    "review_id": "be6eddc4-a657-4799-b913-a2bcb8df1163",
-    "user": "1001",
-    "score": 1,
-    "date": "2026-09-10 10:28:41",
-    "content": "Reine Katastrophe Finger weg von yallo und co. ich musste 8. mal kontakt aufnehmen um ein Abo zu kündigen. Dann abo gekündigt auf ende 2025 aber das gekündigte abo wird immer noch bis heute 2026 berechnet. wieder kontaktiert beim weiterleiten wurde die verbindung einfach unterbrochen. Niemand ruft oder schreibt zurück und die yallo app ist auch richtig schlecht sehr langsam jedes mal sprache umstellen. in ein paar monaten ist bei mir ruhe. Alle abos gekündigt.",
-    "thumbs_up": 0,
-    "app_version": "5.2.0",
-    "reply": null
-  },
-  {
-    "app_name": "my yallo",
-    "provider": "yallo",
-    "app_id": "ch.yallo.selfcare",
-    "language": "de",
     "review_id": "8b69b0d4-66d3-4335-a250-308209cfadcb",
     "user": "T3rr0rZw3r6 84",
     "score": 1,
@@ -186727,7 +186713,7 @@
     "score": 1,
     "date": "2026-09-15 20:28:58",
     "content": "Restdaten im Ausland nicht einsehbar. Diese App ist für mich so unbrauchbar.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "5.2.0",
     "reply": null
   },
@@ -214085,6 +214071,20 @@
     "content": "Lol, warum steht in der Beschreibung, dass ich ein iPhone benötige? Copy Paste vom Appstore? ;-)",
     "thumbs_up": 0,
     "app_version": "1.0.1.15742",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "fr",
+    "review_id": "d1b03c7a-b999-4d2b-a743-2a9170f7f388",
+    "user": "Mounir Ghali",
+    "score": 5,
+    "date": "2026-10-03 06:50:03",
+    "content": "top",
+    "thumbs_up": 0,
+    "app_version": "7.6.58",
     "reply": null
   },
   {
