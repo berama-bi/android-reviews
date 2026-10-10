@@ -247,7 +247,7 @@
     "score": 2,
     "date": "2026-08-04 10:23:18",
     "content": "vor etwas mehr als 1Jahr habe ich wingo gewechselt mit einem lebenlangen Abopreis. wingo du hast bald ausgedient ! Bereits zum 2.Mal wude der Abopreis erhöht. ich fühle mich hintergangen. wo bleibt das lebenslange Versprechen:-(",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "10.0.2",
     "reply": null
   },
@@ -303,7 +303,7 @@
     "score": 3,
     "date": "2026-07-23 10:21:47",
     "content": "Grundsätzlich gut aber bei Wingo ist es sehr schwierig sein Abo zu künden. In der App geht das nicht, sie verweisen auf Chats.. aber im WhatsApp geben sie keine Antwort.. auch nicht während den Öffnungszeiten. Mail gibts nicht, ich werde es über die kostenpflichtige Tel. Nr. probieren müssen. (Facebook habe ich nicht).",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "10.0.2",
     "reply": null
   },
@@ -3481,7 +3481,7 @@
     "score": 2,
     "date": "2024-11-12 19:01:34",
     "content": "Grundsätzlich eine sehr gute App und würde auch 4 Sterne bekommen. Bei den aktuellen Kosten kann man die Anrufe und die aktuellen Kosten sehen. Nicht auf den abgeschlossenen Monat. Sehe nur auf der Rechnung 19.- Kosten für Auslandsgespräche, obwohl keine Auslandsgespräche geführt wurden und diese noch im Abo enthalten sind. Entweder zahle ich jetzt 1.50/min für die Hotline oder ich zahle einfach den Betrag. Es wäre schön, wenn man so etwas nachvollziehen könnte, wie bei den aktuellen Kosten.",
-    "thumbs_up": 21,
+    "thumbs_up": 22,
     "app_version": "6.59.1",
     "reply": null
   },
@@ -4811,7 +4811,7 @@
     "score": 2,
     "date": "2025-12-13 15:23:07",
     "content": "si je ne peux pas trouver mon numéro de client dans l'application alors vraiment elle est pas terrible",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "9.0.1",
     "reply": null
   },
@@ -5255,7 +5255,7 @@
     "app_id": "com.swisscom.mywingo",
     "language": "fr",
     "review_id": "353f2668-c1ae-44c9-a212-b75eabfa92f0",
-    "user": "Gecko",
+    "user": "Un utilisateur de Google",
     "score": 4,
     "date": "2025-04-17 20:16:08",
     "content": "Bonne app",
@@ -7740,6 +7740,34 @@
     "thumbs_up": 2,
     "app_version": "1.0.0",
     "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
+    "review_id": "2cf6608d-828a-4c0f-9e29-2162e0a49291",
+    "user": "Norbert Westhues",
+    "score": 1,
+    "date": "2026-10-08 15:49:52",
+    "content": "Ich würde mich gerne anmelden....aber es rotiert.....rotiert.......usw.",
+    "thumbs_up": 0,
+    "app_version": "11.33.0",
+    "reply": "Hallo Norbert, danke für deine Bewertung. Es tut mir leid, dass du unserer App nur so wenig Sterne vergeben kannst. Versuche die APP zu deinstallieren und wieder zu installieren. Falls das Problem weiterhin besteht, melde dich unter folgenden Link: http://www.swisscom.ch/kontakt. Liebe Grüsse, Isabel Online Care Team"
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
+    "review_id": "7165d636-9dae-4c57-80ca-d66b8dec9189",
+    "user": "Luca Monteleone",
+    "score": 5,
+    "date": "2026-10-08 14:42:42",
+    "content": "Top!",
+    "thumbs_up": 0,
+    "app_version": "11.33.0",
+    "reply": "Hallo Luca, vielen Dank für deine 5 ⭐ Bewertung und dein Feedback. Es freut mich, dass du mit unserer App zufrieden bist. Ich wünsche dir einen schönen Abend und sende dir liebe Grüsse, Isabel Online Care Team.🍁"
   },
   {
     "app_name": "myswisscom",
@@ -23193,7 +23221,7 @@
     "score": 5,
     "date": "2021-05-20 12:07:36",
     "content": "Seit dem letzten Update ist ein Bug aufgetreten. sobald man aus Sicherheits Gründen sich neu anmelden muss, wird der Bildschrim weiss und man wird wieder leer zurückgeschickt ohne sich anmelden zu können.",
-    "thumbs_up": 13,
+    "thumbs_up": 12,
     "app_version": "10.3.0",
     "reply": "Hallo Daniel, danke für deine Bewertung und dein Feedback. Ich empfehle dir, die App zu löschen und zu downloaden. Sollte es danach erneut nicht korrekt funktionieren, melde dich gerne bei uns unter www.swisscom.ch/kontakt. Liebe Grüsse, Nicole Online Care Team"
   },
@@ -45383,7 +45411,7 @@
     "score": 1,
     "date": "2026-08-19 14:05:18",
     "content": "Système de connexion insupportable, pour me connecter à l'application, cela ouvre une seconde page sur internet et pour finir la connexion je dois confirmer dans l'application à laquelle je ne peux me connecter. Ensuite l'application me déconnecte chaque mois sans exception. La récupération par email ne fonctionne pas. De plus, il est impossible de se connecter avec son numéro de téléphone ou email uniquement avec l'identifiant.",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "11.32.1",
     "reply": "Bonjour Marco, merci pour ton message. La connexion fonctionne toujours sans problème ; tu peux modifier ton nom d’utilisateur dans l’application My Swisscom, sous Paramètres → Sécurité (Mobile ID ou 2FA). L’application est mise à jour régulièrement. Cordialement, Mirko, Online Care Team"
   },
@@ -62186,20 +62214,6 @@
     "thumbs_up": 0,
     "app_version": "7.9.2",
     "reply": null
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "de",
-    "review_id": "fe72e99b-da45-497a-94f1-a0de3809c9ec",
-    "user": "Ein Google-Nutzer",
-    "score": 1,
-    "date": "2026-07-10 18:01:59",
-    "content": "alte fehler behoben neue probleme eingebaut seit neustem muß ich mich immer neu einloggen sehr mühsam sollte es so weiter gehen dann sind meine abos weg sobald ich kann. hab null bock mich mitten im film neu einloggen zu müßen. jedes neue einloggen erhõht nur die gefahr daß der loggin irgendwo abgefischt wird. macht endlich eine benutzerfreundliche app ohne probleme 0815 antwort bei sovielen gleichen fehlermeldungen? inkompetent hoch 10",
-    "thumbs_up": 6,
-    "app_version": "7.9.2",
-    "reply": "Guten Tag Daniel, danke für deine Bewertung und Mitteilung. Unseren Spezialisten ist der Fehler bekannt und es wird mit Hochdruck an der Behebung gearbeitet. Bald kannst du die App wieder wie gewohnt nutzen. Ich bitte dich daher um etwas Geduld und Verständnis. Liebe Grüsse, Isabel Online Care Team 🌻"
   },
   {
     "app_name": "blue tv",
@@ -121739,7 +121753,7 @@
     "score": 3,
     "date": "2026-09-24 17:08:36",
     "content": "je n'aime pas la pub en replay!",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.9.3",
     "reply": null
   },
@@ -121753,7 +121767,7 @@
     "score": 1,
     "date": "2026-09-23 20:48:31",
     "content": "c'est juste devenu une vraie catastrophe !!!",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.10.3",
     "reply": null
   },
@@ -121767,7 +121781,7 @@
     "score": 1,
     "date": "2026-09-15 19:26:09",
     "content": "cette application est vraiment nulle pour reprendre une émission sur de multiples supports. Elle n arrive pas à enregistrer comme par exemple Netflix.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.10.3",
     "reply": null
   },
@@ -123167,7 +123181,7 @@
     "score": 1,
     "date": "2025-10-30 20:56:40",
     "content": "beaucoup trop de bugs et j'ai jamais vu de mise à jour sur cette application on dirait qu'elle a à l'abandon",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "7.4.3",
     "reply": "Hello Stephane, Merci de de partager ton expérience. Nous rencontrons des problèmes avec notre application TV. Nos spécialistes travaillent actuellement à leur résolution. Merci pour ton aimable compréhension. Meilleurs messages Fred Online Care Team"
   },
@@ -151149,7 +151163,7 @@
     "app_id": "com.swisscom.tv2",
     "language": "it",
     "review_id": "4d81e335-8e8c-474f-96eb-9f46f1072e79",
-    "user": "Mabel D'Ettorre",
+    "user": "Valerio & Mabel D'Ettorre",
     "score": 1,
     "date": "2020-11-18 20:14:10",
     "content": "Usavo sempre questa app, da quando è stata aggiornata non funziona più. Si accede solo col codice del TV box (col login da sempre errore) , ma se sono davanti alla TV perché dovrei usare l'app?",
@@ -179139,7 +179153,7 @@
     "score": 1,
     "date": "2026-09-21 19:46:13",
     "content": "Billig bleibt Billig noch nie so eine Benutzer unfreundliche APP gesehen, wahrscheinlich liegt das an dem super Kundenservice der leider nicht Gratis ist .😉Die BESCHEIDENSTE APP für die ich jemals bezahlen durfte ( Mal abgesehen von der missen Software von YgOOGEL)",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "2.0.19",
     "reply": null
   },
@@ -179335,7 +179349,7 @@
     "score": 2,
     "date": "2026-05-15 17:56:12",
     "content": "Wenn man durch das Replay Angebot scrollt, etwas näher anschaut und dann zurückgeht, springt die Liste immer wieder nach zu oberst. Das ist sehr mühsam und frustrierend.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "2.0.11",
     "reply": null
   },
@@ -179559,7 +179573,7 @@
     "score": 1,
     "date": "2026-02-28 11:19:14",
     "content": "Lustig, dass man das TV Abo nur über Chat oder kostverbundenen Anruf kündigen kann. Noch witziger, dass der Link für den Chat seit Tagen nicht geht. Chapeau ihr wisst, wie man Geld nacht. Abgesehen davon werbt ihr mit 12.95 und zieht mir jeden monat 14.95 ab.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "2.0.5",
     "reply": null
   },
@@ -216333,7 +216347,7 @@
     "app_id": "ch.sunrise.mein.konto",
     "language": "fr",
     "review_id": "27e59e27-61a3-496e-b714-2f17a399ee6c",
-    "user": "denis braunschweig",
+    "user": "denduich",
     "score": 1,
     "date": "2024-09-27 14:32:09",
     "content": "Impossible de recevoir un support technique correct ?",
@@ -223017,6 +223031,20 @@
     "content": "Dommage qu'il y a pas les détails des communications",
     "thumbs_up": 3,
     "app_version": "1.0.1.15742",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "it",
+    "review_id": "0a9f56dc-61a3-481a-8456-7ded5f1b670b",
+    "user": "Uccio Pomes",
+    "score": 1,
+    "date": "2026-10-09 07:59:52",
+    "content": "Pagamento della fattura via Twint sovrapprezzo di CHF 1.- 👎🏼",
+    "thumbs_up": 0,
+    "app_version": "7.6.60",
     "reply": null
   },
   {
@@ -261263,7 +261291,7 @@
     "score": 2,
     "date": "2025-05-04 13:54:15",
     "content": "Jedes Mal mit E-Mail und Passwort anmelden! Echt jetzt? Früher erhielt man nach Eingabe der Tel. Nr. wenigstens einen SMS-Code zur Anmeldung. Das scheint hier nicht zu funktionieren. Schlecht!",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "1.2.0",
     "reply": null
   },
