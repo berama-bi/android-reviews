@@ -61534,6 +61534,34 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "de",
+    "review_id": "705eb504-cd05-4d63-92f0-6ceed01f5fe2",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-10-14 08:54:44",
+    "content": "Zur Zeit kann man lokal heruntergeladene Fìlme (Download auf Smartphone) ohne Internetverbindung nicht mehr anschauen. Somit ist die App z.B. im Flugzeug nutzlos. Warum testet ihr die App seit langem nicht richtig, bevor ihr sie an eure Kunden verteilt?",
+    "thumbs_up": 0,
+    "app_version": "7.11.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "10c3f3a5-5354-4bc6-8382-8b12781d5a6c",
+    "user": "Ein Google-Nutzer",
+    "score": 5,
+    "date": "2026-10-13 15:59:58",
+    "content": "update:die Probleme alle behoben mit dem Oktoberrelease! Probleme mit der app...1.seit kurzem,wenn ich auf home klicke kommt nicht mehr wie vorher das kleine bild in bild. 2.Einloggen über wifi nicht mehr möglich,kommt nur ein schwarzer Bildschirm wie auch andere beschrieben haben und swisscom meinte bei Anfrage es sei ein Problem bei mir. 3.Downloads von gewissen Sendern haben beim abspielen keinen Ton nur Bild. Trotz mehrmaliger Reklamation wurde Problem seit Mai nicht behoben...",
+    "thumbs_up": 0,
+    "app_version": "7.11.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
     "review_id": "48d6c01a-fd62-4ca5-b840-5a9417077886",
     "user": "Ein Google-Nutzer",
     "score": 1,
@@ -121790,6 +121818,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "fr",
+    "review_id": "0d3bdfbf-0d28-48ad-b535-3d528cbc20e9",
+    "user": "Didier Pichard",
+    "score": 1,
+    "date": "2026-10-13 20:10:35",
+    "content": "impossible de lancer sur TV soudainement alors que ça a fonctionné pendant 2 ans",
+    "thumbs_up": 0,
+    "app_version": null,
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
     "review_id": "fc84ecd1-09df-466c-ab41-87571014ebbe",
     "user": "Jean-philippe Jenni",
     "score": 2,
@@ -156431,7 +156473,7 @@
     "score": 5,
     "date": "2026-04-28 11:36:07",
     "content": "Wechsel zu Yallo noch nie bereut, nach 2j gemeldet für verlängerung und nochmal 5.- gespart. der chat ist tstsächlich bedient und es wird umgehend angerufen bei fragen.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "5.0.1",
     "reply": null
   },
@@ -171119,6 +171161,20 @@
     "content": "Super App! Im Gegensatz zu der seit Jahren schlechten original Sunrise app, hat die yallo app genau das was es braucht. Bitte so belassen und nicht weiter überladen!",
     "thumbs_up": 2,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "my yallo",
+    "provider": "yallo",
+    "app_id": "ch.yallo.selfcare",
+    "language": "fr",
+    "review_id": "36df7f1b-c41a-4765-b003-8dcb277d33d3",
+    "user": "Jean-yves CommAdore",
+    "score": 3,
+    "date": "2026-10-14 09:06:45",
+    "content": "Dans l'ensemble c'est correct mais il y à plusieurs défaut importants comme la consultation des données et des appels effectués qui étaient disponibles dans l'ancienne version. Cette dernière ne s'ouvre plus du tout dommage. L'ouverture de l'application n'est pas sécurisées avec un code ou un autre protection",
+    "thumbs_up": 0,
+    "app_version": "5.5.0",
     "reply": null
   },
   {
@@ -186629,7 +186685,7 @@
     "score": 5,
     "date": "2026-04-07 12:49:28",
     "content": "Ich bin sehr zufrieden. Die Anmeldung, die Telefonnummerübernahme alles hat bestens geklappt. Alles ist einfach und entspannt. Der Support ist Spitze kaum Wartezeiten, mega freundlich und Anliegen/Probleme werden umgehend gelöst. Herzlichen Dank Spusu Team.",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "2.00.000",
     "reply": null
   },
@@ -186671,7 +186727,7 @@
     "score": 5,
     "date": "2026-01-27 13:29:26",
     "content": "Super Anbieter, habe vor mehreren Monaten auf spusu gewechselt. Preis-Leistung ist TOP! Support klappt wunderbar und es wird schnell reagiert. Keine Probleme im Ausland und wenn doch, gibt es schnelle Hilfe. Absolute Empfehlung.",
-    "thumbs_up": 9,
+    "thumbs_up": 10,
     "app_version": "2.00.000",
     "reply": null
   },
@@ -187030,6 +187086,20 @@
     "provider": "chmobile",
     "app_id": "com.chmobile.selfcareapp",
     "language": "de",
+    "review_id": "67a326ea-55c7-4b97-8b49-74c2ecf1162e",
+    "user": "Martin Ravizza",
+    "score": 1,
+    "date": "2026-10-13 20:32:23",
+    "content": "Das wichtigste feature wäre, die verbrauchten roaming Daten anzuzeigen, leider fehlanzeige.",
+    "thumbs_up": 0,
+    "app_version": "5.5.0",
+    "reply": null
+  },
+  {
+    "app_name": "chmobile",
+    "provider": "chmobile",
+    "app_id": "com.chmobile.selfcareapp",
+    "language": "de",
     "review_id": "2afaa5e2-1f1a-430b-8130-7ee29d9ebfc4",
     "user": "Simon Widmer",
     "score": 1,
@@ -187107,6 +187177,20 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 0,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "4fc5bb36-7b61-4760-ac5d-cd2d77809a99",
+    "user": "Edgar Fleischmann",
+    "score": 5,
+    "date": "2026-10-14 04:28:14",
+    "content": "Nach Cache und Datenlöschung mit anschliesender Deinstalation habe ich die App My Sunrise neu Installiert. Nun funktioniert sie entlich wieder!",
+    "thumbs_up": 0,
+    "app_version": "7.6.60",
     "reply": null
   },
   {
@@ -196135,7 +196219,7 @@
     "score": 5,
     "date": "2023-01-04 12:08:48",
     "content": "Die App ist ok. Es ist nur störend, dass man keine E-Mails mehr an Sunrise mailen kann. Beim telefonischen Kundendienst warten man eine Ewigkeit! (Ist in letzter Zeit, beim Abowechsel, sehr viel besser geworden. Danke.) Auch dass man eine Zahlungsauforderung per SMS bekommt, obwohl die Rechnung schon bezahlt ist, ist äusserst überflüssig. Ansonsten sehr nette Kundendienstmitarbeiter. Ich persönlich bin sehr, sehr Zufrieden mit Sunrise. Danke für alles und auf ein tolles Jahr 2023 mit Sunrise!😊",
-    "thumbs_up": 42,
+    "thumbs_up": 43,
     "app_version": "7.3.0",
     "reply": null
   },
@@ -252275,7 +252359,7 @@
     "score": 1,
     "date": "2026-09-09 14:07:47",
     "content": "Leider bin ich mit dem Kundenservice von Salt sehr unzufrieden. Ich habe vier Mobilfunknummern bei Salt und bin seit längerer Zeit Kundin. Trotzdem wurde mein Anliegen bezüglich mehrfach bezahlter Rechnungen bisher nicht zufriedenstellend gelöst. Am 25.08.2026 habe ich auf Anweisung eines Salt-Mitarbeiters nochmals bezahlt, mit der Zusage, dass die zu viel bezahlten Beträge zurückerstattet werden. Bis heute habe ich jedoch keine Rückerstattung erhalten. Zusätzlich wurde danach erneut ein Betrag",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "1.0.56",
     "reply": null
   },
@@ -252303,7 +252387,7 @@
     "score": 1,
     "date": "2026-09-08 07:23:39",
     "content": "Von Anfang an mühsam hatte Salt Home und Salt Mobile. Erst das Salt Home eingerichtet grosser Fehler! Konnte Saltmobile nie verknüpfen. Nun habe ich durch Umzug in eine Wohnung mit Kupfer nur noch Salt Mobile und kann mich gar nicht mehr einloggen um zu versuchen das Mobile zu verknüpfen. Es kommt immer ist ein Fehler aufgetreten versuchen sie es später. Neu machen geht auch nicht weil die Nummer ja bereits verknüpft ist. Auch im Shop wurde ich nur vertröstet. Werde sobald wie möglich wechseln",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "1.0.56",
     "reply": null
   },
@@ -253325,7 +253409,7 @@
     "score": 1,
     "date": "2025-09-06 10:44:16",
     "content": "Nicht zu gebrauchen. Jedes Mal wenn ich die App öffne kommt die Meldung \" Du bist offline, stelle eine Internetverbindung her oder kauf ein Data Pack\" Ich habe Internet, es geht aber gar nichts. Kann die Meldung nicht weg klicken. Muss jedesmal App löschen, neu installieren und wieder anmelden dann funktioniert es. Beim nächsten öffnen der App geht das ganze wieder von vorne los. Das gleiche Theater habe ich auch auf dem Tablet nicht nur auf dem Handy.",
-    "thumbs_up": 13,
+    "thumbs_up": 14,
     "app_version": "1.0.27",
     "reply": "Hallo , es tut mir leid, dass du Schwierigkeiten mit der App hast. Nutzt du eventuell VPN oder eine Sicherheitsoftware? Wenn nicht, sende mir gerne deine Infos via E-Mail an mysalt@salt.ch und ich helfe dir gerne. Liebe Grüsse, Sarah"
   },
@@ -254797,7 +254881,7 @@
     "content": "Le paiement est payant !",
     "thumbs_up": 0,
     "app_version": "1.0.56",
-    "reply": null
+    "reply": "Bonjour,\n\nPayer votre facture via l’app ou l’espace client avec Twint, Apple Pay ou Google Pay entraîne des frais de CHF 0.95, ajoutés à votre prochaine facture. Pour payer sans frais : débit direct (LSV), eBill ou code QR (espace client > Mes factures) via votre e-banking (hors Twint).\n\nCordialement, votre équipe Salt"
   },
   {
     "app_name": "salt",
@@ -255971,7 +256055,7 @@
     "score": 4,
     "date": "2024-10-16 05:44:28",
     "content": "Ne sert à rien, on ne peut rien modifier sur son compte , on ne voit rien des factures, on ne peut rien configurer . A améliorer vraiment. _______________________ Merci Sarah je vous ai envoyé un email. __________ Après avoir désinstaller l'application et réinstaller l'application je peux avoir accès à mon compte si vous rencontrez le même problème",
-    "thumbs_up": 43,
+    "thumbs_up": 44,
     "app_version": "1.0.10",
     "reply": "Bonjour, pouvez-vous m'envoyer une capture d'écran, le modèle de l'appareil, la version d'Android et votre numéro de téléphone/adresse e-mail par e-mail à mysalt@salt.ch afin que nous puissions vérifier? Salutations, Sarah"
   },
