@@ -14159,7 +14159,7 @@
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
     "review_id": "7e155d18-55e0-4eec-b25e-337eb105d588",
-    "user": "Susanne Gwerder",
+    "user": "Susanne GwerderGüçlüdal",
     "score": 1,
     "date": "2024-10-30 20:14:26",
     "content": "Seit Tagen möchte ich mich bei SC Einloggen... Keine Hilfe bekommen von der SC TEAM 😔 NUR TRAURIG! Habe das Passwort vergessen! Keine E-Mail Keine SMS Nachricht erhalten ... Wollte mich Einloggen um Online bezahlen zu können . Doch keiner konnte mir hier helfen bin nur noch Enttäuscht von der SC ! LG SUSANNE",
@@ -61583,6 +61583,20 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "1809df0a-5f43-4cb8-9e10-2c7145f2223c",
+    "user": "Ein Google-Nutzer",
+    "score": 2,
+    "date": "2026-10-18 21:51:28",
+    "content": "sehr ärgerlich dass nur 5 geräte (auch vom gleichen haushalt!!) angemeldet werden können!! also bei einem 4köpfigen haushalt wo jeder ein handy plus ein ipad hat, keine chance!wechseln kann man auch nicht bzw. nur drei mal pro 3monate! also wenn man schon zwei mal gewechselt hat schmeisst man einen anderen für 3 monate raus! und die swisscom interessiert's nicht... nicht gerade kundenfreundlich!!",
+    "thumbs_up": 0,
+    "app_version": "7.11.0",
     "reply": null
   },
   {
@@ -121923,6 +121937,20 @@
     "content": "Super App",
     "thumbs_up": 0,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
+    "review_id": "182a1ec3-418c-4442-b54d-27ef29df32c5",
+    "user": "Angela Aase",
+    "score": 5,
+    "date": "2026-10-18 23:39:12",
+    "content": "au top",
+    "thumbs_up": 0,
+    "app_version": "7.10.3",
     "reply": null
   },
   {
@@ -187184,6 +187212,20 @@
     "provider": "spusu",
     "app_id": "com.massresponse.spusuch",
     "language": "fr",
+    "review_id": "a5943779-6d0c-4a29-b9c7-a748d9aa351e",
+    "user": "Salim",
+    "score": 5,
+    "date": "2026-10-19 05:09:20",
+    "content": "Meilleure opérateur rapport qualité prix en Suisse",
+    "thumbs_up": 0,
+    "app_version": "2.00.004",
+    "reply": null
+  },
+  {
+    "app_name": "spusu",
+    "provider": "spusu",
+    "app_id": "com.massresponse.spusuch",
+    "language": "fr",
     "review_id": "2eb0c975-078c-4a13-9fdb-6e42fc0380bb",
     "user": "Benjamin Moura",
     "score": 1,
@@ -187317,6 +187359,48 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 0,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "5152fbd1-27e2-41ab-a767-733034910ab7",
+    "user": "Margreth Stucki",
+    "score": 1,
+    "date": "2026-10-19 00:37:40",
+    "content": "Schwierig",
+    "thumbs_up": 0,
+    "app_version": "7.6.57",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "fcbb7468-0435-4e36-9f76-a7ebf0bae872",
+    "user": "Karl Dupont",
+    "score": 1,
+    "date": "2026-10-18 13:03:23",
+    "content": "Wäre eine gute App, aber leider sei sie mit meinem Gerät nicht mehr kompatibel. Und deswegen kaufe ich mir sicher kein neues Smartphone!",
+    "thumbs_up": 0,
+    "app_version": "7.6.53",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "50357634-fd6e-476a-8d5b-6f299340827e",
+    "user": "Josef RItter",
+    "score": 1,
+    "date": "2026-10-18 11:08:40",
+    "content": "Wiso wird mir gemeldet mein Huawei sei nicht mehr kompatibel mit der App?? Hat bis jetzt immer problemlos funktioniert!! Sicher werde ich dadurch nicht mein Huawei Natel wechseln! Mit freundlichen Grüssen JOSEF RITTER",
+    "thumbs_up": 0,
+    "app_version": "7.6.53",
     "reply": null
   },
   {
@@ -189555,7 +189639,7 @@
     "score": 5,
     "date": "2025-07-07 12:34:59",
     "content": "Die App war viel zu langsam. Außerdem funktionierten auf der Startseite die anderen Einstellungen wie Produkte, Rechnungen usw. gar nicht. Seit Langem gab es das Problem auch auf der Webseite. Wir konnten mit der App überhaupt nichts erledigen. Da war ich nicht der Einzige, der das Problem erwähnte. Früher lief es optimal, aber seit Langem war die App unbrauchbar. Endlich wurde das Softwareproblem gelöst und es funktioniert wieder. Danke für die schnelle Lösung.",
-    "thumbs_up": 12,
+    "thumbs_up": 13,
     "app_version": "7.6.26",
     "reply": "Vielen Dank für Ihr Feedback! Mit freundlichen Grüssen, Sunrise App Support"
   },
@@ -196359,7 +196443,7 @@
     "score": 5,
     "date": "2023-01-04 12:08:48",
     "content": "Die App ist ok. Es ist nur störend, dass man keine E-Mails mehr an Sunrise mailen kann. Beim telefonischen Kundendienst warten man eine Ewigkeit! (Ist in letzter Zeit, beim Abowechsel, sehr viel besser geworden. Danke.) Auch dass man eine Zahlungsauforderung per SMS bekommt, obwohl die Rechnung schon bezahlt ist, ist äusserst überflüssig. Ansonsten sehr nette Kundendienstmitarbeiter. Ich persönlich bin sehr, sehr Zufrieden mit Sunrise. Danke für alles und auf ein tolles Jahr 2023 mit Sunrise!😊",
-    "thumbs_up": 43,
+    "thumbs_up": 44,
     "app_version": "7.3.0",
     "reply": null
   },
@@ -202169,7 +202253,7 @@
     "score": 1,
     "date": "2020-07-07 23:04:02",
     "content": "Leider ist die App furchtbar unbrauchbar. Sie hängt sich ständig auf! Man kann Sie kaum nutzen (Auf verschiedenen Geräten! Auch gibt Sie teilweise an, eine Zahlung könne nicht getätigt werden, der Betrag wird dem Konto trotzdem abgezogen. Dummerweise denkt man so, man müsse die Zahlung wiederholen, was dazu führt, dass das Konto sich nach und nach entleert.",
-    "thumbs_up": 83,
+    "thumbs_up": 84,
     "app_version": "5.2.1",
     "reply": null
   },
@@ -223935,7 +224019,7 @@
     "app_id": "ch.sunrise.mein.konto",
     "language": "it",
     "review_id": "7c03fee7-1420-4938-b3c0-47194cb1c909",
-    "user": "Un utente Google",
+    "user": "Sonia Togni",
     "score": 5,
     "date": "2024-10-11 07:24:33",
     "content": "ok grazie",
@@ -252459,7 +252543,7 @@
     "content": "bin bis jetzt sehr schlecht beraten worden und bin sehr unzufrieden was den Kundenservice betrifft! Sehr schlechte Kommunikation und bekommt nicht wirkliche Hilfe!?",
     "thumbs_up": 0,
     "app_version": "1.0.59",
-    "reply": null
+    "reply": "Hallo Helena, danke für dein Feedback, und es tut uns leid, dass du dich nicht gut betreut fühlst. Dieser Bereich ist allerdings für Bewertungen der App gedacht, nicht des Kundendiensts. Schreib uns gerne an socialmedia@salt.ch, dann schauen wir, wie wir dir helfen können. Dein Salt Team"
   },
   {
     "app_name": "salt",
@@ -255063,7 +255147,7 @@
     "content": "Erreur technique, impossible d'importer un contrat mobile. En fait, je n'y suis jamais arrivé en raison d'un \"problème technique\"",
     "thumbs_up": 0,
     "app_version": "1.0.59",
-    "reply": null
+    "reply": "Bonjour, nous sommes désolés que vous ne parveniez pas à importer votre contrat mobile. Nous aimerions vous aider : pourriez-vous nous écrire à socialmedia@salt.ch en décrivant le message d'erreur affiché ? Nous examinerons votre situation rapidement. Cordialement, Votre équipe Salt"
   },
   {
     "app_name": "salt",
@@ -260447,7 +260531,7 @@
     "app_id": "salt.tv.play",
     "language": "fr",
     "review_id": "49ba0cad-8423-4852-bb5b-d20fe84f5ed6",
-    "user": "Benoit Passe (De Nédélec)",
+    "user": "Benoit P",
     "score": 5,
     "date": "2021-09-24 05:19:04",
     "content": "Fonctionne incroyablement bien pour ce genre d'appli. Extrêmement fluide, pas de bug. Il faut une sim Suisse ou un wifi Suisse pour accéder au flux vidéo.",
