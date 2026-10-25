@@ -4,6 +4,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "f7449be9-a430-4716-bbc4-8ba004f56bc5",
+    "user": "Wohlwend Roland",
+    "score": 5,
+    "date": "2026-10-23 23:04:49",
+    "content": "super Anbieter",
+    "thumbs_up": 0,
+    "app_version": "11.0.2",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "d61c4d20-0dec-4ad1-b8f1-72487304524e",
     "user": "V H",
     "score": 5,
@@ -49887,7 +49901,7 @@
     "app_id": "com.swisscom.myswisscom",
     "language": "fr",
     "review_id": "cdf1246d-6af8-4d2f-9348-837d836ca3b5",
-    "user": "Nassim Dib",
+    "user": "Tigre De Jiang Dong",
     "score": 5,
     "date": "2022-10-22 14:24:14",
     "content": "très utile",
@@ -61639,6 +61653,20 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "de86a8da-7924-41ec-9b5c-06337ff28b7e",
+    "user": "Ein Google-Nutzer",
+    "score": 5,
+    "date": "2026-10-23 12:13:38",
+    "content": "Ich habe auch Blue TV zu Hause",
+    "thumbs_up": 0,
+    "app_version": "7.11.0",
     "reply": null
   },
   {
@@ -89758,20 +89786,6 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "de",
-    "review_id": "c28e5360-5e94-4c7e-9811-75d85eaed508",
-    "user": "Ein Google-Nutzer",
-    "score": 4,
-    "date": "2020-11-03 08:31:12",
-    "content": "Muss jetzt erstmal ausprobieren. Inzwischen begeistert..",
-    "thumbs_up": 0,
-    "app_version": "5.0.2",
-    "reply": "Hallo Edith, besten Dank für deine Rückmeldung. Es freut mich sehr zu lesen, dass du von unserer App begeistert bist!💙 Ich wünsche dir weiterhin viel Freude damit. Liebe Grüsse, Nicole"
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "de",
     "review_id": "6171aca4-b90d-43fa-8306-a12c700262d9",
     "user": "Ein Google-Nutzer",
     "score": 1,
@@ -99745,7 +99759,7 @@
     "score": 2,
     "date": "2019-02-19 22:19:33",
     "content": "Automaric retry bei Teleclub Sendern und Aufnahmen.",
-    "thumbs_up": 11,
+    "thumbs_up": 10,
     "app_version": "3.1.0",
     "reply": null
   },
@@ -102503,7 +102517,7 @@
     "score": 4,
     "date": "2018-12-14 19:40:42",
     "content": "Seit dem letzten Update habe ich fast jedeamal beim starten einen Absturz. Zudem nerve ich mich ab der Änderung für den Senderwechsel beim TV schauen auf dem Handy. Wenn ich das Topdown Menu vom Handy während des schauen benutze wechselt es jedesmal den Sender. Vorher war es nicht besser, wenn man Spulen wollte und den Button nicht getroffen hat wurde auch umgeachaltet. Könnte man dem Nutzer nicht die möglichkeit bieten dies zu deaktivieren wenn nicht gewünscht? Wäre Super! und eine Vor und Rückwärts spuken funktion a la VLC Player wäre auch genial.",
-    "thumbs_up": 35,
+    "thumbs_up": 34,
     "app_version": "3.0",
     "reply": null
   },
@@ -121979,6 +121993,20 @@
     "content": "Super App",
     "thumbs_up": 0,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
+    "review_id": "100181ff-1ede-47f5-874e-84d7ad604925",
+    "user": "Juliane Eggenschwiler",
+    "score": 1,
+    "date": "2026-10-23 23:41:28",
+    "content": "bug sans arrêt",
+    "thumbs_up": 5,
+    "app_version": "7.11.0",
     "reply": null
   },
   {
@@ -179492,20 +179520,6 @@
     "thumbs_up": 0,
     "app_version": "2.0.22",
     "reply": "Vielen Dank für dein Feedback. Damit wir dies gezielt prüfen können, melden Sie sich bitte direkt bei uns unter yallotvsupport@sunrise.net und geben Sie uns Ihre yallo TV User ID an. Diese finden Sie in der yallo TV App unter Einstellungen > Profile > User ID. Wir freuen uns auf Ihre Kontaktaufnahme."
-  },
-  {
-    "app_name": "yallo tv",
-    "provider": "yallo",
-    "app_id": "com.smith.production",
-    "language": "de",
-    "review_id": "7fdec1a0-45eb-4f9d-bdd1-28c6aaf16521",
-    "user": "Andreas Heierli",
-    "score": 1,
-    "date": "2026-09-27 12:36:41",
-    "content": "nur chmedia Fake App Werbung",
-    "thumbs_up": 0,
-    "app_version": "2.0.21",
-    "reply": null
   },
   {
     "app_name": "yallo tv",
@@ -250931,7 +250945,7 @@
     "score": 1,
     "date": "2024-07-20 07:04:09",
     "content": "Installata su una nuovissima tv Samsung ( tra l'altro della Sunrise con l'abbonamento Up home L ) . L'app fa veramente pena è lentissima a fare praticamente tutto . Navigare tra le opzione è deprimente ,indipendentemente di quello che si vuole fare ci mette ogni volta 5-10 secondi. Non è certo colpa della connessione internet visto che ho stabilmente oltre i 400Mb. È proprio l'app che fa pensa ....almeno quella sul Samsung (ricordo tv di Sunrise stessa)",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "5.10.9254",
     "reply": null
   },
@@ -255175,6 +255189,20 @@
     "content": "Endlich eine App, dazu noch top!!",
     "thumbs_up": 0,
     "app_version": "1.0.9",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "fr",
+    "review_id": "e567d240-0517-465d-a259-e12f5286fb8d",
+    "user": "Nic",
+    "score": 5,
+    "date": "2026-10-23 15:42:16",
+    "content": "OK.",
+    "thumbs_up": 0,
+    "app_version": "1.0.59",
     "reply": null
   },
   {
@@ -261965,6 +261993,20 @@
     "content": "non ho mai avuto problemi con l'abbonamento del natel. ottimo abbonamento e a buon mercato! 👍",
     "thumbs_up": 0,
     "app_version": "1.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "quickline tv",
+    "provider": "quickline",
+    "app_id": "ch.quickline.tv",
+    "language": "de",
+    "review_id": "e3122f75-0163-46d1-9d0e-524ee622fd6c",
+    "user": "ADF 82",
+    "score": 5,
+    "date": "2026-10-23 18:57:27",
+    "content": "Mir fehlt seit jahren eine Android Fernbedienung app für die quickline Box",
+    "thumbs_up": 1,
+    "app_version": "3.2620.01",
     "reply": null
   },
   {
