@@ -4,6 +4,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "b84cccd3-7229-46d6-8c48-ea75a0866a20",
+    "user": "Max Speck",
+    "score": 5,
+    "date": "2026-10-25 14:50:15",
+    "content": "Sehr gut und einfache Einrichtung",
+    "thumbs_up": 0,
+    "app_version": "11.0.2",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "f7449be9-a430-4716-bbc4-8ba004f56bc5",
     "user": "Wohlwend Roland",
     "score": 5,
@@ -61861,7 +61875,7 @@
     "score": 1,
     "date": "2026-10-10 12:25:47",
     "content": "ich kann mich nicht mehr anmelden in der App. kommt nur ein schwarzer Bildschirm.",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "7.10.3",
     "reply": null
   },
@@ -122495,7 +122509,7 @@
     "score": 1,
     "date": "2026-06-08 20:38:16",
     "content": "L'application bug sans cesse. Quelques exemples : - vous mettez en pause pour écouter un vocal, vous finissez le vocale, votre émission se remet en route sans mouvement de notre part. - actuellement et c'est récent, dans enregistrement il y a la vision de toutes les émissions enregistrées mais aussi programmées pour l'enregistrement. Avant celles ci étaient uniquement dans programmées. - quand on met pause et qu'on attend trop longtemps avant de remettre en route, elle reprend du début etc...",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": null,
     "reply": "Bonjour Maya, merci pour ton message. Aucun dérangement n'est annoncé à ce sujet sur notre App blue TV. As-tu essayé de réinstaller l'application? N'hésite pas à contacter notre support pour vérifier la situation. https://www.swisscom.ch/fr/clients-prives/aide.html. Meilleures salutations, Yari Online Care Team"
   },
@@ -123671,7 +123685,7 @@
     "score": 1,
     "date": "2025-10-16 07:14:55",
     "content": "L'application fonctionne plus correctement depuis quelques semaines. Mises à jour, desinstallation n'aide pas non plus. Enregistrement impossible de voir. Veuillez réessayer plus tard......combien de jours faut-il attendre ?!? Live fonctionne miraculeusement. Le service technique m'a déjà informé qu'ils ont de gros problèmes avec les enregistrements même à la maison. A quand une amélioration ?? La qualité a bien baissé chez Swisscom mais pas le prix.",
-    "thumbs_up": 11,
+    "thumbs_up": 12,
     "app_version": "7.4.3",
     "reply": "Bonjour Sandra ! Merci de partager ton expérience. Nous cherchons en permanence à améliorer notre application. Nos techniciens travaillent à la résolution du problème, nous ne pouvons pas estimer la durée de cette intervention. Nous nous excusons pour les désagréments occasionnés. Meilleurs messages, Stéphanie Online Care Team"
   },
@@ -124959,7 +124973,7 @@
     "score": 1,
     "date": "2024-11-14 18:47:50",
     "content": "Application pleine de défauts aussi bien sur TV que sur smartphone Android. Le son est coupé lorsqu'on utilise un ensemble audio externe branché sur la fibre optique. Le son est ensuite coupé pour toutes les autres apps et il faut redémarrer la TV... Impossible de caster un match de foot sur une TV Android, le flux n'est pas stoppé sur le smartphone... Problèmes remontés il y a plusieurs mois, rien n'a été fait. J'ai résilié Blue Sports, beaucoup trop cher pour un service lamentable!",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "6.4.2",
     "reply": "Hello clodbe ! Merci de partager ton expérience. Nous sommes navrés d'apprendre les perturbations que tu rencontres avec notre application. Afin de te venir en aide et analyser la situation, nous t'invitons à prendre contact auprès du département compétent ici : https://tinyurl.com/53shucpm Meilleurs messages, Stéphanie Online Care Team"
   },
@@ -139603,7 +139617,7 @@
     "score": 2,
     "date": "2018-10-06 15:04:45",
     "content": "L'application ne garde pas la connexion. Il faut sans arrêter réentrer les données de login. J'ai réinstallé selon indications de Swisscom. Mise à jour de l'application et... devinez... le problème a recommencé: je dois chaque fois me reloguer? Et comme d'habitude les jeunes ingénieurs sans expérience sont incapables de résoudre ça et bottent en touche. C'est juste incroyable qu'on paie pour si peu de compétences. Merci de trouver une solution",
-    "thumbs_up": 21,
+    "thumbs_up": 22,
     "app_version": "2.7.2",
     "reply": "Bonjour Joël, nous t'encourageons donc à contacter notre support technique car comme communiqué ci dessus, nous ne pouvons pas reproduire le phénomène. Meilleures salutations, Swisscom"
   },
@@ -175635,7 +175649,7 @@
     "app_id": "ch.yallo.selfcare",
     "language": "fr",
     "review_id": "aaf2d2bc-4e18-43db-ac2e-0bb1b051d457",
-    "user": "Kreut Kreut (“Kreut”)",
+    "user": "Arnaud Creteur (“Kreut”)",
     "score": 5,
     "date": "2020-07-02 11:39:37",
     "content": "Aucun soucis en plus de 4 ans. Peut-être le réseau qui manque de présence à certains endroits",
@@ -179491,20 +179505,6 @@
     "content": "No vale nulla. È una sola copia della pagina web senza neanche un poter vedere i consumi. Passima",
     "thumbs_up": 4,
     "app_version": "1.0.0",
-    "reply": null
-  },
-  {
-    "app_name": "yallo tv",
-    "provider": "yallo",
-    "app_id": "com.smith.production",
-    "language": "de",
-    "review_id": "2576c82e-137c-4ddd-a147-a4b76589f4d8",
-    "user": "Erich Pfister",
-    "score": 1,
-    "date": "2026-10-16 21:15:07",
-    "content": "ist schon schlimm was sich Yallo erlaubt habe einen mini Led Tv von Samsung gekauft und die Yallo Tv App installiert und oh schreck sie stottert und das Bild steht alle 10 Sekunden kurz still bei Zattoo Blue TV kein Problem nur Yallo bringt es nicht fertig eine funktionierende App zu liefern",
-    "thumbs_up": 5,
-    "app_version": "2.0.23",
     "reply": null
   },
   {
@@ -187450,6 +187450,20 @@
     "provider": "sunrise",
     "app_id": "ch.sunrise.mein.konto",
     "language": "de",
+    "review_id": "ee88349c-a995-4ab4-b174-c27cbb913207",
+    "user": "Oliver Schaufelberger",
+    "score": 2,
+    "date": "2026-10-26 05:28:04",
+    "content": "App instabil, manuelle Aktualisierung der einzelnen Kategorien notwendig sonst keine korrekten Daten",
+    "thumbs_up": 0,
+    "app_version": "7.6.61",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
     "review_id": "1d15901b-5632-4e73-82ab-becaf59f404f",
     "user": "A",
     "score": 5,
@@ -195337,7 +195351,7 @@
     "score": 3,
     "date": "2023-08-21 12:22:11",
     "content": "Viele Optionen um Produkte und Rechnungen zu prüfen, was ich toll finde. Die Performance der App ist sehr instabil. Fast jedesmal erkennt die App den einmaligen Code nicht (alle Zahlen stimmen) und stürzt ab. Danach muss ich jedesmal das Passwort zurücksetzen. Das neue Passwort erkennt es dann auch nicht und ich muss den Prozess erneut durchführen. Allgemein erscheinen oft Fehlermeldungen, dass ein Prozess nicht geklappt hat.",
-    "thumbs_up": 52,
+    "thumbs_up": 53,
     "app_version": "7.6.1",
     "reply": "Vielen Dank für Ihr Feedback. Es tut uns leid, dass Sie Probleme hatten, sich einzuloggen. Haben Sie bereits versucht, die App zu löschen und erneut herunterzuladen? Ansonsten würden wir uns freuen, wenn es die Möglichkeit gäbe, Screenshots über die Sunrise Community hochzuladen. Mit freundlichen Grüßen, Sunrise App Support"
   },
@@ -204229,20 +204243,6 @@
     "content": "Super App, kein Vergleich zu \"alten Version\". Stabil, ladet schnell etc. Nur ein kleiner Kritikpunkt: Jedes mal Login, keine Funktion die zumindest die Telefonnummer speichert.",
     "thumbs_up": 0,
     "app_version": "5.0.0",
-    "reply": null
-  },
-  {
-    "app_name": "mysunrise",
-    "provider": "sunrise",
-    "app_id": "ch.sunrise.mein.konto",
-    "language": "de",
-    "review_id": "fce8cfe8-98cd-4d5c-9dc9-4015b85d6c75",
-    "user": "Ein Google-Nutzer",
-    "score": 1,
-    "date": "2019-07-30 05:44:06",
-    "content": "App verlangt die ganze Zeit mein Fingerabdrück und ich kann mich nicht einloggen😡😡",
-    "thumbs_up": 1,
-    "app_version": null,
     "reply": null
   },
   {
@@ -255231,7 +255231,7 @@
     "content": "OK.",
     "thumbs_up": 0,
     "app_version": "1.0.59",
-    "reply": null
+    "reply": "Dear Nic, thank you very much for your rating and for using MySalt. We are delighted that you are satisfied with the app. Should you have any suggestions or questions, please do not hesitate to contact us. Kind regards, The Salt Team"
   },
   {
     "app_name": "salt",
@@ -259935,7 +259935,7 @@
     "content": "je n'arrive pas à mettre la téléje n'arrive pas à mettre sol TV sur ma télé",
     "thumbs_up": 0,
     "app_version": "2.2612.0",
-    "reply": null
+    "reply": "Bonjour, nous sommes désolés que vous rencontriez des difficultés pour installer Salt TV sur votre téléviseur. Notre équipe se tient à votre disposition pour vous aider. N'hésitez pas à nous envoyer un e-mail à socialmedia@salt.ch, et nous allons vérifier. Cordialement. Votre équipe Salt"
   },
   {
     "app_name": "salt tv",
@@ -261629,6 +261629,20 @@
     "content": "Can't login with my credentials",
     "thumbs_up": 4,
     "app_version": "2.15.1",
+    "reply": null
+  },
+  {
+    "app_name": "coop mobile",
+    "provider": "coop mobile",
+    "app_id": "com.swisscom.coopmobile",
+    "language": "de",
+    "review_id": "4a64fbcb-c08c-4c51-9d42-5e128da10634",
+    "user": "Barbara Dätwyler",
+    "score": 5,
+    "date": "2026-10-26 09:30:41",
+    "content": "Bin zufrieden",
+    "thumbs_up": 0,
+    "app_version": "1.4.3",
     "reply": null
   },
   {
