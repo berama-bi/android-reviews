@@ -4713,7 +4713,7 @@
     "score": 4,
     "date": "2026-04-28 18:06:28",
     "content": "vôtre appli est bien mais j'aimerais pouvoir gérer aussi mes appels depuis la Suisse vers l' étranger . Pouvoir mettre une limite si on dépasse les minutes inclus dans mon forfait ...",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "9.0.4",
     "reply": null
   },
@@ -45546,6 +45546,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "fr",
+    "review_id": "0d179ce1-da8a-44d4-9609-d9886ce80e1a",
+    "user": "Maurice Hautie",
+    "score": 1,
+    "date": "2026-10-28 08:57:49",
+    "content": "Lamentable Ils ont passé sur ipv4/ Ipv6 et ça a planté les routeurs ... panne 4 jours que j'ai du résoudre tout seul... Ils m'ont fait acheter un nouveau routeur pour rien, nouvelle carte sim pour rien... trajet... des heures au téléphone avec des personnes incompétentes.... C'est vrai grave ! Vous est super nullllll",
+    "thumbs_up": 0,
+    "app_version": "11.34.1",
+    "reply": "Bonjour Maurice Hautie, nous sommes navrés d'apprendre que tu as eu des perturbations avec ton accès Internet.\nSi tu souhaites que nous analysions la situation plus en détail, nous t'invitons à contacter notre département compétent ici : https://www.swisscom.ch/fr/clients-prives/aide/internet.html Meilleurs messages, Chantal Online Care team."
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "fr",
     "review_id": "a5e0aa6e-58f2-43f2-be73-b24807c77d58",
     "user": "Torog 666",
     "score": 1,
@@ -61681,6 +61695,20 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "b42dff68-e36d-4f8e-859a-c93742a39c68",
+    "user": "Ein Google-Nutzer",
+    "score": 4,
+    "date": "2026-10-27 19:13:49",
+    "content": "es ist ziemlich teuer",
+    "thumbs_up": 0,
+    "app_version": "7.11.0",
     "reply": null
   },
   {
@@ -122028,6 +122056,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "fr",
+    "review_id": "df7c240b-2e5a-42a5-bb24-ba9fa94998a5",
+    "user": "Jérome Rhone",
+    "score": 3,
+    "date": "2026-10-27 18:22:38",
+    "content": "Gros problème avec cette appli sur la tv, il est impossible d'accéder aux épisodes des séries enregistrées depuis plusieurs jours. Merci d'apporter rapidement un correctif.",
+    "thumbs_up": 0,
+    "app_version": "7.11.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
     "review_id": "100181ff-1ede-47f5-874e-84d7ad604925",
     "user": "Juliane Eggenschwiler",
     "score": 1,
@@ -138962,20 +139004,6 @@
     "thumbs_up": 1,
     "app_version": "3.0",
     "reply": "Bonjour Mad Ber, la prochaine mise à jour réglera passablement de soucis générés depuis la dernière en date. Essayez de télécharger à nouveau l'application car aucun dérangement n'a été signalé concernant les nouveaux téléchargements. Salutations, Swisscom"
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "fr",
-    "review_id": "ff00060b-f51d-4219-82a7-11582fd66ac7",
-    "user": "Un utilisateur de Google",
-    "score": 1,
-    "date": "2019-01-04 21:38:17",
-    "content": "vraiment pas contente de la mise à jour et de ses bueugue.",
-    "thumbs_up": 1,
-    "app_version": "2.7.2",
-    "reply": "Bonjour, une nouvelle mise à jour sera bientôt disponible pour stabiliser l'application. Merci pour votre patience et votre compréhension. Salutations, Swisscom"
   },
   {
     "app_name": "blue tv",
@@ -189779,7 +189807,7 @@
     "score": 5,
     "date": "2025-07-07 12:34:59",
     "content": "Die App war viel zu langsam. Außerdem funktionierten auf der Startseite die anderen Einstellungen wie Produkte, Rechnungen usw. gar nicht. Seit Langem gab es das Problem auch auf der Webseite. Wir konnten mit der App überhaupt nichts erledigen. Da war ich nicht der Einzige, der das Problem erwähnte. Früher lief es optimal, aber seit Langem war die App unbrauchbar. Endlich wurde das Softwareproblem gelöst und es funktioniert wieder. Danke für die schnelle Lösung.",
-    "thumbs_up": 13,
+    "thumbs_up": 14,
     "app_version": "7.6.26",
     "reply": "Vielen Dank für Ihr Feedback! Mit freundlichen Grüssen, Sunrise App Support"
   },
@@ -227378,6 +227406,20 @@
     "provider": "sunrise",
     "app_id": "com.lgi.upcch",
     "language": "de",
+    "review_id": "4a09662e-8147-457d-8cc3-a42484e216b4",
+    "user": "Roman Mathis",
+    "score": 4,
+    "date": "2026-10-27 21:36:51",
+    "content": "Tipp topp, soweit",
+    "thumbs_up": 0,
+    "app_version": "5.29.14911",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
     "review_id": "87bf5abe-17c4-4e3c-9c44-7aa1c589da12",
     "user": "T. D.",
     "score": 1,
@@ -252627,6 +252669,20 @@
     "content": "Non c'ė un palinsesto dei canali.  MySports su app per Android spesso non va, nonostante l'acquisto del ticket. Su smartphone o tablet si deve acquistare il ticket sul sito internet, mentre le partite si possono solo visualizzare sull'app.",
     "thumbs_up": 3,
     "app_version": "2.3.22 Prod",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "de",
+    "review_id": "bce56c8c-ba0f-43a1-97b5-4301748f459b",
+    "user": "Samed Bauta",
+    "score": 1,
+    "date": "2026-10-27 12:46:02",
+    "content": "Seit mehreren Wochen funktioniert NICHTS mehr, Konten werden nicht angezeigt und lassen sich nicht verknüpfen. Jedes Mal die gleiche generische Nachricht \"Fehler. Versuchen Sie es später\" Absolut unbrauchbar. Und so wie man es (leider) kennt, ist der Kundendienst auch nicht hilfreich. Schade!",
+    "thumbs_up": 0,
+    "app_version": null,
     "reply": null
   },
   {
