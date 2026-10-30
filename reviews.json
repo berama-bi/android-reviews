@@ -122691,7 +122691,7 @@
     "score": 5,
     "date": "2026-04-12 06:42:37",
     "content": "La mise à jour 7.8.1 a RÉSOLU ce problème 😀 \"7.6.1 Android 15 description des chaînes en mode télécommande jusqu'au numéro 20, il y a déjà un ticket ouvert, ce problème dure depuis plusieurs mois maintenant...\"",
-    "thumbs_up": 16,
+    "thumbs_up": 17,
     "app_version": "7.8.1",
     "reply": null
   },
@@ -149021,7 +149021,7 @@
     "app_id": "com.swisscom.tv2",
     "language": "it",
     "review_id": "05b6b00f-48bf-4214-9f39-17e087bc0251",
-    "user": "ANDY BETTOSINI “Andy”",
+    "user": "Alfio BE “Andy”",
     "score": 5,
     "date": "2024-07-11 12:30:52",
     "content": "Buona. Si potrebbe inserire nella base tv 9, la 27 e 34",
@@ -186909,7 +186909,7 @@
     "score": 1,
     "date": "2026-07-27 15:50:59",
     "content": "Nach Update auf 2.00.001 funktioniert App nicht mehr. Display bleibt dunkel und App reagiert nicht mehr.",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "2.00.001",
     "reply": null
   },
@@ -187485,6 +187485,34 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 0,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "1cc41f68-03a0-489f-acf5-2f0d99a9005e",
+    "user": "Luzia Manhart",
+    "score": 1,
+    "date": "2026-10-29 08:04:38",
+    "content": "schlechte Bearbeitung meiner Anliegen. Warte seit 3 Wochen",
+    "thumbs_up": 0,
+    "app_version": "7.6.61",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "045b73d0-73d6-42be-a5fd-9ccd3b954cb4",
+    "user": "Yahya Glab",
+    "score": 1,
+    "date": "2026-10-28 15:38:20",
+    "content": "40 CHF ist zuviel für este Manung",
+    "thumbs_up": 0,
+    "app_version": "7.6.61",
     "reply": null
   },
   {
@@ -250744,6 +250772,20 @@
     "provider": "sunrise",
     "app_id": "com.lgi.upcch",
     "language": "it",
+    "review_id": "6bfdda56-0187-4877-97cc-83797fdb862b",
+    "user": "Roberto Campa",
+    "score": 5,
+    "date": "2026-10-28 15:04:35",
+    "content": "comodo è ottimo",
+    "thumbs_up": 0,
+    "app_version": "5.29.14911",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "it",
     "review_id": "9f007639-7006-4ba6-8097-ae7b67a11d46",
     "user": "Giancarlo Tramacere",
     "score": 5,
@@ -251029,7 +251071,7 @@
     "score": 1,
     "date": "2024-07-20 07:04:09",
     "content": "Installata su una nuovissima tv Samsung ( tra l'altro della Sunrise con l'abbonamento Up home L ) . L'app fa veramente pena è lentissima a fare praticamente tutto . Navigare tra le opzione è deprimente ,indipendentemente di quello che si vuole fare ci mette ogni volta 5-10 secondi. Non è certo colpa della connessione internet visto che ho stabilmente oltre i 400Mb. È proprio l'app che fa pensa ....almeno quella sul Samsung (ricordo tv di Sunrise stessa)",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "5.10.9254",
     "reply": null
   },
@@ -252683,7 +252725,7 @@
     "content": "Seit mehreren Wochen funktioniert NICHTS mehr, Konten werden nicht angezeigt und lassen sich nicht verknüpfen. Jedes Mal die gleiche generische Nachricht \"Fehler. Versuchen Sie es später\" Absolut unbrauchbar. Und so wie man es (leider) kennt, ist der Kundendienst auch nicht hilfreich. Schade!",
     "thumbs_up": 0,
     "app_version": null,
-    "reply": null
+    "reply": "Hallo Samed, danke für dein Feedback und sorry, dass die Konten seit Wochen nicht angezeigt werden und sich nicht verknüpfen lassen. Das ist wirklich ärgerlich. Schreib uns bitte an mysalt@salt.ch, damit wir dir weiterhelfen können. Dein Salt Team"
   },
   {
     "app_name": "salt",
