@@ -4,6 +4,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "7c22774e-c5eb-44cf-92bf-7c684fbdacfc",
+    "user": "Yvonne Läderach",
+    "score": 1,
+    "date": "2026-10-29 20:33:16",
+    "content": "seit ich mit tv, wilan, Internet /tv box bei ihnen bin habe ich nur Probleme, mitten im Film innen fällt alles raus und ich komme nicht mehr rein. ? mühsam",
+    "thumbs_up": 0,
+    "app_version": "11.0.2",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "b84cccd3-7229-46d6-8c48-ea75a0866a20",
     "user": "Max Speck",
     "score": 5,
@@ -58056,6 +58070,20 @@
     "thumbs_up": 0,
     "app_version": "1.2.8",
     "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "it",
+    "review_id": "84f6f82f-2fef-40d6-86a5-83b3f955d3ef",
+    "user": "Patrick Haldi",
+    "score": 1,
+    "date": "2026-10-29 17:04:13",
+    "content": "Was soll das? Wenn man eine eSim installieren will, zeigt es einen QR-Code, den man fotografieren soll. Wie soll das gehen? Mit vier Spiegeln?!",
+    "thumbs_up": 0,
+    "app_version": "11.34.1",
+    "reply": "Hallo Patrick, vielen Dank für deinen Rückmeldung. Einen eSIM Wechsel kann in verschiedenen Arten erledigt werden, falls du weiterhin Probleme hast, kannst du dich gerne bei uns melden. https://shorturl.at/5Mymq Liebe Grüsse, Mirko Online Care Team"
   },
   {
     "app_name": "myswisscom",
