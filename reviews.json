@@ -4531,7 +4531,7 @@
     "score": 1,
     "date": "2026-09-02 14:16:20",
     "content": "impossible de se connecter, pas de système de signalisation de bug ou support",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.0.1",
     "reply": null
   },
@@ -5371,7 +5371,7 @@
     "score": 1,
     "date": "2025-04-23 16:03:24",
     "content": "Dommage, on ne peut pas faire grand chose. Aucun contrôle sur les données utilisées à l'étranger. J'ai mis 10 fr sur le compte, on n'en voit aucune trace. On est obligé de se connecter sur le compte pour voir où faire quelque chose. Merci de corriger ou de me dire où trouver ces infos sur l'appli. Bonne journée",
-    "thumbs_up": 4,
+    "thumbs_up": 5,
     "app_version": "7.63.1",
     "reply": null
   },
@@ -8703,7 +8703,7 @@
     "score": 2,
     "date": "2026-07-03 14:22:27",
     "content": "Dauernd Anmeldeschwierigkeiten \"es ist ein Fehler aufgetreten, versuchen Sie es später erneut\", (seit Tagen) man weiss nie so genau was einen erwartet.... Und die Hotline ist gegenüber der von Sunrise in jeder Hinsicht 10 Jahre hintendran. Und SAM (KI) bringt dich vollommen an den Rand der Verzweiflung.... Aber gut, man gibt sich Mühe Und dieses \"aktualisieren\", Handy neu starten\", \"App deinstallieren und wieder installieren\" bringt absolut gar nichts.",
-    "thumbs_up": 22,
+    "thumbs_up": 23,
     "app_version": "11.31.1",
     "reply": "Hallo SwizMuayThai, danke für deine Bewertung und deinen Kommentar. Es tut mir leid zu lesen, dass deine App zur Zeit nicht funktioniert. Wende dich bitte an einen Swisscom Shop oder an www.swisscom.ch/support. Wir würden uns freuen, dein Anliegen mit dir genau zu überprüfen. Liebe Grüsse Conny, Online Care Team"
   },
@@ -45677,7 +45677,7 @@
     "score": 1,
     "date": "2026-08-19 14:05:18",
     "content": "Système de connexion insupportable, pour me connecter à l'application, cela ouvre une seconde page sur internet et pour finir la connexion je dois confirmer dans l'application à laquelle je ne peux me connecter. Ensuite l'application me déconnecte chaque mois sans exception. La récupération par email ne fonctionne pas. De plus, il est impossible de se connecter avec son numéro de téléphone ou email uniquement avec l'identifiant.",
-    "thumbs_up": 8,
+    "thumbs_up": 9,
     "app_version": "11.32.1",
     "reply": "Bonjour Marco, merci pour ton message. La connexion fonctionne toujours sans problème ; tu peux modifier ton nom d’utilisateur dans l’application My Swisscom, sous Paramètres → Sécurité (Mobile ID ou 2FA). L’application est mise à jour régulièrement. Cordialement, Mirko, Online Care Team"
   },
@@ -49425,7 +49425,7 @@
     "app_id": "com.swisscom.myswisscom",
     "language": "fr",
     "review_id": "d43fd9d1-221f-46e0-9907-730f22e08f2f",
-    "user": "Jérémy Coendoz",
+    "user": "Un utilisateur de Google",
     "score": 1,
     "date": "2023-03-09 18:50:18",
     "content": "Horrible, il y a quelque temps l'application allait bien mais actuellement l'application ne s'ouvre plus et si elle daigne s'ouvrir, impossible d'accéder a l'onglet shop",
@@ -61723,6 +61723,20 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "109860b6-d4d0-4f57-bdcb-65701b37cddd",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-10-30 11:41:15",
+    "content": "Ich bin im Moment auf einer Kreuzfahrt um Afrika und möchte blue TV schauen, leider komme ich nicht rein",
+    "thumbs_up": 0,
+    "app_version": "7.11.0",
     "reply": null
   },
   {
@@ -122084,6 +122098,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "fr",
+    "review_id": "a5fd68e5-9d20-4246-9100-53d7768c09fa",
+    "user": "Swann Puig",
+    "score": 1,
+    "date": "2026-10-30 18:03:56",
+    "content": "Se fait déconnecter à chaque fois que le réseau passe du Wifi à la 5G. C'est très embêtant pour une app mobile. Ajout récent de pub sur les chaînes suisses lorsqu'on regarde en replay, y compris le 19h30. Interface plutôt agréable depuis les récentes mises à jour. Le rapport qualité/prix n'est pas bon pour ce service TV de Swisscom.",
+    "thumbs_up": 0,
+    "app_version": "7.11.1",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
     "review_id": "df7c240b-2e5a-42a5-bb24-ba9fa94998a5",
     "user": "Jérome Rhone",
     "score": 3,
@@ -140625,7 +140653,7 @@
     "score": 4,
     "date": "2017-09-13 21:33:54",
     "content": "Je trouve cool l'application dans son ensemble et bien opérationnelle, mis à part , l'utilisation de la télécommande mobile Air Tv, elle ne fonctionne pas toujours correctement!",
-    "thumbs_up": 2,
+    "thumbs_up": 1,
     "app_version": "2.6.0",
     "reply": "Bonjour Laurent, merci pour ce feedback positif. Nous améliorons l'application sans cesse et vous remercions pour votre compréhension. N'hésitez pas à nous contacter pour un support si vous en avez besoin. Salutations, Swisscom"
   },
@@ -140765,7 +140793,7 @@
     "score": 1,
     "date": "2017-08-31 17:57:16",
     "content": "Bien que client depuis plus de 40 ans pour téléphone et depuis plusieurs années pour internet et Tv. plus d'accès aux enregistrements et au replay sur mon ordi. Cela demontre bien où sont vos intérêts et surtout la mentalité manipulatrice et lucrative de Swisscom dans son ensemble. Déjà dans les années 80 un appel suisse Montréal 1.39 Fr/min Dans le sens inverse, a l'époque  39 centimes la minute. Cette entreprise vole depuis des années l'ensemble de ses clients en toute impunité.",
-    "thumbs_up": 24,
+    "thumbs_up": 23,
     "app_version": "2.6.0",
     "reply": "Bonjour, si vous êtes client Swisscom TV à la maison, vos enregistrements et le Replay sont toujours disponibles sur TV Air mais vous devez utiliser le Swisscom Login correct lié à votre raccordement Internet et TV. N'hésitez pas à demander du support si vous en avez besoin  http://bit.ly/2r8j5qd. Salutations, Swisscom"
   },
@@ -140849,7 +140877,7 @@
     "score": 3,
     "date": "2017-08-26 19:29:18",
     "content": "Bonjour je trouve l'idée très nulle de ne plus pouvoir enregistrer les émissions à partir du 1.9.2017 nous allons changer pour Zatoo car sur Zatoo nous pouvons enregistrer...",
-    "thumbs_up": 6,
+    "thumbs_up": 5,
     "app_version": "2.6.0",
     "reply": "Bonjour Meya, consultez sur notre site http://bit.ly/2bj2rIb les fonctions possibles selon votre abonnement. Meilleures salutations, Swisscom"
   },
@@ -141003,7 +141031,7 @@
     "score": 5,
     "date": "2017-07-29 13:59:31",
     "content": "Génial la nouvelle fonction pour visionner les films hors connection, je voyage régulièrement et c'est top. Bravo Swisscom",
-    "thumbs_up": 12,
+    "thumbs_up": 11,
     "app_version": "2.6.0",
     "reply": "Merci à vous 😄"
   },
@@ -158247,7 +158275,7 @@
     "app_id": "ch.yallo.selfcare",
     "language": "de",
     "review_id": "fc35589e-cd6a-4f80-b1ea-fd322cedf1b0",
-    "user": "U. B. (Ashisha)",
+    "user": "Ulrike Ashisha B. (Ashisha)",
     "score": 1,
     "date": "2023-10-15 07:22:22",
     "content": "App öffnet nicht mehr seit dem neuesten Update😫",
@@ -196653,7 +196681,7 @@
     "score": 5,
     "date": "2023-01-04 12:08:48",
     "content": "Die App ist ok. Es ist nur störend, dass man keine E-Mails mehr an Sunrise mailen kann. Beim telefonischen Kundendienst warten man eine Ewigkeit! (Ist in letzter Zeit, beim Abowechsel, sehr viel besser geworden. Danke.) Auch dass man eine Zahlungsauforderung per SMS bekommt, obwohl die Rechnung schon bezahlt ist, ist äusserst überflüssig. Ansonsten sehr nette Kundendienstmitarbeiter. Ich persönlich bin sehr, sehr Zufrieden mit Sunrise. Danke für alles und auf ein tolles Jahr 2023 mit Sunrise!😊",
-    "thumbs_up": 45,
+    "thumbs_up": 46,
     "app_version": "7.3.0",
     "reply": null
   },
@@ -202435,7 +202463,7 @@
     "score": 1,
     "date": "2020-07-07 23:04:02",
     "content": "Leider ist die App furchtbar unbrauchbar. Sie hängt sich ständig auf! Man kann Sie kaum nutzen (Auf verschiedenen Geräten! Auch gibt Sie teilweise an, eine Zahlung könne nicht getätigt werden, der Betrag wird dem Konto trotzdem abgezogen. Dummerweise denkt man so, man müsse die Zahlung wiederholen, was dazu führt, dass das Konto sich nach und nach entleert.",
-    "thumbs_up": 85,
+    "thumbs_up": 86,
     "app_version": "5.2.1",
     "reply": null
   },
