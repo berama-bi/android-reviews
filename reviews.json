@@ -4456,6 +4456,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "fr",
+    "review_id": "ff34df54-1aa8-4efb-a973-2e9e6939ce5f",
+    "user": "Claudio Nasuti",
+    "score": 5,
+    "date": "2026-11-08 20:14:54",
+    "content": "pour le moment tout fonctionne bien",
+    "thumbs_up": 0,
+    "app_version": "11.0.4",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "fr",
     "review_id": "ecad9e3e-4ef9-482e-b19d-786d05cbc3f8",
     "user": "j-c C",
     "score": 5,
@@ -4503,7 +4517,7 @@
     "score": 1,
     "date": "2026-10-11 05:39:18",
     "content": "De base pas si mal, mais se permet d'augmenter leur abonnement de manière unilatérale, en plus sur des abonnement soit disant à vie. Très difficile à les contacter (je n'ai pas WhatsApp ni les réseaux sociaux). C'est une abération de devoir les contacter via ces canaux ou de devoir payer leur appel. Une fois au téléphone on m'explique qu'ils augmentent comme ils veulent et que si on est pas content on a cas aller allieurs. Rien que pour changer on a des frais d'activation excessifs...service NUL",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.0.2",
     "reply": null
   },
@@ -4573,7 +4587,7 @@
     "score": 1,
     "date": "2026-09-02 14:16:20",
     "content": "impossible de se connecter, pas de système de signalisation de bug ou support",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "11.0.1",
     "reply": null
   },
@@ -4601,20 +4615,6 @@
     "score": 3,
     "date": "2026-08-08 21:25:10",
     "content": "À quoi elle sert ???, IL MANQUE LA CONSOMMATION ACTUELLE DU ROAMING !!!!!! 🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️👎👎👎👎",
-    "thumbs_up": 0,
-    "app_version": "11.0.0",
-    "reply": null
-  },
-  {
-    "app_name": "mywingo",
-    "provider": "wingo",
-    "app_id": "com.swisscom.mywingo",
-    "language": "fr",
-    "review_id": "e321cc52-32f7-4c4c-bf8e-bfc84273e3cb",
-    "user": "Maximilien Baumgartner",
-    "score": 1,
-    "date": "2026-08-08 20:42:18",
-    "content": "Je",
     "thumbs_up": 0,
     "app_version": "11.0.0",
     "reply": null
@@ -5343,7 +5343,7 @@
     "score": 1,
     "date": "2025-05-14 17:55:12",
     "content": "L'application passe, mais je suis mécontent, comme la majorité des clients, suite à l'augmentation de prix sur des abonnements à vie. Vous annoncez une hausse de 1 CHF soi-disant pour la 5G, alors que je la payais déjà via l’option 5G Full. Désormais, je n’en aurai probablement plus besoin, car le débit minimal me suffira. Avec la suppression de cette option, je bénéficierai d’un rabais de 4 CHF. Une bonne affaire pour moi, mais certainement pas pour vous.",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "7.63.1",
     "reply": null
   },
@@ -10635,7 +10635,7 @@
     "score": 1,
     "date": "2025-11-27 19:23:35",
     "content": "Guten Tag Mehrere Nutzer – mich eingeschlossen – haben das Problem, dass die Login-Funktion in der App nicht mehr funktioniert. Wie kann es sein, dass kommuniziert wird, es sei „nichts bekannt“, obwohl dieses Problem offensichtlich mehrere Kunden betrifft? Es wäre wünschenswert, wenn die IT-Abteilung diese Störung zeitnah prüft, anstatt die Kunden einfach abzufertigen. Bei den Preisen, die Sie verlangen, erwarte ich ehrlich gesagt etwas mehr Transparenz und Kundenorientierung.",
-    "thumbs_up": 112,
+    "thumbs_up": 113,
     "app_version": "11.25.3",
     "reply": "Hallo DieVisum HD, vielen Dank für deine Bewertung mit 1⭐. Es tut mir leid zu lesen, dass du mit unserer My Swisscom App nicht einloggen kannst. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dich unterstützen können. Liebe Grüsse Juan"
   },
@@ -45624,6 +45624,20 @@
     "thumbs_up": 2,
     "app_version": "1.2.8",
     "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "fr",
+    "review_id": "b8e9c33f-4164-4202-9ec7-7d5b6b0ee71b",
+    "user": "Olivier Fritschi",
+    "score": 1,
+    "date": "2026-11-09 09:23:35",
+    "content": "Pas de notification pour les nouveaux mails bien qu'elles soient activées. Pas pratique d'utilisation pour répondre à quelqu'un. Je préfère accéder à ma boîte mail par le navigateur, ça fonctionne mieux et c'est plus pratique. Concernant votre réponse, je vous réponds qu'avec \"Infomaniak mail\" je reçois toujours les notifications sans tout ce Tralala !!! Je pense que vous avez un potentiel d'amélioration à mettre en œuvre !!!",
+    "thumbs_up": 0,
+    "app_version": "11.35.0",
+    "reply": "Bonjour, cette plateforme est dédiée aux avis et ne permet pas de traiter les demandes d’assistance. Pour gérer tes e-mails, nous te conseillons d’utiliser une application de messagerie. Besoin d’aide ? Contacte-nous sur (https://www.swisscom.ch/support) ou rends-toi dans une Shop Swisscom. Cordialement, Mirko Online Care Team"
   },
   {
     "app_name": "myswisscom",
@@ -91543,20 +91557,6 @@
     "content": "Datenklau und korrupte Abzocke zu mehr ist Swisscom nicht mehr in der Lage, vorher hat es ausgezeichnet geklappt aber jetzt mit Bluewin TV geht nicht mal mehr das einloggen, lasst es gescheiter, kommt eh nur Müll raus und das sieht man jetzt!!!",
     "thumbs_up": 0,
     "app_version": "4.0.1",
-    "reply": null
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "de",
-    "review_id": "c816b881-829a-41ea-bd5d-3ea93eb66663",
-    "user": "Ein Google-Nutzer",
-    "score": 1,
-    "date": "2020-10-16 18:16:58",
-    "content": "Nicht mehr brauchbar. 🤬",
-    "thumbs_up": 0,
-    "app_version": "5.0.3",
     "reply": null
   },
   {
@@ -187203,7 +187203,7 @@
     "score": 5,
     "date": "2026-04-07 12:49:28",
     "content": "Ich bin sehr zufrieden. Die Anmeldung, die Telefonnummerübernahme alles hat bestens geklappt. Alles ist einfach und entspannt. Der Support ist Spitze kaum Wartezeiten, mega freundlich und Anliegen/Probleme werden umgehend gelöst. Herzlichen Dank Spusu Team.",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "2.00.000",
     "reply": null
   },
@@ -227714,6 +227714,34 @@
     "provider": "sunrise",
     "app_id": "com.lgi.upcch",
     "language": "de",
+    "review_id": "c3b0caa7-aee5-4486-a3e9-da5589917189",
+    "user": "Kriesi Pierre",
+    "score": 5,
+    "date": "2026-11-08 20:38:30",
+    "content": "👍",
+    "thumbs_up": 0,
+    "app_version": "5.30.15210",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
+    "review_id": "d95bb024-44a3-4e47-b712-b8e0293e3918",
+    "user": "A Cheops",
+    "score": 4,
+    "date": "2026-11-08 14:32:48",
+    "content": "Eigentlich alles top, ausser dass Aufnahmen nur 12 Monate gespeichert werden.",
+    "thumbs_up": 0,
+    "app_version": "5.30.15210",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
     "review_id": "4a09662e-8147-457d-8cc3-a42484e216b4",
     "user": "Roman Mathis",
     "score": 4,
@@ -260383,7 +260411,7 @@
     "content": "application vraiment limite... voir nul... ca serait bien que les développeurs l utilise pour s en rendre compte. le seul truc bien c est qu on reçoit une Apple TV et qu on peut utiliser des autres applications...",
     "thumbs_up": 2,
     "app_version": "2.2612.0",
-    "reply": null
+    "reply": "We're sorry to hear that the app hasn't met your expectations. We appreciate your honest feedback and understand that you'd like to see more features and improvements. We'll gladly pass your comments on to the responsible team.\n\nKind regards,\nNimrod"
   },
   {
     "app_name": "salt tv",
@@ -261783,7 +261811,7 @@
     "content": "pessima. non funziona da mesi",
     "thumbs_up": 0,
     "app_version": "2.2612.0",
-    "reply": null
+    "reply": "We're sorry to hear that Salt TV hasn't been working properly for months. Please contact us at 0800 780 500 so our team can look into the issue and help you find a solution.\n\nKind regards,\nNimrod"
   },
   {
     "app_name": "salt tv",
