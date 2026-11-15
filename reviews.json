@@ -4,6 +4,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "fd1f2087-f82f-4fc3-a125-756a07467fa0",
+    "user": "tom furios",
+    "score": 5,
+    "date": "2026-11-14 09:59:26",
+    "content": "gut schnell und übersichtlich...nicht wie die lahme, unübersichtliche und aus meinen augen schlecht programmierte sunrise app..",
+    "thumbs_up": 0,
+    "app_version": "12.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "2af134db-a36a-4312-9333-3390ca5d34aa",
     "user": "E. M.",
     "score": 1,
@@ -4505,6 +4519,20 @@
     "content": "🔥",
     "thumbs_up": 0,
     "app_version": "1.1.34",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "fr",
+    "review_id": "5777782d-19d1-4749-884c-3a9b342efab4",
+    "user": "Gilles Pache",
+    "score": 5,
+    "date": "2026-11-13 13:58:50",
+    "content": "Impeccable !",
+    "thumbs_up": 0,
+    "app_version": "12.0.0",
     "reply": null
   },
   {
@@ -45728,6 +45756,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "fr",
+    "review_id": "f56421d3-677e-4381-a6dc-2c3844cdf048",
+    "user": "Alain Perrottet",
+    "score": 1,
+    "date": "2026-11-13 20:59:32",
+    "content": "il y a toujours des problèmes c'est pas agréable 😥",
+    "thumbs_up": 0,
+    "app_version": "11.34.1",
+    "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "fr",
     "review_id": "970e5ae0-e3f1-4579-b721-b8b386f24909",
     "user": "JOEL GILGEN",
     "score": 2,
@@ -61933,6 +61975,20 @@
     "content": "Meglio tardi che mai",
     "thumbs_up": 0,
     "app_version": "1.2.8",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
+    "review_id": "47002e48-4aa1-4624-a8ba-ca8c5a605769",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-11-13 14:16:07",
+    "content": "Die Konkurrenz ist für mich definitiv besser und PREISWERTER!",
+    "thumbs_up": 0,
+    "app_version": "7.12.0",
     "reply": null
   },
   {
@@ -253229,6 +253285,20 @@
     "content": "Non c'ė un palinsesto dei canali.  MySports su app per Android spesso non va, nonostante l'acquisto del ticket. Su smartphone o tablet si deve acquistare il ticket sul sito internet, mentre le partite si possono solo visualizzare sull'app.",
     "thumbs_up": 3,
     "app_version": "2.3.22 Prod",
+    "reply": null
+  },
+  {
+    "app_name": "salt",
+    "provider": "salt",
+    "app_id": "ch.salt.my",
+    "language": "de",
+    "review_id": "5f48608b-4f6d-40ca-bfae-ad02d609587b",
+    "user": "Maximilian Sacco",
+    "score": 1,
+    "date": "2026-11-14 00:46:29",
+    "content": "ich kann weder die blöde app öffnen da ich mich nicht einloggen kann und verliere alle 5Min meine Mobile Daten. wie schlecht seid ihr eigentlich!",
+    "thumbs_up": 0,
+    "app_version": "1.0.61",
     "reply": null
   },
   {
