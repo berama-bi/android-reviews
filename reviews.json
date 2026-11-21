@@ -8068,6 +8068,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
+    "review_id": "2ce6d88a-0983-48c9-a91e-1ffd1f918db4",
+    "user": "tomi bruni",
+    "score": 1,
+    "date": "2026-11-20 12:19:58",
+    "content": "Immer noch funktioniert es nicht mit Android 17!!!!! Spezialisten, das ist ja zum Lachen, sie haben keine Ahnung von der App! x mal geschrieben, keine Antwort, gar nicht kundenfreundlich, Kundenservice eine Katastrophe!! Nach wie vor keine Anmeldung möglich. !!! Immer mit der Meldung, keine Anmeldung möglich. versuchen sie es später wieder, Kundendienst hilft auch nicht weiter. Mann erhält nur eine billige Antwort, Webbrowser benützen.",
+    "thumbs_up": 36,
+    "app_version": "11.35.0",
+    "reply": "Hallo Tomi. Herzlichen Dank für deine Bewertung und dein Feedback. Es tut mir sehr leid zu lesen, dass du mit unsere App aktuell nicht zufrieden bist. Wir verbessern und optimieren diese laufend weiter. Sehr gerne werde ich dein Input intern weiterleiten. Ich wünsche dir ein schönes Wochenende. Liebe Grüsse Janine, Online Care Team."
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
     "review_id": "7b76bff8-d79a-4dc9-8cac-e69865717d2b",
     "user": "Werner M",
     "score": 5,
@@ -13841,7 +13855,7 @@
     "score": 1,
     "date": "2025-06-03 09:06:37",
     "content": "Hallo Liebe Swisscom, ich kann mich nicht mehr anmelden! Login funktioniert nicht und wird mit einer Fehlermeldung \"Versuchen Sie es später nochmals\" quittiert!! Die Abo Daten bzw Profildaten koennen so nicht angezeigt fehler. Da kommt leider ein Systemfehler. Da ist aktuell ein Problem. Koennen Sie das bitte fixen? So ist die App unbrauchbar und jaa liebe SC App x-mal de-installiert und installiert. Danke für eine schnelle Lösung.",
-    "thumbs_up": 54,
+    "thumbs_up": 55,
     "app_version": "11.22.1",
     "reply": "Hallo Roberto, vielen Dank für deine Bewertung und das Feedback. Es tut mir leid zu lesen, dass Probleme mit der App bestehen. Dieses Problem ist bei unseren Spezialisten bekannt und wird schnellstmöglich behoben. Bitte habe noch etwas Geduld und Verständnis. Wünsche dir einen wunderschönen Tag und sende liebe Grüsse, Dorothea Online Care Team 🌷"
   },
@@ -62043,7 +62057,7 @@
     "score": 1,
     "date": "2026-11-12 22:23:56",
     "content": "Kann mich nicht mehr anmelden - nur schwarzer Bildschirm. Neuinstallation hilft nicht.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.11.1",
     "reply": null
   },
@@ -62057,7 +62071,7 @@
     "score": 1,
     "date": "2026-11-12 22:03:17",
     "content": "Heute einen Stern zusätzlich abgezogen. Die Probleme vom Juli 2026 waren behoben, für kurze Zeit wieder Freude an der App gehabt. Seit diese Woche funktioniert die App garnicht mehr auf meinem Altagshandy, was ich seit 2 Jahren habe. Fehler: mein Handy unterstützt die App nicht, von heute auf Morgen?! Alle Updades und Aktualisierungen gemach. Auf dem viel älteren Handy geht es aber. Wäre schön, wenn die App einfach mal ohne Probleme laufen würde!!!",
-    "thumbs_up": 10,
+    "thumbs_up": 11,
     "app_version": "7.12.0",
     "reply": null
   },
@@ -62071,7 +62085,7 @@
     "score": 4,
     "date": "2026-11-08 01:51:36",
     "content": "Tip Top 👍🏻",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.11.1",
     "reply": null
   },
@@ -62099,7 +62113,7 @@
     "score": 1,
     "date": "2026-11-06 07:05:47",
     "content": "Kann mich nach Handywechsel nicht mehr anmelden. Nach Neu-Installation funktioniert es auch nicht. Es kommt nur ein schwarzer Fenster wenn ich mich mit meinem Swisscom Account anmelden möchte.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "6.3.1",
     "reply": null
   },
@@ -62113,7 +62127,7 @@
     "score": 1,
     "date": "2026-11-01 19:51:48",
     "content": "aufnahmen werden im suchfeld nicht mehr angezeigt. erst nach dem 3. oder 4. mal bei der suche erscheinen aufnahmen. wen ich matrix eingebe, werden die filme die auf VOD zum kaufen oder mieten angezeigt oder was im tv läuft, nicht aber was ich vor gewisser zeit aufgenommen habe. bitte umgehend reparieren!!",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.11.1",
     "reply": "Hallo damian, danke dir für das Feedback und die Bewertung. Wir werden die Rückmeldung an unsere Entwickler weitergeben. Falls du Fragen zu einzelnen Funktionen hast, sind wir auch gern persönlich für dich da. Du kannst uns über diverse Wege erreichen: https://www.swisscom.ch/de/privatkunden/hilfe/kontakt.html. Liebe Grüsse, Corin, Online Care Team"
   },
@@ -62337,7 +62351,7 @@
     "score": 1,
     "date": "2026-10-10 12:25:47",
     "content": "ich kann mich nicht mehr anmelden in der App. kommt nur ein schwarzer Bildschirm.",
-    "thumbs_up": 3,
+    "thumbs_up": 4,
     "app_version": "7.10.3",
     "reply": null
   },
@@ -122385,6 +122399,20 @@
     "content": "Super App",
     "thumbs_up": 0,
     "app_version": "1.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "fr",
+    "review_id": "44ed380b-02b1-49aa-a404-116602448e51",
+    "user": "cp Gruffa",
+    "score": 4,
+    "date": "2026-11-20 09:06:26",
+    "content": "super concept, parfois il faut rechercher le Password",
+    "thumbs_up": 0,
+    "app_version": "7.11.0",
     "reply": null
   },
   {
@@ -187884,6 +187912,20 @@
     "provider": "chmobile",
     "app_id": "com.chmobile.selfcareapp",
     "language": "de",
+    "review_id": "6e22ed48-4bd1-43cf-8406-8468765c6050",
+    "user": "Ralf Schwendener",
+    "score": 3,
+    "date": "2026-11-19 15:38:55",
+    "content": "recht gut",
+    "thumbs_up": 0,
+    "app_version": "5.5.0",
+    "reply": null
+  },
+  {
+    "app_name": "chmobile",
+    "provider": "chmobile",
+    "app_id": "com.chmobile.selfcareapp",
+    "language": "de",
     "review_id": "a183dcde-dd99-41a5-95ad-9f3e0ab1a02b",
     "user": "Flavio Campaner",
     "score": 4,
@@ -228050,6 +228092,20 @@
     "provider": "sunrise",
     "app_id": "com.lgi.upcch",
     "language": "de",
+    "review_id": "b8a7000f-9bc8-4e98-ab93-35845186129c",
+    "user": "heinz schumacher",
+    "score": 1,
+    "date": "2026-11-20 11:14:39",
+    "content": "immer wieder mal Probleme, was zu einem Neustart der app führt. dies mehrere male am Tag. nicht zu empfehlen!",
+    "thumbs_up": 0,
+    "app_version": "5.30.15210",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
     "review_id": "b74f1a7c-ce71-4e33-b225-9b005d8e1182",
     "user": "Oliver Volken",
     "score": 1,
@@ -260930,20 +260986,6 @@
     "thumbs_up": 0,
     "app_version": "2.2524.4",
     "reply": "Bonjour, grâce à l'option Smart TV, nos clients peuvent activer l'accès à d'autres grands écrans (Smart TVs compatibles) et utiliser Salt TV simultanément sur 5 grands écrans au maximum, sans devoir acheter un boîtier TV supplémentaire. De plus, ils bénéficient ainsi automatiquement de la fonction Replay. Cordialement, Sarah"
-  },
-  {
-    "app_name": "salt tv",
-    "provider": "salt",
-    "app_id": "salt.tv.play",
-    "language": "fr",
-    "review_id": "2bc7cfb2-6da9-4936-ba78-ec2062c4d47d",
-    "user": "rony H",
-    "score": 2,
-    "date": "2025-08-25 16:36:52",
-    "content": "impossible de l utiliser depuis cet apres midi. les rubrique n apparaisse plus sans rentrer dans le menu et em ressortir à chaque utilisations.",
-    "thumbs_up": 0,
-    "app_version": "2.2528.0",
-    "reply": "Bonjour Rony, veuillez contacter notre service d'assistance téléphonique au 0800 700 500 afin que nous puissions vous aider. Cordialement, Sarah"
   },
   {
     "app_name": "salt tv",
