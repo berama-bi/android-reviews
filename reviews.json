@@ -13883,7 +13883,7 @@
     "score": 1,
     "date": "2025-06-03 09:06:37",
     "content": "Hallo Liebe Swisscom, ich kann mich nicht mehr anmelden! Login funktioniert nicht und wird mit einer Fehlermeldung \"Versuchen Sie es später nochmals\" quittiert!! Die Abo Daten bzw Profildaten koennen so nicht angezeigt fehler. Da kommt leider ein Systemfehler. Da ist aktuell ein Problem. Koennen Sie das bitte fixen? So ist die App unbrauchbar und jaa liebe SC App x-mal de-installiert und installiert. Danke für eine schnelle Lösung.",
-    "thumbs_up": 55,
+    "thumbs_up": 56,
     "app_version": "11.22.1",
     "reply": "Hallo Roberto, vielen Dank für deine Bewertung und das Feedback. Es tut mir leid zu lesen, dass Probleme mit der App bestehen. Dieses Problem ist bei unseren Spezialisten bekannt und wird schnellstmöglich behoben. Bitte habe noch etwas Geduld und Verständnis. Wünsche dir einen wunderschönen Tag und sende liebe Grüsse, Dorothea Online Care Team 🌷"
   },
@@ -62024,12 +62024,26 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "de",
+    "review_id": "ce10df3a-da41-4a42-b147-1fb3bd467635",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-11-22 14:05:06",
+    "content": "Seit einigen Tagen erscheint auf meinem Samsung Galaxy S25 in der Swisscom blue TV App immer wieder folgende Fehlermeldung: «Leider unterstützt Ihr Gerät Swisscom blue TV nicht vollständig, da die Wiedergabe verschlüsselter Inhalte nicht unterstützt wird. Bitte stellen Sie sicher, dass das Betriebssystem Ihres Geräts auf dem neuesten Stand ist.» Selbstverständlich ist mein Smartphone auf dem neuesten Stand und diese Meldung verhindern den Gebrauch des aktiven Abos!",
+    "thumbs_up": 0,
+    "app_version": "7.12.3",
+    "reply": null
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
     "review_id": "af4daa52-7982-4222-b7d8-99ab3b0531d0",
     "user": "Ein Google-Nutzer",
     "score": 1,
     "date": "2026-11-18 17:58:47",
     "content": "seit kurzem heißt es bei meinem Samsung S25 ultra immer Leider unterstützt ihr Grät swisscom Blue tv nicht vollständig, da die wiedergabe Verschlüsselte Inhalte nicht unterstützt wird bitte stellen Sie sicher dass das Betriebssystem auf dem neusten Stand ist. Ich schaue schon immer. Ich bitte Sie um eine Rückmeldung danke",
-    "thumbs_up": 3,
+    "thumbs_up": 5,
     "app_version": "7.12.2",
     "reply": null
   },
@@ -186905,7 +186919,7 @@
     "app_id": "com.smith.production",
     "language": "fr",
     "review_id": "feb6d5bd-1d47-49ea-908d-9cfa06a1ab5d",
-    "user": "Fabien Tanner",
+    "user": "Fabien",
     "score": 1,
     "date": "2022-01-13 15:03:43",
     "content": "Vous ne répondez pas à mon problème. Il est impossible de quitter votre application sur nvidia shield tv, qui est une box Android. Votre box est inutile vu que l'application existe. Je ne souhaite pas utiliser votre box, simplement avoir un moyen simple de quitter l'application depuis ma box existante.",
@@ -187763,7 +187777,7 @@
     "score": 2,
     "date": "2025-05-18 07:06:45",
     "content": "spusu Angebote = 5Sterne Wert, AABER APP hat KEINE 2wege Authentifizierung! TelNummer, Adresse, ID, alles ist voll zugänglich.... das geht m.E. heutzutage gar nicht. Und ist doch kein Ding für App-Entwickler!? Oder habe ich in den AGB zugestimmt, das meine Daten gratis überall bereitgestellt gestellt werden, wer sie abziehen kann!?",
-    "thumbs_up": 10,
+    "thumbs_up": 11,
     "app_version": "1.00.001",
     "reply": null
   },
@@ -228125,7 +228139,7 @@
     "score": 1,
     "date": "2026-11-20 11:14:39",
     "content": "immer wieder mal Probleme, was zu einem Neustart der app führt. dies mehrere male am Tag. nicht zu empfehlen!",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "5.30.15210",
     "reply": null
   },
@@ -228153,7 +228167,7 @@
     "score": 1,
     "date": "2026-11-11 09:02:11",
     "content": "Seit einem Update ca. im August 26 ist die App auf meinem TV unbrauchbar geworden. Die Timeline kann nicht mehr verschoben werden, die Pfeiltasten funktionieren nicht mehr richtig - vorher hat alles noch funktioniert. Eine tolle verschlimmbesserung. Offenbar hat niemand die App nach den Anpassungen ausprobiert, und die Lösung des Problems wird als fakultativ angesehen. Sunrise, wir bezahlen euch für diese Dienstleistung!",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "5.07.8308",
     "reply": null
   },
@@ -263036,6 +263050,20 @@
     "provider": "quickline",
     "app_id": "ch.quickline.tv",
     "language": "de",
+    "review_id": "e9664844-f22c-49f0-b6db-f9e372cc85f0",
+    "user": "Stefan Grogg",
+    "score": 3,
+    "date": "2026-11-22 06:59:10",
+    "content": "Streamen auf Android TV geht nicht mehr.",
+    "thumbs_up": 0,
+    "app_version": "3.2621.01",
+    "reply": "Danke für Ihr Feedback. Bitte entschuldigen Sie uns für die Unannehmlichkeiten. Wir haben das Problem erkannt und werden sobald wie möglich eine neue App-Version ausrollen. Beste Grüsse, Quickline"
+  },
+  {
+    "app_name": "quickline tv",
+    "provider": "quickline",
+    "app_id": "ch.quickline.tv",
+    "language": "de",
     "review_id": "f210877a-a3aa-4fda-a040-5cd5d120b0b2",
     "user": "Daniel Schaltegger",
     "score": 4,
@@ -263043,7 +263071,7 @@
     "content": "Seit dem letzten Update ist es leider nicht mehr möglich, auf einen TV mit Chromecast zu streamen. Berechtigungen der App können auch nicht angepasst werden.",
     "thumbs_up": 0,
     "app_version": "3.2621.01",
-    "reply": null
+    "reply": "Danke für Ihr Feedback. Bitte entschuldigen Sie uns für die Unannehmlichkeiten. Wir haben das Problem erkannt und werden sobald wie möglich eine neue App-Version ausrollen. Beste Grüsse, Quickline"
   },
   {
     "app_name": "quickline tv",
