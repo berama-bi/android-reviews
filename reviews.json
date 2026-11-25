@@ -4,6 +4,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.mywingo",
     "language": "de",
+    "review_id": "63fe64fd-2db0-4fbd-9ee1-65d390b3bdbd",
+    "user": "Marianne Frei",
+    "score": 2,
+    "date": "2026-11-24 10:44:17",
+    "content": "Ich finde \" Meine Produkt nicht.",
+    "thumbs_up": 0,
+    "app_version": "12.0.0",
+    "reply": null
+  },
+  {
+    "app_name": "mywingo",
+    "provider": "wingo",
+    "app_id": "com.swisscom.mywingo",
+    "language": "de",
     "review_id": "bbe287b4-4d9e-474f-9461-c46dddca75b0",
     "user": "Andy Kehrli",
     "score": 5,
@@ -375,20 +389,6 @@
     "content": "aktualisert nicht automatisch beim playstore",
     "thumbs_up": 0,
     "app_version": "11.0.1",
-    "reply": null
-  },
-  {
-    "app_name": "mywingo",
-    "provider": "wingo",
-    "app_id": "com.swisscom.mywingo",
-    "language": "de",
-    "review_id": "df129546-a9d2-4561-a4c2-9c095a438c75",
-    "user": "Mitja",
-    "score": 4,
-    "date": "2026-08-18 14:28:11",
-    "content": "Übersichtliche und einfach zu bedienende App. Rechnungen und Verbrauch, sowie Verwaltung aus einer Hand.",
-    "thumbs_up": 1,
-    "app_version": "11.0.0",
     "reply": null
   },
   {
@@ -8227,7 +8227,7 @@
     "score": 1,
     "date": "2026-10-11 23:22:46",
     "content": "Wenn Ihr weiterhin Eure Rechnungen bezahlt bekommen wollt, dann sorgt dafür, dass man nicht jedes Mal erst die App aktualisieren und sich dann erneut anmelden muss. Es nervt, wirklich!",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "11.34.1",
     "reply": "Hallo, danke für deine Bewertung und dein Feedback. Wir verstehen, dass die häufigen Updates und erneuten Anmeldungen mühsam sind. Wir geben deine Rückmeldung gerne intern weiter. LG, Corin vom Online Care Team 💙"
   },
@@ -17743,7 +17743,7 @@
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
     "review_id": "bb40bb96-863e-4bd0-9538-a604534e5802",
-    "user": "Pen Barista Swiss",
+    "user": "Pen Barista Swiss Mastership",
     "score": 5,
     "date": "2023-04-27 06:47:04",
     "content": "Wunderbar",
@@ -62024,12 +62024,26 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.tv2",
     "language": "de",
+    "review_id": "567e6f26-78c4-47a3-8113-a4cdf6466c69",
+    "user": "Ein Google-Nutzer",
+    "score": 1,
+    "date": "2026-11-23 22:34:28",
+    "content": "Die App funktioniert leider nicht mehr! verweist ständig darauf auf dem Handy das neueste Update zu machen, Handy ist auf dem neuesten Stand, App funktioniert trotzdem nicht! Sehr enttäuschend wenn man bedenkt was die Abos von Swisscom kosten!!",
+    "thumbs_up": 0,
+    "app_version": "7.12.2",
+    "reply": "Was genau empfindest du als schlecht?"
+  },
+  {
+    "app_name": "blue tv",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.tv2",
+    "language": "de",
     "review_id": "ce10df3a-da41-4a42-b147-1fb3bd467635",
     "user": "Ein Google-Nutzer",
     "score": 1,
     "date": "2026-11-22 14:05:06",
     "content": "Seit einigen Tagen erscheint auf meinem Samsung Galaxy S25 in der Swisscom blue TV App immer wieder folgende Fehlermeldung: «Leider unterstützt Ihr Gerät Swisscom blue TV nicht vollständig, da die Wiedergabe verschlüsselter Inhalte nicht unterstützt wird. Bitte stellen Sie sicher, dass das Betriebssystem Ihres Geräts auf dem neuesten Stand ist.» Selbstverständlich ist mein Smartphone auf dem neuesten Stand und diese Meldung verhindern den Gebrauch des aktiven Abos!",
-    "thumbs_up": 1,
+    "thumbs_up": 2,
     "app_version": "7.12.3",
     "reply": null
   },
@@ -62043,7 +62057,7 @@
     "score": 1,
     "date": "2026-11-18 17:58:47",
     "content": "seit kurzem heißt es bei meinem Samsung S25 ultra immer Leider unterstützt ihr Grät swisscom Blue tv nicht vollständig, da die wiedergabe Verschlüsselte Inhalte nicht unterstützt wird bitte stellen Sie sicher dass das Betriebssystem auf dem neusten Stand ist. Ich schaue schon immer. Ich bitte Sie um eine Rückmeldung danke",
-    "thumbs_up": 6,
+    "thumbs_up": 7,
     "app_version": "7.12.2",
     "reply": null
   },
@@ -62057,7 +62071,7 @@
     "score": 1,
     "date": "2026-11-17 14:50:11",
     "content": "Seit längerer Zeit kann ich bestimmte Sender (u. a. RTL, Sat.1, ProSieben) nicht abspielen. Nach kurzem schwarzem Bildschirm erscheint: „Die Wiedergabe verschlüsselter Inhalte wird nicht unterstützt.“ Bereits getestet: App-/Cache-Löschung, Neuinstallation, Android-Update, Widevine L1, Chrome/DRM, WLAN & 5G. SRF/ORF funktionieren. Gerät: Samsung SM-S936B, Android 17, Blue TV 7.12.2. Bitte technische Prüfung: DRM-/Lizenzproblem oder bekannte Inkompatibilität?",
-    "thumbs_up": 7,
+    "thumbs_up": 8,
     "app_version": "7.12.2",
     "reply": "Hallo Monica, vielen Dank für deine Bewertung mit 3⭐. Es tut mir leid zu lesen, dass du mit unserer blue TV App aktuell nicht zufrieden bist. Melde dich, wenn du möchtest, bei uns unter http://www.swisscom.ch/kontakt damit wir dem genauer nachgehen können. Liebe Grüsse Juan Online Care Team"
   },
@@ -67898,20 +67912,6 @@
     "thumbs_up": 23,
     "app_version": "6.5.2",
     "reply": "Hallo D.A., danke für die Bewertung und das Feedback.\n\nDas ist ein Fehler in der App und wir arbeiten an der Behebung. Für die Unannehmlichkeiten möchten wir uns entschuldigen.\n\nLiebe Grüsse, Federica\nOnline Care Team"
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "de",
-    "review_id": "a2400b0f-b2e2-4c7c-ab64-9cea64e9b721",
-    "user": "Ein Google-Nutzer",
-    "score": 5,
-    "date": "2024-11-27 21:40:51",
-    "content": "läuft",
-    "thumbs_up": 0,
-    "app_version": "6.5.2",
-    "reply": "Hallo R St, danke für die Bewertung und dass du uns 5 ⭐ vergeben hast. Das freut uns sehr!\nLiebe Grüsse, Federica\nOnline Care Team"
   },
   {
     "app_name": "blue tv",
@@ -122439,7 +122439,7 @@
     "score": 2,
     "date": "2026-11-22 18:02:54",
     "content": "depuis la dernière mise à jour, impossible de se connecter sans être à la maison, est-ce normal ?",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.11.1",
     "reply": null
   },
@@ -122495,7 +122495,7 @@
     "score": 1,
     "date": "2026-11-10 08:27:03",
     "content": "la page pour se connecter ne charge pas. Je ne peux pas inscrire mon adresse mail et mon mot de passe depuis 1 semaine...",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.11.1",
     "reply": null
   },
@@ -122509,7 +122509,7 @@
     "score": 2,
     "date": "2026-11-10 07:36:47",
     "content": "franchement sa pourrait être mieux et plus simple mare d'avoir un menu décalé enregistrements de mauvaise séries alors que sa porte le bon nom vue le prix on peu faire mieux",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.12.0",
     "reply": null
   },
@@ -228169,6 +228169,20 @@
     "content": "App molto utile",
     "thumbs_up": 0,
     "app_version": "1.0.1.15742",
+    "reply": null
+  },
+  {
+    "app_name": "sunrise tv",
+    "provider": "sunrise",
+    "app_id": "com.lgi.upcch",
+    "language": "de",
+    "review_id": "a33545be-6938-4e3c-b4d0-8ab1c1cf9823",
+    "user": "Eywa Pandora",
+    "score": 5,
+    "date": "2026-11-23 17:26:31",
+    "content": "Ich finde es einfach toll, immer und überall meine Lieblingssendungen sehen zu können.",
+    "thumbs_up": 0,
+    "app_version": "5.30.15210",
     "reply": null
   },
   {
