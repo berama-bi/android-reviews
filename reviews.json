@@ -8096,6 +8096,20 @@
     "provider": "swisscom",
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
+    "review_id": "ee0270d5-f9ef-44ab-812f-c96be05b5166",
+    "user": "Noël Ackermann",
+    "score": 1,
+    "date": "2026-11-25 05:28:22",
+    "content": "betrügerische kriminelle machenschaften",
+    "thumbs_up": 0,
+    "app_version": null,
+    "reply": null
+  },
+  {
+    "app_name": "myswisscom",
+    "provider": "swisscom",
+    "app_id": "com.swisscom.myswisscom",
+    "language": "de",
     "review_id": "2ce6d88a-0983-48c9-a91e-1ffd1f918db4",
     "user": "tomi bruni",
     "score": 1,
@@ -20312,20 +20326,6 @@
     "thumbs_up": 0,
     "app_version": "11.1.3",
     "reply": "Hallo Giuseppa, vielen lieben Dank für deine 5 Sterne und das tolle Feedback. Es freut mich sehr zu lesen, dass du mit unserer App zufrieden bist. Liebe Grüsse, Raphael Online Care Team"
-  },
-  {
-    "app_name": "myswisscom",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.myswisscom",
-    "language": "de",
-    "review_id": "25e86c37-b3c8-4f03-bf61-1f38da263971",
-    "user": "H.R. Jenny el tech ing Cov. Int.",
-    "score": 5,
-    "date": "2022-06-21 09:19:05",
-    "content": "werbung ist halt nervig. verstehe jedoch die marketingstrategie gut",
-    "thumbs_up": 0,
-    "app_version": "11.1.3",
-    "reply": "Hallo Hansrudolf, vielen Dank für deine 5 Sterne und deine Rückmeldung. Es freut mich sehr, dass dir dir APP so gut gefällt. Liebe Grüsse, Mirko Online Care Team"
   },
   {
     "app_name": "myswisscom",
@@ -172764,20 +172764,6 @@
     "provider": "yallo",
     "app_id": "ch.yallo.selfcare",
     "language": "fr",
-    "review_id": "fd9ba0bf-fd87-48c3-af5e-df458801f6cf",
-    "user": "francois cancalon",
-    "score": 1,
-    "date": "2023-07-04 08:59:54",
-    "content": "La dernière version ne fonctionne plus. Aucune réaction de Yallo. Impossible de se connecter pour payer. Quand on essaye d'installer une apk plus ancienne (317) celle-ci est refusée par Yallo... Ils chercheraient à faire fuir la clientèle ils ne s'y prendraient pas autrement. Problème résolu sans aucun support de Yallo: il faut désinstaller puis réinstaller l'appli. Bon, Yallo, on fait TON boulot: tu nous fais une remise ?",
-    "thumbs_up": 14,
-    "app_version": "3.2.1",
-    "reply": null
-  },
-  {
-    "app_name": "my yallo",
-    "provider": "yallo",
-    "app_id": "ch.yallo.selfcare",
-    "language": "fr",
     "review_id": "67306d42-c760-4871-8bfb-73e832bde4ef",
     "user": "Antoine Barraud",
     "score": 1,
@@ -188073,6 +188059,20 @@
     "content": "Die APP ist identisch mit der Browser-Version ... bietet keinen Mehrwert. Besonders schade + ärgerlich ist , dass sich die verbrauchten Daten im Roaming nicht kontrollieren und ablesen lassen !! ... war bei Yallo cleverer gelöst. Wie soll ich wissen, wann ich die inkludierten 5GB Intenet-Daten im Ausland aufgebraucht habe ??",
     "thumbs_up": 7,
     "app_version": "1.0.1",
+    "reply": null
+  },
+  {
+    "app_name": "chmobile",
+    "provider": "chmobile",
+    "app_id": "com.chmobile.selfcareapp",
+    "language": "fr",
+    "review_id": "3a8e803b-c553-4a8d-9e82-717736c3143f",
+    "user": "PA FD",
+    "score": 5,
+    "date": "2026-11-25 11:19:26",
+    "content": "fonctionne très bien et facile à utiliser.",
+    "thumbs_up": 0,
+    "app_version": "5.5.0",
     "reply": null
   },
   {
@@ -215541,6 +215541,20 @@
     "content": "Lol, warum steht in der Beschreibung, dass ich ein iPhone benötige? Copy Paste vom Appstore? ;-)",
     "thumbs_up": 0,
     "app_version": "1.0.1.15742",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "fr",
+    "review_id": "4bbc7635-3923-4e80-8867-f448cad27d18",
+    "user": "Cedric Bonga",
+    "score": 5,
+    "date": "2026-11-25 10:19:00",
+    "content": "top",
+    "thumbs_up": 0,
+    "app_version": "7.6.63",
     "reply": null
   },
   {
