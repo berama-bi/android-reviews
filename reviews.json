@@ -6304,6 +6304,20 @@
     "provider": "wingo",
     "app_id": "com.swisscom.tv2.wingo",
     "language": "de",
+    "review_id": "4f901f72-8f3e-4b3f-bbcf-e7dfd5171b04",
+    "user": "PETER",
+    "score": 3,
+    "date": "2026-11-27 07:47:36",
+    "content": "Replay mit Fehlermeldung...",
+    "thumbs_up": 0,
+    "app_version": "2.12.5",
+    "reply": null
+  },
+  {
+    "app_name": "wingo tv",
+    "provider": "wingo",
+    "app_id": "com.swisscom.tv2.wingo",
+    "language": "de",
     "review_id": "bf7f72f6-e3cb-49cc-97ce-9406b059cfd1",
     "user": "Rolf Sieber",
     "score": 3,
@@ -6505,7 +6519,7 @@
     "score": 5,
     "date": "2026-07-12 20:03:23",
     "content": "Ich finde die App sehr gut, sie ist einfach und übersichtlich zu bedienen.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "2.9.0",
     "reply": null
   },
@@ -8129,7 +8143,7 @@
     "score": 1,
     "date": "2026-11-20 12:19:58",
     "content": "Immer noch funktioniert es nicht mit Android 17!!!!! Spezialisten, das ist ja zum Lachen, sie haben keine Ahnung von der App! x mal geschrieben, keine Antwort, gar nicht kundenfreundlich, Kundenservice eine Katastrophe!! Nach wie vor keine Anmeldung möglich. !!! Immer mit der Meldung, keine Anmeldung möglich. versuchen sie es später wieder, Kundendienst hilft auch nicht weiter. Mann erhält nur eine billige Antwort, Webbrowser benützen.",
-    "thumbs_up": 37,
+    "thumbs_up": 38,
     "app_version": "11.35.0",
     "reply": "Hallo Tomi. Herzlichen Dank für deine Bewertung und dein Feedback. Es tut mir sehr leid zu lesen, dass du mit unsere App aktuell nicht zufrieden bist. Wir verbessern und optimieren diese laufend weiter. Sehr gerne werde ich dein Input intern weiterleiten. Ich wünsche dir ein schönes Wochenende. Liebe Grüsse Janine, Online Care Team."
   },
@@ -20347,7 +20361,7 @@
     "app_id": "com.swisscom.myswisscom",
     "language": "de",
     "review_id": "25e86c37-b3c8-4f03-bf61-1f38da263971",
-    "user": "Ein Google-Nutzer",
+    "user": "H.R. Jenny el tech ing Cov. Int.",
     "score": 5,
     "date": "2022-06-21 09:19:05",
     "content": "werbung ist halt nervig. verstehe jedoch die marketingstrategie gut",
@@ -31593,7 +31607,7 @@
     "score": 1,
     "date": "2017-02-03 18:22:47",
     "content": "Die App lässt sich auch bei mir nicht mehr öffnen nach der Aktualisierung. Das kann ja nicht individuell geregelt werden, wenn es vielen so geht. Vorher wars jahrelang kein Problem.",
-    "thumbs_up": 38,
+    "thumbs_up": 37,
     "app_version": "8.10.6",
     "reply": "Hallo Michael. Wie du bereits bestätigt hast, funktioniert die App seit der Aktualisierung der Android System WebView wieder. Vielen Dank für deine Hilfe!! Freundliche Grüsse, Swisscom"
   },
@@ -62057,7 +62071,7 @@
     "score": 1,
     "date": "2026-11-23 22:34:28",
     "content": "Die App funktioniert leider nicht mehr! verweist ständig darauf auf dem Handy das neueste Update zu machen, Handy ist auf dem neuesten Stand, App funktioniert trotzdem nicht! Sehr enttäuschend wenn man bedenkt was die Abos von Swisscom kosten!!",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "7.12.2",
     "reply": "Was genau empfindest du als schlecht?"
   },
@@ -62071,7 +62085,7 @@
     "score": 1,
     "date": "2026-11-22 14:05:06",
     "content": "Seit einigen Tagen erscheint auf meinem Samsung Galaxy S25 in der Swisscom blue TV App immer wieder folgende Fehlermeldung: «Leider unterstützt Ihr Gerät Swisscom blue TV nicht vollständig, da die Wiedergabe verschlüsselter Inhalte nicht unterstützt wird. Bitte stellen Sie sicher, dass das Betriebssystem Ihres Geräts auf dem neuesten Stand ist.» Selbstverständlich ist mein Smartphone auf dem neuesten Stand und diese Meldung verhindern den Gebrauch des aktiven Abos!",
-    "thumbs_up": 2,
+    "thumbs_up": 3,
     "app_version": "7.12.3",
     "reply": null
   },
@@ -62408,20 +62422,6 @@
     "date": "2026-10-14 08:54:44",
     "content": "Zur Zeit kann man lokal heruntergeladene Fìlme (Download auf Smartphone) ohne Internetverbindung nicht mehr anschauen. Somit ist die App z.B. im Flugzeug nutzlos. Warum testet ihr die App seit langem nicht richtig, bevor ihr sie an eure Kunden verteilt?",
     "thumbs_up": 0,
-    "app_version": "7.11.0",
-    "reply": null
-  },
-  {
-    "app_name": "blue tv",
-    "provider": "swisscom",
-    "app_id": "com.swisscom.tv2",
-    "language": "de",
-    "review_id": "10c3f3a5-5354-4bc6-8382-8b12781d5a6c",
-    "user": "Ein Google-Nutzer",
-    "score": 5,
-    "date": "2026-10-13 15:59:58",
-    "content": "update:die Probleme alle behoben mit dem Oktoberrelease! Probleme mit der app...1.seit kurzem,wenn ich auf home klicke kommt nicht mehr wie vorher das kleine bild in bild. 2.Einloggen über wifi nicht mehr möglich,kommt nur ein schwarzer Bildschirm wie auch andere beschrieben haben und swisscom meinte bei Anfrage es sei ein Problem bei mir. 3.Downloads von gewissen Sendern haben beim abspielen keinen Ton nur Bild. Trotz mehrmaliger Reklamation wurde Problem seit Mai nicht behoben...",
-    "thumbs_up": 3,
     "app_version": "7.11.0",
     "reply": null
   },
@@ -113339,7 +113339,7 @@
     "score": 1,
     "date": "2016-06-14 17:28:24",
     "content": "Bild ruckelt/stockt/buffert immer trotz 50 Mbit/s download. Sehr schlecht!!!",
-    "thumbs_up": 7,
+    "thumbs_up": 6,
     "app_version": "1.7.4",
     "reply": null
   },
@@ -152665,7 +152665,7 @@
     "score": 5,
     "date": "2020-09-24 08:05:47",
     "content": "Ho scoperto dov'era il problema della app \"bloccata\". Avendo attiva una connessione VPN viene considerata come connessione dall'estero, il che non è consentito per la TV. Tutto a posto quindi 👍",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "5.0",
     "reply": "Caro Nicola, grazie mille per il tuo feedback. Sono contento che tutta sia risolto. Cari saluti, Yari"
   },
@@ -188171,6 +188171,20 @@
     "content": "l'app in se non è utile, manca una panoramica dell'utilizzo dei dati. basta copiare l'app Yallo per avere un app completa. è pesante, impiega molto tempo per passare da una pagina a un'altra, è frustrante da far rallentare pure il telefono. modifiche da fare; aggiungere consumi, telefonate e dati. alleggerire l'app.",
     "thumbs_up": 1,
     "app_version": "5.2.0",
+    "reply": null
+  },
+  {
+    "app_name": "mysunrise",
+    "provider": "sunrise",
+    "app_id": "ch.sunrise.mein.konto",
+    "language": "de",
+    "review_id": "7fe5aeaf-6352-4cbb-b380-dadbf2fa11c1",
+    "user": "O T",
+    "score": 1,
+    "date": "2026-11-27 10:57:02",
+    "content": "Hier würde ich nicht nochmals einen Vertrag unterschreiben aus verschiedenen Gründen",
+    "thumbs_up": 0,
+    "app_version": "7.6.63",
     "reply": null
   },
   {
@@ -253773,7 +253787,7 @@
     "score": 5,
     "date": "2026-11-02 12:34:20",
     "content": "Bin seit Jahren mit Salt als Anbieter sehr zufrieden und auch diese App ist einfach, übersichtlich und somit für mich gut.",
-    "thumbs_up": 0,
+    "thumbs_up": 1,
     "app_version": "1.0.61",
     "reply": null
   },
@@ -262847,6 +262861,20 @@
     "content": "Can't login with my credentials",
     "thumbs_up": 4,
     "app_version": "2.15.1",
+    "reply": null
+  },
+  {
+    "app_name": "coop mobile",
+    "provider": "coop mobile",
+    "app_id": "com.swisscom.coopmobile",
+    "language": "de",
+    "review_id": "4a3a201a-b806-4d25-be2a-e448038df57a",
+    "user": "Tobias Gisi",
+    "score": 1,
+    "date": "2026-11-27 07:16:50",
+    "content": "Daten-Paket für Schweiz nur versteckt und muss über Umwege aktiviert werden??? alles andere wäre kundenfreundlich...",
+    "thumbs_up": 10,
+    "app_version": "1.4.3",
     "reply": null
   },
   {
